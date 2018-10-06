@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 1A.Risk Factors",
+        "Item 6.Exhibits"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/NFLX_0001065280_10Q_20180630_Item1A_excerpt.txt",
+    "section_n_characters": 235,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180718",
+    "sec_accepted_date": "20180718160721",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001065280",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/NFLX_0001065280_10Q_20180630_Item1A_metadata.json",
+    "company_description": "NFLX",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065280/000106528018000360/0001065280-18-000360.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180718",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "1294349 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065280/000106528018000360/0001065280-18-000360-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 1.5,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "NETFLIX INC (Filer)",
+    "section_end_time": "2018-09-30 04:15:16.361490"
+}

@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "ITEM 2 — MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "ITEM 3 — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/DVMT_0001571996_10Q_20180803_Item2_excerpt.txt",
+    "section_n_characters": 85858,
+    "section_name": "Item2",
+    "sec_changed_date": "20180911",
+    "sec_accepted_date": "20180911075109",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001571996",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/DVMT_0001571996_10Q_20180803_Item2_metadata.json",
+    "company_description": "DVMT",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1571996/000157199618000034/0001571996-18-000034.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180911",
+    "original_file_name": "file was not saved locally",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "3279020 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1571996/000157199618000034/0001571996-18-000034-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 3.1,
+    "sec_period_of_report": "20180803",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "Dell Technologies Inc (Filer)",
+    "section_end_time": "2018-09-30 04:16:00.311395"
+}

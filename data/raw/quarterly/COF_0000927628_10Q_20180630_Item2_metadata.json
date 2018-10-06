@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "PART I—FINANCIAL INFORMATION",
+        "Item 3. Quantitative and Qualitative Disclosures about Market Risk"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/COF_0000927628_10Q_20180630_Item2_excerpt.txt",
+    "section_n_characters": 265283,
+    "section_name": "Item2",
+    "sec_changed_date": "20180727",
+    "sec_accepted_date": "20180727164002",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0000927628",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/COF_0000927628_10Q_20180630_Item2_metadata.json",
+    "company_description": "COF",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/927628/000092762818000281/0000927628-18-000281.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180727",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "8744080 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/927628/000092762818000281/0000927628-18-000281-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 8.0,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "CAPITAL ONE FINANCIAL CORP (Filer)",
+    "section_end_time": "2018-09-30 04:17:27.466654"
+}

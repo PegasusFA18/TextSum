@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 56123,
+    "section_end_time": "2018-09-30 04:11:46.510861",
+    "sec_accepted_date": "20180222124645",
+    "document_type": "10K",
+    "original_file_size": "2678137 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/TWX_0001105705_10K_20171231_Item1A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "TWX",
+    "sec_changed_date": "20180222",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/TWX_0001105705_10K_20171231_Item1A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 4.5,
+    "document_group": "10-K",
+    "endpoints": [
+        "Item 1A. Risk Factors.   ",
+        " Item 2. Properties."
+    ],
+    "sec_company_name": "TIME WARNER INC. (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001105705",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1105705/000119312518053619/0001193125-18-053619-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180222",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1105705/000119312518053619/0001193125-18-053619.txt"
+}

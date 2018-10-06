@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 1A: Risk Factors in JPMorgan Chase’s 2017 Annual Report on Form 10-K for the year ended December 31, 2017.",
+        "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds."
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/JPM_0000019617_10Q_20180630_Item1A_excerpt.txt",
+    "section_n_characters": 200088,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180801",
+    "sec_accepted_date": "20180801164936",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0000019617",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/JPM_0000019617_10Q_20180630_Item1A_metadata.json",
+    "company_description": "JPM",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000151/0000019617-18-000151.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180801",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "12766780 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000151/0000019617-18-000151-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 12.7,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "section_end_time": "2018-09-30 04:16:41.751495"
+}

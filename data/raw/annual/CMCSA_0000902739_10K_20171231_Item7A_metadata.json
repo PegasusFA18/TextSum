@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 7328,
+    "section_end_time": "2018-09-30 04:12:07.013478",
+    "sec_accepted_date": "20180131163539",
+    "document_type": "10K",
+    "original_file_size": "4716068 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/CMCSA_0000902739_10K_20171231_Item7A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "CMCSA",
+    "sec_changed_date": "20180131",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/CMCSA_0000902739_10K_20171231_Item7A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 4.7,
+    "document_group": "10-K",
+    "endpoints": [
+        "Item 7A: Quantitative and Qualitative Disclosures About Market Risk",
+        "Item 8: Comcast Corporation Financial Statements and Supplementary Data"
+    ],
+    "sec_company_name": "NBCUniversal Media, LLC (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000902739",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item7A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1166691/000116669118000004/0001166691-18-000004-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180131",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1166691/000116669118000004/0001166691-18-000004.txt"
+}

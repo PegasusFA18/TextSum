@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 60045,
+    "section_end_time": "2018-09-30 04:11:55.834872",
+    "sec_accepted_date": "20171122170100",
+    "document_type": "10K",
+    "original_file_size": "3703016 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/DIS_0001001039_10K_20170930_Item1_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "DIS",
+    "sec_changed_date": "20171122",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/DIS_0001001039_10K_20170930_Item1_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20170930",
+    "time_elapsed": 3.4,
+    "document_group": "10-K",
+    "endpoints": [
+        "PART I",
+        "ITEM 1A. Risk Factors"
+    ],
+    "sec_company_name": "WALT DISNEY CO/ (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001001039",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1001039/000100103917000198/0001001039-17-000198-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20171122",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1001039/000100103917000198/0001001039-17-000198.txt"
+}

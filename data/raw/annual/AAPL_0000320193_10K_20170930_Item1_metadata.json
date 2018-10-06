@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 32730,
+    "section_end_time": "2018-09-30 04:11:15.101870",
+    "sec_accepted_date": "20171103080137",
+    "document_type": "10K",
+    "original_file_size": "2683612 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/AAPL_0000320193_10K_20170930_Item1_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "AAPL",
+    "sec_changed_date": "20171103",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/AAPL_0000320193_10K_20170930_Item1_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20170930",
+    "time_elapsed": 2.6,
+    "document_group": "10-K",
+    "endpoints": [
+        "PART I",
+        "Item 1A. Risk Factors"
+    ],
+    "sec_company_name": "APPLE INC (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000320193",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/320193/000032019317000070/0000320193-17-000070-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20171103",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/320193/000032019317000070/0000320193-17-000070.txt"
+}

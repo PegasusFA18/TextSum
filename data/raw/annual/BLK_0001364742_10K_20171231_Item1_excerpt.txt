@@ -1,0 +1,581 @@
+Part I  
+
+Item 1. Business  
+
+Overview  
+
+BlackRock, Inc. (together, with its subsidiaries, unless the context otherwise indicates, “BlackRock” or the “Company”) is a leading publicly traded investment management firm with $6.288 trillion of assets under management (“AUM”) at December 31, 2017. With approximately 13,900 employees in more than 30 countries who serve clients in over 100 countries across the globe, BlackRock provides a broad range of investment, risk management and technology services to institutional and retail clients worldwide.  
+
+Our diverse platform of alpha-seeking active, index and cash management investment strategies across asset classes enables the Company to tailor investment outcomes and asset allocation solutions for clients. We offer single- and multi-asset class portfolios investing in equities, fixed income, alternatives and money market instruments. Products are offered directly and through intermediaries in a variety of vehicles, including open-end and closed-end mutual funds, iShares® exchange-traded funds (“ETFs”), separate accounts, collective investment trusts and other pooled investment vehicles. BlackRock also offers the investment and risk management technology platform, Aladdin®, risk analytics, advisory and technology services and solutions to a broad base of institutional and wealth management clients. The Company is highly regulated and manages its clients’ assets as a fiduciary. We do not engage in proprietary trading activities that could conflict with the interests of our clients.  
+
+BlackRock serves a diverse mix of institutional and retail clients across the globe. Clients include tax-exempt institutions, such as defined benefit and defined contribution pension plans, charities, foundations and endowments; official institutions, such as central banks, sovereign wealth funds, supranationals and other government entities; taxable institutions, including insurance companies, financial institutions, corporations and third-party fund sponsors, and retail investors.  
+
+BlackRock maintains a significant global sales and marketing presence that is focused on establishing and maintaining retail and institutional investment management and technology service relationships by marketing its services to investors directly and through third-party distribution relationships, including financial professionals and pension consultants.  
+
+BlackRock is an independent, publicly traded company, with no single majority shareholder and over two-thirds of its Board of Directors consisting of independent directors. At December 31, 2017, The PNC Financial Services Group, Inc. (“PNC”) held 21.2% of BlackRock’s voting common stock and 21.7% of BlackRock’s capital stock, which includes outstanding common and nonvoting preferred stock.  
+
+Management seeks to deliver value for stockholders over time by, among other things, capitalizing on BlackRock’s differentiated competitive position, including: 
+
+•  
+
+the Company’s focus on strong performance providing alpha for active products and limited or no tracking error for index products;  
+
+•  
+
+the Company’s global reach and commitment to best practices around the world, with approximately 49% of employees outside the United States serving clients locally and supporting local investment capabilities. Approximately 40% of total AUM is managed for clients domiciled outside the United States;  
+
+•   
+
+the Company’s breadth of investment strategies, including market-cap weighted index, smart beta and factor-based, high conviction alpha and liquid and illiquid alternative product offerings, which enhance its ability to tailor single- and multi-asset investment solutions to address specific client needs;  
+
+•  
+
+the Company’s differentiated client relationships and fiduciary focus, which enable effective positioning toward changing client needs and macro trends including the secular shift to index investing and ETFs, a focus on income and retirement, and barbelling of risk using index and active products, including alternatives; and  
+
+•   
+
+the Company’s longstanding commitment to innovation, technology and risk management and the continued development of, and increased interest in, BlackRock technology products and solutions, including Aladdin, Aladdin Risk for Wealth Management, Cachematrix, and FutureAdvisor, as well as Scalable Capital and iCapital, in which BlackRock has made minority investments. 
+
+BlackRock operates in a global marketplace impacted by changing market dynamics and economic uncertainty, factors that can significantly affect earnings and stockholder returns in any given period.  
+
+The Company’s ability to increase revenue, earnings and stockholder value over time is predicated on its ability to generate new business, including business in Aladdin and other technology products and services. New business efforts depend on BlackRock’s ability to achieve clients’ investment objectives in a manner consistent with their risk preferences and to deliver excellent client service. All of these efforts require the commitment and contributions of BlackRock employees. Accordingly, the ability to attract, develop and retain talented professionals is critical to the Company’s long-term success.  
+
+1 
+
+Financial Highlights  
+
+ [DATA_TABLE_REMOVED] 
+
+ [DATA_TABLE_REMOVED] 
+
+N/A  
+
+— not applicable  
+
+(1)  
+
+Net of net income (loss) attributable to noncontrolling interests (“NCI”) (redeemable and nonredeemable).  
+
+(2)  
+
+BlackRock reports its financial results in accordance with accounting principles generally accepted in the United States (“GAAP”); however, management believes evaluating the Company’s ongoing operating results may be enhanced if investors have additional non-GAAP financial measures.  
+
+See “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations — Non-GAAP Financial Measures”, for further information on non-GAAP financial measures and for as adjusted items for 2017, 2016, and 2015.  
+
+In 2014, general and administration expense relating to the reduction of an indemnification asset has been excluded since it is directly offset by a tax benefit of the same amount and, consequently, did not impact BlackRock’s book value. In 2013, the Company made a charitable contribution of the Company’s investment in PennyMac Financial Services, Inc. (“PennyMac”) to a donor advised fund. The expense related to the charitable contribution was excluded from operating income, as adjusted, due to its nonrecurring nature and because the noncash, nonoperating pre-tax gain directly related to the contributed PennyMac investment was reported in nonoperating income (expense). In 2014 and 2013, the portion of compensation expense associated with certain long-term incentive plans (“LTIP”) funded, or to be funded, through share distributions to participants of BlackRock stock held by PNC has been excluded because it ultimately did not impact BlackRock’s book value. Compensation expense associated with appreciation (depreciation) on investments related to certain BlackRock deferred compensation plans has been excluded as returns on investments set aside for these plans, which substantially offset this expense, are reported in nonoperating income (expense).  
+
+(3)  
+
+Net income attributable to BlackRock, Inc., as adjusted, and diluted earnings per common share, as adjusted exclude the after-tax impact of the items referred to above and also include the effect on deferred income tax expense resulting from certain income tax matters.  
+
+(4)  
+
+Percentage represents compounded annual growth rate (“CAGR”) over a five-year period (2012-2017).  
+
+Assets Under Management  
+
+The Company’s AUM by product type for the years 2013 through 2017 is presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Percentage represents CAGR over a five-year period (2012-2017).  
+
+Component changes in AUM by product type for the five years ended December 31, 2017 are presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amounts include AUM acquired from Credit Suisse’s ETF franchise (“Credit Suisse ETF Transaction”) in July 2013 and MGPA in October 2013. Amounts also include AUM acquired in the acquisition of certain assets of BlackRock Kelso Capital Advisors LLC (“BKCA”) in March 2015, AUM acquired from Infraestructura Institucional and FutureAdvisor in October 2015, AUM acquired in the BofA® Global Capital Management transaction in April 2016, and AUM acquired in the acquisition of the equity  
+
+2 
+
+infrastructure franchise of First Reserve (“First Reserve Transaction”) in June 2017. In addition, amounts include other reclassifications to conform to current period combined AUM policy and presentation. 
+
+(2)  
+
+Percentage represents CAGR over a five-year period (2012-2017).  
+
+AUM represents the broad range of financial assets we manage for clients on a discretionary basis pursuant to investment management agreements that are expected to continue for at least 12 months. In general, reported AUM reflects the valuation methodology that corresponds to the basis used for determining revenue (for example, net asset value). Reported AUM does not include assets for which we provide risk management or other forms of nondiscretionary advice, or assets that we are retained to manage on a short-term, temporary basis.  
+
+Investment management fees are typically earned as a percentage of AUM. We also earn performance fees on certain portfolios relative to an agreed-upon benchmark or return hurdle. On some products, we also may earn securities lending revenue. In addition, BlackRock offers its proprietary Aladdin investment system as well as risk management, outsourcing, advisory and other technology services, to institutional investors and wealth management intermediaries. Revenue for these services may be based on several criteria including value of positions, number of users or accomplishment of specific deliverables.  
+
+At December 31, 2017, total AUM was $6.288 trillion, representing a CAGR of 11% over the last five years. AUM growth during the period was achieved through the combination of net market valuation gains, net inflows and acquisitions, including Credit Suisse and MGPA, which collectively added $26.9 billion of AUM in 2013, BKCA, Infraestructura Institucional and FutureAdvisor, which collectively added $2.2 billion of AUM in 2015, BofA Global Capital Management which added $80.6 billion of AUM in 2016 and First Reserve which added $3.3 billion of AUM in 2017. Our AUM mix encompasses a broadly diversified product range, as described below.  
+
+The Company considers the categorization of its AUM by client type, product type, investment style, and client region useful to understanding its business. The following discussion of the Company’s AUM will be organized as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+Client Type  
+
+BlackRock serves a diverse mix of institutional and retail clients across the globe, with a regionally focused business model. BlackRock leverages the benefits of scale across global investment, risk and technology platforms while at the same time using local distribution presence to deliver solutions for clients. Furthermore, our structure facilitates strong teamwork globally across both functions and regions in order to enhance our ability to leverage best practices to serve our clients and continue to develop our talent.   
+
+Clients include tax-exempt institutions, such as defined benefit and defined contribution pension plans, charities, foundations and endowments; official institutions, such as central banks, sovereign wealth funds, supranationals and other government entities; taxable institutions, including insurance companies, financial institutions, corporations and third-party fund sponsors, and retail investors. 
+
+iShares ETFs are a growing component of both institutional and retail client portfolios. However, as iShares ETFs are traded on exchanges, complete transparency on the ultimate end-client is unavailable. Therefore, iShares ETFs are presented as a separate client type below, with investments in iShares ETFs by institutions and retail clients excluded from figures and discussions in their respective sections.  
+
+AUM by investment style and client type at December 31, 2017 is presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+Retail  
+
+BlackRock serves retail investors globally through a wide array of vehicles across the investment spectrum, including separate accounts, open-end and closed-end funds, unit trusts and private investment funds. Retail investors are served principally through intermediaries, including broker-dealers, banks, trust companies, insurance companies and independent financial advisors. Technology solutions and digital distribution tools are increasing the number of financial advisors and end-retail clients using BlackRock products. Retail represented 11% of long-term AUM at December 31, 2017 and 32% of long-term base fees for 2017.  
+
+iShares ETFs have a significant retail component, but is shown separately below. With the exclusion of iShares ETFs, retail AUM is predominantly comprised of active mutual funds. Mutual funds totaled $519.4 billion, or 83%, of retail long-term AUM at year-end, with the remainder invested in private investment funds and separately managed accounts (“SMAs”). 89% of retail long-term AUM is invested in active products. 
+
+3 
+
+Component changes in retail long-term AUM for 2017 are presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+The retail client base is diversified geographically, with 68% of long-term AUM managed for investors based in the Americas, 26% in EMEA and 6% in Asia-Pacific at year-end 2017.  
+
+•   
+
+U.S. retail long-term net inflows of $13.7 billion were led by fixed income inflows of $13.1 billion. Fixed income net inflows were diversified across exposures and products, with strong flows into our municipal, unconstrained and total return bond offerings. Equity net inflows of $1.3 billion were driven by flows into our index mutual funds, and we continued to make progress on the repositioning of our active equity platform. Multi-asset net outflows of $0.9 billion were primarily due to outflows from world allocation strategies.  
+
+•  
+
+International retail long-term net inflows of $16.2 billion were positive across major regions and diversified across asset classes. Fixed income products generated net inflows of $11.4 billion, led by emerging markets debt, unconstrained and short duration strategies. Equity net inflows of $2.8 billion reflected strong flows into international equities. Multi-asset net inflows of $2.0 billion were driven by flows into the cross-border version of our Multi-Asset Income fund.  
+
+iShares ETFs 
+
+iShares is the leading ETF provider in the world, with $1.8 trillion of AUM at December 31, 2017 and was the top asset gatherer globally in 20171 with record net inflows of $245.3 billion resulting in an organic growth rate of 19%. Equity net inflows of $174.4 billion were driven by flows into Core funds and into products with U.S. and broad developed market equity exposures. Record fixed income net inflows of $67.5 billion were diversified across exposures and product lines, led by flows into Core, corporate and treasury bond funds. iShares ETF multi-asset and alternative funds contributed a combined $3.5 billion of net inflows, primarily into commodities funds. iShares ETFs represented 30% of long-term AUM at December 31, 2017 and 40% of long-term base fees for 2017.  
+
+Component changes in iShares ETFs AUM for 2017 are presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amounts include commodity iShares ETFs.  
+
+Our broad iShares ETF product range offers investors a precise, transparent and efficient way to gain exposure to a full range of asset classes and global markets that have been difficult for many investors to access, as well as the liquidity required to make adjustments to their exposures quickly and cost-efficiently.  
+
+•   
+
+U.S. iShares ETF AUM ended 2017 at $1.3 trillion with $201.3 billion of net inflows driven by strong demand for Core funds and U.S. and broad developed market equities as well as a diverse range of fixed income products.2  
+
+•  
+
+International iShares ETF AUM ended 2017 at $424.7 billion with net inflows of $44.1 billion led by equity net inflows of $29.0 billion, which reflected strong flows into our international Core funds in Canada and Europe.  
+
+Institutional  
+
+BlackRock serves institutional investors on six continents in sub-categories including: pensions, endowments and foundations, official institutions, and financial institutions; institutional AUM is diversified across product and region.  
+
+1Source: BlackRock; Bloomberg  
+
+2Regional iShares ETF amounts based on jurisdiction of product, not underlying client.  
+
+4 
+
+Component changes in institutional long-term AUM for 2017 are presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amount represents AUM acquired in the First Reserve Transaction. 
+
+Institutional active AUM ended 2017 at $1.1 trillion, reflecting $5.9 billion of net inflows. Institutional active represented 19% of long-term AUM and 18% of long-term base fees. Growth in AUM reflected continued strength in multi-asset products with net inflows of $19.6 billion reflecting ongoing demand for solutions offerings and the LifePath® target-date suite. Alternatives net inflows of $0.6 billion were led by inflows into infrastructure, hedge fund solutions and alternatives solutions offerings. Excluding return of capital and investment of $6.0 billion, alternatives net inflows were $6.6 billion. In addition, 2017 was another strong fundraising year for illiquid alternatives, and we raised approximately $11 billion in new commitments, which will be a source of future net inflows. Equity and fixed income net outflows were $13.6 billion and $0.7 billion, respectively.  
+
+Institutional index AUM totaled $2.3 trillion at December 31, 2017, reflecting net inflows of $49.1 billion. Fixed income net inflows of $87.5 billion were driven by demand for liability-driven investment solutions, particularly in Europe. Equity net outflows of $34.8 billion were primarily due to low-fee regional index equity outflows as clients looked to re-allocate, re-balance or meet their cash needs. Alternatives net outflows of $2.9 billion reflected outflows from passive currency overlays. Institutional index represented 40% of long-term AUM at December 31, 2017 and accounted for 10% of long-term base fees for 2017.  
+
+The Company’s institutional clients consist of the following:  
+
+•  
+
+Pensions, Foundations and Endowments. BlackRock is among the world’s largest managers of pension plan assets with $2.403 trillion, or 69%, of long-term institutional AUM managed for defined benefit, defined contribution and other pension plans for corporations, governments and unions at December 31, 2017. The market landscape continues to shift from defined benefit to defined contribution, driving strong flows in our defined contribution channel, which had $46.5 billion of long-term net inflows for the year, driven by continued demand for our LifePath target-date suite. Defined contribution represented $887.1 billion of total pension AUM, and we remain well positioned to capitalize on the on-going evolution of the defined contribution market and demand for outcome-oriented investments. An additional $76.4 billion, or 2%, of long-term institutional AUM was managed for other tax-exempt investors, including charities, foundations and endowments.  
+
+•   
+
+Official Institutions. BlackRock managed $195.3 billion, or 6%, of long-term institutional AUM for official institutions, including central banks, sovereign wealth funds, supranationals, multilateral entities and government ministries and agencies at year-end 2017. These clients often require specialized investment advice, the use of customized benchmarks and training support.  
+
+•  
+
+Financial and Other Institutions. BlackRock is a top independent manager of assets for insurance companies, which accounted for $274.3 billion, or 8%, of institutional long-term AUM at year-end 2017. Assets managed for other taxable institutions, including corporations, banks and third-party fund sponsors for which we provide sub-advisory services, totaled $506.9 billion, or 15%, of long-term institutional AUM at year-end.  
+
+5 
+
+Product Type and investment style 
+
+Component changes in AUM by product type and investment style for 2017 are presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amount represents AUM acquired in the First Reserve Transaction. 
+
+Long-term product offerings include alpha-seeking active and index strategies. Our alpha-seeking active strategies seek to earn attractive returns in excess of a market benchmark or performance hurdle while maintaining an appropriate risk profile, and leverage fundamental research and quantitative models to drive portfolio construction. In contrast, index strategies seek to closely track the returns of a corresponding index, generally by investing in substantially the same underlying securities within the index or in a subset of those securities selected to approximate a similar risk and return profile of the index. Index strategies include both our non-ETF index products and iShares ETFs.  
+
+Although many clients use both alpha-seeking active and index strategies, the application of these strategies may differ. For example, clients may use index products to gain exposure to a market or asset class, or may use a combination of index strategies to target active returns. In addition, institutional non-ETF index assignments tend to be very large (multi-billion dollars) and typically reflect low fee rates. Net flows in institutional index products generally have a small impact on BlackRock’s revenues and earnings.  
+
+Equity  
+
+Year-end 2017 equity AUM totaled $3.372 trillion, reflecting net inflows of $130.1 billion. Net inflows included $174.4 billion into iShares ETFs, driven by net inflows into Core funds and broad developed and emerging market equities, partially offset by non-ETF index and active net outflows of $25.7 billion and $18.5 billion, respectively. 
+
+BlackRock’s effective fee rates fluctuate due to changes in AUM mix. Approximately half of BlackRock’s equity AUM is tied to international markets, including emerging markets, which tend to have higher fee rates than U.S. equity strategies. Accordingly, fluctuations in international equity markets, which may not consistently move in tandem with U.S. markets, have a greater impact on BlackRock’s equity revenues and effective fee rate.  
+
+Fixed Income  
+
+Fixed income AUM ended 2017 at $1.855 trillion, reflecting net inflows of $178.8 billion. In 2017, active net inflows of $21.5 billion were diversified across fixed income offerings, and included strong inflows into municipal, unconstrained and total return bond funds. iShares ETFs net inflows of $67.5 billion were led by flows into Core, corporate and treasury bond funds. Non-ETF index net inflows of $89.8 billion were driven by demand for liability-driven investment solutions.  
+
+Multi-Asset  
+
+BlackRock’s multi-asset team manages a variety of balanced funds and bespoke mandates for a diversified client base that leverages our broad investment expertise in global equities, bonds, currencies and commodities, and our extensive risk management capabilities. Investment solutions might include a combination of long-only portfolios and alternative investments as well as tactical asset allocation overlays.  
+
+Component changes in multi-asset AUM for 2017 are presented below. 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+FutureAdvisor amounts do not include AUM held in iShares ETFs.  
+
+6 
+
+Multi-asset net inflows reflected ongoing institutional demand for our solutions-based advice with $18.9 billion of net inflows coming from institutional clients. Defined contribution plans of institutional clients remained a significant driver of flows, and contributed $20.8 billion to institutional multi-asset net inflows in 2017, primarily into target date and target risk product offerings. Retail net inflows of $1.1 billion reflected demand for our Multi-Asset Income fund family, which raised $5.8 billion in 2017.  
+
+The Company’s multi-asset strategies include the following:  
+
+•   
+
+Asset allocation and balanced products represented 41% of multi-asset AUM at year-end. These strategies combine equity, fixed income and alternative components for investors seeking a tailored solution relative to a specific benchmark and within a risk budget. In certain cases, these strategies seek to minimize downside risk through diversification, derivatives strategies and tactical asset allocation decisions. Flagship products in this category include our Global Allocation and Multi-Asset Income fund families.   
+
+ [DATA_TABLE_REMOVED] 
+
+•   
+
+Fiduciary management services are complex mandates in which pension plan sponsors or endowments and foundations retain BlackRock to assume responsibility for some or all aspects of investment management. These customized services require strong partnership with the clients’ investment staff and trustees in order to tailor investment strategies to meet client-specific risk budgets and return objectives.  
+
+•   
+
+FutureAdvisor is a digital wealth management platform, acquired by BlackRock in October 2015. FutureAdvisor provides financial institutions with technology-enabled investment advisory capabilities to manage their clients’ investments. As consumers increasingly engage with technology to invest, BlackRock and FutureAdvisor are positioned to empower distribution partners to better serve their clients by combining FutureAdvisor’s technology-enabled advice with BlackRock’s multi-asset investment capabilities, proprietary technology and risk analytics. FutureAdvisor AUM does not include underlying iShares ETF investments. 
+
+Alternatives  
+
+BlackRock alternatives focus on sourcing and managing high-alpha investments with lower correlation to public markets and developing a holistic approach to address client needs in alternatives investing. Our alternatives products fall into two main categories — 1) core alternatives, and 2) currency and commodities. Core includes liquid alternatives offerings in direct hedge funds and hedge fund solutions (funds of funds), as well as illiquid offerings in alternative solutions, private equity solutions (funds of funds), opportunistic private equity and credit, real estate and infrastructure. BlackRock alternatives products are described below.  
+
+In 2017, alternatives generated $1.0 billion of net inflows, or $7.8 billion excluding return of capital/investment of $6.8 billion. The largest contributors to return of capital were real estate and private equity solutions. Net inflows were driven by infrastructure, alternative solutions and hedge fund solutions. In addition, we raised approximately $11 billion of new commitments in 2017 across a variety of strategies, led by infrastructure and private equity solutions. At year-end, we had approximately $17 billion of non-fee paying, unfunded, uninvested commitments, which are expected to be deployed in future years; these commitments are not included in AUM or flows until they are fee-paying. 
+
+We believe that as alternatives become more conventional and investors adapt their asset allocation strategies, investors will further increase their use of alternative investments to complement core holdings. As a top ten alternatives provider3 our highly diversified $129.3 billion alternatives franchise is well positioned to meet growing demand from both institutional and retail investors.  
+
+Component changes in alternatives AUM for 2017 are presented in the table below.  
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amount represents AUM acquired in the First Reserve Transaction. 
+
+(2)  
+
+Return of capital is included in outflows.  
+
+3  
+
+Source: Towers Watson, July 2017  
+
+7 
+
+Core 
+
+The Company’s core alternatives strategies include the following: 
+
+•   
+
+Alternative Solutions represents highly customized portfolios of alternative investments. In 2017, alternative solutions portfolios had $0.5 billion of net inflows.  
+
+•  
+
+Hedge Funds net outflows of $0.7 billion were due to net outflows of $1.0 billion from direct hedge funds, partially offset by $0.3 billion of net inflows in hedge fund solutions. Direct hedge fund AUM includes a variety of single- and multi-strategy offerings.  
+
+•  
+
+Illiquid and Opportunistic AUM included $11.8 billion in private equity solutions and $2.0 billion in opportunistic private equity and credit offerings. Net outflows of $0.3 billion were primarily from opportunistic credit.  
+
+•  
+
+Real Assets AUM, which includes infrastructure and real estate, totaled $30.3 billion, reflecting net inflows of $1.3 billion and $3.3 billion of AUM acquired in the First Reserve Transaction.  
+
+Currency and Commodities 
+
+The Company’s currency and commodities products include a range of active and passive products. 
+
+Currency and commodities products had $0.2 billion of net inflows, primarily driven by iShares ETFs. Our iShares ETFs commodities products represented $23.6 billion of AUM and are not eligible for performance fees. 
+
+Cash Management  
+
+Cash management AUM totaled $449.9 billion at December 31, 2017. Cash management products include taxable and tax-exempt money market funds and customized separate accounts. Portfolios are denominated in U.S. dollars, Canadian dollars, Australian dollars, Euros, Swiss Francs, New Taiwan Dollars or British pounds. BlackRock generated net inflows of $38.3 billion during 2017, reflecting continued market share gains and several large client wins. Strong growth in cash management also reflects successful integration of acquisitions to strengthen our platform and leverage our scale, including the 2017 acquisition of Cachematrix, a distribution technology portal enabling corporate treasurers to allocate among cash management products, and the 2016 transaction with BoA Global Capital Management. 
+
+Client Region  
+
+Our footprints in the Americas, EMEA and Asia-Pacific regions reflect strong relationships with intermediaries and an established ability to deliver our global investment expertise in funds and other products tailored to local regulations and requirements.  
+
+AUM by product type and client region at December 31, 2017 is presented below.  
+
+ [DATA_TABLE_REMOVED] 
+
+Component changes in AUM by client region for 2017 are presented below. 
+
+ [DATA_TABLE_REMOVED] 
+
+(1)  
+
+Amount represents AUM acquired in the First Reserve Transaction. 
+
+Americas.  
+
+Net inflows of $299.9 billion were driven by net inflows into equity, fixed income and cash management of $139.6 billion, $91.1 billion and $50.4 billion, respectively. During the year, we served clients through offices in 31 states in the United States as well as Canada, Mexico, Brazil, Chile, Colombia and Spain.  
+
+8 
+
+EMEA.  
+
+Net inflows of $36.7 billion included net inflows from investors in 27 countries across the region. EMEA net inflows were led by fixed income net inflows of $60.9 billion, reflecting strong flows into iShares ETFs and liability-driven investment solutions. Our offerings include fund families in the United Kingdom, the Netherlands, Luxembourg and Dublin and iShares ETFs listed on stock exchanges throughout Europe as well as separate accounts and pooled investment products.  
+
+Asia-Pacific.  
+
+Net inflows of $30.7 billion were positive across asset classes, and were driven by fixed income net inflows of $26.8 billion across a variety of exposures. Clients in the Asia-Pacific region are served through offices in Japan, Australia, Hong Kong, Malaysia, Singapore, Taiwan, Korea, China, and India.  
+
+Investment Performance  
+
+Investment performance across active and passive products as of December 31, 2017 was as follows:  
+
+ [DATA_TABLE_REMOVED] 
+
+Performance Notes. Past performance is not indicative of future results. Except as specified, the performance information shown is as of December 31, 2017 and is based on preliminary data available at that time. The performance data shown reflects information for all actively and passively managed equity and fixed income accounts, including U.S. registered investment companies, European-domiciled retail funds and separate accounts for which performance data is available, including performance data for high net worth accounts available as of November 30, 2017. The performance data does not include accounts terminated prior to December 31, 2017 and accounts for which data has not yet been verified. If such accounts had been included, the performance data provided may have substantially differed from that shown.  
+
+Performance comparisons shown are gross-of-fees for institutional and high net worth separate accounts, and net-of-fees for retail funds. The performance tracking shown for index accounts is based on gross-of-fees performance and includes all institutional accounts and all iShares funds globally using an index strategy. AUM information is based on AUM available as of December 31, 2017 for each account or fund in the asset class shown without adjustment for overlapping management of the same account or fund. Fund performance reflects the reinvestment of dividends and distributions.  
+
+Performance shown is derived from applicable benchmarks or peer median information, as selected by BlackRock, Inc. Peer medians are based in part on data either from Lipper, Inc. or Morningstar, Inc. for each included product.  
+
+TECHNOLOGY AND RISK MANAGEMENT  
+
+BlackRock offers investment management technology systems, risk management services, wealth management and digital distribution tools on a fee basis. Aladdin is our proprietary technology platform, which serves as the investment and risk management system for both BlackRock and a growing number of institutional investors around the world. BlackRock offers risk reporting capabilities via the Aladdin Risk offering; middle and back office outsourcing services; and investment accounting. Provider Aladdin is a tool used by BlackRock’s custodial partners, connecting them to the platform to add operational efficiency. BlackRock also offers a number of wealth management technology tools offering digital advice, portfolio construction capabilities and risk analytics for retail distributors. These tools include FutureAdvisor, a digital wealth management platform that provides financial institutions with technology-enabled investment advisory capabilities to manage their clients’ investments, Aladdin Portfolio Builder, which provides financial advisors with portfolio construction tools, and Aladdin Risk for Wealth Management, which provides wealth management institutions and their advisors with institutional-quality portfolio construction, modeling and risk analytics capabilities. Additionally, in July 2017, BlackRock acquired Cachematrix, a leading provider of financial technology which simplifies the cash management process for banks and their corporate clients in a streamlined, open-architecture platform. In 2017, BlackRock also made minority investments in the digital distribution companies Scalable Capital and iCapital.  
+
+Technology and risk management revenue of $677 million was up 14% year-over-year. Aladdin, which represented the majority of technology and risk management revenue for the year, continues to benefit from trends favoring global investment platform consolidation and multi-asset risk solutions. Aladdin assignments are typically long-term contracts that provide recurring revenue.  
+
+At year-end, BlackRock technology and risk management clients included banks, insurance companies, official institutions, pension funds, asset managers, asset servicers, retail distributors and other investors across North America, South America, Europe, Asia and Australia. 
+
+9 
+
+Securities Lending  
+
+Securities lending is managed by a dedicated team, supported by quantitative analysis, proprietary technology and disciplined risk management. BlackRock receives both cash (primarily for U.S. domiciled portfolios) and noncash collateral under securities lending arrangements. The cash management team invests the cash we receive as collateral for securities on loan in other portfolios. Fees for securities lending for U.S. domiciled portfolios can be structured as a share of earnings, or as a management fee based on a percentage of the value of the cash collateral or both. The value of the securities on loan and the revenue earned are captured in the corresponding asset class being managed. The value of the collateral is not included in AUM.  
+
+Outstanding loan balances ended the year at approximately $262 billion, up from $222 billion at year-end 2016. On average, relative to 2016, asset and liability spreads were slightly lower. However, strong market performance and asset gathering resulted in increased balances compared to 2016.  
+
+BlackRock employs a conservative investment style for cash and securities lending collateral that emphasizes quality, liquidity and interest rate risk management. Disciplined risk management, including a rigorous credit surveillance process, is an integral part of the investment process. BlackRock’s Cash Management Credit Committee has established risk limits, such as aggregate issuer exposure limits and maturity limits, across many of the products BlackRock manages, including over all of its cash management products. In the ordinary course of our business, there may be instances when a portfolio may exceed an internal risk limit or when an internal risk limit may be changed. No such instances, individually or in the aggregate, have been material to the Company. To the extent that daily evaluation and reporting of the profile of the portfolios identify that a limit has been exceeded, the relevant portfolio will be adjusted. To the extent a portfolio manager would like to obtain a temporary waiver of a risk limit, the portfolio manager must obtain approval from the credit research team, which is independent from the cash management portfolio managers. While a risk limit may be waived temporarily, such waivers are infrequent.  
+
+Risk & Quantitative Analysis  
+
+Across all asset classes, in addition to the efforts of the portfolio management teams, the Risk & Quantitative Analysis (“RQA”) group at BlackRock draws on extensive analytical systems and proprietary and third-party data to identify, measure and manage a wide range of risks. RQA provides risk management advice and independent risk oversight of the investment management processes, identifies and helps manage counterparty and enterprise risks, coordinates standards for firm wide investment performance measurement and determines risk management-related analytical and information requirements. Where appropriate, RQA will work with portfolio managers and developers to facilitate the development or improvement of risk models and analytics.  
+
+COMPETITION  
+
+BlackRock competes with investment management firms, mutual fund complexes, insurance companies, banks, brokerage firms and other financial institutions that offer products that are similar to, or alternatives to, those offered by BlackRock. In order to grow its business, BlackRock must be able to compete effectively for AUM. Key competitive factors include investment performance track records, the efficient delivery of beta for index products, investment style and discipline, price, client service and brand name recognition. Historically, the Company has competed principally on the basis of its long-term investment performance track record, its investment process, its risk management and analytic capabilities and the quality of its client service.  
+
+Geographic Information  
+
+At December 31, 2017, BlackRock served clients in more than 100 countries across the globe, including the United States, the United Kingdom and Japan. See Note 23, Segment Information, contained in Part II, Item 8 of this filing for more information.  
+
+Employees  
+
+At December 31, 2017, BlackRock had a total of approximately 13,900 employees, including approximately 6,800 located in offices outside the United States.  
+
+REGULATION 
+
+Virtually all aspects of BlackRock’s business are subject to various laws and regulations around the world, some of which are summarized below. These laws and regulations are primarily intended to protect investment advisory clients, investors in registered and unregistered investment companies, trust and other fiduciary clients of BlackRock Institutional Trust Company, N.A. (“BTC”), PNC and its bank subsidiaries and their customers and the financial system. Under these laws and regulations, agencies that regulate investment advisers, investment funds, trust banks and bank holding companies and other individuals and entities have broad administrative powers, including the power to limit, restrict or prohibit the regulated entity or person from carrying on business if it fails to comply with such laws and regulations. Possible sanctions for significant compliance failures include the suspension of individual employees, limitations on engaging in certain lines of business for specified periods of time, revocation of investment adviser and other registrations or bank charters, censures and fines both for individuals and BlackRock.  
+
+The rules governing the regulation of financial institutions and their holding companies and subsidiaries are very detailed and technical. Accordingly, the discussion below is general in nature, does not purport to be complete and is current only as of the date of this report.  
+
+GLOBAL REGULATORY REFORM  
+
+BlackRock is subject to numerous regulatory reform initiatives around the world. Any such initiative, or any new laws or regulations or changes to, or in the enforcement of, existing laws or regulations, could materially and adversely impact the scope or profitability of BlackRock’s business activities, lead to business disruptions, require BlackRock to alter its business or operating activities and expose BlackRock to additional costs (including compliance and legal costs) as well as reputational harm. BlackRock’s profitability also could be materially and  
+
+10 
+
+adversely affected by modification of the rules and regulations that impact the business and financial communities in general, including changes to the laws governing banking, taxation, antitrust regulation and electronic commerce.  
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act  
+
+In July 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank”) was signed into law in the United States. Dodd-Frank is expansive in scope and requires the adoption of extensive regulations and numerous regulatory decisions, many of which have been adopted. BlackRock has implemented a conformance program to address certain regulations adopted under Dodd-Frank, as well as financial reforms that have been introduced as part of the Securities and Exchange Commission’s (“SEC”) investment company modernization initiatives. The cost of these conformance activities has been substantially absorbed by BlackRock; however, as certain limited aspects of Dodd-Frank and other rules are still being adopted, it is not yet possible to predict the ultimate effects that any implementation of these rules and regulations will have upon BlackRock’s business, financial condition, and operating activities. 
+
+Systemically Important Financial Institution (“SIFI”) Review  
+
+The Financial Stability Board (“FSB”) working with the International Organization of Securities Commissions (“IOSCO”) is considering potential systemic risk related to asset management; statements made by these organizations have generally indicated that they are, at this time, focused on a products and activities, rather than designation, approach in their review of asset managers. The FSB has indicated that it may develop criteria for designation of nonbank non-insurers in the future to address “residual risks”. Any measures applied in relation to a global systemically important financial institution (“G-SIFI”) designation from the FSB would need to be implemented through existing regulatory processes and procedures by relevant national authorities.  
+
+In the United States, the Financial Stability Oversight Council (“FSOC”) has the authority to designate nonbank financial institutions as SIFIs. The FSOC’s most recent statements generally indicate that it is focused on products and activities, rather than designation, in its review of asset managers. The U.S. Department of the Treasury (“Treasury”) report on asset management, issued in October 2017 pursuant to the Executive Order (as defined below), also expressed this view. In addition, in November 2017, Treasury made recommendations concerning the process by which the FSOC designates nonbanks as SIFIs, further supporting a products and activities approach to addressing risks in asset management. In the event that BlackRock is designated as a SIFI, under Dodd-Frank, the Board of Governors of the Federal Reserve System (the “Federal Reserve”) is charged with establishing enhanced regulatory requirements for nonbank financial institutions and BlackRock could become subject to direct supervision by the Federal Reserve.  
+
+Taxation  
+
+BlackRock’s businesses may be directly or indirectly affected by tax legislation and regulation, or the modification of existing tax laws, by U.S. or non-U.S. authorities. On December 22, 2017, the Tax Cuts and Jobs Act (the “2017 Tax Act”) was enacted. Over the next few months, as the Company finalizes the impact of tax reform and clarifies the potential for future investment opportunities, BlackRock intends to reassess its capital management plans for the balance of 2018. 
+
+In addition, certain EU Member States, such as France and Italy, have enacted financial transaction taxes (“FTTs”) which impose taxation on a broad range of financial instruments and derivatives transactions, and the European Commission has proposed legislation to harmonize these taxes and provide for the adoption of EU-level legislation applicable to some (but not all) EU Member States. In general, any tax on securities and derivatives transactions would impact investors and would likely have a negative impact on the liquidity of the securities and derivatives markets, could diminish the attractiveness of certain types of products that BlackRock manages in those countries and could cause clients to shift assets away from such products. An FTT could significantly increase the operational costs of BlackRock entering into, on behalf of its clients, securities and derivatives transactions that would be subjected to an FTT, which could adversely impact BlackRock’s financial results and clients’ performance results. 
+
+The application of tax regulations involves numerous uncertainties and, in the normal course of business, U.S. and non-U.S. tax authorities may review and challenge tax positions adopted by BlackRock. These challenges may result in adjustments to, or impact the timing or amount of taxable income, deductions or other tax allocations, which may adversely affect BlackRock’s effective tax rate and overall financial condition.  
+
+Regulation of Swaps and Derivatives  
+
+The SEC, Federal Reserve, the Internal Revenue Service (“IRS”) and the Commodity Futures Trading Commission each continue to review practices and regulations relating to the use of futures, swaps and other derivatives. Such reviews could result in regulations that restrict or limit the use of such products by funds or accounts. If adopted, these limitations could require BlackRock to change certain business practices or implement new compliance processes, which could result in additional costs and/or restrictions. In December 2015, the SEC proposed a new rule governing the use of derivatives and other financial commitment transactions by investment companies that, if enacted, would represent a fundamental change in the nature of the SEC's regulations governing the use of derivatives and other financial commitment transactions by investment companies. While not on the SEC’s current agenda for finalization, this proposal has the potential to require BlackRock to change or restrict certain investment strategies or practices for some investment companies and incur additional costs. 
+
+Jurisdictions outside the U.S. in which BlackRock operates have adopted and implemented, or are in the process of considering, adopting or implementing more pervasive regulation of many elements of the financial services industry, which could further impact BlackRock and the broader markets. For example, various global rules and regulations applicable to the use of financial products by funds, accounts and counterparties that have been adopted or proposed will require BlackRock to build and implement new compliance monitoring procedures to address the enhanced level of oversight to which it and its clients will be subject. These rules introduce new requirements such as mandatory central clearing of certain swaps transactions, requiring execution of certain swaps transactions on or through registered electronic trading venues (as opposed to over the phone or other execution methods), reporting transactions to central data repositories, mandating certain documentation standards, requiring the posting and collection of initial and/or variation margin for bilateral swap transactions and subjecting certain types of listed and/or over-the-counter transactions to position limit or position reporting requirements. 
+
+11 
+
+In the United States, certain interest rate swaps and certain index credit default swaps are subject to Dodd-Frank central clearing and electronic trading venue requirements, with additional products and asset classes potentially becoming subject to these requirements in the future. In the European Union (“EU”), central clearing requirements for certain swap transactions have become effective for certain types of BlackRock funds and accounts and will continue to be phased in for other types of BlackRock funds and accounts over time. On March 1, 2017 most derivatives transactions that are not centrally cleared, including non-deliverable foreign exchange forward transactions and currency option transactions, became subject to requirements in the United States, EU and numerous other jurisdictions to post or collect mark-to-market margin payments. These rules have the potential to increase the complexity and cost of trading non-cleared derivatives for BlackRock's clients. The new rules and regulations may produce regulatory inconsistencies in global derivatives trading rules and increase BlackRock’s operational and legal risks. 
+
+Regulation of Exchange-Traded Funds  
+
+As part of a focus on financial stability issues and due to the significant growth of this product class over the last few years, regulators globally are examining the potential risks in ETFs, including those related to transparency, liquidity and structural resiliency. BlackRock and other large issuers of ETFs are working with market participants and regulators to address certain of these issues but there can be no assurance that structural or regulatory reforms will be implemented in a manner favorable to BlackRock, or at all. Depending on the outcome of this renewed regulatory analysis, or any associated structural reforms, ETF products may become subject to increased regulatory scrutiny or restrictions, which may require BlackRock to incur additional compliance and reporting expenses and adversely affect the Company’s business. 
+
+Volcker Rule  
+
+Provisions of Dodd-Frank referred to as the “Volcker Rule” created a new section of the Bank Holding Company Act of 1956 (the “Bank Holding Company Act”) that places limitations on the ability of banks and their subsidiaries to engage in proprietary trading and to invest in and transact with certain private investment funds, including hedge funds, private equity funds and funds of funds (collectively “covered funds”). The Bank Holding Company Act by its terms does not currently apply to BlackRock. The Federal Reserve currently takes the position that PNC’s ownership interest in BlackRock, which is approximately 22%, causes BlackRock to be treated as a nonbank subsidiary of PNC for the purpose of the Bank Holding Company Act and that BlackRock is subject to banking regulation. Based on this interpretation of the Bank Holding Company Act, the Federal Reserve could initiate a process to formally determine that PNC controls BlackRock under the terms of the Bank Holding Company Act. Any such determination, if successful, would subject BlackRock to current and future regulatory requirements under the Bank Holding Company Act, including the Volcker Rule. Conformance with the Volcker Rule may require BlackRock to remove its name from the names of its covered funds, and to sell certain seed and co-investments that it holds in those funds, which may occur at a discount to existing carrying value depending on market conditions. 
+
+Revised Department of Labor (“DoL”) Fiduciary Rule 
+
+In April 2016, the DoL proposed a new regulation defining the term "fiduciary" for purposes of the fiduciary responsibility provisions of Title I of the Employee Retirement Income Security Act of 1974 (“ERISA”) and the prohibited transaction excise tax provisions of the Internal Revenue Code. The substantive provisions of the rule began to apply in June 2017. However, the applicability date of many conditions of the prohibited transaction exemptions accompanying the rule has been delayed until July 2019, while the DoL continues its re-examination of the rule and the prohibited transaction exemptions. If the DoL does not repeal or revise the rule or revise the prohibited transaction exemptions, the rule could require BlackRock to revise a number of its distribution relationships, create compliance and operational challenges for BlackRock’s distribution partners and may limit BlackRock’s ability to provide certain useful services and education to its clients. 
+
+Financial Crimes Enforcement Network Proposed Rulemaking for Registered Investment Advisers 
+
+In 2015, the Financial Crime Enforcement Network (“FinCEN”) issued a Notice of Proposed Rulemaking (“Proposed Rule”) that would extend to a number of BlackRock’s subsidiaries, which are registered or required to be registered with the SEC under the Investment Advisers Act of 1940 (the “Advisers Act”), the requirement to establish anti-money laundering programs and report suspicious activity to the FinCEN under the Bank Secrecy Act of 1970 (the “Bank Secrecy Act”). The Proposed Rule would extend to those BlackRock subsidiaries captured within the Bank Secrecy Act’s definition of “financial institutions”, which would require them to comply with the Bank Secrecy Act reporting and recordkeeping requirements. If adopted in its current form, the Proposed Rule would expose BlackRock to additional compliance costs. 
+
+U.S. Executive Order 
+
+On February 3, 2017, an executive order (the “Executive Order”) was issued articulating certain core principles for regulating the U.S. financial system and directing the Secretary of the U.S. Treasury to report on the extent to which existing laws, treaties, rules, regulations and policies promote, support or inhibit the federal regulation of the U.S. financial system in a manner consistent with the core principles. The Treasury has issued three (of an expected four) reports in response to the Executive Order (the “Treasury Reports”), which include a number of recommendations, the majority of which require further legislative or regulatory action in order to be implemented, that may affect BlackRock’s business or operations. BlackRock will continue to monitor the potential impact of the Executive Order, as well as the Treasury Reports and any consequential legislative or regulatory action, on its business. 
+
+12 
+
+Securities and Exchange Commission Rulemakings for U.S. Registered Funds and Investment Advisers  
+
+BlackRock’s business may also be impacted by SEC regulatory initiatives. The SEC and its staff are engaged in various initiatives and reviews that seek to improve and modernize the regulatory structure governing the asset management industry, and registered investment companies in particular. In so doing, it has adopted rules that include (i) new monthly and annual reporting requirements for certain U.S. registered funds; (ii) enhanced reporting regimes for investment advisers; and (iii) implementing liquidity risk management programs for ETFs and open-end funds, other than money market funds. The rules, many of which are currently in an implementation period, will increase BlackRock’s public reporting and disclosure requirements, which could be costly and may impede BlackRock’s growth.  
+
+Certain other rules impacting investment advisers and U.S. registered funds were proposed (or were under discussion for proposal) by the SEC’s prior leadership, however the SEC’s current leadership has indicated that these efforts are not expected to result in any short-term action. In the event the SEC moves forward with any such proposals, any new rules, guidance or regulatory initiatives could expose BlackRock to additional compliance costs and may require the Company to change how it operates its business and/or manages its funds. 
+
+Money Market Fund Reform  
+
+In November 2016, the EU council announced political agreement with the European Parliament on certain money market funds reforms that are intended to reduce perceived risks associated with these products. The final text was published in the Official Journal of the EU in June 2017, starting an 18-month transition period for existing funds to comply. The reforms will limit the use of constant net asset value money market funds to those holding only government debt, and introduce a new category of “low volatility net asset value” money market funds, with both categories of money market funds being subject to reinforced liquidity requirements as well as safeguards such as liquidity fees and redemption gates. They may also reduce the attractiveness of certain money market funds to investors. BlackRock is evaluating the reforms and potential impact to its existing constant net asset value money market funds.  
+
+In the United States, there is currently legislation pending in Congress that would repeal the requirement that institutional prime and institutional municipal money market funds float their net asset values. In order to understand the potential impact of this legislation, a review of the impact of the 2014 money market fund reforms on financial stability, short-term funding markets, issuers, and money market fund investors should be undertaken. It is uncertain whether the legislation will pass Congress and become law.  
+
+British Exit from the European Union  
+
+Following the June 2016 vote to exit the EU, the United Kingdom served notice under Article 50 of the Treaty on European Union on March 29, 2017 to initiate the process of exiting from the EU, commonly referred to as "Brexit". The outcome of the negotiations between the United Kingdom and the EU in connection with Brexit is highly uncertain and information regarding the long-term consequences is expected to become clearer over time as negotiations progress. The Company continues to prepare for a range of potential outcomes in connection with Brexit. 
+
+MiFID II Regime 
+
+BlackRock is also subject to numerous regulatory reform initiatives in Europe. For example, in the EU rules and regulations made under the previous Markets in Financial Instruments Directive (“MiFID”) have been revised through implementation of the “MiFID II” package of measures which came into effect in January 2018 and is made up of a new Markets in Financial Instruments Directive, a new Markets in Financial Instruments Regulation and a number of Implementing and Regulatory Technical Standards in the form of Delegated Acts made by the European Commission following advice from the European Securities and Markets Authority (“ESMA”). MiFID II builds upon many of the measures introduced by MiFID, and extends investor protection, trading transparency, clearing and trading venue access and reporting requirements. It is expected that the reforms introduced by MiFID II will have significant and wide-ranging impacts on EU securities and derivatives markets. In particular, MIFID II introduces (i) enhanced governance and investor protection standards, (ii) prescriptive rules on portfolio management firms’ ability to receive and pay for investment research relating to all asset classes, (iii) rules on the identification and monitoring of target markets for MiFID financial instruments by MiFID investment firms who manufacture and/or distribute such instruments, (iv) enhanced regulation of algorithmic trading, (v) the movement of trading in certain shares and derivatives on to regulated execution venues, (vi) the extension of pre- and post-trade transparency requirements to wider categories of financial instruments, (vii) restrictions on the use of so-called dark pool trading, (viii) the creation of a new type of trading venue called the Organized Trading Facility for non-equity financial instruments, (ix) new commodity derivative position limits and reporting requirements, (x) a move away from vertical silos in execution, clearing and settlement, (xi) an enhanced role for ESMA in supervising EU securities and derivatives markets and (xii) new requirements regarding non-EU investment firms’ access to EU financial markets. Implementation of these measures will have direct and indirect impacts on BlackRock and its subsidiaries and may require significant changes to client servicing models. A significant number of the impacts are yet to be determined because MiFID II contains a wide ranging and complex set of measures. The broad nature of the MiFID II reforms may impact BlackRock’s product development, client servicing and distribution models. In particular, additional disclosures are required in respect of costs and fees BlackRock charges to certain of its clients. MiFID II may also impact the ability of certain of BlackRock’s distribution partners to accept commissions. Further, market structure reforms may impact the way that the Company executes investment decisions for client portfolios and reports on such transactions and could have an impact on general market liquidity. 
+
+EU Market Access 
+
+The European Commission and certain EU Member States have recently advanced a more restrictive approach to the need for “equivalence”, which is the process by which the legal, regulatory and/or supervisory system in non-EU Member States is recognized by the European Commission as comparably effective to that in the EU, thereby allowing such non-EU Member States access to the EU single market in financial services. Additionally, in September 2017, the European Commission issued a proposal to enhance the European Supervisory Authorities’ powers by requiring that all third country outsourcing, delegation and risk transfer arrangements be assessed by ESMA. If enacted, the proposal would transfer to ESMA the ability of EU Member States to authorize the outsourcing of asset management activities beyond the EU’s borders. The proposal could have a significant impact on asset management firms with operations based outside of the EU, including BlackRock, and it may affect the Company’s ability to delegate fund management and/or costs associated with such delegation. 
+
+13 
+
+Undertakings for Collective Investment in Transferable Securities  
+
+The EU has also adopted directives on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (“UCITS”). The latest initiative in this area, UCITS V, seeks to align the UCITS depositary regime, UCITS remuneration rules and regulators’ power to sanction for breaches of the UCITS Directive with the requirements of the Alternative Investment Fund Managers Directive. UCITS V came into effect in March 2016 with further implementing measures commencing in October 2016. Compliance with the updated UCITS directive subjects BlackRock to additional expenses associated with new depositary oversight and other organizational requirements.  
+
+EU Benchmarks Regulation  
+
+Political agreement on the EU Benchmarks Regulation was reached at the end of 2015. The Regulation provides the legislative framework to implement the 2013 International Organization of Securities Commissions Principles for Financial Benchmarks. The scope of the Regulation is broad as it includes submission-based benchmarks through to transaction-based market indices. Proportionality is applied to create a stricter framework for the systemically relevant benchmarks such as the London Interbank Offered Rate (LIBOR) and the Euro Interbank Offered Rate (EURIBOR). Although the Regulation creates a number of obligations on administrators of, and submitters to, benchmarks, it is less extensive with respect to obligations on users of benchmarks, such as asset managers. The Regulation formalizes due diligence procedures for users and imposes other additional administrative requirements of users of third-party benchmarks. Managers using third-party and/or bespoke benchmarks to assess fund performance are also subject to the Regulation. The Regulation came into effect in January 2018, imposing additional administrative and due diligence requirements on the Company, the burden of which is likely to increase as BlackRock makes additional enhancements to its indexing business. 
+
+Revised EU Capital Requirements  
+
+EU regulators are considering how to design an appropriate capital regime for non-systemically important investment firms as the current regime is based upon banking requirements and has not been materially modified for asset managers. In December 2017, the European Commission published a legislative proposal addressed to the European Parliament and Council for a new Directive and new Regulation on prudential requirements for MiFID investment firms. The new legislative package is currently expected to come into effect in 2020 following agreement between the European Council and Parliament. Once implemented, any new requirements could result in significant changes to the methodology used to determine the amount of regulatory capital that BlackRock is required to hold in the EU. 
+
+Reform of European Retail Distribution Rules  
+
+BlackRock must also comply with retail distribution rules aimed at enhancing consumer protections, overhauling mutual fund fee structures by banning the payment of commissions to distributors and increasing professionalism in the retail investment sector. The rules were originally introduced in the United Kingdom in 2012 and similar rules have since been introduced in other jurisdictions where BlackRock operates such as the Netherlands, and are under discussion elsewhere. Similarly, MiFID II contains a ban on certain types of advisers recovering commissions and other nonmonetary benefits from fund managers. These rules will lead to greater fragmentation of distribution rules and may lead to changes to BlackRock’s client servicing and distribution models, in particular affecting the fees BlackRock is able to charge to its clients and the commissions it is able to pay to its distribution partners.  
+
+Revised Retail Consumer Disclosure Requirements  
+
+EU legislators have introduced a new “Key Information Document” (“KID”), which is applicable where a retail consumer is sold Packaged Retail and Insurance-based Investment Products (“PRIIPs”) and which came into effect in January 2018. The KID must include specific information on costs, risks and performance. BlackRock is required to produce a KID for each fund in scope, as well as to make information available to distribution partners who sell these funds in the EU. 
+
+Financial Conduct Authority (“FCA”) Asset Management Market Survey 
+
+The FCA is continuing its assessment of the asset management industry, which is focused on understanding whether competition provides value to institutional and retail investors when purchasing asset management services. In June 2017, the FCA issued a final report to address concerns it had raised in its November 2016 Report about the effectiveness and sufficiency of price competition in driving value for investors within the asset management industry. The final report recommended (i) the adoption of an “all-in” fee structure in the asset management industry in line with MiFID II and PRIIPs requirements; (ii) increasing independence in U.K. fund boards in line with existing Irish and Luxembourg practice; and (iii) imposing a specific value for money assessment on fund boards to challenge fund charging structures with the aim of passing on economies of scale to end investors. If implemented as written, these recommendations could affect pricing and distribution arrangements across the U.K. asset management industry and potentially impact BlackRock’s profitability and operating margins. Two further consultations on asset management have been initiated by the FCA in order to set out specific FCA rule changes.  
+
+EXISTING U.S. REGULATION - OVERVIEW  
+
+BlackRock and certain of its U.S. subsidiaries are currently subject to extensive regulation, primarily at the federal level, by the SEC, the DoL, the Federal Reserve, the Office of the Comptroller of the Currency (“OCC”), the Financial Industry Regulatory Authority (“FINRA”), the National Futures Association (“NFA”), the Commodity Futures Trading Commission and other federal government agencies and regulatory bodies.  
+
+Certain of BlackRock’s U.S. subsidiaries are also subject to various anti-terrorist financing, privacy, anti-money laundering and economic sanctions laws and regulations established by various agencies. The Investment Advisers Act of 1940 (the “Advisers Act”) imposes numerous obligations on registered investment advisers such as BlackRock, including record-keeping, operational and marketing requirements, disclosure obligations and prohibitions on fraudulent activities. State level regulation through Attorneys General, Insurance Commissioners and other state level agencies also applies to certain BlackRock activities. 
+
+14 
+
+The Investment Company Act of 1940 (the “Investment Company Act”) imposes stringent governance, compliance, operational, disclosure and related obligations on registered investment companies and their investment advisers and distributors, such as BlackRock and its affiliated companies. The SEC is authorized to institute proceedings and impose sanctions for violations of the Advisers Act and the Investment Company Act, ranging from fines and censure to termination of an investment adviser’s registration. Investment advisers also are subject to certain state securities laws and regulations. Non-compliance with the Advisers Act, the Investment Company Act or other federal and state securities laws and regulations could result in investigations, sanctions, disgorgement, fines and reputational damage.  
+
+BlackRock’s trading and investment activities for client accounts are regulated under the Securities Exchange Act of 1934 (the “Exchange Act”), as well as the rules of various securities exchanges and self-regulatory organizations, including laws governing trading on inside information, market manipulation and a broad number of technical requirements (e.g., short sale limits, volume limitations and reporting obligations) and market regulation policies. Violation of any of these laws and regulations could result in fines or sanctions, as well as restrictions on BlackRock’s activities and damage to its reputation. Furthermore, one of BlackRock’s subsidiaries, BTC, was required to register as a municipal advisor (as that term is defined in the statute) with the SEC and Municipal Securities Rulemaking Board (“MSRB”) as a result of SEC rules giving effect to a section of Dodd-Frank requiring such registration. The rules subject BTC to new and additional regulation by the SEC and Municipal Securities Rulemaking Board. 
+
+BlackRock manages a variety of private pools of capital, including hedge funds, funds of hedge funds, private equity funds, collateralized debt obligations, collateralized loan obligations (“CLOs”), real estate funds, collective investment trusts, managed futures funds and hybrid funds. Congress, regulators, tax authorities and others continue to explore, on their own and in response to demands from the investment community and the public, increased regulation related to private pools of capital, including changes with respect to investor eligibility, certain limitations on trading activities, record-keeping and reporting, the scope of anti-fraud protections, safekeeping of client assets and a variety of other matters. BlackRock may be materially and adversely affected by new legislation, rule-making or changes in the interpretation or enforcement of existing rules and regulations imposed by various regulators in this area.  
+
+Certain BlackRock subsidiaries are subject to ERISA, and to regulations promulgated thereunder by the DoL, insofar as they act as a “fiduciary” under Title I of ERISA with respect to benefit plan clients. ERISA and applicable provisions of the Internal Revenue Code impose certain duties on persons who are fiduciaries under ERISA, prohibit certain transactions involving ERISA plan clients and impose excise taxes for violations of these prohibitions, mandate certain required periodic reporting and disclosures and require certain BlackRock entities to carry bonds insuring against losses caused by fraud or dishonesty. ERISA also imposes additional compliance, reporting and operational requirements on BlackRock that otherwise are not applicable to non-benefit plan clients.  
+
+BlackRock has seven subsidiaries that are registered as commodity pool operators (“CPOs”) and/or commodity trading advisors (“CTAs”) with the Commodity Futures Trading Commission and are members of the NFA. The Commodity Futures Trading Commission and NFA each administer a comparable regulatory system covering futures contracts and various other financial instruments, including swaps as a result of Dodd-Frank, in which certain BlackRock clients may invest. Two of BlackRock’s other subsidiaries, BlackRock Investments, LLC (“BRIL”) and BlackRock Execution Services, are registered with the SEC as broker-dealers and are member-firms of FINRA. Each broker-dealer has a membership agreement with FINRA that limits the scope of such broker-dealer’s permitted activities. BRIL is also an approved person with the New York Stock Exchange and a member of the Municipal Securities Rulemaking Board, subject to Municipal Securities Rulemaking Board rules. 
+
+U.S. Banking Regulation  
+
+One of BlackRock’s subsidiaries, BTC, is organized as a nationally-chartered limited purpose trust company that does not accept deposits or make commercial loans. Accordingly, BTC is examined and supervised by the OCC and is subject to various banking laws and regulations enforced by the OCC, such as laws and regulations governing capital adequacy, fiduciary activities, conflicts of interest, self-dealing, and the prevention of financial crime, including money laundering. BTC is also a member of the Federal Reserve System and is subject to various Federal Reserve regulations applicable to member institutions, such as regulations restricting transactions with affiliates. Many of these laws and regulations are meant for the protection of BTC and/or BTC’s customers rather than BlackRock and its other affiliates or BlackRock’s stockholders. 
+
+PNC is a bank holding company and regulated as a “financial holding company” by the Federal Reserve under the Bank Holding Company Act. The supervision and regulation of PNC and its subsidiaries under applicable banking laws are intended primarily for the protection of its banking subsidiaries, its depositors, the Deposit Insurance Fund of the Federal Deposit Insurance Corporation, and the financial system as a whole, rather than for the protection of stockholders, creditors or clients of BlackRock. 
+
+As described in “Item 1-Business”, as of December 31, 2017 PNC owned approximately 22% of BlackRock’s capital stock, which may subject BlackRock to banking regulation as a nonbank subsidiary of PNC. The Bank Holding Company Act by its terms does not currently apply to BlackRock. The Federal Reserve currently takes the position that this ownership interest causes BlackRock to be treated as a nonbank subsidiary of PNC for the purpose of the Bank Holding Company Act and that BlackRock is subject to banking regulation. Based on this interpretation of the Bank Holding Company Act, the Federal Reserve could initiate a process to formally determine that PNC controls BlackRock under the terms of the Bank Holding Company Act. Any such determination, if successful, would subject BlackRock to current and future regulatory requirements under the Bank Holding Company Act, including the Volcker Rule, that are more restrictive than those the Company is subject to under other applicable laws, as well as the enforcement authority of the Federal Reserve, which includes the power to impose substantial fines and other penalties for violations. Any effort by BlackRock to contest a control determination by the Federal Reserve may be costly and complex, and may not result in a reversal of such determination. 
+
+Any failure of PNC to maintain its status as a financial holding company could result in substantial limitations on certain BlackRock activities and its growth. Such a change of status could be caused by any failure of PNC or one of PNC’s bank subsidiaries to remain “well capitalized” and “well managed,” by any examination downgrade of one of PNC’s bank subsidiaries, or by any failure of one of PNC’s bank subsidiaries to maintain a satisfactory rating under the Community Reinvestment Act.  
+
+15 
+
+Regulation of Securities Financing Transactions 
+
+In its 2014 Annual Report, the Financial Stability Oversight Council identified securities lending indemnification by asset managers who act as lending agents as a potential systemic risk that required further review and monitoring. The Federal Reserve is also considering whether to impose specific margin or minimum haircut requirements for securities financing transactions. In addition, in November 2015, the EU introduced a new regulation on the reporting and transparency of securities financing transactions and total return swaps (“SFTR”). The SFTR aims to improve the transparency surrounding securities financing transactions and total return swaps by, among other things, requiring reporting of securities financing transactions and total return swaps to a trade repository and requiring disclosure of the use of securities financing transactions and total return swaps to investors. If the recent scrutiny of securities financing transactions results in further regulatory requirements or reporting obligations, BlackRock may be required to introduce further compliance measures, which will subject BlackRock to additional expenses and could lead to modifications in BlackRock’s securities financing transaction activities, including potential adjustments to its activities as agent lender for its clients. 
+
+Regulation of Money Market Funds 
+
+In October 2016, new rules were implemented to reform the regulatory structure governing U.S. money market funds to address the perceived systemic risks of money market funds. The new rules require institutional prime and institutional municipal money market funds to employ a floating net asset value per share method of pricing, which allows the daily share prices of these funds to fluctuate along with changes in the market-based value of fund assets. Retail money market funds continue operating with a constant net asset value per share. The rules, however, provide for new tools for institutional and retail money market funds’ boards designed to address market shocks, including the ability to impose liquidity fees and redemption gates under certain circumstances. The new rules led to an approximately $1 trillion asset transition from the prime money funds industry to the government money funds industry and BlackRock saw a similar dynamic on its platform. 
+
+EXISTING INTERNATIONAL REGULATION — OVERVIEW  
+
+BlackRock’s international operations are subject to the laws and regulations of a number of international jurisdictions, as well as oversight by numerous regulatory agencies and bodies in those jurisdictions. In some instances, these operations are also affected by U.S. laws and regulations that have extra-territorial application.  
+
+Below is a summary of certain international regulatory standards to which BlackRock is subject. It is not meant to be comprehensive as there are parallel legal and regulatory arrangements in force in many jurisdictions where BlackRock’s subsidiaries conduct business.  
+
+Of note among the various other international regulations to which BlackRock is subject, are the extensive and complex regulatory reporting requirements that necessitate the monitoring and reporting of issuer exposure levels (thresholds) across the holdings of managed funds and accounts and those of the Company.  
+
+European Regulation  
+
+The FCA currently regulates certain BlackRock subsidiaries in the United Kingdom. It also prudentially regulates those U.K. subsidiaries’ branches established in other EU countries and is also responsible for the conduct of business regulation of the U.K. branches of certain of BlackRock’s U.S. subsidiaries. In addition, the Prudential Regulation Authority (“PRA”) regulates one BlackRock U.K. insurance subsidiary. Authorization by the FCA and (where relevant) the PRA is required to conduct certain financial services related business in the United Kingdom under the Financial Services and Markets Act 2000 (the “FSMA”). The FCA’s rules adopted under the FSMA govern the majority of a firm’s capital resources requirements, senior management arrangements, conduct of business, interaction with clients, and systems and controls, whereas the rules of the PRA focus solely on the prudential requirements that apply to BlackRock’s U.K.-regulated insurance subsidiary. The FCA supervises BlackRock’s U.K.-regulated subsidiaries through a combination of proactive engagement, event-driven and reactive supervision and theme based reviews in order to monitor BlackRock’s compliance with regulatory requirements. Breaches of the FCA’s rules may result in a wide range of disciplinary actions against BlackRock’s U.K.-regulated subsidiaries and/or its employees.  
+
+In addition, BlackRock’s U.K.-regulated subsidiaries and other European subsidiaries and branches must comply with the pan-European regulatory regime established by MiFID, which regulates the provision of investment services and activities throughout the EU. MiFID, the scope of which is being enhanced through MiFID II (which came into effect in January 2018 and is described more particularly under “— Global Regulatory Reform” above), sets out detailed requirements governing the organization and conduct of business of investment firms and regulated markets. It also includes pre- and post-trade transparency requirements for equity and non-equity markets and extensive transaction reporting requirements. Certain BlackRock European subsidiaries must also comply with the Consolidated Life Directive and Insurance Mediation Directive. In addition, relevant entities must comply with revised obligations on capital resources for banks and certain investment firms (the Capital Requirements Directive and Capital Requirements Regulation). These include requirements on capital, as well as matters of governance and remuneration. Relevant BlackRock entities must also comply with the requirements of the Alternative Investment Fund Managers Directive, which imposes obligations on the authorization and capital, conduct of business, organization, transparency and marketing of alternative investment funds that are sold in, or marketed to, the EU. The obligations introduced through these regulations and directives will have a direct effect on some of BlackRock’s European operations. 
+
+BlackRock’s EU-regulated subsidiaries are also subject to an EU regulation on over-the-counter (“OTC”) derivatives, central counterparties and trade repositories, which requires (i) the central clearing of standardized OTC derivatives, (ii) the application of risk-mitigation techniques to non-centrally cleared OTC derivatives (including since March 2017 the exchange of collateral with certain counterparties) and (iii) since 2014 the reporting of all derivative contracts to an ESMA-registered or recognized derivatives trade repository.  
+
+Regulation in the Asia-Pacific Region  
+
+In Japan, a BlackRock subsidiary is subject to the Financial Instruments and Exchange Act (“FIEA”) and the Act on Investment Trusts and Investment Corporations. These laws are administered and enforced by the Japanese Financial Services Agency (“JFSA”), which establishes standards for compliance, including capital adequacy and financial soundness requirements, customer protection requirements and conduct of business rules. The JFSA is empowered to conduct administrative proceedings that can result in censure, fines, the issuance of cease and  
+
+16 
+
+desist orders or the suspension or revocation of registrations and licenses granted under the FIEA. This Japanese subsidiary also holds a license for real estate investment management and brokerage activities which subjects it to the regulations set forth in the Real Estate Brokerage Business Act.  
+
+In Australia, BlackRock’s subsidiaries are subject to various Australian federal and state laws, and certain subsidiaries are regulated by the Australian Securities and Investments Commission (“ASIC”). ASIC regulates companies and financial services in Australia and is responsible for promoting investor, creditor and consumer protection. Failure to comply with applicable laws and regulations could result in the cancellation, suspension or variation of the regulated subsidiaries’ licenses in Australia.  
+
+The activities of certain BlackRock subsidiaries in Hong Kong are subject to the Securities and Futures Ordinance (“SFO”), which governs the securities and futures markets and regulates, among others, offers of investments to the public and provides for the licensing of intermediaries. The SFO is administered by the Securities and Futures Commission (“SFC”). The SFC is also empowered to establish standards for compliance as well as codes and guidelines. The relevant BlackRock subsidiaries and the employees conducting any of the regulated activities specified in the SFO are required to be licensed with the SFC, and are subject to the rules, codes and guidelines issued by the SFC. Failure to comply with the applicable laws, regulations, codes and guidelines issued by the SFC could result in the suspension or revocations of the licenses granted by the SFC.  
+
+BlackRock’s operations in Taiwan are regulated by the Taiwan Financial Supervisory Commission, which is responsible for regulating securities markets (including the Taiwan Stock Exchange and the Taiwan Futures Exchange), the banking industry and the insurance sector. Other financial regulators oversee BlackRock subsidiaries, branches, and representative offices across the Asia-Pacific region, including in Singapore and South Korea. Regulators in these jurisdictions have authority with respect to financial services including, among other things, the authority to grant or cancel required licenses or registrations. In addition, these regulators may subject certain BlackRock subsidiaries to net capital requirements.  
+
+AVAILABLE INFORMATION  
+
+BlackRock files annual, quarterly and current reports, proxy statements and all amendments to these reports and other information with the SEC. BlackRock makes available free-of-charge, on or through its website at http://www.blackrock.com, the Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and all amendments to those filings, as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC. The Company also makes available on its website the charters for the Audit Committee, Management Development and Compensation Committee, Nominating and Governance Committee and Risk Committee of the Board of Directors, its Code of Business Conduct and Ethics, its Code of Ethics for Chief Executive and Senior Financial Officers and its Corporate Governance Guidelines. Further, BlackRock will provide, without charge, upon written request, a copy of the Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, proxy statements and all amendments to those filings as well as the committee charters, its Code of Business Conduct and Ethics, its Code of Ethics for Chief Executive and Senior Financial Officers and its Corporate Governance Guidelines. Requests for copies should be addressed to Investor Relations, BlackRock, Inc., 55 East 52nd Street, New York, New York 10055. Investors may read and copy any document BlackRock files at the SEC’s Public Reference Room at 100 F Street N.E., Washington, D.C. 20549. Please call 1-800-SEC-0330 for further information on the operation of the Public Reference Room. Reports, proxy statements and other information regarding issuers that file electronically with the SEC, including BlackRock’s filings, are also available to the public from the SEC’s website at http://www.sec.gov.  
+
+17 
+
+Item 1A. Risk Factors

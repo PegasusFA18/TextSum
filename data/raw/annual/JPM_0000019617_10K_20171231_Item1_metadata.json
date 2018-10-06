@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 48081,
+    "section_end_time": "2018-09-30 04:13:03.162650",
+    "sec_accepted_date": "20180227162303",
+    "document_type": "10K",
+    "original_file_size": "15477578 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/JPM_0000019617_10K_20171231_Item1_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "JPM",
+    "sec_changed_date": "20180227",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/JPM_0000019617_10K_20171231_Item1_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 16.6,
+    "document_group": "10-K",
+    "endpoints": [
+        "Part I",
+        "Item 1A. Risk Factors."
+    ],
+    "sec_company_name": "JPMORGAN CHASE & CO (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000019617",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000057/0000019617-18-000057-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180227",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/19617/000001961718000057/0000019617-18-000057.txt"
+}

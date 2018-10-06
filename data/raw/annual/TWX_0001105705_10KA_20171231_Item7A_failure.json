@@ -1,0 +1,34 @@
+{
+    "section_n_characters": null,
+    "section_end_time": "2018-09-30 04:11:38.481730",
+    "sec_accepted_date": "20180427110104",
+    "document_type": "10KA",
+    "original_file_size": "1018811 chars",
+    "output_file": null,
+    "original_file_name": "",
+    "company_description": "TWX",
+    "sec_changed_date": "20180427",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/TWX_0001105705_10KA_20171231_Item7A_failure.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 1.5,
+    "document_group": "10-K",
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "sec_company_name": "TIME WARNER INC. (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001105705",
+    "sec_form_header": "Form 10-K/A",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "section_name": "Item7A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1105705/000119312518137203/0001193125-18-137203-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180427",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1105705/000119312518137203/0001193125-18-137203.txt"
+}

@@ -1,0 +1,34 @@
+{
+    "endpoints": [
+        "na",
+        "na"
+    ],
+    "output_file": null,
+    "section_n_characters": null,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180808",
+    "sec_accepted_date": "20180808130719",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001364742",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/BLK_0001364742_10Q_20180630_Item1A_failure.json",
+    "company_description": "BLK",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1364742/000156459018020313/0001564590-18-020313.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180808",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [
+        "Extraction did not work for HTML file"
+    ],
+    "original_file_size": "8667119 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1364742/000156459018020313/0001564590-18-020313-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 5.6,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "BlackRock Inc. (Filer)",
+    "section_end_time": "2018-09-30 04:16:54.149021"
+}

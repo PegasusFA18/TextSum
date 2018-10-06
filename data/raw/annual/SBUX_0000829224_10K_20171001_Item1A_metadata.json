@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 39513,
+    "section_end_time": "2018-09-30 04:13:34.789998",
+    "sec_accepted_date": "20171117161018",
+    "document_type": "10K",
+    "original_file_size": "3625072 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/SBUX_0000829224_10K_20171001_Item1A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "SBUX",
+    "sec_changed_date": "20171117",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/SBUX_0000829224_10K_20171001_Item1A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171001",
+    "time_elapsed": 3.7,
+    "document_group": "10-K",
+    "endpoints": [
+        "Item 1A. Risk Factors ",
+        "Item 2.Properties"
+    ],
+    "sec_company_name": "STARBUCKS CORP (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000829224",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922417000049/0000829224-17-000049-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20171117",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922417000049/0000829224-17-000049.txt"
+}

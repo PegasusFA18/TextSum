@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 102010,
+    "section_end_time": "2018-09-30 04:12:20.331975",
+    "sec_accepted_date": "20180329091259",
+    "document_type": "10K",
+    "original_file_size": "4957117 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/DVMT_0001571996_10K_20180202_Item1A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "DVMT",
+    "sec_changed_date": "20180329",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/DVMT_0001571996_10K_20180202_Item1A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20180202",
+    "time_elapsed": 5.8,
+    "document_group": "10-K",
+    "endpoints": [
+        "ITEM 1A — RISK FACTORS",
+        "ITEM 2 — PROPERTIES"
+    ],
+    "sec_company_name": "Dell Technologies Inc (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001571996",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1571996/000157199618000004/0001571996-18-000004-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180329",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1571996/000157199618000004/0001571996-18-000004.txt"
+}

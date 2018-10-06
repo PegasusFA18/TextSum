@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 19911,
+    "section_end_time": "2018-09-30 04:10:54.553674",
+    "sec_accepted_date": "20180205204629",
+    "document_type": "10K",
+    "original_file_size": "2815304 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/GOOGL_0001652044_10K_20171231_Item1_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "GOOGL",
+    "sec_changed_date": "20180205",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/GOOGL_0001652044_10K_20171231_Item1_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 2.8,
+    "document_group": "10-K",
+    "endpoints": [
+        "PART I",
+        "ITEM 1A.RISK FACTORS"
+    ],
+    "sec_company_name": "Alphabet Inc. (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001652044",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item1",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1652044/000165204418000007/0001652044-18-000007-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180206",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1652044/000165204418000007/0001652044-18-000007.txt"
+}

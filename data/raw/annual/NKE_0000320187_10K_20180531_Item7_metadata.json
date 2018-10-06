@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 90121,
+    "section_end_time": "2018-09-30 04:14:16.657090",
+    "sec_accepted_date": "20180724182239",
+    "document_type": "10K",
+    "original_file_size": "3219362 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/NKE_0000320187_10K_20180531_Item7_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "NKE",
+    "sec_changed_date": "20180724",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/NKE_0000320187_10K_20180531_Item7_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20180531",
+    "time_elapsed": 2.9,
+    "document_group": "10-K",
+    "endpoints": [
+        "ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk"
+    ],
+    "sec_company_name": "NIKE INC (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000320187",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item7",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/320187/000032018718000142/0000320187-18-000142-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180725",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/320187/000032018718000142/0000320187-18-000142.txt"
+}

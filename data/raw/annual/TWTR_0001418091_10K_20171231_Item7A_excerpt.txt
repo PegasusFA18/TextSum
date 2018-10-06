@@ -1,0 +1,27 @@
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+We have operations both within the United States and internationally, and we are exposed to market risks in the ordinary course of our business. These risks include primarily interest rate and foreign exchange risks.  
+
+Interest Rate Fluctuation Risk  
+
+Our investment portfolio mainly consists of short-term fixed income securities, including government and investment-grade debt securities and money market funds. These securities are classified as available-for-sale and, consequently, are recorded in the consolidated balance sheets at fair value with unrealized gains or losses, net of tax reported as a separate component of accumulated other comprehensive loss. Our investment policy and strategy is focused on the preservation of capital and supporting our liquidity requirements. We do not enter into investments for trading or speculative purposes.  
+
+A rise in interest rates could have a material adverse impact on the fair value of our investment portfolio. Based on our investment portfolio balance as of December 31, 2017, a hypothetical increase in interest rates of 100 basis points would result in a decrease of approximately $11.9 million in the fair value of our available-for-sale securities. We currently do not hedge these interest rate exposures.  
+
+In 2014, we issued Notes with an aggregate principal amount of $1.89 billion. We carry the Notes at face value less amortized discount on the consolidated balance sheet. Since the Notes bear interest at fixed rates, we have no financial statement risk associated with changes in interest rates. However, the fair value of the Notes changes when the market price of our stock fluctuates or interest rates change. 
+
+Foreign Currency Exchange Risk  
+
+Transaction Exposure  
+
+We transact business in various foreign currencies and have international revenue, as well as costs denominated in foreign currencies, primarily the Euro, British Pound, Singapore Dollar and Japanese Yen. This exposes us to the risk of fluctuations in foreign currency exchange rates. Accordingly, changes in exchange rates, and in particular a continuing strengthening of the U.S. dollar, would negatively affect our revenue and other operating results as expressed in U.S. dollars.  
+
+We have experienced and will continue to experience fluctuations in our net loss as a result of transaction gains or losses related to revaluing and ultimately settling certain asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they are recorded. Net realized and unrealized foreign currency losses were $8.8 million in 2017. Net realized and unrealized foreign currency gains were $5.8 million and $1.8 million in 2016 and 2015, respectively. We currently utilize foreign currency forward contracts with financial institutions to reduce the risk that our earnings may be adversely affected by the impact of exchange rate fluctuations on monetary assets or liabilities denominated in currencies other than the local currency of a subsidiary. These contracts are not designated as hedging instruments. We may in the future enter into other derivative financial instruments if it is determined that such hedging activities are appropriate to further reduce our foreign currency exchange risk. Based on our foreign currency exposures from monetary assets and liabilities net of our open hedge position, we estimated that a 10% change in exchange rates against the U.S. dollars would have resulted in a gain or loss of approximately $5.9 million as of December 31, 2017. 
+
+Translation Exposure  
+
+We are also exposed to foreign exchange rate fluctuations as we translate the financial statements of our foreign subsidiaries into U.S. dollars in consolidation. If there is a change in foreign currency exchange rates, the translating adjustments resulting from the conversion of our foreign subsidiaries’ financial statements into U.S. dollars would result in a gain or loss recorded as a component of accumulated other comprehensive loss which is part of stockholders’ equity.  
+
+68 
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

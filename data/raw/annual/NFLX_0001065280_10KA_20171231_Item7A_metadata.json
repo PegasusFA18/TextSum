@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 3242,
+    "section_end_time": "2018-09-30 04:11:20.641188",
+    "sec_accepted_date": "20180202191316",
+    "document_type": "10KA",
+    "original_file_size": "1912419 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/NFLX_0001065280_10KA_20171231_Item7A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "NFLX",
+    "sec_changed_date": "20180202",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/NFLX_0001065280_10KA_20171231_Item7A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171231",
+    "time_elapsed": 1.8,
+    "document_group": "10-K",
+    "endpoints": [
+        "Item 7A.Quantitative and Qualitative Disclosures about Market Risk",
+        "Item 8.Financial Statements and Supplementary Data"
+    ],
+    "sec_company_name": "NETFLIX INC (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0001065280",
+    "sec_form_header": "Form 10-K/A",
+    "warnings": [],
+    "section_name": "Item7A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1065280/000162828018000941/0001628280-18-000941-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180205",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1065280/000162828018000941/0001628280-18-000941.txt"
+}

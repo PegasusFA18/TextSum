@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 2: Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+        "Item 3. Quantitative and Qualitative Disclosures about Market Risk."
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/DIS_0001001039_10Q_20180630_Item2_excerpt.txt",
+    "section_n_characters": 70952,
+    "section_name": "Item2",
+    "sec_changed_date": "20180807",
+    "sec_accepted_date": "20180807170849",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001001039",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/DIS_0001001039_10Q_20180630_Item2_metadata.json",
+    "company_description": "DIS",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1001039/000100103918000134/0001001039-18-000134.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180807",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "2235336 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1001039/000100103918000134/0001001039-18-000134-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 2.6,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "WALT DISNEY CO/ (Filer)",
+    "section_end_time": "2018-09-30 04:15:33.004646"
+}

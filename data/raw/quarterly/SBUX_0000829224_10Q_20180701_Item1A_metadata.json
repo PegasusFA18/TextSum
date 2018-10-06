@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 1A.Risk Factors",
+        "Item 2.Unregistered Sales of Equity Securities and Use of Proceeds"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/SBUX_0000829224_10Q_20180701_Item1A_excerpt.txt",
+    "section_n_characters": 179,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180731",
+    "sec_accepted_date": "20180731161800",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0000829224",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/SBUX_0000829224_10Q_20180701_Item1A_metadata.json",
+    "company_description": "SBUX",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922418000037/0000829224-18-000037.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180731",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "2191996 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/829224/000082922418000037/0000829224-18-000037-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 2.1,
+    "sec_period_of_report": "20180701",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "STARBUCKS CORP (Filer)",
+    "section_end_time": "2018-09-30 04:17:00.180591"
+}

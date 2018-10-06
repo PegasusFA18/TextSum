@@ -1,0 +1,32 @@
+{
+    "section_n_characters": 8708,
+    "section_end_time": "2018-09-30 04:13:44.750497",
+    "sec_accepted_date": "20180122160726",
+    "document_type": "10K",
+    "original_file_size": "3490911 chars",
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0005/001/ADBE_0000796343_10K_20171201_Item7A_excerpt.txt",
+    "original_file_name": "",
+    "company_description": "ADBE",
+    "sec_changed_date": "20180122",
+    "batch_number": 5,
+    "extraction_method": "html",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0005/001/ADBE_0000796343_10K_20171201_Item7A_metadata.json",
+    "batch_signature": "",
+    "sec_period_of_report": "20171201",
+    "time_elapsed": 3.5,
+    "document_group": "10-K",
+    "endpoints": [
+        "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA"
+    ],
+    "sec_company_name": "ADOBE SYSTEMS INC (Filer)",
+    "batch_start_time": "2018-09-30 04:10:48.356565",
+    "sec_cik": "0000796343",
+    "sec_form_header": "Form 10-K",
+    "warnings": [],
+    "section_name": "Item7A",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/796343/000079634318000015/0000796343-18-000015-index.htm",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "sec_filing_date": "20180122",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/796343/000079634318000015/0000796343-18-000015.txt"
+}

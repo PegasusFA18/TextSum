@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "ITEM 1A.RISK FACTORS ",
+        "ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/GOOGL_0001652044_10Q_20180630_Item1A_excerpt.txt",
+    "section_n_characters": 593,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180723",
+    "sec_accepted_date": "20180723210256",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001652044",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/GOOGL_0001652044_10Q_20180630_Item1A_metadata.json",
+    "company_description": "GOOGL",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1652044/000165204418000027/0001652044-18-000027.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180724",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "1933818 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1652044/000165204418000027/0001652044-18-000027-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 1.7,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "Alphabet Inc. (Filer)",
+    "section_end_time": "2018-09-30 04:14:53.031910"
+}

@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  ",
+        "Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/TWTR_0001418091_10Q_20180630_Item2_excerpt.txt",
+    "section_n_characters": 50096,
+    "section_name": "Item2",
+    "sec_changed_date": "20180730",
+    "sec_accepted_date": "20180730164609",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0001418091",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/TWTR_0001418091_10Q_20180630_Item2_metadata.json",
+    "company_description": "TWTR",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/1418091/000156459018017905/0001564590-18-017905.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180730",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "3232026 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/1418091/000156459018017905/0001564590-18-017905-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 2.3,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "TWITTER, INC. (Filer)",
+    "section_end_time": "2018-09-30 04:16:11.193138"
+}

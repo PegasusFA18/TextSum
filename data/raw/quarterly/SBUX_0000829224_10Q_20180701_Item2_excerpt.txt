@@ -1,0 +1,438 @@
+Item 2.Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+CAUTIONARY STATEMENT PURSUANT TO THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+Certain statements herein, including statements regarding trends in or expectations relating to the expected effects of our initiatives and plans, as well as trends in or expectations regarding revenues, operating margins, comparable store sales, anticipated net new stores, the effects of foreign currency translation, the East China acquisition, our global coffee alliance with Nestlé, the closure of Teavana stores and other streamlining activities, earnings per share, tax rates, capital expenditures, sales leverage, other financial results, the health, strength and growth of our business overall and of specific businesses or markets, benefits of recent initiatives, investments in our business and partners, including our continued focus on operational excellence, product innovation and digital interactions with our customers, business opportunities and expansion, strategic acquisitions, expenses, dividends, share repurchases, commodity costs and our mitigation strategies, liquidity, cash flow from operations, use of cash and cash requirements, borrowing capacity and use of proceeds, repatriation of cash to the U.S., the potential issuance of debt and applicable interest rate, the expected effects of new accounting pronouncements and the estimated impact of changes in U.S. tax law, including on tax rates, investments funded by these changes, and potential outcomes and effects of legal proceedings, constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements are based on currently available operating, financial and competitive information and are subject to various risks and uncertainties. Actual future results and trends may differ materially depending on a variety of factors, including, but not limited to, fluctuations in U.S. and international economies and currencies, our ability to preserve, grow and leverage our brands, potential negative effects of incidents involving food or beverage-borne illnesses, tampering, adulteration, contamination or mislabeling, potential negative effects of material breaches of our information technology systems to the extent we experience a material breach, material failures of our information technology systems, costs associated with, and the successful execution of, the company's initiatives and plans, including the integration of Starbucks Japan, the integration of East China, the closing of our global coffee alliance with Nestlé and the closure of Teavana stores, the acceptance of the company's products by our customers, the impact of competition, coffee, dairy and other raw materials prices and availability, the effect of legal proceedings, the effects of the Tax Cuts and Jobs Act and related guidance and regulations that may be promulgated, and other risks detailed in our filings with the SEC, including in Part I Item IA “Risk Factors” in the 10-K.
+
+A forward-looking statement is neither a prediction nor a guarantee of future events or circumstances, and those future events or circumstances may not occur. You should not place undue reliance on the forward-looking statements, which speak only as of the date of this report. We are under no obligation to update or alter any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+This information should be read in conjunction with the condensed consolidated financial statements and the notes included in Item 1 of Part I of this 10-Q and the audited consolidated financial statements and notes, and Management’s Discussion and Analysis of Financial Condition and Results of Operations, contained in the 10-K.
+
+General
+
+Our fiscal year ends on the Sunday closest to September 30. All references to store counts, including data for new store openings, are reported net of store closures, unless otherwise noted.
+
+Overview
+
+Overall, Starbucks net revenue grew 11% to $6.3 billion in its third quarter of fiscal 2018. This was primarily driven by incremental revenues from the ownership change in East China, incremental revenues from 2,015 net new Starbucks® store openings over the last 12 months, favorable foreign currency translation and global comparable store sales growth of 1%. These increases were partially offset by the closure of our Teavana retail stores. Consolidated operating income decreased $6.0 million, or 0.6%, to $1.0 billion. Operating margin declined 190 basis points to 16.5%. This is primarily due to higher investments in our partners (employees), largely in the Americas, product mix shift that is mainly food-related, the impact of our ownership change in East China, and the anti-bias training costs, partially offset by lower restructuring and impairment expenses. On May 29, 2018, we closed our company-operated U.S. stores in the afternoon to conduct anti-bias training for our store and support center partners (employees). The costs to administer this training primarily related to production of training materials and store labor.
+
+Starbucks results for the first three quarters of fiscal 2018 reflect the impact of certain restructuring and streamlining efforts, initiated during the fourth quarter of fiscal 2017, to focus on accelerating growth in high-returning businesses and removing non-core, slow growth activities. These efforts primarily include the acquisition of our East China joint venture, the conversion of our Singapore, Taiwan and Brazil operations to licensed models, the closure of TeavanaTM/MC retail stores and the sale of the Tazo brand, among other actions. These streamlining efforts span across all segments and our corporate functions. 
+
+28
+The Company's largest acquisition to date affects our CAP segment. As a result of acquiring the remaining interest in our East China joint venture at the end of the first quarter of fiscal 2018, we began recording 100% of its revenues and expenses on our condensed consolidated statements of earnings at the beginning of the second quarter of fiscal 2018. This is in contrast with our previous joint venture model, where we recorded only revenues and expenses from products sales to and royalties received from East China, as well as our proportionate share of the joint venture's net profit. The change from equity method to consolidation method lowered the operating margin of our Consolidated and CAP segment results, primarily due to incremental depreciation and amortization expenses and lower income from equity investees. We expect its operating margin will be more in line with our other retail operations over time. 
+
+Americas revenue grew by 6% to $4.2 billion, primarily driven by incremental revenues from 902 net new store openings over the past 12 months and comparable store sales growth of 1%. Operating income declined $66 million to $909 million and operating margin of 21.5% declined 290 basis points from a year ago, primarily due to higher investments in our store partners, food-related mix shift, and the impact of the May 29th anti-bias training, partially offset by sales leverage. 
+
+In our China/Asia Pacific segment, revenues grew by 46% to $1.2 billion, primarily driven by incremental revenues from the impact of our ownership change in East China, incremental revenues from 746 net new stores over the past 12 months, and favorable foreign currency translation. These increases were partially offset by the absence of company-operated store revenue related to the conversion of our Singapore retail operations to fully licensed operations in the fourth quarter of fiscal 2017 and a 1% decrease in comparable store sales. Operating income grew 5% to $234 million, while operating margin declined 760 basis points to 19.0%, primarily due to the impact of our ownership change in East China.
+
+In our EMEA segment, revenues increased $26 million, or 10%, primarily driven by incremental revenues from the opening of 375 net new licensed stores over the past 12 months and favorable foreign currency translation. Operating margin of 12.7% expanded 880 basis points primarily driven by lapping the prior year partial impairment of goodwill related to our Switzerland retail business and favorable foreign currency impact on cost of sales, partially offset by business process optimization expenses. 
+
+Channel Development segment revenues grew by 6% to $509 million, primarily driven by higher sales in packaged coffee, foodservice and international channels and higher premium single-serve products, partially offset by the absence of revenue from the sale of our Tazo brand in the first quarter of fiscal 2018. Operating income grew 1% to $213 million, while operating margin declined 210 basis points to 41.8% in the third quarter of fiscal 2018, primarily driven by the impact of streamline activities, including the sale of our Tazo brand, and lower income from our North American Coffee Partnership joint venture. 
+
+In December 2017, the U.S. government enacted comprehensive tax legislation into law H.R. 1, commonly referred to as the Tax Cuts and Jobs Act (the “Tax Act”), which significantly changes existing U.S. tax law and includes numerous provisions that affect our business. As a fiscal year taxpayer, the Company is not subject to the majority of the provisions until fiscal 2019. However, for the first three fiscal quarters and full year fiscal 2018, the Company has applied a blended corporate income tax rate of 24.5% from the previous 35%, and remeasured its U.S. federal net deferred tax liabilities to the newly enacted tax rates. These estimated tax benefits were partially offset by the provisional amount recorded for the one-time repatriation tax on accumulated undistributed earnings of foreign subsidiaries and certain equity investments that are indefinitely reinvested. Collectively, the Tax Act did not materially affect the Company’s net earnings during the quarter.
+
+Fiscal 2018 — Financial Outlook for the Year
+
+For fiscal 2018, we expect consolidated revenue growth in the high-single-digits when compared to fiscal 2017, with approximately 2% of net favorability from the acquisition of East China and other streamlining activities such as the sale of our Tazo brand and conversion of our Singapore, Taiwan and Brazil operations to licensed models, as well as the closure of our Teavana retail stores. Revenue growth for fiscal 2018 is expected to be driven by approximately 2,300 net new Starbucks stores worldwide, comparable store sales and our continued focus on operational excellence, product innovation and enhancing our digital interactions with customers. Approximately 1,100 net new store openings will be in our China/Asia Pacific segment, approximately 900 net new stores coming from the Americas segment and the remaining store growth from the EMEA segment. Global comparable store sales growth for fiscal 2018 is expected to be just below our targeted long-term 3% to 5% range.
+
+We expect operating margin to decline moderately as compared to fiscal 2017, when excluding China/Asia Pacific transaction and integration costs as well as restructuring and impairment costs. Inclusive in this decline is incremental investment in our partners (employees) and digital initiatives funded by the savings from the Tax Act as well as the impact of the May 29th anti-bias training. 
+
+Earnings per share is expected to be in the range of $3.26 to $3.28 for full year fiscal 2018, which includes a $0.99 benefit from the East China acquisition gain, the largest portion of which was recognized in our first quarter of fiscal 2018, and a $0.03 impact as a result of the May 29th anti-bias training for U.S. partners. 
+
+29
+In May 2018, we entered into an agreement to establish a global coffee alliance with Nestlé S.A. (“Nestlé”) to grow the Starbucks consumer packaged goods and foodservice businesses. Nestlé will license the rights to market, sell, and distribute Starbucks products in authorized channels. The change from a company-operated to a licensing model will primarily impact the results of our Channel Development segment. If the transaction (“Nestlé Alliance”) closes in late fiscal 2018, we expect an additional dilutive EPS impact of $0.02-$0.03 to our full year results. 
+
+We expect our fiscal 2018 consolidated effective tax rate to be approximately 23%, which includes a 6% benefit from the East China acquisition gain that is not subject to income tax and approximately 5% benefit from the enacted Tax Act. The benefit from the Tax Act included 3% of net expense related to the required transition tax partially offset by a benefit from remeasuring our net deferred tax liabilities. We continue to assess the effects of the Tax Act on our consolidated financial statements, and because of our ongoing assessment, the actual effective tax rate for fiscal 2018 may differ from our initial estimate, primarily due to changes in interpretations of the Tax Act, any legislative or regulatory actions to address questions that arise, any related changes in accounting standards, or any updates or changes to estimates the Company has utilized to calculate the impacts. 
+
+Comparable Store Sales
+
+Starbucks comparable store sales for the third quarter of fiscal 2018:
+
+[DATA_TABLE_REMOVED]
+
+(1) Company-operated stores represent 15% of the EMEA segment store portfolio as of July 1, 2018.
+
+Our comparable store sales represent the growth in revenues from Starbucks® company-operated stores open 13 months or longer. Comparable store sales exclude the effect of foreign currency translation. Refer to our Quarterly Store Data also included in Item 2 of Part I of this 10-Q, for additional information on our company-operated and licensed store portfolio.
+
+Results of Operations (in millions)
+
+Revenues
+
+[DATA_TABLE_REMOVED]
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Total net revenues for the third quarter of fiscal 2018 increased $649 million compared to a year ago, primarily due to increased revenues from company-operated stores ($551 million). The growth in company-operated store revenues was driven by incremental revenues from the impact of our ownership change in East China ($301 million), incremental revenues from 816 net new Starbucks® company-operated store openings over the past 12 months ($243 million) and favorable foreign currency translation ($55 million). Also contributing was a 1% increase in comparable store sales ($30 million), attributable to a 3% increase in average ticket, partially offset by the absence of revenue from the closure of our Teavana retail stores ($35 million) and the sale of our Singapore retail operations in the fourth quarter of fiscal 2017 ($30 million).
+
+Licensed store revenue growth also contributed to the increase in total net revenues ($72 million), primarily due to increased product and equipment sales to and royalty revenues from our licensees ($72 million), largely due to the opening of 1,199 net new Starbucks® licensed stores over the past 12 months, the conversions of both the Singapore and Taiwan markets to fully licensed in the fourth quarter of fiscal 2017 and the first quarter of fiscal 2018, respectively ($13 million), and favorable foreign currency translation ($3 million). These increases were partially offset by the impact of our ownership change in East China ($18 million).
+
+30
+CPG (consumer packaged goods), foodservice and other revenues increased $25 million, primarily driven by the increase in premium single-serve sales ($14 million), increased sales of packaged coffee ($14 million) and higher sales through our international channels, largely associated with our Americas region ($11 million), partially offset by the absence of revenue from the sale of our Tazo brand in the first quarter of fiscal 2018 ($13 million).
+
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017 
+
+Total net revenues for the first three quarters of fiscal 2018 increased $1.7 billion compared to a year ago, primarily due to increased revenues from company-operated stores ($1.5 billion). The growth in company-operated store revenues was driven by incremental revenues from 816 net new Starbucks® company-operated store openings over the past 12 months ($668 million), incremental revenues from the impact of our ownership change in East China ($603 million) and a 2% increase in comparable store sales ($196 million), attributable to a 3% increase in average ticket. Also contributing was favorable foreign currency translation ($158 million), partially offset by the absence of revenue from the sale of our Singapore retail operations in the fourth quarter of fiscal 2017 ($90 million) and the closure of our Teavana retail stores ($77 million).
+
+Licensed store revenue growth also contributed to the increase in total net revenues ($231 million), primarily due to increased product and equipment sales to and royalty revenues from our licensees ($214 million), largely due to the opening of 1,199 net new Starbucks® licensed stores over the past 12 months, the conversions of both Singapore and Taiwan markets to fully licensed in the fourth quarter of fiscal 2017 and the first quarter of fiscal 2018, respectively ($31 million) and favorable foreign currency translation ($20 million). These increases were partially offset by the impact of our ownership change in East China ($34 million).
+
+CPG (consumer packaged goods), foodservice and other revenues increased $40 million, primarily driven by higher premium single-serve sales ($38 million), increased packaged coffee sales ($29 million), higher revenues through our international channels, largely associated with our Americas region ($20 million) and foodservice sales ($15 million). Partially offsetting these increases was the absence of revenue from the sale of our Tazo brand in the first quarter of fiscal 2018 ($47 million). 
+
+Operating Expenses
+
+[DATA_TABLE_REMOVED]
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Cost of sales including occupancy costs as a percentage of total net revenues increased 80 basis points for the third quarter of fiscal 2018, primarily due to a product-related mix shift (approximately 110 basis points), largely food-related in the Americas segment.
+
+Store operating expenses as a percentage of total net revenues increased 10 basis points for the third quarter of fiscal 2018. Store operating expenses as a percentage of company-operated store revenues were flat, primarily due to sales leverage 
+
+31
+(approximately 90 basis points) and the impact of our ownership change in East China (approximately 70 basis points), partially offset by increased partner investments (approximately 140 basis points), largely in the Americas segment. 
+
+Other operating expenses as a percentage of total revenues decreased 20 basis points for the third quarter of fiscal 2018. Other operating expenses as a percentage of non-retail revenues decreased 60 basis points, primarily driven by sales leverage (approximately 90 basis points) and lower marketing expenses (approximately 30 basis points), partially offset by costs associated with the previously announced Nestlé Alliance (approximately 40 basis points).
+
+Depreciation and amortization expenses as a percentage of total net revenues increased 70 basis points, primarily due to the ownership change in East China (approximately 70 basis points).
+
+General and administrative expenses as a percentage of total net revenues increased 170 basis points, primarily driven by the May 29th anti-bias training (approximately 50 basis points), higher salaries and benefits related to digital platforms, technology infrastructure and innovations (approximately 40 basis points) and the 2018 U.S. stock award (approximately 40 basis points).
+
+Restructuring and impairment expenses decreased $103 million, primarily due to lower restructuring expense recorded in the third quarter of fiscal 2018 compared to the third quarter of fiscal 2017 related to the strategic changes in TeavanaTM/MC retail stores ($103 million) and lapping of the prior year goodwill impairment expense associated with our Switzerland company operated retail reporting unit ($18 million), partially offset by higher asset impairments associated with the decision to close certain company-operated U.S. stores ($17 million).
+
+Income from equity investees decreased $30 million, primarily due to the impact of our ownership changes in East China.
+
+The combination of these changes resulted in an overall decrease in operating margin of 190 basis points for the third quarter of fiscal 2018.
+
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017 
+
+Cost of sales including occupancy costs as a percentage of total net revenues increased 100 basis points for the first three quarters of fiscal 2018, primarily due to a food-related mix shift (approximately 110 basis points), largely in the Americas segment.
+
+Store operating expenses as a percentage of total net revenues were flat for the first three quarters of fiscal 2018. Store operating expenses as a percentage of company-operated store revenues decreased 20 basis points, primarily driven by the impact of our ownership change in East China (approximately 50 basis points).
+
+Other operating expenses as a percentage of total revenues decreased 20 basis points for the first three quarters of fiscal 2018. Other operating expenses as a percentage of non-retail revenues decreased 80 basis points, primarily driven by sales leverage (approximately 90 basis points) and lower marketing expenses (approximately 40 basis points), partially offset by costs associated with the previously announced Nestlé Alliance (approximately 20 basis points).
+
+Depreciation and amortization expenses as a percentage of total net revenues increased 50 basis points, primarily due to the impact of our ownership change in East China (approximately 50 basis points). 
+
+General and administrative expenses as a percentage of total net revenues increased 80 basis points, primarily due to higher salaries and benefits related to digital platforms, technology infrastructure and innovations (approximately 50 basis points) and the 2018 U.S. stock award (approximately 20 basis points).
+
+Restructuring and impairment expenses increased $59 million, primarily due to higher restructuring expense recorded for the first three quarters of fiscal 2018 compared to the first three quarters of fiscal 2017 related to the strategic changes in TeavanaTM/MC retail stores ($27 million), higher asset impairments associated with the decision to close certain company-operated U.S. and Canada stores ($21 million) and higher impairment expense associated with our Switzerland company operated retail reporting unit ($11 million). 
+
+Income from equity investees decreased $56 million, primarily due to the impact of our ownership changes in East China and Taiwan joint ventures and lower income from our North American Coffee Partnership joint venture, partially offset by higher South Korea joint venture income.
+
+The combination of these changes resulted in an overall decrease in operating margin of 270 basis points for the first three quarters of fiscal 2018.
+
+32
+Other Income and Expenses 
+
+[DATA_TABLE_REMOVED]
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Interest expense increased $22 million primarily related to additional interest incurred on long-term debt issued in November 2017 and March 2018.
+
+The effective tax rate for the quarter ended July 1, 2018 was 17.0% compared to 34.3% for the same quarter in fiscal 2017. The decrease was primarily due to the Tax Act (approximately 950 basis points), the gain on the purchase of our East China joint venture that is not subject to income tax (approximately 610 basis points) and lapping the prior year unfavorability from the non-deductible goodwill impairment charges (approximately 200 basis points). The impact from the Tax Act included favorability from the lower corporate income tax rate applied to our fiscal 2018 results (approximately 840 basis points), the remeasurement of our net deferred tax liabilities (approximately 70 basis points) and refining our provisional estimate of the transition tax on our accumulated undistributed foreign earnings (approximately 50 basis points). See Note 11, Income Taxes, for further discussion.
+
+Three quarters ended July 1, 2018 compared three quarters ended July 2, 2017 
+
+Gain resulting from acquisition of joint venture was due to remeasuring our preexisting 50% ownership interest in our East China joint venture to fair value upon acquisition.
+
+Net gain resulting from divestiture of certain operations primarily consists of sales of our Tazo brand and Taiwan joint venture, partially offset by the net loss from the sale of our Brazil retail operations in fiscal 2018. The prior year gain was related to an adjustment associated with estimated indemnifications related to the sale of our Germany retail operations. 
+
+Net interest income and other increased $41 million primarily due to recognizing higher breakage income on unredeemed stored value card balances, partially offset by lapping the gain on the sale of our investment in Square, Inc. warrants in the prior year period. 
+
+Interest expense increased $36 million primarily related to additional interest incurred on long-term debt issued in November 2017 and March 2018.
+
+The effective tax rate for the three quarters ended July 1, 2018 was 22.4% compared to 33.8% for the same period in fiscal 2017. The decrease was primarily due to the East China acquisition gain that is not subject to income tax (approximately 570 basis points) and the Tax Act (approximately 470 basis points). The impact from the Tax Act included favorability from the lower corporate income tax rate applied to our fiscal 2018 results (approximately 790 basis points) and the remeasurement of our net deferred tax liabilities (approximately 170 basis points). This favorability was partially offset by the estimated transition 
+
+33
+tax on our accumulated undistributed foreign earnings (approximately 480 basis points). See Note 11, Income Taxes, for further discussion.
+
+Segment Information
+
+Results of operations by segment (in millions):
+
+Americas 
+
+[DATA_TABLE_REMOVED]
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Revenues
+
+Americas total net revenues for the third quarter of fiscal 2018 increased $239 million, or 6%, primarily due to higher revenues from company-operated stores ($192 million) and licensed stores ($48 million).
+
+The increase in company-operated store revenues was driven by incremental revenues from 401 net new Starbucks® company-operated store openings over the past 12 months ($163 million) and a 1% increase in comparable store sales ($38 million), primarily attributable to a 4% increase in average ticket, partially offset by the conversion of our Brazil retail business to fully licensed operations in the second quarter of fiscal 2018 ($20 million). 
+
+The increase in licensed store revenues was driven by higher product sales to and royalty revenues from our licensees ($42 million), primarily resulting from the opening of 501 net new licensed stores over the past 12 months.
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues increased 120 basis points for the third quarter of fiscal 2018, primarily due to a food-related mix shift (approximately 90 basis points). 
+
+Store operating expenses as a percentage of total net revenues increased 70 basis points for the third quarter of fiscal 2018. Store operating expenses as a percentage of company-operated store revenues increased 100 basis points, primarily driven by increased investments in our store partners (approximately 160 basis points), which included incremental spend funded by the Tax Act, partially offset by sales leverage (approximately 50 basis points).
+
+34
+Other operating expenses as a percentage of total revenues were flat for the third quarter of fiscal 2018. Other operating expenses as a percentage of non-retail revenues decreased 60 basis points, primarily due to the receipt of a settlement in the third quarter of 2018 (approximately 40 basis points). 
+
+General and administrative expenses as a percentage of total net revenues increased 70 basis points, primarily driven by the May 29th anti-bias training (approximately 60 basis points).
+
+Restructuring expenses of $18 million were primarily due to asset impairments associated with the decision to close certain U.S. company-operated stores.
+
+The combination of these changes resulted in an overall decrease in operating margin of 290 basis points for the third quarter of fiscal 2018.
+
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017 
+
+Revenues
+
+Americas total net revenues for the first three quarters of fiscal 2018 increased $797 million, or 7%, primarily due to higher revenues from company-operated stores ($648 million) and licensed stores ($146 million).
+
+The increase in company-operated store revenues was driven by incremental revenues from 401 net new Starbucks® company-operated store openings over the past 12 months ($448 million) and a 2% increase in comparable store sales ($182 million), attributable to a 3% increase in average ticket, partially offset by the conversion of our Brazil retail business to fully licensed operations in the second quarter of fiscal 2018 ($20 million). 
+
+The increase in licensed store revenues was driven by higher product sales to and royalty revenues from our licensees ($132 million), primarily resulting from the opening of 501 net new licensed stores over the past 12 months.
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues increased 150 basis points for the first three quarters of fiscal 2018, primarily due to a food-related mix shift (approximately 150 basis points). 
+
+Store operating expenses as a percentage of total net revenues increased 20 basis points. Store operating expenses as a percentage of company-operated store revenues increased 50 basis points, primarily driven by increased investments in our store partners (approximately 130 basis points), which included incremental spend funded by the Tax Act, partially offset by sales leverage (approximately 60 basis points) and lower marketing spend (approximately 20 basis points).
+
+General and administrative expenses as a percentage of total net revenues increased 30 basis points, primarily driven by the May 29th anti-bias training (approximately 20 basis points).
+
+Restructuring expenses of $21 million were primarily due to asset impairments associated with the decision to close certain U.S. company-operated stores and lease-related costs associated with the closure of certain company-operated stores in Canada.
+
+The combination of these changes resulted in an overall decrease in operating margin of 210 basis points for the first three quarters of fiscal 2018.
+
+35
+China/Asia Pacific
+
+[DATA_TABLE_REMOVED]
+
+Discussion of our China/Asia Pacific segment results below reflects the impact of fully consolidating our East China business due to the ownership change from an equity method joint venture to a company-operated market since the acquisition date of December 31, 2017. Under the joint venture model, we recognized royalties and product sales within revenue and related product cost of sales as well as our proportionate share of East China's net earnings, which we recognized within income from equity investees. This resulted in a higher operating margin. Under the company-operated ownership model, East China’s operating results are reflected in most income statement lines of this segment and will have an operating margin more in line with that of our other retail businesses over time.
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Revenues
+
+China/Asia Pacific total net revenues for the third quarter of fiscal 2018 increased $388 million, or 46% over the prior year period, primarily driven by higher company-operated store revenues ($380 million), due to the impact of the ownership change in East China ($301 million), incremental revenues from 423 net new company-operated store openings over the past 12 months ($80 million), and favorable foreign currency translation ($37 million). These increases were partially offset by the conversion of our Singapore retail business to fully licensed operations in the fourth quarter of fiscal 2017 ($30 million) and a 1% decrease in comparable store sales ($8 million).
+
+Licensed store revenues increased $8 million driven by increased product sales to and royalty revenues from licensees ($12 million), primarily resulting from the opening of 323 net new licensed stores over the past 12 months, the conversion of our Taiwan joint venture to fully licensed operations in the first quarter of fiscal 2018 ($8 million) and the ownership change of our Singapore business ($5 million), partially offset by the impact of our ownership change in East China ($18 million).
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues decreased 100 basis points for the third quarter of fiscal 2018, primarily driven by the ownership change in East China (approximately 50 basis points).
+
+36
+Store operating expenses as a percentage of total net revenues were flat for the third quarter of fiscal 2018. As a percentage of company-operated store revenues, store operating expenses decreased 70 basis points, primarily due to the impact of the ownership change in East China (approximately 110 basis points).
+
+Other operating expenses as a percentage of total net revenues decreased 50 basis points for the third quarter of fiscal 2018. Excluding the impact of company-operated store revenues, other operating expenses increased 90 basis points in the third quarter, primarily due the impact of the ownership change in East China (approximately 390 basis points), partially offset by the impact of the ownership changes in Singapore and Taiwan (approximately 340 basis points).
+
+Depreciation and amortization expenses as a percentage of total net revenues increased 370 basis points, primarily due to the ownership change in East China (approximately 360 basis points).
+
+General and administrative expenses as a percentage of total net revenues increased 100 basis points for the third quarter of fiscal 2018, primarily due to the impact of the ownership change in East China (approximately 80 basis points).
+
+Income from equity investees decreased $28 million primarily due to the impact of our ownership changes in East China.
+
+The combination of these changes resulted in an overall decrease in operating margin of 760 basis points for the third quarter of fiscal 2018.
+
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017 
+
+Revenues
+
+China/Asia Pacific total net revenues for the first three quarters of fiscal 2018 increased $879 million, or 37% over the prior year period, primarily from higher company-operated store revenues ($842 million), due to the impact of our ownership change in East China ($603 million), incremental revenues from 423 net new company-operated store openings over the past 12 months ($220 million), favorable foreign currency translation ($91 million) and a 1% increase in comparable store sales ($18 million). Partially offsetting these increases was the conversion of our Singapore retail business to fully licensed operations in the fourth quarter of fiscal 2017 ($90 million).
+
+Licensed store revenues increased $34 million driven by increased product sales to and royalty revenues from licensees ($34 million), primarily resulting from the opening of 323 net new licensed stores over the past 12 months, the conversion of our Taiwan joint venture to fully licensed operations in the first quarter of fiscal 2018 ($17 million) and the conversion of our Singapore operations ($15 million). These increases were partially offset by the absence of revenues from our ownership change in East China ($34 million).
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues decreased 40 basis points for the first three quarters of fiscal 2018, primarily due to the ownership change in East China (approximately 50 basis points).
+
+Store operating expenses as a percentage of total net revenues decreased 40 basis points for the first three quarters of fiscal 2018. As a percentage of company-operated store revenues, store operating expenses decreased 90 basis points, primarily due to the ownership change in East China (approximately 80 basis points).
+
+Other operating expenses as a percentage of total net revenues decreased 50 basis points for the first three quarters of fiscal 2018. Excluding the impact of company-operated store revenues, other operating expenses decreased 90 basis points in the first three quarters, primarily due to the impact of the ownership changes in Singapore and Taiwan (approximately 260 basis points) and the lapping of certain business taxes (approximately 140 basis points), partially offset by the impact of our ownership change in East China (approximately 270 basis points).
+
+Depreciation and amortization expenses as a percentage of total net revenues increased 280 basis points primarily due to the ownership change in East China (approximately 270 basis points).
+
+General and administrative expenses as a percentage of total net revenues decreased 40 basis points for the first three quarters of fiscal 2018, primarily due to sales leverage on salaries and benefits (approximately 50 basis points), partially offset by the impact of the ownership change in East China (approximately 20 basis points).
+
+Income from equity investees decreased $47 million primarily due to the ownership changes in our East China in the first quarter of fiscal 2018.
+
+The combination of these changes and favorable foreign currency translation (approximately 50 basis points) resulted in an overall decrease in operating margin of 420 basis points for the first three quarters of fiscal 2018.
+
+37
+EMEA 
+
+[DATA_TABLE_REMOVED]
+
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017 
+
+Revenues
+
+EMEA total net revenues increased $26 million, or 10%, for the third quarter of fiscal 2018, primarily due to higher revenue from licensed stores ($18 million) and company-operated stores ($7 million).
+
+Company-operated stores increased $7 million or 5%, primarily due to favorable foreign currency translation ($8 million).
+
+Licensed store revenues increased $18 million, or 17%, due to higher product sales to and royalty revenues from our licensees ($16 million), primarily resulting from the opening of 375 net new licensed stores over the past 12 months, and favorable foreign currency translation ($3 million).
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues decreased 150 basis points for the third quarter of fiscal 2018, primarily due to favorable foreign currency impact on cost of sales (approximately 120 basis points) and sales leverage (approximately 40 basis points), partially offset by growth in our licensed stores which have a lower gross margin.
+
+Store operating expenses as a percentage of total net revenues decreased 40 basis points for the third quarter of fiscal 2018. As a percentage of company-operated store revenues, store operating expenses increased 110 basis points, primarily due to store asset impairments (approximately 150 basis points).
+
+Other operating expenses as a percentage of total net revenues decreased 20 basis points for the third quarter of fiscal 2018. Excluding the impact of company-operated store revenues, other operating expenses decreased 120 basis points, primarily due to sales leverage on our licensed store portfolio (approximately 120 basis points).
+
+Restructuring and impairment expenses decreased $18 million due to lapping the prior year partial goodwill impairment recorded in the prior year period for our Switzerland company operated retail reporting unit.
+
+The combination of these changes resulted in an overall increase in operating margin of 880 basis points for the third quarter of fiscal 2018.
+
+38
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017 
+
+Revenues
+
+EMEA total net revenues increased $81 million, or 11%, for the first three quarters of fiscal 2018, primarily due to higher revenue from licensed stores ($53 million) and company-operated stores ($23 million).
+
+Company-operated stores increased $23 million or 6% primarily due to favorable foreign currency translation ($32 million), partially offset by a decrease in comparable store sales ($3 million).
+
+Licensed store revenues increased $53 million, or 18%, due to higher product sales to and royalty revenues from our licensees ($34 million), primarily resulting from the opening of 375 net new licensed stores over the past 12 months and favorable foreign currency translation ($17 million). 
+
+Operating Expenses
+
+Cost of sales including occupancy costs as a percentage of total net revenues increased 60 basis points for the first three quarters of fiscal 2018, primarily due to growth in our licensed stores which have a lower gross margin (approximately 70 basis points).
+
+Store operating expenses as a percentage of total net revenues increased 30 basis points for the first three quarters of fiscal 2018. As a percentage of company-operated store revenues, store operating expenses increased 240 basis points for the first three quarters, primarily due to sales deleverage on salaries and benefits, largely due to increased minimum wage in certain markets (approximately 170 basis points) and store asset impairments (approximately 40 basis points).
+
+Other operating expenses as a percentage of total net revenues increased 20 basis points for the first three quarters of fiscal 2018. Excluding the impact of company-operated store revenues, other operating expenses decreased 30 basis points for the first three quarters, primarily due to sales leverage driven by the shift to more licensed stores (approximately 130 basis points), partially offset by business process optimization expenses (approximately 70 basis points).
+
+General and administrative expenses as a percentage of total net revenues increased 50 basis points, primarily due to business process optimization expenses (approximately 50 basis points).
+
+Restructuring and impairment expenses increased $11 million due to a higher goodwill impairment charge recorded for our Switzerland retail reporting unit in fiscal 2018 than in the prior year period.
+
+The combination of these changes resulted in an overall decrease in operating margin of 260 basis points for the first three quarters of fiscal 2018.
+
+Channel Development 
+
+[DATA_TABLE_REMOVED]
+
+39
+Quarter ended July 1, 2018 compared with quarter ended July 2, 2017
+
+Revenues
+
+Channel Development total net revenues for the third quarter of fiscal 2018 increased $30 million, or 6%, when compared to the prior year period primarily driven by increased sales in our packaged coffee, foodservice and international channels ($27 million) and higher sales of premium single-serve products ($14 million), partially offset by the net impact from the sale of our Tazo brand in the first quarter of fiscal 2018 ($13 million).
+
+Operating Expenses
+
+Cost of sales as a percentage of total net revenues increased 90 basis points for the third quarter, primarily driven by the impact of streamline activities, including the sale of our Tazo brand (approximately 150 basis points).
+
+Other operating expenses as a percentage of total net revenues increased 20 basis points, primarily driven by costs associated with the previously announced Nestlé Alliance (approximately 80 basis points) and higher performance-based compensation (approximately 50 basis points), partially offset by lower marketing expenses (approximately 80 basis points) and the impact from the sale of our Tazo brand (approximately 50 basis points).
+
+Income from equity investees decreased $1 million due to lower income from our North American Coffee Partnership joint venture, primarily driven by decreased sales of Frappuccino®, Doubleshot® and Iced Coffee beverages.
+
+The combination of these changes resulted in an overall decrease in operating margin of 210 basis points for the third quarter of fiscal 2018.
+
+Three quarters ended July 1, 2018 compared with three quarters ended July 2, 2017
+
+Revenues
+
+Channel Development total net revenues for the first three quarters of fiscal 2018 increased $76 million, or 5%, when compared to the prior year period primarily driven by our packaged coffee, foodservice and international channels ($63 million), higher sales of premium single-serve products ($38 million) and lapping a prior year revenue deduction adjustment ($13 million), partially offset by the absence of revenue from the sale of our Tazo brand, which occurred in the first quarter of fiscal 2018 ($47 million).
+
+Operating Expenses
+
+Cost of sales as a percentage of total net revenues decreased 10 basis points for the first three quarters, primarily driven by deleverage on cost of sales (approximately 30 basis points) and higher coffee costs (approximately 10 basis points), largely offset by lapping a revenue deduction adjustment recorded in the second quarter of fiscal 2017 (approximately 40 basis points).
+
+Other operating expenses as a percentage of total net revenues decreased 60 basis points for the first three quarters, primarily driven by lower marketing expenses (approximately 80 basis points), partially offset by costs associated with the previously announced Nestlé Alliance (approximately 30 basis points).
+
+Income from equity investees decreased $9 million due to lower income from our North American Coffee Partnership joint venture, primarily driven by decreased sales of Frappuccino®, Doubleshot® and Iced Coffee beverages.
+
+The combination of these changes resulted in an overall decrease in operating margin of 50 basis points for the first three quarters of fiscal 2018.
+
+40
+All Other Segments
+
+[DATA_TABLE_REMOVED]
+
+All Other Segments primarily includes Seattle’s Best Coffee as well as Starbucks Reserve® and Roastery businesses and Teavana-branded stores. Restructuring and impairment expenses, which were primarily due to our strategy to close TeavanaTM/MC retail stores, decreased $103 million in the third quarter of fiscal 2018 and increased $27 million in the first three quarters of fiscal 2018.
+
+41
+Quarterly Store Data
+
+Our store data for the periods presented is as follows:
+
+[DATA_TABLE_REMOVED]
+
+Financial Condition, Liquidity and Capital Resources
+
+Investment Overview
+
+Our cash and investments totaled $2.2 billion as of July 1, 2018 and $3.2 billion as of October 1, 2017. We actively manage our cash and investments in order to internally fund operating needs, make scheduled interest and principal payments on our borrowings, make acquisitions, and return cash to shareholders through common stock cash dividend payments and share repurchases. Our investment portfolio primarily includes highly liquid available-for-sale securities, including corporate debt securities, government treasury securities (foreign and domestic), mortgage and asset-backed securities and agency obligations. As of July 1, 2018, approximately $1.3 billion of our cash and investments were held in foreign subsidiaries. 
+
+Borrowing Capacity
+
+Our $2.0 billion unsecured 5-year revolving credit facility (the “2018 credit facility”) and our $1.0 billion unsecured 364-Day credit facility (the “364-day credit facility”) are available for working capital, capital expenditures and other corporate purposes, including acquisitions and share repurchases.
+
+The 2018 credit facility, of which $150 million may be used for issuances of letters of credit, is currently set to mature on October 25, 2022. We have the option, subject to negotiation and agreement with the related banks, to increase the maximum commitment amount by an additional $500 million. Borrowings under the credit facility will bear interest at a variable rate based on LIBOR, and, for U.S. dollar-denominated loans under certain circumstances, a Base Rate (as defined in the credit facility), in each case plus an applicable margin. The applicable margin is based on the better of (i) the Company's long-term credit ratings assigned by Moody's and Standard & Poor's rating agencies and (ii) the Company's fixed charge coverage ratio, pursuant to a pricing grid set forth in the five-year credit agreement. The current applicable margin is 1.000% for Eurocurrency Rate Loans and 0.00% (nil) for Base Rate Loans.
+
+42
+The 364-day credit facility, of which no amount may be used for issuances of letters of credit, is currently set to mature on October 25, 2018. We have the option, subject to negotiation and agreement with the related banks, to increase the maximum commitment amount by an additional $500 million. Borrowings under the credit facility will bear interest at a variable rate based on LIBOR, and, for U.S. dollar-denominated loans under certain circumstances, a Base Rate (as defined in the credit facility), in each case plus an applicable margin. The applicable margin is 0.585% for Eurocurrency Rate Loans and 0.00% (nil) for Base Rate Loans.
+
+Both credit facilities contain provisions requiring us to maintain compliance with certain covenants, including a minimum fixed charge coverage ratio, which measures our ability to cover financing expenses. As of July 1, 2018, we were in compliance with all applicable credit facility covenants.
+
+Under our commercial paper program, we may issue unsecured commercial paper notes up to a maximum aggregate amount outstanding at any time of $3 billion, with individual maturities that may vary but not exceed 397 days from the date of issue. Amounts outstanding under the commercial paper program are required to be backstopped by available commitments under our credit facility discussed above. The proceeds from borrowings under our commercial paper program may be used for working capital needs, capital expenditures and other corporate purposes, including, but not limited to, business expansion, payment of cash dividends on our common stock and share repurchases. We had borrowings of $300 million under our commercial paper program during the third quarter of fiscal 2018, all of which was outstanding at July 1, 2018.
+
+The indentures under which all of our Senior Notes were issued, as detailed in Note 8, Debt, to the condensed consolidated financial statements included in Item 1 of Part I of this 10-Q, require us to maintain compliance with certain covenants, including limits on future liens and sale and leaseback transactions on certain material properties. As of July 1, 2018, we were in compliance with all applicable covenants.
+
+On November 22, 2017, we issued long-term debt in an underwritten registered public offering, which consisted of $500 million of 3-year 2.200% Senior Notes (the “2020 notes”) due November 2020 and $500 million of 30-year 3.750% Senior Notes (the “2047 notes”) due December 2047. We will use the net proceeds from the offering for general corporate purposes, including repurchases of Starbucks common stock under our ongoing share repurchase program and payment of dividends. Interest on the 2020 notes is payable semi-annually on May 22 and November 22, commencing on May 22, 2018 and interest on the 2047 notes is payable semi-annually on June 1 and December 1, commencing on June 1, 2018. 
+
+On February 26, 2018, we issued long-term debt in an underwritten registered public offering, which consisted of $1 billion of 5-year 3.100% Senior Notes (the “2023 notes”) due March 2023 and $600 million of 10-year 3.500% Senior Notes (the “2028 notes”) due March 2028. We will use the net proceeds from the offering for general corporate purposes, including repurchases of Starbucks common stock under our ongoing share repurchase program and payment of dividends. Interest on the 2023 and 2028 notes is payable semi-annually on March 1 and September 1, commencing on September 1, 2018. 
+
+See Note 8, Debt, to the condensed consolidated financial statements included in Item 1 of Part I of this 10-Q for details of the components of our long-term debt.
+
+Use of Cash
+
+We expect to use our available cash and investments, including, but not limited to, additional potential future borrowings under the credit facilities, commercial paper program and the issuance of debt, to invest in our core businesses, including capital expenditures, new product innovations, related marketing support and partner and digital investments, return cash to shareholders through common stock cash dividend payments and share repurchases, as well as other new business opportunities related to our core and developing businesses such as Siren Retail. Further, we may use our available cash resources to make proportionate capital contributions to our investees. We may also seek strategic acquisitions to leverage existing capabilities and further build our business in support of our growth agenda. Acquisitions may include increasing our ownership interests in our investees. Any decisions to increase such ownership interests will be driven by valuation and fit with our ownership strategy. 
+
+We believe that future cash flows generated from operations and existing cash and investments both domestically and internationally combined with our ability to leverage our balance sheet through the issuance of debt will be sufficient to finance capital requirements for our core businesses as well as shareholder distributions for the foreseeable future. Significant new joint ventures, acquisitions and/or other new business opportunities may require additional outside funding. We have borrowed funds and continue to believe we have the ability to do so at reasonable interest rates; however, additional borrowings would result in increased interest expense in the future. In this regard, we may incur additional debt, within targeted levels, as part of our plans to fund our capital programs, including cash returns to shareholders through dividends and share repurchases.
+
+We consider the majority of undistributed earnings of our foreign subsidiaries and equity investees as of July 1, 2018 to be indefinitely reinvested, and accordingly no foreign withholding taxes have been provided on such earnings. We have not, nor do we anticipate the need for, repatriated funds to the U.S. to satisfy domestic liquidity needs. However, the Tax Act requires a one-time transition tax for deemed repatriation of accumulated undistributed earnings of certain foreign investments. This one-
+
+43
+time transition tax is payable over eight years, with most of the cash outlay expected to be made in the later years. In connection with our initial analysis, we have estimated a provisional amount of $266 million, of which $237 million of income taxes payable was included in other long-term liabilities on the condensed consolidated balance sheet, as of July 1, 2018. See Note 11, Income Taxes, for further discussion.
+
+We regularly review our cash positions and our determination of permanent reinvestment of foreign earnings. In the event we determine that all or a portion of such foreign earnings are no longer indefinitely reinvested, we may be subject to additional foreign withholding taxes and U.S. state income taxes, beyond the Tax Act's one-time transition tax, which could be material. We do not believe it is practicable to calculate the amount of unrecognized deferred income taxes as there is a significant amount of uncertainty around the calculation.
+
+During the third quarter of fiscal 2018, our Board of Directors declared a quarterly cash dividend to shareholders of $0.36 per share to be paid on August 24, 2018 to shareholders of record as of the close of business on August 9, 2018. 
+
+We repurchased 73.0 million shares of common stock, or $4.1 billion, during the first three quarters of fiscal 2018 under our ongoing share repurchase program. On April 26, 2018, the Company announced an additional 100 million shares being authorized for repurchase. The number of remaining shares authorized for repurchase as of July 1, 2018 totaled 107.3 million. 
+
+Other than normal operating expenses, cash requirements for the remainder of fiscal 2018 are expected to consist primarily of capital expenditures for investments in our new and existing stores, our developing Siren Retail business and our supply chain and corporate facilities. Total capital expenditures for fiscal 2018 are expected to be approximately $2.0 billion. 
+
+Cash Flows
+
+Cash provided by operating activities was $3.5 billion for the first three quarters of fiscal 2018, compared to $3.2 billion for the same period in fiscal 2017. The change was primarily due to timing of tax payments and changes in our working capital accounts. 
+
+Cash used by investing activities for the first three quarters of fiscal 2018 totaled $1.7 billion, compared to cash used by investing activities of $669.5 million for the same period in fiscal 2017. The change was primarily due to cash used to acquire the 50% ownership interest in our East China joint venture in the first quarter of fiscal 2018, partially offset by the proceeds from the divestiture of certain operations.
+
+Cash used by financing activities for the first three quarters of fiscal 2018 and fiscal 2017 totaled $2.4 billion and $1.9 billion, respectively. The increase in share repurchases in fiscal 2018 was largely offset by higher proceeds from issuance of long-term debt in the same period.
+
+Contractual Obligations
+
+In Management’s Discussion and Analysis of Financial Condition and Results of Operations included in the 10-K, we disclosed that we had $14.9 billion in total contractual obligations as of October 1, 2017. Other than the issuance of our 2023 notes and our 2028 notes in the second quarter of fiscal 2018 and the issuance of our 2020 notes and our 2047 notes in the first quarter of fiscal 2018 as described in Note 8, Debt, to the condensed consolidated financial statements included in Item 1 of Part I of this 10-Q, there have been no material changes to our total obligations during the period covered by this 10-Q outside of the normal course of our business.
+
+Off-Balance Sheet Arrangements
+
+There has been no material change in our off-balance sheet arrangements discussed in Management’s Discussion and Analysis of Financial Condition and Results of Operations included in the 10-K.
+
+Commodity Prices, Availability and General Risk Conditions
+
+Commodity price risk represents our primary market risk, generated by our purchases of green coffee and dairy products, among other items. We purchase, roast and sell high-quality arabica coffee and related products and risk arises from the price volatility of green coffee. In addition to coffee, we also purchase significant amounts of dairy products to support the needs of our company-operated stores. The price and availability of these commodities directly impact our results of operations, and we expect commodity prices, particularly coffee, to impact future results of operations. For additional details, see Product Supply in Item 1 of the 10-K, as well as Risk Factors in Item 1A of the 10-K.
+
+44
+Seasonality and Quarterly Results
+
+Our business is subject to moderate seasonal fluctuations, of which our fiscal second quarter typically experiences lower revenues and operating income. Additionally, as Starbucks Cards are issued to and loaded by customers during the holiday season, we tend to have higher cash flows from operations during the first quarter of the fiscal year. However, since revenues from Starbucks Cards are recognized upon redemption and not when cash is loaded onto the Card, the impact of seasonal fluctuations on the consolidated statements of earnings is much less pronounced. As a result of moderate seasonal fluctuations, results for any quarter are not necessarily indicative of the results that may be achieved for the full fiscal year.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+See Note 1, Summary of Significant Accounting Policies, to the condensed consolidated financial statements included in Item 1 of Part I of this 10-Q, for a detailed description of recent accounting pronouncements.
+
+Item 3.Quantitative and Qualitative Disclosures About Market Risk

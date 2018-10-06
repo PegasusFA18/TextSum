@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+        "ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/ADBE_0000796343_10Q_20180831_Item2_excerpt.txt",
+    "section_n_characters": 45014,
+    "section_name": "Item2",
+    "sec_changed_date": "20180926",
+    "sec_accepted_date": "20180926161019",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0000796343",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/ADBE_0000796343_10Q_20180831_Item2_metadata.json",
+    "company_description": "ADBE",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/796343/000079634318000160/0000796343-18-000160.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180926",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "2346243 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/796343/000079634318000160/0000796343-18-000160-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 2.2,
+    "sec_period_of_report": "20180831",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "ADOBE SYSTEMS INC (Filer)",
+    "section_end_time": "2018-09-30 04:17:05.873735"
+}

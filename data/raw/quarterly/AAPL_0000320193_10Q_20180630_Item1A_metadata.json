@@ -1,0 +1,32 @@
+{
+    "endpoints": [
+        "Item 1A.Risk Factors",
+        "Item 2.Unregistered Sales of Equity Securities and Use of Proceeds"
+    ],
+    "output_file": "SEC-EDGAR-text/output_files_examples/batch_0006/001/AAPL_0000320193_10Q_20180630_Item1A_excerpt.txt",
+    "section_n_characters": 55723,
+    "section_name": "Item1A",
+    "sec_changed_date": "20180801",
+    "sec_accepted_date": "20180801163148",
+    "batch_machine_id": "Pangs-MacBook-Pro.local",
+    "document_type": "10Q",
+    "sec_cik": "0000320193",
+    "metadata_file_name": "SEC-EDGAR-text/output_files_examples/batch_0006/001/AAPL_0000320193_10Q_20180630_Item1A_metadata.json",
+    "company_description": "AAPL",
+    "batch_start_time": "2018-09-30 04:14:47.578214",
+    "sec_url": "https://www.sec.gov//Archives/edgar/data/320193/000032019318000100/0000320193-18-000100.txt",
+    "batch_signature": "",
+    "sec_filing_date": "20180801",
+    "original_file_name": "",
+    "batch_number": 6,
+    "document_group": "10-Q",
+    "warnings": [],
+    "original_file_size": "1716931 chars",
+    "sec_index_url": "https://www.sec.gov//Archives/edgar/data/320193/000032019318000100/0000320193-18-000100-index.htm",
+    "extraction_method": "html",
+    "time_elapsed": 1.5,
+    "sec_period_of_report": "20180630",
+    "sec_form_header": "Form 10-Q",
+    "sec_company_name": "APPLE INC (Filer)",
+    "section_end_time": "2018-09-30 04:15:10.203058"
+}
