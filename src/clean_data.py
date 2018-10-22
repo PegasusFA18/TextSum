@@ -54,7 +54,6 @@ def save_cleaned_reports(reports, names, clean_dir):
         f.write(report)
         f.close()
 
-
 def main():
     for raw_dir, clean_dir in zip(raw_data_directories, clean_data_directories):
         reports, names = load_raw_reports(raw_dir)

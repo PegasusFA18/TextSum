@@ -116,3 +116,8 @@ dmypy.json
 
 # Data related files
 data/cleaned/*
+models/*
+summaries/*
+
+# Visual Studio Code related stuff
+.vscode
