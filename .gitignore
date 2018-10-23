@@ -114,3 +114,5 @@ dmypy.json
 # Mac OS files
 .DS_Store
 
+skip-thoughts/models/*
+
