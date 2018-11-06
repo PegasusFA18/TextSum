@@ -1,7 +1,6 @@
 # A script that generates a folder data/cleaned
 from nltk.tokenize import sent_tokenize
 import os
-from collections import Counter
 import nltk
 
 undesired_phrases = ['DATA_TABLE_REMOVED', '| 2017 Form 10-K |']
@@ -10,6 +9,8 @@ raw_data_directories = ['../data/raw/annual/', '../data/raw/quarterly/']
 clean_data_directories = ['../data/cleaned/annual/', '../data/cleaned/quarterly/']
 
 def filter_sentence(sentence):
+    if len(sentence.split()) < 3:
+        return False
     for phrase in undesired_phrases:
         if phrase in sentence:
             return False
@@ -19,7 +20,7 @@ def clean_sentence(sentence):
     ret = sentence
     for char in undesired_characters:
         ret = ret.replace(char, '')
-    return ret
+    return ret.lower()
 
 def sentencify_report(report):
     paragraphs = report.split('\n')
