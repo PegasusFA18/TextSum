@@ -1,0 +1,72 @@
+•Our ability to recover debt that we have previously charged-off may be limited, which could have a negative impact on our results of operations.
+For a description of the material laws and regulations to which we are subject, please refer to “Part I—Item 1.
+In cases where we modify a loan, if the modifications do not perform as anticipated we may be required to build additional allowance on these loans.
+•Underwriting: Our ability to accurately assess the creditworthiness of our customers may diminish, which could result in an increase in our credit losses and a deterioration of our returns.
+In July 2015, Capital One entered into a consent order with the OCC to address concerns about our anti-money laundering (“AML”) program (“AML Program”).
+Decreases in real estate values adversely affect the collateral value for our commercial lending activities, while the auto business is similarly exposed to collateral risks arising from the auction markets that determine used car prices.
+We continue to invest in digital technology designed to attract new customers, facilitate the ability of existing customers to conduct financial transactions and enhance the customer experience related to our products and services.
+In addition, as described further above in “Part I—Item 1.
+As a result, our estimates for credit losses may become increasingly subject to management’s judgment and high levels of volatility over short periods of time, which could negatively impact our results of operations.
+Business—Supervision and Regulation” for further details regarding the Proposed NSFR.
+Although we are making substantial progress in taking the steps and making the improvements required by the OCC consent order, we expect heightened oversight of our AML Program will continue for the foreseeable future.
+•Estimates of Inherent Losses: The credit quality of our portfolio can have a significant impact on our earnings.
+Further, cyber and information security risks for large financial institutions like us have generally increased in recent years in part because of the proliferation of new technologies, the use of the Internet and telecommunications technologies to conduct financial transactions and the increased sophistication and activities of organized crime, perpetrators of fraud, hackers, terrorists, activists, formal and informal instrumentalities of foreign governments and other external parties.
+We also rely on the business infrastructure and systems of third parties with which we do business and to whom we outsource the maintenance and development of operational and technological functionality.
+Maintaining and enhancing our brand will depend largely on our ability to continue to provide high-quality products and services.
+A downgrade to any of these credit ratings could affect our ability to access the capital markets, increase our borrowing costs and have a negative impact on our results of operations.
+The Dodd-Frank Act, other regulatory reforms and implementing regulations have increased our need to develop, monitor and maintain compliance processes and infrastructure and to otherwise enhance our risk management throughout all aspects of our business.
+Our Exposure To Potential Data Protection and Privacy Incidents, And Our Required Compliance With Regulations Related To These Areas, May Increase Our Costs, Reduce Our Revenue And Limit Our Ability To Pursue Business Opportunities.
+This vulnerability could include the risk of unauthorized account access, data loss and fraud.
+As a result, we have not yet been able to determine the full impact of the new laws on our business, operating results and financial condition.
+Significant uncertainty exists as privacy and data protection laws may be interpreted and applied differently from country to country and may create inconsistent or conflicting requirements.
+We May Fail To Realize All Of The Anticipated Benefits Of Our Mergers, Acquisitions And Strategic Partnerships.
+In addition, some rules and regulations may be subject to litigation or other challenges that delay or modify their implementation and impact on us.
+An inability to attract or maintain deposits could materially affect our ability to fund our business and our liquidity position.
+Our ability to engage in routine funding and other transactions could be adversely affected by the stability and actions of other financial services institutions.
+Changes in interest rates or market valuations that result in unrealized losses on components of AOCI could therefore impact our regulatory capital ratios negatively.
+In addition, financial institutions, including us, have faced significant regulatory scrutiny over the past several years, which has increasingly led to public enforcement actions.
+In addition, our cloud infrastructure providers, or other service providers, could experience system breakdowns or failures, outages, downtime, cyber-attacks, adverse changes to financial condition, bankruptcy or other adverse conditions, which could have a material adverse effect on our business and reputation.
+Finally, the Basel III Capital Rule requires that most amounts reported in Accumulated Other Comprehensive Income (“AOCI”), including unrealized gains and losses on securities designated as available for sale, be included in our regulatory capital calculations.
+In addition, a variety of social factors may cause changes in borrowing activity, including credit card use, payment patterns and the rate of defaults by accountholders and borrowers domestically and internationally.
+The ability for customers to access their accounts and conduct financial transactions using digital technology, including mobile applications, is an increasingly important aspect of the financial services industry and it impacts our ability to deliver products and services to our customers.
+Price competition for loans might result in origination of fewer loans or earning less on our loans.
+Our ability to conduct business may be adversely affected by a disruption in the infrastructure that supports our business and the communities where we are located, which are concentrated in the Northern Virginia and New York metropolitan areas, as well as Richmond, Virginia and Plano, Texas.
+Aggressive pricing throughout the industry may adversely affect the retention of existing balances and the cost-efficient acquisition of new deposit funds and may affect our growth and profitability.
+There are various federal law limitations on the extent to which the Banks can finance or otherwise supply funds to us through dividends and loans.
+If we are unable to continue to keep pace with innovation, our business and results of operations could be adversely affected.
+Many aspects of the Tax Act are unclear and may not be clarified for some time.
+These counterparties include institutions that may be exposed to various risks over which we have little or no control, including European or U.S. sovereign debt that is currently or may become in the future subject to significant price pressure, rating agency downgrade or default risk.
+We have already experienced these impacts in our international credit card portfolio.
+A disruption or breach, including as a result of a cyber-attack, or media reports of perceived security vulnerabilities at Capital One or at third-party service providers, could result in significant legal and financial exposure, regulatory intervention, remediation costs, card reissuance, supervisory liability, damage to our reputation or loss of confidence in the security of our systems, products and services that could adversely affect our business.
+31Capital One Financial Corporation (COF)
+We Face Risks From The Use Of Or Changes To Assumptions Or Estimates In Our Financial Statements.
+Credit card interchange fees are generally one of the largest components of the costs that merchants pay in connection with the acceptance of credit cards and are a meaningful source of revenue for our credit card businesses.
+We rely on a variety of measures to protect and enhance our intellectual property, including copyrights, trademarks, trade secrets, patents and certain restrictions on disclosure, solicitation and competition.
+In addition, we are heavily dependent on the security, capability and continuous availability of the technology systems that we use to manage our internal financial and other systems, interface with our customers and develop and implement effective marketing campaigns.
+The guidance, which becomes effective on January 1, 2020 with early adoption permitted no earlier than January 1, 2019, requires use of a CECL model that is based on expected rather than incurred losses.
+See “Part I—Item 1.
+Some major retailers may have sufficient bargaining power to independently negotiate lower interchange fees with MasterCard and Visa, which could, in turn, result in lower interchange fees for us when our cardholders undertake purchase transactions with these retailers.
+Some of our competitors, including new and emerging competitors in the digital and mobile payments space and other financial technology providers, are not subject to the same regulatory requirements or legislative scrutiny to which we are subject, which also could place us at a competitive disadvantage, in particular in the development of new technology platforms or the ability to rapidly innovate.
+We allow for and reserve against credit risks based on our assessment of credit losses inherent in our loan portfolios.
+We may, therefore, incur losses in the course of our risk management or investing activities.
+If our competitors or other third parties are successful in obtaining such patents or prevail in intellectual property-related litigation against us, we could lose significant revenues, incur significant license, royalty or technology development expenses, or pay significant damages.
+We have exposure to an increasing number of financial institutions and counterparties.
+Any merger, acquisition or strategic partnership we undertake entails certain risks, which may materially and adversely affect our results of operations.
+Other Business Risks
+We Face Intense Competition In All Of Our Markets.
+In June 2016, the FASB issued revised guidance for impairments on financial instruments.
+We are embedding technology, data and software development deeply into our business model and how we work.
+Such market changes could also have a negative impact on the valuation of assets for which we provide servicing.
+•Identification and Assessment of Merger and Acquisition Targets and Deployment of Acquired Assets: We cannot assure you that we will identify or acquire suitable financial assets or institutions to supplement our organic growth through acquisitions or strategic partnerships.
+The inaccuracy of any assumptions we may make could result in unanticipated consequences that could have a material adverse effect on our results of operations or financial condition.
+Customer attrition from any or all of our lending products, together with any lowering of interest rates or fees that we might implement to retain customers, could reduce our revenues and therefore our earnings.
+We have devoted significant resources to developing our risk management policies and procedures and expect to continue
+ 29Capital One Financial Corporation (COF)
+to do so in the future.
+We face the risk that we will not be successful in these new businesses or in these new markets.
+For example, models based on historical data sets might not be accurate predictors of future outcomes and their ability to appropriately predict future outcomes may degrade over time.
+These laws and regulations may also hinder our ability to compete for talent with other industries.
+In addition, adverse developments with respect to third parties with whom we have important relationships also could negatively impact perceptions about us.
+Uncertainty as to the extent and manner of future changes may adversely affect the current trading market for LIBOR based securities.
+These perceptions about us could cause our business to be negatively affected and exacerbate the other risks that we face.
+Properties

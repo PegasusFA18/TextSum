@@ -1,0 +1,6 @@
+Actual future gains and losses associated with the Company’s investment portfolio and derivative positions may differ materially from the sensitivity analyses performed as of September 30, 2017 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.
+The Company uses a combination of internal and external management to execute its investment strategy and achieve its investment objectives.
+Item 7A.
+The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates.
+Based on investment positions as of September 30, 2017 and September 24, 2016, a hypothetical 100 basis point increase in interest rates across all maturities would result in a $6.0 billion and $4.9 billion incremental decline in the fair market value of the portfolio, respectively.
+Financial Statements and Supplementary Data

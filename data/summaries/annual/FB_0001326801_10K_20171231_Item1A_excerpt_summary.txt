@@ -1,0 +1,97 @@
+The risks and uncertainties described below are not the only ones we face.
+The size of our user base and our users' level of engagement are critical to our success.
+It is also possible that government authorities could take action to restrict our ability to sell advertising.
+Our new products and changes to existing products could fail to attract or retain users or generate revenue and profits.
+Risks Related to Our Business and Industry
+If we fail to retain existing users or add new users, or if our users decrease their level of engagement with our products, our revenue, financial results, and business may be significantly harmed.
+We also compete with companies that develop applications, particularly mobile applications, that provide social or other communications functionality, such as messaging, photo- and video-sharing, and micro-blogging, as well as companies that provide regional social networks that have strong positions in particular countries.
+Our brands may also be negatively affected by the actions of users that are deemed to be hostile or inappropriate to other users, by the actions of users acting under false or inauthentic identities, by the use of our products or services to disseminate information that is deemed to be misleading (or intended to manipulate opinions), by perceived or actual efforts by governments to obtain access to user information for security-related purposes or to censor certain content on our platform, or by the use of our products or services for illicit, objectionable, or illegal ends.
+Cyber-attacks continue to evolve in sophistication and volume, and inherently may be difficult to detect for long periods of time.
+Additionally, the actions of our developers or advertisers may affect our brands if users do not have a positive experience using third-party mobile and web applications integrated with our products or interacting with parties that advertise through our products.
+Errors, vulnerabilities, or other design defects within the software on which we rely have in the past, and may in the future, result in a negative experience for users and marketers who use our products, delay product introductions or enhancements, result in targeting, measurement, or billing errors, compromise our ability to protect the data of our users and/or our intellectual property or lead to reductions in our ability to provide some or all of our services.
+We are dependent on the interoperability of Facebook and our other products with popular mobile operating systems, networks, and standards that we do not control, such as the Android and iOS operating systems.
+Any such investments may not be successful, and any such increases in our costs may reduce our operating margin and profitability.
+For example, in the fourth quarter of 2017, we experienced a slight decline on a quarter-over-quarter basis in the number of daily active users on Facebook in the United States & Canada region.
+In addition, if our investments are not successful, our ability to grow revenue will be harmed, which could adversely affect our business and financial performance.
+These factors may allow our competitors to respond more effectively than us to new or emerging technologies and changes in market conditions.
+If such an event were to occur, users may be subject to service disruptions or outages and we may not be able to recover our technical infrastructure and user data in a timely manner to restart or provide our services, which may adversely affect our financial results.
+If we are unable to protect our intellectual property, the value of our brands and other intangible assets may be diminished, and our business may be adversely affected.
+If these or other new or enhanced products fail to engage users, marketers, or developers, or if we are unsuccessful in our monetization efforts, we may fail to attract or retain users or to generate sufficient revenue, operating margin, or other value to justify our investments, and our business may be adversely affected.
+In addition, various "non-practicing entities" that own patents and other intellectual property rights often attempt to aggressively assert their rights in order to extract value from technology companies.
+We are subject to a variety of laws and regulations in the United States, Europe, and elsewhere, including those governing anti-money laundering and counter-terrorist financing, money transmission, gift cards and other prepaid access instruments, electronic funds transfer, charitable fundraising, and import and export restrictions.
+We currently generate substantially all of our Payments revenue from developers that use Facebook on personal computers.
+For example, from time to time, we have taken actions to reduce the volume of communications from these developers to users on Facebook and our other products with the objective of enhancing the user experience, and such actions have reduced distribution from, user engagement with, and our monetization opportunities from, mobile and web applications integrated with our products.
+Any of these events could have an adverse effect on our business and financial results.
+The terms of such a settlement or judgment may require us to cease some or all of our operations or pay substantial amounts to the other party.
+Real or perceived inaccuracies in our user and other metrics may harm our reputation and negatively affect our business.
+Security breaches and improper access to or disclosure of our data or user data, or other hacking and phishing attacks on our systems, could harm our reputation and adversely affect our business.
+In particular, the nature of our business exposes us to claims related to defamation, dissemination of misinformation or news hoaxes, discrimination, intellectual property rights, rights of publicity and privacy, personal injury torts, or laws regulating hate speech or other types of content.
+Any litigation to which we are a party may result in an onerous or unfavorable judgment that may not be reversed upon appeal or in payments of substantial monetary damages or fines, or we may decide to settle lawsuits on similarly unfavorable terms, which could adversely affect our business, financial conditions, or results of operations.
+The substantial majority of our revenue is generated from advertising on mobile devices.
+13
+Unfavorable media coverage could negatively affect our business.
+Our advertising revenue could also be adversely affected by a number of other factors, including:
+•decreases in user engagement, including time spent on our products;
+•our inability to continue to increase user access to and engagement with our mobile products;
+•product changes or inventory management decisions we may make that change the size, format, frequency, or relative prominence of ads displayed on our products or of other unpaid content shared by marketers on our products;
+•our inability to maintain or increase marketer demand, the pricing of our ads, or both;
+•our inability to maintain or increase the quantity or quality of ads shown to users, including as a result of technical infrastructure constraints;
+•reductions of advertising by marketers due to our efforts to implement advertising policies that protect the security and integrity of our platform;
+•changes to third-party policies that limit our ability to deliver or target advertising on mobile devices;
+•the availability, accuracy, and utility of analytics and measurement solutions offered by us or third parties that demonstrate the value of our ads to marketers, or our ability to further improve such tools;
+•loss of advertising market share to our competitors, including if prices for purchasing ads increase or if competitors offer lower priced or more integrated products;
+•adverse government actions or legal developments relating to advertising, including legislative and regulatory developments and developments in litigation;
+9
+•decisions by marketers to reduce their advertising as a result of adverse media reports or other negative publicity involving us, our advertising metrics or tools, content on our products, developers with mobile and web applications that are integrated with our products, or other companies in our industry;
+•reductions of advertising by marketers due to objectionable content published on our products by third parties;
+•the effectiveness of our ad targeting or degree to which users opt out of certain types of ad targeting, including as a result of product changes and controls that may be implemented in connection with the GDPR or other regulation or regulatory action;
+•the degree to which users cease or reduce the number of times they engage with our ads;
+•changes in the way advertising on mobile devices or on personal computers is measured or priced; and
+•the impact of macroeconomic conditions, whether in the advertising industry in general, or among specific types of marketers or within particular geographies.
+We have also invested, and expect to continue to invest, significant resources in growing our WhatsApp and Messenger products.
+We are currently subject to securities litigation in connection with our IPO.
+Any decrease in user retention, growth, or engagement could render our products less attractive to users, marketers, and developers, which is likely to have a material and adverse impact on our revenue, business, financial condition, and results of operations.
+If we are not successful in our efforts to continue to grow the number of developers that choose to build products that integrate with Facebook and our other products or if we are unable to continue to build and maintain good relations with such developers, our user growth and user engagement and our financial results may be adversely affected.
+We divide "false" accounts into two categories: (1) user-misclassified accounts, where users have created personal profiles for a business, organization, or non-human entity such as a pet (such entities are permitted on Facebook using a Page rather than a personal profile under our terms of service); and (2) undesirable accounts, which represent user profiles that we determine are intended to be used for purposes that violate our terms of service, such as spamming.
+In addition, Mr. Zuckerberg has the ability to control the management and major strategic investments of our company as a result of his position as our CEO and his ability to control the election or replacement of our directors.
+Our quarterly financial results have fluctuated in the past and will fluctuate in the future.
+We may also issue equity securities to pay for acquisitions and we regularly grant RSUs to retain the employees of acquired companies, which could increase our expenses, adversely affect our financial results, and result in dilution to our stockholders.
+We may be required to record a significant charge in our financial statements during the period in which any impairment of our goodwill or finite-lived intangible assets is determined, which would negatively affect our results of operations.
+In addition, we are continually seeking to improve our estimates of our user base, and such estimates may change due to improvements or changes in our methodology.
+We also outsource certain operational functions to third-party vendors globally.
+Our provision for income taxes is also determined by the manner in which we operate our business, and any changes to such operations or laws applicable to such operations may affect our effective tax rate.
+For example, we have previously incurred losses in certain international subsidiaries that resulted in an effective tax rate that is significantly higher than the statutory tax rate in the United States and this could continue to happen in the future.
+We may also be required to obtain consent and/or offer new controls to existing and new users in Europe before processing data for certain aspects of our service.
+If our goodwill or finite-lived intangible assets become impaired, we may be required to record a significant charge to earnings.
+In addition, certain of our users can use our Payments infrastructure, including on Messenger, for other activities, such as sending money to other users and making donations to certain charitable organizations.
+We could experience unforeseen difficulties in building and operating key portions of our technical infrastructure.
+In addition, there have been various Congressional efforts to restrict the scope of the protections available to online platforms under Section 230 of the Communications Decency Act, and our current protections from liability for third-party content in the United States could decrease or change.
+We believe that any such inaccuracies or adjustments are immaterial unless otherwise stated.
+Our competitors may develop products, features, or services that are similar to ours or that achieve greater acceptance, may undertake more far-reaching and successful product development efforts or marketing campaigns, or may adopt more aggressive pricing policies.
+In addition, only a relatively small percentage of our users have transacted with Facebook Payments.
+We cannot assure you that these investments will be successful.
+The U.S. Department of Treasury has broad authority to issue regulations and interpretative guidance that may significantly impact how we will apply the law and impact our results of operations in the period issued.
+A duplicate account is one that a user maintains in addition to his or her principal account.
+Some errors may only be discovered after the code has been released for external or internal use.
+Uncertainties in the interpretation and application of the 2017 Tax Cuts and Jobs Act could materially affect our tax obligations and effective tax rate.
+We cannot guarantee that our share repurchase program will be fully consummated or that it will enhance long-term stockholder value.
+Our products and internal systems rely on software that is highly technical, and if it contains undetected errors or vulnerabilities, our business could be adversely affected.
+In the fourth quarter of 2017, we estimate that false accounts may have represented approximately 3-4% of our worldwide MAUs.
+These factors may not always accurately reflect the user's actual location.
+Payment transactions may subject us to additional regulatory requirements and other risks that could be costly and difficult to comply with or that could harm our business.
+The development of alternative non-infringing technology or practices could require significant effort and expense or may not be feasible.
+Any of these factors may adversely affect our financial condition or results of operations.
+The Organization for Economic Cooperation and Development has been working on a Base Erosion and Profit Shifting Project, and issued in 2015, and is expected to continue to issue, guidelines and proposals that may change various aspects of the existing framework under which our tax obligations are determined in many of the countries in which we do business.
+We may face inventory risk with respect to our Oculus products.
+We have significant international operations and plan to continue expanding our operations abroad where we have more limited operating experience, and this may subject us to increased business and economic risks that could affect our financial results.
+We plan to continue to make acquisitions, which could harm our financial condition or results of operations and may adversely affect the price of our common stock.
+We regularly evaluate these metrics to estimate the number of "duplicate" and "false" accounts among our MAUs.
+The conversion of Class B common stock to Class A common stock will have the effect, over time, of increasing the relative voting power of those holders of Class B common stock who retain their shares in the long term.
+Changes in tax laws or tax rulings, or changes in interpretations of existing laws, could materially affect our financial position, results of operations, and cash flows.
+25
+The Tax Act requires complex computations not previously provided in U.S. tax law.
+Share repurchases could also increase the volatility of the trading price of our stock and could diminish our cash reserves.
+We have never declared or paid cash dividends on our capital stock.
+Our Class B common stock has ten votes per share and our Class A common stock has one vote per share.
+Because we qualify as a "controlled company" under the corporate governance rules for Nasdaq-listed companies, we are not required to have a majority of our board of directors be independent, nor are we required to have a compensation committee or an independent nominating function.
+Item 2.Properties

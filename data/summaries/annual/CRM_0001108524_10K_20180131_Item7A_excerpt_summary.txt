@@ -1,0 +1,20 @@
+Our European revenue, operating expenses and significant balance sheet accounts denominated in currencies other than the USD primarily flow through our United Kingdom subsidiary, which has a functional currency of the British Pound.
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Foreign Currency Exchange Risk
+We primarily conduct our business in the following locations: the United States, Europe, Canada, Asia Pacific and Japan.
+We pursue our objective by utilizing foreign currency forward contracts to offset foreign exchange risk.
+This estimate is based on a sensitivity model that measures market
+53
+value changes when changes in interest rates occur.
+The fixed-income portfolio was also subject to interest rate risk.
+Changes in interest rates of 100-basis points would have resulted in market value changes of $13.0 million.
+We entered into the Term Loan for purposes of partially funding the acquisition of Demandware.
+This results in a two-step currency exchange process wherein the currencies in Europe other than the British Pound are first converted into the British Pound and then British Pounds are translated into USD for our Consolidated Financial Statements.
+Concurrent with the issuance of the Notes, we entered into separate note hedging transactions and the sale of warrants.
+In July 2016, we entered into a $500.0 million term loan (“Term Loan”) which matures in July 2019 and bears interest at our option, at either a base rate plus a spread of 0.00% to 0.75% or an adjusted LIBOR rate plus a spread of 1.00% to 1.75%, in each case with such spread being determined based on the Company’s consolidated leverage ratio for the preceding four fiscal quarter period.
+When our ownership interests are less than 20 percent and we do not have the ability to exert significant influence, we account for investments in non-marketable debt at their estimated fair value and equity securities of the privately held companies using the cost method of accounting.
+The estimated fair value of our investments in privately held companies was $912.0 million and $758.3 million as of January 31, 2018 and January 31, 2017, respectively.
+All of our investments are subject to a risk of partial or total loss of investment capital.
+In addition, the fair value of our Notes is affected by our stock price.
+55
+ITEM 8.CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

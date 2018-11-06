@@ -1,0 +1,91 @@
+(e)Customer relationships represent the number of residential and business customers that subscribe to at least one of our cable services.
+All periods presented have been adjusted for the inclusion of security and automation customers.
+In most cases, the available advertising units are sold by our sales force.
+•Broadcast Television: Consists primarily of the NBC and Telemundo broadcast networks, our NBC and Telemundo owned local broadcast television stations, the NBC Universo national cable network, our broadcast television studio production operations, and various digital properties.
+Our voice services provide either unlimited or usage-based local and domestic long-distance calling and include options for international calling plans, voicemail, voicemail transcriptions, text messaging, caller ID and call waiting.
+Available Information and Websites
+Comcast’s phone number is (215) 286-1700, and its principal executive offices are located at One Comcast Center, Philadelphia, PA 19103-2838.
+Throughout our footprint, we are deploying wireless gateways that combine a customer’s wireless router, cable modem and voice adapter to improve the performance of multiple IP-enabled devices used at the same time within the home, provide faster Internet speeds and create an in-home Wi-Fi network.
+Certain video customers have access to streaming services through our mobile apps and online portal that allow them to view certain live programming and On Demand content and to browse program listings.
+The locations that are bolded represent the DMAs in which we operate that were also included in the top 25 U.S. television DMAs as of December 31, 2017.
+•Filmed Entertainment: Consists primarily of the operations of Universal Pictures, which produces, acquires, markets and distributes filmed entertainment worldwide; our films are also produced under the Illumination, DreamWorks Animation and Focus Features names.
+We seek to include in our distribution agreements the rights to offer such programming through multiple delivery platforms, such as through On Demand, our online portal, our mobile apps and our streaming services.
+Our films are marketed and distributed worldwide primarily through our own marketing and distribution operations.
+NBC Network
+The NBC network distributes entertainment, news and sports programming that reaches viewers in virtually all U.S. television households through more than 200 affiliated stations across the United States, including our 11 owned NBC-affiliated local broadcast television stations.
+See “Legislation and Regulation — Broadcast Television — Ownership Limits — National Television Ownership.”
+(d)Operated by a third party that provides certain non-network programming and operations services under a time brokerage agreement.
+Telemundo develops original programming primarily through its production studio and also acquires the rights to programming from third parties.
+Our other business interests consist primarily of Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania and operates arena management-related businesses, and our wireless phone service, which we launched in mid-2017.
+Our bundled service offerings aim to meet the needs of the various segments of our customer base, ranging from high-speed Internet services packaged with video or streaming services that include a limited number of channels, to a quad product bundle, consisting of our video, high-speed Internet, voice, and security and automation services.
+Our Universal theme park in Osaka, Japan consists primarily of Universal Studios Japan.
+Our video services generally include access to our video on demand service (“On Demand”) and an interactive, on-screen program guide.
+(a)DMA served is defined by Nielsen Media Research as a geographic market for the sale of national spot and local advertising time.
+We also compete with satellite operators who offer video services to businesses.
+We present our operations for Comcast Cable in one reportable business segment, referred to as Cable Communications, and our operations for NBCUniversal in four reportable business segments: Cable Networks, Broadcast Television, Filmed Entertainment and Theme Parks (collectively, the “NBCUniversal segments”).
+(c)Based on Nielsen estimates for the 2017-18 season.
+The percentage of U.S. Hispanic television households does not reflect the calculation of national audience reach under the FCC’s national television ownership cap limits.
+Voice Services
+We provide voice services using VoIP technology.
+We also offer packages that include extensive amounts of foreign-language programming and other specialty tiers of programming with sports, family and international themes.
+Sources of Supply
+To offer our video services, we license a substantial portion of our programming from cable networks and broadcast networks, as well as from local broadcast television stations.
+Advertising
+As part of our distribution agreements with cable networks, we generally receive an allocation of scheduled advertising time on cable networks that we sell through our advertising business to local, regional and national advertisers.
+We are deploying 1 gigabit high-speed Internet services that leverage DOCSIS 3.1 technology across our footprint and we will continue to expand the capacity of our DOCSIS 3.1 infrastructure, including the implementation of DOCSIS FDX that will enable us to launch multi-gigabit services through our existing network.
+The fees we pay are generally based on the consumption of the related services.
+Comcast 2017 Annual Report on Form 10-K
+11
+Seasonality and Cyclicality
+Each of our businesses is subject to seasonal and cyclical variations.
+We offer the wireless phone service only as part of our bundled service offerings to residential customers that subscribe to our high-speed Internet service within our cable distribution footprint and may in the future also offer wireless phone service to our small business customers on similar terms.
+In addition to broadcasting the NBC network’s national programming, our local broadcast television stations produce news, sports, public affairs and other programming that addresses local needs and acquire syndicated programming from other sources.
+Filmed Entertainment
+Our filmed entertainment business competes for audiences for its films and other entertainment content with other major studios and, to a lesser extent, with independent film producers, as well as with alternative forms of entertainment.
+Pole Attachments
+The FCC regulates the rates, terms and conditions that most pole-owning utility companies charge cable operators and telecommunications carriers for allowing attachments to their poles.
+We also produce first-run syndicated shows for local markets that are broadcast on local broadcast television stations in the United States on a market-by-market basis.
+Advertising
+Our cable communications business, cable networks, broadcast networks and owned local broadcast television stations compete for the sale of advertising with other television networks and stations, as well as with all other advertising platforms, such as digital, radio and print media.
+In addition, we generate revenue from the sale of advertising online and on our On Demand service.
+Of these employees, approximately 91,000 and 62,000 were associated with our cable communications business and our NBCUniversal businesses, respectively.
+We have arranged for such interconnection rights through affiliated CLECs.
+See Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations and refer to the “Seasonality and Cyclicality” discussion within that section for additional information.
+In addition, advertising revenue is adversely affected by the growing use of technologies, such as DVRs and video on demand services, that give consumers greater flexibility to watch programming on a time-delayed or on-demand basis or to fast-forward or skip advertisements within programming.
+The following paragraphs summarize material existing and potential future legal and regulatory requirements affecting our businesses, although reference should be made to the Communications Act, FCC regulations, the NBCUniversal Consent Decree and other legislation and regulations for further information.
+We are unable to predict the effects of any of these or any other further legislative requirements on our businesses.
+Any future legislative, judicial, regulatory or administrative actions may increase our costs or impose additional restrictions on our businesses, some of which may be significant.
+The Nielsen report now includes estimates based on subscribers to both traditional and certain virtual multichannel video providers.
+Under the terms of the NBCUniversal Consent Decree, we are required to make certain of our cable network, broadcast television and filmed entertainment programming available to bona fide online video distributors in certain circumstances.
+These recent changes are subject to judicial appeal.
+Several of these applications have been opposed by third parties.
+In some situations, DBS providers and other competitors that deliver their services over a high-speed Internet connection do not face the same state tax and fee burdens.
+Comcast 2017 Annual Report on Form 10-K
+17
+Privacy and Data Security Regulation
+The Communications Act generally restricts the nonconsensual collection and disclosure to third parties of cable customers’ personally identifiable information by cable operators, except for rendering service, conducting legitimate business activities related to the service, and responding to legal requests.
+Some municipalities have enacted “one-touch” make-ready pole attachment ordinances, which permit third parties to alter components of our network attached to utility poles in ways that could adversely affect our businesses.
+The Communications Act also contains provisions governing the franchising process, including renewal procedures designed to protect incumbent franchisees against arbitrary denials of renewal, including unreasonable renewal conditions.
+), as well as certain state or local regulations.
+Comcast 2017 Annual Report on Form 10-K
+13
+In 2015, the FCC reclassified broadband Internet access service as a “telecommunications service” subject to new open Internet regulations and certain common carrier regulations under Title II of the Communications Act.
+There are pending federal legislative proposals that, if enacted, could create new online consumer privacy protections or impose new requirements on owners and operators of critical infrastructure, including us.
+The FCC’s 2017 decision to reclassify broadband Internet access service as an “information service” has the effect of reinstating the FTC’s authority to regulate ISPs’ privacy protections and their use and disclosure of certain customer information.
+In addition, Congress may consider legislation addressing these regulations and the classification of broadband Internet access services and legislators in numerous states have stated that they will introduce legislation to impose Open Internet protections in a variety of ways.
+In late 2017, the FCC adopted an order relaxing the broadcast media ownership rules and is considering additional revisions to the rules, which could lead to further broadcast television station consolidation.
+In December 2017, the FCC adopted an Order eliminating Title II regulation of broadband Internet access service, as well as its prior no-blocking, no-throttling, no paid-prioritization and general conduct rules, stating that jurisdiction to regulate ISP conduct would rest at the FTC.
+The unauthorized reproduction, distribution or display of copyrighted material over the Internet or through other methods of distribution, such as through devices, software or websites that allow the reproduction, viewing, sharing and/or downloading of content by either ignoring or interfering with the content’s security features and copyrighted status, interferes with the market for copyrighted works and disrupts our ability to exploit our content.
+We cannot predict what rules or legislation, if any, will ultimately be adopted or how any such changes would affect our businesses.
+We cannot predict how successful those efforts will be and how they might affect our business.
+16Comcast 2017 Annual Report on Form 10-K
+Indecency
+A federal statute and FCC regulations prohibit the broadcast of obscene material on television stations at any time and indecent or profane material between the hours of 6 a.m. and 10 p.m. From time to time, we have received and may receive in the future letters of inquiry from the FCC prompted by complaints alleging that certain programming on our owned local broadcast television stations included indecent or profane material.
+The FCC has long considered implementing changes to the Universal Service program, such as changing the fee calculation from a revenue-based formula to a per-user fee or per-connection fee, adopting a fee based on bandwidth and expanding the services subject to the fee to include broadband Internet access services.
+Although the U.S.
+We are also subject to various state and federal regulations that provide privacy protections for customer proprietary network information related to our voice services.
+Other Areas of Regulation
+Intellectual Property
+Copyright, trademark, unfair competition, patent, trade secret and other proprietary-rights laws of the United States and other countries help protect our intellectual property rights.
+Other privacy-oriented laws have been extended by courts to online video providers and are increasingly being used in privacy lawsuits, including class actions, against providers of video materials online.
+Item 1A: Risk Factors

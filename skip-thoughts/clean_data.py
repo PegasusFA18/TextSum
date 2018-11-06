@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# coding: utf-8
-
 # A script that generates a folder data/cleaned
-from __future__ import unicode_literals
 from nltk.tokenize import sent_tokenize
 import os
 from collections import Counter
@@ -17,7 +13,9 @@ def filter_sentence(sentence):
     for phrase in undesired_phrases:
         if phrase in sentence:
             return False
-    return True
+    if len(sentence.split(' ')) > 4:
+        return True
+    return False
 
 def clean_sentence(sentence):
     ret = sentence
@@ -44,17 +42,17 @@ def load_raw_reports(raw_dir):
     for root, dirs, files in os.walk(raw_dir):
         for f in files:
             if '.txt' in f:
-                curr_report = open(raw_dir + f)
+                curr_report = open(raw_dir + f, 'r', encoding='utf8')
                 reports.append(curr_report.read())
                 names.append(f)
                 curr_report.close()
     return reports, names
 
 def save_cleaned_reports(reports, names, clean_dir):
-    os.makedirs(os.path.dirname(clean_dir+"test.txt"), exist_ok=True)
+    os.makedirs(clean_dir, exist_ok=True)
     for report, name in zip(reports, names):
         cleaned_name = name.replace('.txt', '_cleaned.txt')
-        f = open(clean_dir+cleaned_name, 'w+')
+        f = open(clean_dir+cleaned_name, 'w', encoding='utf8')
         f.write(report)
         f.close()
 

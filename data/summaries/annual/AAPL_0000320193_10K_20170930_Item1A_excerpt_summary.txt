@@ -1,0 +1,45 @@
+The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand or net realizable value and accrues necessary cancellation fee reserves for orders of excess products and components.
+Because the Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a risk the Company will forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully utilize firm purchase commitments.
+Manufacturing purchase obligations typically cover forecasted component and manufacturing requirements for periods up to 150 days.
+The Company depends on the performance of distributors, carriers and other resellers.
+These risk factors may be important to understanding other statements in this Form 10-K.
+While the Company relies on its partners to adhere to its supplier code of conduct, material violations of the supplier code of conduct could occur.
+These worldwide and regional economic conditions could have a material adverse effect on demand for the Company’s products and services.
+The Company sells complex hardware and software products and services that can contain design and manufacturing defects.
+The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms or at all.
+The business, financial condition and operating results of the Company can be affected by a number of factors, whether currently known or unknown, including but not limited to those described below, any one or more of which could, directly or indirectly, cause the Company’s actual financial condition and operating results to vary materially from past, or from anticipated future, financial condition and operating results.
+There is, however, no assurance that the necessary licenses can be obtained on acceptable terms or at all.
+These agreements may also significantly increase the Company’s operating expenses.
+Failure to obtain the right to make third-party digital content available, or to make such content available on commercially reasonable terms, could have a material adverse impact on the Company’s financial condition and operating results.
+The Company also reviews its long-lived assets, including capital assets held at its suppliers’ facilities and inventory prepayments, for impairment whenever events or circumstances indicate the carrying amount of an asset may not be recoverable.
+While the Company’s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in disruption to the Company’s business and harm to the Company’s reputation.
+The Company’s products and services compete in highly competitive global markets characterized by aggressive price competition and resulting downward pressure on gross margins, frequent introduction of new products, short product life cycles, evolving industry standards, continual improvement in product price/performance characteristics, rapid adoption of technological and product advancements by competitors and price sensitivity on the part of consumers.
+The Company’s financial condition and operating results depend substantially on the Company’s ability to continually improve iOS and iOS devices in order to maintain their functional and design advantages.
+Although arrangements with these partners may contain provisions for warranty expense reimbursement, the Company may remain responsible to the consumer for warranty service in the event of product defects and could experience an unanticipated product defect or warranty liability.
+A number of suppliers of components may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company’s ability to obtain sufficient quantities of components on commercially reasonable terms.
+The Company has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, and has made prepayments to certain of its suppliers associated with long-term supply agreements.
+In particular, the Company has historically faced a significant number of patent claims relating to its cellular-enabled products, and new claims may arise in the future.
+There can be no assurance the Company will be able to continue to provide products and services that compete effectively.
+The Company distributes its products through third-party cellular network carriers, wholesalers, retailers and value-added resellers.
+Some of the Company’s competitors have greater experience, product breadth and distribution channels than the Company.
+As with applications for the Company’s Mac products, the availability and development of these applications also depend on developers’ perceptions and analysis of the relative benefits of developing, maintaining or upgrading software for the Company’s iOS devices rather than its competitors’ platforms, such as Android.
+If the Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market expectations, its stock price may decline significantly, which could have a material adverse impact on investor confidence and employee retention.
+The Company is also exposed to credit and collectability risk on its trade receivables with customers in certain international markets.
+The Company’s business and reputation may be impacted by information technology system failures or network disruptions.
+The Company also could be significantly affected by other risks associated with international activities including, but not limited to, economic and labor conditions, increased duties, taxes and other costs and political instability.
+Compliance with applicable U.S. and foreign laws and regulations, such as import and export requirements, anti-corruption laws, tax laws, foreign exchange controls and cash repatriation restrictions, data privacy requirements, environmental laws, labor laws and anti-competition regulations, increases the costs of doing business in foreign jurisdictions.
+Many components, including those that are available from multiple sources, are at times subject to industry-wide shortages and significant commodity pricing fluctuations.
+If the Company fails to adequately comply with these rules and requirements, or if health data is handled in a manner not permitted by law or under the Company’s agreements with healthcare institutions, the Company could be subject to litigation or government investigations, may be liable for associated investigatory expenses, and could also incur significant fees or fines.
+Such failures or disruptions could adversely impact the Company’s business by, among other things, preventing access to the Company’s online services, interfering with customer transactions or impeding the manufacturing and shipping of the Company’s products.
+Credit ratings and pricing of the Company’s investments can be negatively affected by liquidity, credit deterioration, financial results, economic risk, political risk, sovereign risk or other factors.
+Weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company’s foreign currency-denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company’s products.
+Item 1A.
+Any failure by the Company to comply with these public statements or with other federal, state or international privacy-related or data protection laws and regulations could result in proceedings against the Company by governmental entities or others.
+The Company could be subject to changes in its tax rates, the adoption of new U.S. or international tax legislation or exposure to additional tax liabilities.
+While the Company maintains insurance coverage that is intended to address certain aspects of data security risks, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
+Noncompliance could result in significant penalties or legal liability.
+The Company regularly assesses the likelihood of an adverse outcome resulting from these examinations to determine the adequacy of its provision for taxes.
+The Company’s stock price is subject to volatility.
+Unresolved Staff Comments
+None.
+Properties

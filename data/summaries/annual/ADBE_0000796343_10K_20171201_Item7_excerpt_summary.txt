@@ -1,0 +1,68 @@
+For our software and software-related multiple element arrangements, we must: (1) determine whether and when each element has been delivered; (2) determine whether undelivered products or services are essential to the functionality of the delivered products and services; (3) determine the fair value of each undelivered element using vendor-specific objective evidence (“VSOE”); and (4) allocate the total price among the various elements.
+Product revenue is recognized when the above criteria are met.
+We must estimate certain royalty revenue amounts due to the timing of securing information from our customers.
+Product returns may be more or less than what was estimated.
+Our estimate of the rate of sell-through for product in the channel could be different than what actually occurs.
+We enter into multiple element revenue arrangements in which a customer may purchase a combination of software, upgrades, maintenance and support, hosted services and consulting.
+Once revenue is allocated to software or software-related elements as a group, we recognize revenue in conformance with software revenue accounting guidance.
+Management must make assumptions, judgments and estimates to determine our current provision for income taxes and also our deferred tax assets and liabilities and any valuation allowance to be recorded against a deferred tax asset.
+These factors and unanticipated changes in the economic and industry environment could make our return estimates differ from actual returns, thus impacting our financial position and results of operations.
+Overall, our strategy with Creative Cloud is designed to enable us to increase our revenue with users, attract more new customers, and grow a recurring and predictable revenue stream that is recognized ratably.
+We regularly assess the likelihood of outcomes resulting from these examinations to determine the adequacy of our provision for income taxes and have reserved for adjustments that may result from these examinations.
+Also contributing to the increase in Digital Marketing revenue was the increase in Adobe Analytics Cloud revenue.
+While we believe we can make reliable estimates regarding these matters, these estimates are inherently subjective.
+We expect that the amount of unbilled deferred revenue backlog will change from period to period due to certain factors, including the timing and duration of large customer subscriptions, SaaS and managed service agreements, varying billing cycles of these agreements, the timing of customer renewals, the timing of when unbilled deferred revenue backlog is to be billed, changes in customer financial circumstances and foreign currency fluctuations.
+Document Cloud revenue, which includes our Acrobat product family and Adobe Sign service, decreased slightly during fiscal 2016 as compared to fiscal 2015, primarily due to expected decreases in revenue associated with our Acrobat perpetual license offering.
+Our subscription revenue is comprised primarily of fees we charge for our subscription and hosted service offerings including Creative Cloud and certain of our Adobe Experience Cloud and Document Cloud services.
+These customers often are involved in workflows that utilize other Adobe products, such as our Digital Media offerings.
+We are generally unable to establish VSOE or TPE for non-software elements and as such, we use BESP.
+Our Digital Marketing business provides comprehensive solutions that include analytics, social marketing, targeting, media optimization, digital experience management, cross-channel campaign management, audience management, premium video delivery and monetization.
+Total Digital Media ARR grew to $5.23 billion at the end of fiscal 2017, up from $3.99 billion at the end of fiscal 2016.
+•Print and Publishing—Our Print and Publishing segment addresses market opportunities ranging from the diverse authoring and publishing needs of technical and business publishing to our legacy type and OEM printing businesses.
+Digital Marketing
+Revenue from Digital Marketing increased $383.4 million during fiscal 2017, as compared to fiscal 2016 primarily due to subscription revenue growth associated with our Adobe Experience Cloud.
+We expect future examinations to focus on our intercompany transfer pricing practices as well as other matters.
+Further, the overall increase in EMEA revenue was partially offset by declines due to the relative strength of the U.S. Dollar against EMEA currencies as discussed below.
+We are a United States-based multinational company subject to tax in multiple U.S. and foreign tax jurisdictions.
+During fiscal 2017, the U.S. Dollar strengthened against the British Pound, which negatively impacted revenue in EMEA measured in U.S. Dollar equivalents.
+In addition to providing for U.S. income taxes on earnings from the United States, we provide for U.S. income taxes on the earnings of foreign subsidiaries unless the subsidiaries’ earnings are considered permanently reinvested outside the United States.
+We enter into contracts with third parties for hosting services and use of data center facilities.
+The net foreign currency impact to revenue was offset in part by hedging gains from our EMEA and Japanese Yen currencies hedging programs during fiscal 2017.
+The decreases associated with certain fully amortized acquired intangible assets from previous acquisitions were offset by increases associated with intangible assets purchased through our acquisition of TubeMogul in the first quarter of fiscal 2017.
+The increase in deferred revenue was primarily due to increased subscriptions for our team, individual and enterprise Creative Cloud offerings and increases in Digital Marketing hosted services.
+Royalties
+We have certain royalty commitments associated with the licensing of certain offerings and products.
+Interest and other income (expense), net decreased in fiscal 2016 as compared to fiscal 2015 due to a gain on the sale of certain property assets that occurred in fiscal 2015 and an increase in foreign exchange hedging costs, offset in part by an increase in interest income due to higher average invested balances and interest rates.
+Non-Operating Income (Expense), Net (dollars in millions)
+_________________________________________
+(*) Percentage is not meaningful.
+(**) Percentage is less than 1%.
+See Note 17 of our Notes to Consolidated Financial Statements for further geographic information.
+Subscription revenue by reportable segment for fiscal 2017, 2016 and 2015 is as follows (dollars in millions):
+Our services and support revenue is comprised of consulting, training and maintenance and support, primarily related to the licensing of our enterprise offerings and the sale of our hosted Adobe Experience Cloud services.
+Sales and Marketing
+Sales and marketing expenses consist primarily of salary and benefit expenses, sales commissions, travel expenses and related facilities costs for our sales, marketing, order management and global supply chain management personnel.
+Cost of services and support revenue increased due to the following:
+Compensation costs increased during fiscal 2017 and fiscal 2016 as compared to the corresponding year ago periods primarily due to increases in headcount resulting from decreased usage of outside consultants that were providing consulting and training services to customers.
+The decrease was partially offset by stronger domestic profits for fiscal 2016.
+ACQUISITIONS
+During fiscal 2017, we completed our acquisition of TubeMogul, a publicly held video advertising platform company, for $560.8 million.
+As of December 1, 2017, we had unbilled deferred revenue backlog of approximately $3.94 billion of which approximately 40% to 50% is not reasonably expected to be billed during fiscal 2018.
+ITEM 7A.
+During fiscal 2017, we repurchased approximately 8.2 million shares at an average price per share of $134.20 through structured repurchase agreements entered into during fiscal 2017 and fiscal 2016.
+Other sources of cash are proceeds from participation in the employee stock purchase plan.
+48
+The combined amount of accrued interest and penalties related to tax positions taken on our tax returns were approximately $23.6 million and $22.4 million for fiscal 2017 and 2016, respectively.
+The primary working capital sources of cash were net income coupled with increases in deferred revenue and accrued expenses.
+Income taxes payable decreased primarily due to taxes paid in excess of the tax provision increase.
+For fiscal 2016, net cash provided by operating activities of $2.20 billion was primarily comprised of net income plus the net effect of non-cash items.
+Other uses of cash included purchases of property and equipment, including the Almaden Tower and long-term investments and other assets.
+For fiscal 2016, net cash used for financing activities of $1.09 billion was primarily due to payments for our treasury stock repurchases and costs associated with the issuance of treasury stock, offset in part by proceeds from the issuance of treasury stock and excess tax benefits from stock-based compensation.
+The primary working capital uses of cash were increases in trade receivables, payments of trade payables assumed as part of the TubeMogul acquisition, and a decrease in income taxes payable.
+On July 27, 2015, we entered into an amendment to further extend the maturity date of the Credit Agreement to July 27, 2020 and reallocated the facility among the syndicate of lenders that are parties to the Credit Agreement.
+The 2025 Notes rank equally with our other unsecured and unsubordinated indebtedness.
+These cash outflows were offset in part by sales and maturities of short-term investments.
+In January 2015, we issued $1 billion of 3.25% senior notes due February 1, 2025 (the “2025 Notes”).
+Our Notes do not contain any financial covenants.
+In June 2014, we entered into interest rate swaps that effectively converted the fixed interest rate on our 2020 Notes to a floating interest rate based on the London Interbank Offered Rate (“LIBOR”) plus a fixed number of basis points through February 1, 2020.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

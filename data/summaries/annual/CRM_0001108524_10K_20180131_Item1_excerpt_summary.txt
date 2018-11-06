@@ -1,0 +1,47 @@
+Salesforce also believes in giving back.
+Quip.
+Commerce Cloud.
+In addition, these apps can be marketed and sold on the AppExchange or sold directly by software vendors.
+6
+Technology, Development and Operations
+We deliver our Salesforce solutions as highly scalable, cloud computing application and platform services on a multi-tenant technology architecture.
+Our cloud services have received an extensive set of third-party data protection compliance certifications and attestations across geographical regions and industries, demonstrating our unwavering commitment to customer trust.
+Rapid deployment and lower total cost of ownership.
+The Salesforce Platform includes tools customers can leverage to build intelligent and connected enterprise apps.
+The Service Cloud enables companies to deliver smarter, faster and more personalized customer service and support.
+The Salesforce Platform also offers a full continuum of AI, no-code, low-code and code development and integration services, including Trailhead, Einstein AI, Lightning, IoT, Heroku, Analytics and the AppExchange.
+•IoT is a platform service that allows businesses to use IoT data at scale with tools to create rules-based automation to deliver proactive sales, service and marketing.
+The Salesforce Platform enables customers, ISVs and third-party developers to create and deliver cloud-based apps.
+We provide a set of application programming interfaces (“APIs”) that enable customers and independent software developers to both integrate our solutions with existing third-party, custom and legacy apps and write their own application services that integrate with our solutions.
+Ease of integration and configuration.
+We built and maintain a multi-tenant application architecture that has been designed to enable our services to scale securely, reliably and cost effectively considering, among other things, the Framework for Improving Critical Infrastructure Cybersecurity issued by the National Institute of Standards and Technology, which assembles standards, guidelines and practices.
+Positive environmental impact.
+Our multi-tenant cloud computing model has a much smaller environmental footprint than traditional Information Technology ("IT") hardware and software.
+To meet the needs of our customers in certain industries, we also provide solutions for Financial Services, Healthcare and Government.
+Intellectual Property
+We rely on a combination of trademarks, copyrights, trade secrets and patents, as well as contractual provisions, to protect our proprietary technology and our brands.
+Extending go-to-market capabilities.
+Expanding and strengthening the partner ecosystem.
+For example, many of our customers use our Salesforce Platform API to move customer-related data from custom-developed and packaged applications into our services on a periodic basis to provide greater visibility into their activities.
+We derive our revenues primarily from subscription and support fees for our services.
+We sell to businesses of all sizes and in almost every industry worldwide on a subscription basis, primarily through our direct sales efforts and also indirectly through partners.
+This evaluation resulted in our acquisition of several companies in the past few years.
+Our minority investments in over 200 companies as of January 31, 2018 also help us stay connected with the rapid pace of innovation that is currently occurring within the technology industry.
+The majority of our revenue from the Americas is attributable to customers in the United States.
+By providing infrastructure and development environments on demand, we provide developers the opportunity to create new and innovative apps without having to invest in hardware.
+Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met.
+None of our customers accounted for more than five percent of our revenues in fiscal 2018, 2017 or 2016.
+Our primary marketing activities include:
+•Multi-channel marketing campaigns that span email, social, web and more, which align to a broader customer journey;
+•Customer events of all sizes to create customer and prospect awareness, including proprietary events such as Dreamforce and World Tours, as well as participation in trade shows and industry events;
+•Press and industry analyst relations to garner third-party validation and generate positive coverage for our company, offerings and value proposition;
+•Content marketing and engagement on all of the major social channels;
+•Search engine marketing and advertising to drive traffic to our web properties;
+•Partner co-marketing activities with global and regional implementation partners;
+•Web site development to engage and educate prospects and generate interest through product information and demonstrations, case studies, white papers and marketing collateral;
+•Customer testimonials;
+•Cultivating a community of Trailblazers who embrace our Company values and evangelize our offerings;
+•Tools that enable our sales organization to more effectively convert leads into customers;
+•Event sponsorships; and
+•Primary real estate signage.
+ITEM 1A.RISK FACTORS

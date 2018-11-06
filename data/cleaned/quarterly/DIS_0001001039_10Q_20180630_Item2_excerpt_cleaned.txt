@@ -1,0 +1,566 @@
+Item 2: Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ORGANIZATION OF INFORMATION
+Management’s Discussion and Analysis provides a narrative of the Company’s financial performance and condition that should be read in conjunction with the accompanying financial statements.
+It includes the following sections:
+Consolidated Results and Non-segment Items
+Seasonality
+Business Segment Results
+Impact of U.S. tax reform
+Financial Condition
+Commitments and Contingencies
+Other Matters
+Market Risk
+CONSOLIDATED RESULTS AND NON-SEGMENT ITEMS
+Our summary consolidated results are presented below:
+29
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Quarter Results
+Revenues for the quarter increased 7%, or $1.0 billion, to $15.2 billion; net income attributable to Disney increased 23%, or $0.6 billion, to $2.9 billion; and diluted earnings per share attributable to Disney (EPS) increased 29% from $1.51 to $1.95.
+The EPS increase for the quarter was due to a benefit from new federal income tax legislation, the “Tax Cuts and Jobs Act” (Tax Act) (See Note 7 to the Condensed Consolidated Financial Statements), a decrease in weighted average shares outstanding as a result of our share repurchase program and higher segment operating income, partially offset by higher Corporate and unallocated shared expenses.
+The increase in segment operating income was due to growth at our Parks and Resorts and Studio Entertainment segments, partially offset by lower results at our Consumer Products & Interactive Media segment.
+Revenues
+Service revenues for the quarter increased 9%, or $1.0 billion, to $13.1 billion due to higher theatrical distribution revenue driven by the success of Avengers: Infinity War and Incredibles 2, growth in TV/subscription video on demand (SVOD) distribution revenue, higher fees from Multi-channel Video Distributors (MVPDs) (Affiliate Fees), growth in guest spending and higher volumes at our parks and resorts and the consolidation of BAMTech.
+The Company began consolidating BAMTech in the fourth quarter of the prior year.
+These increases were partially offset by lower advertising revenue.
+Product revenues for the quarter decreased 3%, or $55 million to $2.1 billion primarily due to lower domestic home entertainment volumes and a decrease in retail store sales, partially offset by higher guest spending at our parks and resorts.
+Product revenues reflected an approximate 2 percentage point increase due to a favorable movement of the U.S. dollar against major currencies including the impact of our hedging program (FX Impact).
+Costs and expenses
+Cost of services for the quarter increased 10%, or $655 million, to $7.1 billion due to higher film cost amortization driven by increased theatrical distribution revenue and film cost impairments, higher television programming and production costs, the consolidation of BAMTech, and labor and other cost inflation at our parks and resorts.
+Cost of services reflected an approximate 1 percentage point increase due to an unfavorable FX Impact.
+Cost of products for the quarter decreased 2%, or $24 million, to $1.2 billion primarily due to lower home entertainment volumes and a decrease in retail store sales, partially offset by higher guest spending and cost inflation at our parks and resorts.
+Cost of products reflected an approximate 1 percentage point increase due to an unfavorable FX Impact.
+Selling, general, administrative and other costs increased 9%, or $190 million, to $2.2 billion primarily due to higher theatrical marketing spending, costs incurred in connection with our agreement to acquire Twenty-First Century Fox, Inc. and an increase in compensation costs.
+Depreciation and amortization increased 5%, or $33 million, to $0.7 billion, due to the consolidation of BAMTech.
+Other income/(expense), net
+Other income/(expense), net of $177 million for the prior-year quarter consisted of a charge, net of committed insurance recoveries, incurred in connection with the settlement of litigation.
+Interest expense, net
+Interest expense, net is as follows:
+The increase in interest expense was due to higher average interest rates and an increase in average debt balances.
+The increase in interest and investment income was driven by net investment income in the current quarter compared to net investment losses in the prior-year quarter.
+Equity in the income of investees
+Equity in the income of investees decreased $51 million to $73 million for the quarter due to higher losses from Hulu and lower income from A+E Television Networks (A+E).
+These decreases were partially offset by a favorable comparison to a loss
+30
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+from BAMTech in the prior-year quarter.
+The decrease at Hulu was driven by higher programming and labor costs, partially offset by higher subscription and advertising revenue.
+The decrease at A+E was due to lower advertising revenue and higher programming costs, partially offset by higher program sales.
+Effective Income Tax Rate
+The decrease in the effective income tax rate for the quarter was due to a net favorable impact of the Tax Act, which reflects the following:
+•A reduction in the Company’s fiscal 2018 U.S. statutory federal income tax rate to 24.5% from 35.0% in the prior year.
+Net of state tax and other related effects, the reduction in the statutory rate had an impact of approximately 8.6 percentage points on the effective income tax rate.
+•A net benefit of approximately $110 million from updating our prior quarter estimates of the remeasurement of our net federal deferred tax liability to the new statutory rates and a one-time tax on certain accumulated foreign earnings (Deemed Repatriation Tax).
+This update includes the impact from finalizing our fiscal 2017 income tax return.This benefit had an impact of approximately 2.9 percentage points on the effective income tax rate.
+Refer to Note 7 of the Condensed Consolidated Financial Statements for further information on the impact of the Tax Act on the Company.
+Noncontrolling Interests
+The increase in net income attributable to noncontrolling interests was due to higher results at ESPN and Shanghai Disney Resort.
+Results at ESPN included the benefit of lower tax expense, largely due to the Tax Act.
+Net income attributable to noncontrolling interests is determined on income after royalties and management fees, financing costs and income taxes, as applicable.
+Nine-Month Results
+Revenues for the nine-month period increased 7%, or $2.8 billion, to $45.1 billion; net income attributable to Disney increased 42%, or $3.0 billion, to $10.3 billion; and EPS increased 50% from $4.55 to $6.81.
+The EPS increase for the nine-month period was due to the benefit from the Tax Act, a decrease in weighted average shares outstanding as a result of our share repurchase program and higher segment operating income.
+The increase in segment operating income was due to growth at our Parks and Resorts and Studio Entertainment segments, partially offset by lower results at our Media Networks and Consumer Products & Interactive Media segments.
+Revenues
+Service revenues for the nine-month period increased 7%, or $2.7 billion, to $38.6 billion due to higher theatrical distribution revenue, higher guest spending and volumes at our parks and resorts, an increase in affiliate fees, the consolidation of BAMTech and growth in TV/SVOD distribution revenue.
+These increases were partially offset by lower advertising revenue.
+Product revenues for the nine-month period increased 2%, or $113 million to $6.5 billion, due to increases in guest spending and volumes at our parks and resorts, partially offset by lower domestic home entertainment volumes and a decrease in retail store sales.
+Product revenues reflected an approximate 1 percentage point increase due to a favorable FX Impact.
+Costs and expenses
+Cost of services for the nine-month period increased 7%, or $1.4 billion, to $20.8 billion, due to higher film cost amortization driven by an increase in theatrical revenue and film cost impairments, an increase in costs at our parks and resorts, the consolidation of BAMTech and higher television programming and production costs.
+The increase at parks and resorts was
+31
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+driven by cost inflation, increased technology spending and higher volumes.
+Cost of services reflected an approximate 1 percentage point increase due to an unfavorable FX Impact.
+Cost of products for the nine-month period increased 2%, or $92 million, to $3.9 billion, due to cost inflation and higher volumes at our parks and resorts, partially offset by lower home entertainment volumes.
+Cost of products reflected an approximate 2 percentage point increase due to an unfavorable FX Impact.
+Selling, general, administrative and other costs for the nine-month period increased 10%, or $0.6 billion, to $6.5 billion, primarily due to higher marketing spend for theatrical distribution and at parks and resorts, the consolidation of BAMTech, costs incurred in connection with our agreement to acquire Twenty-First Century Fox, Inc. and an increase in compensation costs.
+Selling, general, administrative and other costs reflected an approximate 1 percentage point increase due to an unfavorable FX Impact.
+Depreciation and amortization for the nine-month period increased 7%, or $143 million, to $2.2 billion due to depreciation of new attractions at our domestic parks and resorts and Hong Kong Disneyland Resort and the consolidation of BAMTech.
+Restructuring and impairment charges
+The Company recorded $28 million of restructuring and impairment charges in the current nine-month period primarily for severance costs.
+Other income/(expense), net
+Other income/(expense), net of $94 million for the current nine-month period reflects a gain from the sale of property rights and insurance proceeds related to a legal matter.
+Other income/(expense), net of $177 million for the prior-year period consisted of a charge, net of committed insurance recoveries, incurred in connection with the settlement of litigation.
+Interest expense, net
+Interest expense, net is as follows:
+The increase in interest expense for the nine-month period was due to higher average debt balances and an increase in average interest rates.
+Equity in the income of investees
+Equity in the income of investees decreased $205 million to $122 million for the nine-month period due to higher losses from Hulu and lower income from A+E.
+These decreases were partially offset by a favorable comparison to a loss from BAMTech in the prior-year period.
+The decrease at Hulu was driven by higher programming, labor and marketing costs, partially offset by growth in subscription and advertising revenue.
+The decrease at A+E was due to lower advertising revenue.
+Effective Income Tax Rate
+The decrease in the effective income tax rate was due to the impact of the Tax Act, which included:
+•A net benefit of approximately $1.8 billion, which reflected an approximate $2.1 billion benefit from remeasuring our deferred tax balances to the new statutory rate, partially offset by a charge of approximately $0.3 billion from accruing the Deemed Repatriation Tax.
+This net benefit had an impact of approximately 15.6 percentage points on the effective income tax rate.
+32
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+•A reduction in the Company’s fiscal 2018 U.S. statutory federal income tax rate to 24.5% from 35.0% in the prior year.
+Net of state tax and other related effects, the reduction in the statutory rate had an impact of approximately 8.8 percentage points on the effective income tax rate.
+Refer to Note 7 of the Condensed Consolidated Financial Statements for further information on the impact of the Tax Act on the Company.
+Noncontrolling Interests
+The increase in net income attributable to noncontrolling interests for the nine-month period was due to lower tax expense at ESPN, largely due to the Tax Act, and the impact of the Company’s acquisition of the noncontrolling interest in Disneyland Paris in the third quarter of the prior year.
+SEASONALITY
+The Company’s businesses are subject to the effects of seasonality.
+Consequently, the operating results for the nine months ended June 30, 2018 for each business segment, and for the Company as a whole, are not necessarily indicative of results to be expected for the full year.
+Media Networks revenues are subject to seasonal advertising patterns, changes in viewership levels and timing of program sales.
+In general, advertising revenues are somewhat higher during the fall and somewhat lower during the summer months.
+Parks and Resorts revenues fluctuate with changes in theme park attendance and resort occupancy resulting from the seasonal nature of vacation travel and leisure activities.
+Peak attendance and resort occupancy generally occur during the summer months when school vacations occur and during early-winter and spring-holiday periods.
+Studio Entertainment revenues fluctuate due to the timing and performance of releases in the theatrical, home entertainment and television markets.
+Release dates are determined by several factors, including competition and the timing of vacation and holiday periods.
+Consumer Products & Interactive Media revenues are influenced by seasonal consumer purchasing behavior, which generally results in increased revenues during the Company’s first and fourth fiscal quarter, and the timing and performance of theatrical and game releases and cable programming broadcasts.
+33
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+BUSINESS SEGMENT RESULTS
+The Company evaluates the performance of its operating segments based on segment operating income, which is shown below along with segment revenues:
+The following table reconciles income before income taxes to segment operating income:
+34
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Depreciation expense is as follows:
+Amortization of intangible assets is as follows:
+Media Networks
+Operating results for the Media Networks segment are as follows:
+Revenues
+The increase in affiliate fees was due to growth of 7% from higher contractual rates, partially offset by a 2% decrease from fewer subscribers.
+The decrease in advertising revenues was due to a decrease of $67 million at Cable Networks, from $1,041 million to $974 million, partially offset by an increase of $9 million at Broadcasting, from $965 million to $974 million.
+Cable Networks advertising revenue reflected a decrease of 9% from lower impressions, partially offset by an increase of 4% from higher rates.
+35
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+The decrease in impressions reflected lower average viewership at ESPN and Freeform.
+ESPN’s advertising revenue was adversely impacted by one less NBA final game.
+Broadcasting advertising revenue reflected an increase of 7% from higher network rates, partially offset by decreases of 4% from lower network impressions and 1% from the owned television stations, which were both due to lower average viewership.
+TV/SVOD distribution and other revenue increased $192 million due to higher program sales and the consolidation of BAMTech.
+On September 25, 2017 the Company increased its ownership in BAMTech and began consolidating its results.
+The Company’s share of BAMTech’s results was previously reported in equity in the income of investees.
+The increase in program sales was driven by higher sales of How to Get Away with Murder, Designated Survivor and Grey’s Anatomy, partially offset by lower sales of Quantico.
+Additionally, the current quarter included the sale of Luke Cage compared to the prior-year quarter sale of The Defenders.
+Costs and Expenses
+Operating expenses include programming and production costs, which increased $147 million, from $3,203 million to $3,350 million.
+At Broadcasting, programming and production costs increased $102 million due to higher average cost network programming, including the impact of American Idol and Roseanne in the current quarter, and an increase in program sales.
+At Cable Networks, programming and production costs increased $45 million due to the consolidation of BAMTech and contractual rate increases for NBA programming, partially offset by the comparison to severance and contract termination costs in the prior-year quarter.
+Other operating costs, which include distribution and technology costs, increased primarily due to the consolidation of BAMTech.
+Selling, general, administrative and other costs increased $9 million, from $593 million to $602 million as the impact from the consolidation of BAMTech was essentially offset by lower marketing and other costs.
+Depreciation and amortization increased $27 million, from $58 million to $85 million due to the consolidation of BAMTech.
+Equity in the Income of Investees
+Income from equity investees decreased $49 million, from $127 million to $78 million due to higher losses from Hulu and lower income from A+E.
+These decreases were partially offset by a favorable comparison to a loss from BAMTech in the prior-year quarter.
+The decrease at Hulu was driven by higher programming and labor costs, partially offset by growth in subscription and advertising revenue.
+The decrease at A+E was due to lower advertising revenue and higher programming costs, partially offset by higher program sales.
+ Segment Operating Income
+Segment operating income decreased 1%, or $20 million, to $1,822 million due to the consolidation of BAMTech, lower income from equity investees and a decrease at Freeform.
+These decreases were partially offset by higher income from program sales and increases at ESPN and the ABC Network.
+The following table provides supplemental revenue and segment operating income detail for the Media Networks segment:
+(1) Cable Networks results in the current quarter include the consolidated results of BAMTech, whereas in the prior-year quarter the Company’s share of BAMTech’s results was reported in equity in the income of investees.
+36
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Parks and Resorts
+Operating results for the Parks and Resorts segment are as follows:
+Revenues
+Parks and Resorts revenues increased 6%, or $299 million, to $5.2 billion due to increases of $154 million at our domestic operations and $145 million at our international operations.
+Results include an unfavorable impact due to the timing of the Easter holiday relative to our fiscal periods.
+One week of the Easter holiday fell in the third quarter of the current year whereas both holiday weeks fell in the third quarter of the prior year.
+Revenue growth at our domestic operations reflected an increase of 4% from higher average guest spending.
+Guest spending growth was driven by higher average ticket prices for theme park admissions and for cruise line sailings, an increase in food, beverage and merchandise spending and higher average daily hotel room rates.
+Volumes were relatively flat as increased passenger cruise ship days were largely offset by lower occupied hotel room nights at Walt Disney World Resort.
+The increase in passenger cruise ship days included the impact of the Disney Fantasy dry-dock in the prior-year quarter.
+At Walt Disney World Resort, lower occupied hotel room nights were driven by room refurbishments and conversions to vacation club units.
+Revenue growth at our international operations reflected increases of 7% from a favorable FX Impact, 3% from volume growth, 2% from higher real estate sales at Disneyland Paris and 2% from higher average guest spending.
+The increase in volumes was due to higher attendance at Shanghai Disney Resort and Hong Kong Disneyland Resort and an increase in occupied room nights at Hong Kong Disneyland Resort.
+Higher guest spending was driven by an increase in food, beverage and merchandise spending at Shanghai Disney Resort, Disneyland Paris and Hong Kong Disneyland Resort and higher average ticket prices.
+The increase in average ticket prices was due to increases at Disneyland Paris and Hong Kong Disneyland Resort, partially offset by a decrease at Shanghai Disney Resort.
+37
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+The following table presents supplemental park and hotel statistics:
+(1)Per room guest spending consists of the average daily hotel room rate, as well as food, beverage and merchandise sales at the hotels.
+Hotel statistics include rentals of Disney Vacation Club units.
+(2)Per capita guest spending growth rate is stated on a constant currency basis.
+Per room guest spending is stated at the fiscal 2017 third quarter average foreign exchange rate.
+Costs and Expenses
+Operating expenses include operating labor, which increased $83 million, from $1,275 million to $1,358 million, infrastructure costs, which decreased $14 million, from $520 million to $506 million, and cost of sales, which increased $41 million, from $422 million to $463 million.
+The increase in operating labor was primarily due to inflation.
+The increase in cost of sales was due to higher volumes and increased real estate sales.
+Lower infrastructure costs reflected the comparison to costs that were incurred in the prior-year quarter for the dry-dock of the Disney Fantasy.
+Other operating expenses, which include costs for such items as supplies, commissions, and entertainment offerings, increased $10 million, from $470 million to $480 million.
+Operating expenses included an approximate 2% unfavorable FX Impact, which had similar impacts on operating labor, cost of sales, infrastructure costs and other operating expenses.
+Depreciation and amortization increased $10 million, from $521 million to $531 million due to an unfavorable FX Impact.
+Segment Operating Income
+Segment operating income increased 15%, or $171 million, to $1,339 million due to growth at our domestic and international operations.
+Studio Entertainment
+Operating results for the Studio Entertainment segment are as follows:
+38
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Revenues
+The increase in theatrical distribution revenue was due to the success of Avengers: Infinity War and Incredibles 2, which were released in the current quarter compared to Guardians of the Galaxy Vol.
+2 and Cars 3, which were released in the prior-year quarter.
+This increase was partially offset by the continued performance of Beauty and the Beast in the prior-year quarter.
+The prior-year quarter also included the release of Pirates of the Caribbean: Dead Men Tell No Tales while the current quarter included Solo: A Star Wars Story.
+Lower home entertainment revenue was due to a decrease of 14% from lower domestic unit sales primarily due to the timing of the release of Star Wars titles.
+The DVD/Blu-ray release of Star Wars: The Last Jedi was in the second quarter of the current year whereas the DVD/Blu-Ray release of Rogue One: A Star Wars Story occurred in the prior-year third quarter.
+Other significant titles in the current quarter included Black Panther, whereas the prior-year quarter included Beauty and the Beast and Moana.
+Growth in TV/SVOD distribution and other revenue was due to increases of 9% from TV/SVOD distribution and 3% from stage plays.
+Higher TV/SVOD distribution revenue was driven by increases from our domestic pay and free television businesses and international markets.
+Growth in domestic pay and free television was due to the timing of title availabilities.
+Domestic pay television sales also reflected an increase from higher rates.
+Higher stage play revenues were due to an additional production in the current quarter.
+Costs and Expenses
+Operating expenses include an increase of $288 million in film cost amortization, from $765 million to $1,053 million, due to the impact of higher theatrical distribution revenues and film cost impairments related to animated films that will not be released, partially offset by the impact of lower home entertainment revenue.
+Operating expenses also include cost of goods sold and distribution costs, which increased $16 million, from $334 million to $350 million due to an additional stage play production in the current quarter and an increase in international theatrical distribution costs, partially offset by lower home entertainment volumes.
+Selling, general, administrative and other costs increased $110 million from $626 million to $736 million driven by higher theatrical marketing costs due to an increase in pre-release marketing costs and higher average spend on international theatrical releases in the current quarter.
+Segment Operating Income
+Segment operating income increased 11%, or $69 million, to $708 million due to increases in domestic theatrical and worldwide TV/SVOD distribution results, partially offset by higher film cost impairments and lower domestic home entertainment results.
+Consumer Products & Interactive Media
+Operating results for the Consumer Products & Interactive Media segment are as follows:
+Revenues
+Lower licensing, publishing and games revenue was primarily due to decreased revenues from sales of licensed merchandise and an unfavorable FX Impact, partially offset by a benefit from a settlement.
+The decrease in sales of licensed merchandise was primarily due to lower revenue from products based on Spider-Man and Cars, partially offset by an increase from products based on Avengers.
+39
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+The decrease in retail and other revenue was due to lower comparable retail store sales, which reflected lower sales of Star Wars and Moana merchandise in the current quarter.
+Costs and Expenses
+Operating expenses include a $15 million decrease in cost of goods sold and distribution costs, from $234 million to $219 million and a $3 million decrease in product development expense, from $49 million to $46 million.
+Other operating expenses, which include occupancy costs, labor at our retail stores and other direct costs, were flat at $148 million.
+The decrease in cost of goods sold and distribution costs was primarily due to lower retail sales.
+Selling, general, administrative and other costs decreased $27 million from $249 million to $222 million due to a favorable FX Impact and lower costs at our games business.
+Segment Operating Income
+Segment operating income decreased 10%, or $38 million, to $324 million due to lower income from licensing activities and decreased comparable retail store sales, partially offset by lower costs at our games business.
+BUSINESS SEGMENT RESULTS - Nine Month Results
+Media Networks
+Operating results for the Media Networks segment are as follows:
+Revenues
+The increase in affiliate fees was due to an increase of 7% from higher contractual rates, partially offset by a 2% decrease from fewer subscribers.
+The decrease in advertising revenues was due to decreases of $185 million at Cable Networks, from $3,379 million to $3,194 million, and $96 million at Broadcasting, from $3,087 million to $2,991 million.
+Cable Networks advertising revenue reflected a decrease of 6% from lower impressions, partially offset by a 2% increase from higher rates.
+Broadcasting advertising revenue reflected a decrease of 6% from lower network impressions and a decrease of 2% from the owned television stations due to lower political advertising, partially offset by an increase of 5% from higher network rates.
+Lower impressions at both Broadcasting and Cable Networks were due to lower average viewership.
+TV/SVOD distribution and other revenue increased $318 million due to the consolidation of BAMTech and higher program sales reflecting increased revenue from Hulu and higher sales of Grey’s Anatomy in the current period, partially offset by lower sales of Quantico.
+Additionally, the current period included the sales of Luke Cage and Jessica Jones compared to the prior-year period, which included the sales of Iron Fist and The Defenders.
+40
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Costs and Expenses
+Operating expenses include programming and production costs, which increased $339 million from $10,053 million to $10,392 million.
+At Cable Networks, programming and production costs increased $204 million due to contractual rate increases for college sports, NBA and NFL programming and the consolidation of BAMTech, partially offset by the comparison to severance and contract termination costs incurred in the prior-year period.
+At Broadcasting, programming and production costs increased $135 million due to higher average cost network programming, including the impact of American Idol and Roseanne in the current period, and an increase in program sales.
+Other operating costs, which include distribution and technology costs, increased driven by the consolidation of BAMTech.
+Selling, general, administrative and other costs increased $79 million from $1,872 million to $1,951 million due to the consolidation of BAMTech.
+Depreciation and amortization increased $56 million, from $181 million to $237 million due to the consolidation of BAMTech.
+Equity in the Income of Investees
+Income from equity investees decreased $193 million from $334 million to $141 million due to higher losses from Hulu and lower income from A+E.
+These decreases were partially offset by a favorable comparison to a loss from BAMTech in the prior-year period.
+The decrease at Hulu was driven by higher programming, labor and marketing costs, partially offset by growth in subscription and advertising revenue.
+The decrease at A+E was due to lower advertising revenue.
+ Segment Operating Income
+Segment operating income decreased 6%, or $330 million, to $5,097 million due to the consolidation of BAMTech and lower income from equity investees.
+The following table provides supplemental revenue and segment operating income detail for the Media Networks segment:
+(1) Cable Networks results in the current period include the consolidated results of BAMTech, whereas in the prior-year period the Company’s share of BAMTech’s results was reported in equity in the income of investees.
+41
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Parks and Resorts
+Operating results for the Parks and Resorts segment are as follows:
+Revenues
+Parks and Resorts revenues increased 11%, or $1,478 million, to $15.2 billion due to increases of $992 million at our domestic operations and $486 million at our international operations.
+Revenue growth at our domestic operations reflected increases of 6% from higher average guest spending and 2% from volume growth.
+Guest spending growth was due to higher average ticket prices for theme park admissions and for cruise line sailings, increased food, beverage and merchandise spending and higher average daily hotel room rates.
+The increase in volumes was due to higher attendance and passenger cruise ship days, partially offset by lower occupied hotel room nights.
+Revenue growth at our international operations reflected increases of 8% from a favorable FX Impact, 5% from an increase in volumes and 4% from higher average guest spending at Disneyland Paris.
+The increase in volumes was due to higher attendance and occupied room nights at Hong Kong Disneyland Resort and Disneyland Paris.
+Guest spending growth at Disneyland Paris was driven by higher average ticket prices, food, beverage and merchandise spending and average daily hotel room rates.
+The following table presents supplemental park and hotel statistics:
+(1)Per room guest spending consists of the average daily hotel room rate, as well as food, beverage and merchandise sales at the hotels.
+Hotel statistics include rentals of Disney Vacation Club units.
+(2)Per capita guest spending growth rate is stated on a constant currency basis.
+Per room guest spending is stated at the fiscal 2017 nine-month average foreign exchange rate.
+Costs and Expenses
+Operating expenses include operating labor, which increased $342 million from $3,692 million to $4,034 million, infrastructure costs, which increased $94 million from $1,473 million to $1,567 million, and cost of sales, which increased $122 million from $1,226 million to $1,348 million.
+The increase in operating labor was due to inflation, higher volumes and a
+42
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+special fiscal 2018 domestic employee bonus.
+The increase in cost of sales was due to higher volumes and inflation.
+Higher infrastructure costs were due to increased technology spending.
+Other operating expenses, which include costs for such items as supplies, commissions and entertainment offerings, increased $86 million, from $1,426 million to $1,512 million due to inflation.
+Operating expenses included an approximate 2% unfavorable FX Impact, which had similar impacts on operating labor, cost of sales, infrastructure costs and other operating expenses.
+Selling, general, administrative and other costs increased $95 million, from $1,409 million to $1,504 million driven by inflation and an unfavorable FX Impact.
+Depreciation and amortization increased $116 million, from $1,486 million to $1,602 million primarily due to new attractions at our domestic parks and resorts and Hong Kong Disneyland Resort and an unfavorable FX Impact.
+Equity in the Loss of Investees
+Loss from equity investees increased $11 million to $19 million due to a higher operating loss from Villages Nature, in which Disneyland Paris has a 50% interest.
+Segment Operating Income
+Segment operating income increased 20%, or $612 million, to $3,640 million due to growth at our domestic and international operations.
+Studio Entertainment
+Operating results for the Studio Entertainment segment are as follows:
+Revenues
+The increase in theatrical distribution revenue was due to the comparison of three Marvel titles and two Star Wars titles in the current period compared to two Marvel titles and one Star Wars title in the prior-year period and the performance of Incredibles 2 in the current period compared to Cars 3 in the prior-year period.
+The Marvel titles in the current period were Avengers: Infinity War, Black Panther and Thor: Ragnarok, whereas the prior-year period included Guardians of the Galaxy Vol.
+2 and Doctor Strange.
+The Star Wars titles in the current period were Star Wars: The Last Jedi and Solo: A Star Wars Story, whereas the prior-year period included Rogue One: A Star Wars Story.
+These increases were partially offset by the release of A Wrinkle in Time in the current period compared to the releases of Beauty and the Beast and Pirates of the Caribbean: Dead Men Tell No Tales in the prior-year period.
+Other significant releases in the current period included Coco, while the prior-year period included Moana.
+ Lower home entertainment revenue was due to a decrease of 9% from lower domestic unit sales due to one feature animation release in the current period compared to two feature animation releases in the prior-year period.
+This decrease was partially offset by the comparison of two Marvel titles in the current period compared to one Marvel title in the prior-year period.
+The feature animation release in the current period included Coco, whereas the prior-year period included Finding Dory and Moana.
+The Marvel releases in the current period were Thor: Ragnarok and Black Panther while the prior-year period included Doctor Strange.
+Other significant titles in the current period included Star Wars: The Last Jedi, whereas the prior-year period included Rogue One: A Star Wars Story and Beauty and the Beast.
+Higher TV/SVOD distribution and other revenue was due to increases of 3% from stage plays and 2% from TV/SVOD distribution.
+Higher stage play revenues were due to additional productions in the current period.
+The increase in TV/SVOD distribution was driven by an increase in our free television business, partially offset by a decrease in our international pay
+43
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+television business due to more titles available in the prior-year period.
+Growth in our free television business was primarily due to new international agreements, more title availabilities in the current period, the sale of Star Wars: The Force Awakens in the current period with no comparable title in the prior-year period and the timing of title availabilities.
+Costs and Expenses
+Operating expenses include an increase of $364 million in film cost amortization, from $2,021 million to $2,385 million due to the impact of higher theatrical distribution revenues and an increase in film cost impairments, partially offset by the impact of lower home entertainment revenues.
+Operating expenses also include cost of goods sold and distribution costs, which increased $21 million, from $949 million to $970 million due to the increase in stage play productions, partially offset by lower home entertainment volumes.
+Selling, general, administrative and other costs increased $252 million from $1,756 million to $2,008 million primarily due to higher theatrical and stage play marketing costs.
+The increase in theatrical marketing costs was due to higher average spend on titles released in the current period and an increase in pre-release marketing costs.
+Higher stage play marketing costs reflected spending for additional productions in the current period.
+Segment Operating Income
+Segment operating income increased 12%, or $247 million, to $2,384 million due to increases in theatrical and TV/SVOD distribution results, partially offset by higher film cost impairments and lower domestic home entertainment distribution results.
+Consumer Products & Interactive Media
+Operating results for the Consumer Products & Interactive Media segment are as follows:
+Revenues
+The decrease in licensing, publishing and games revenue was due to lower revenues from sales of licensed merchandise, a decrease in licensee settlements and an unfavorable FX Impact.
+Lower revenues from sales of licensed merchandise were driven by decreased revenue from products based on Frozen, Spider-Man, Finding Nemo/Dory and Princess, partially offset by an increase from products based on Star Wars and Mickey and Minnie.
+The increase in retail and other revenue includes higher sponsorship revenue and a favorable FX Impact, which were largely offset by lower retail sales.
+The decrease in retail sales was due to lower comparable store sales, partially offset by an increase in online retail revenue.
+Lower comparable retail store sales reflected decreased sales of Star Wars, Moana and Finding Nemo/Dory merchandise in the current period, partially offset by higher sales of Cars merchandise.
+44
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Costs and Expenses
+Operating expenses included a $14 million decrease in cost of goods sold and distribution costs, from $808 million to $794 million, a $29 million increase in other operating expenses, from $438 million to $467 million, and a $12 million decrease in product development expense, from $160 million to $148 million.
+The decrease in cost of goods sold and distribution costs was driven by lower retail sales.
+The increase in other operating expenses, which include occupancy costs, labor at our retail stores and other direct costs, was driven by an unfavorable FX Impact.
+Lower product development expense was due to fewer games in development.
+Segment Operating Income
+Segment operating income decreased 6%, or $76 million, to $1,295 million due to decreases at our merchandise licensing and retail businesses.
+Restructuring and Impairment Charges
+The Company recorded restructuring and impairment charges of $14 million related to Consumer Products & Interactive Media in the current period primarily for severance costs.
+CORPORATE AND UNALLOCATED SHARED EXPENSES
+Corporate and unallocated shared expenses increased $97 million to $196 million in the current quarter and increased $148 million to $540 million for the nine-month period, primarily due to costs incurred in connection with our agreement to acquire Twenty-First Century Fox, Inc. and higher compensation costs.
+The current quarter also included an unfavorable impact from the timing of allocations to operating segments.
+IMPACT OF U.S. FEDERAL INCOME TAX REFORM
+As discussed in Note 7 to the Condensed Consolidated Financial Statements, the Tax Act resulted in the following impacts to the Company (the amounts recorded in the nine-month period are provisional and will be refined during the remainder of calendar 2018):
+•The Company’s federal statutory income tax rate was reduced from 35.0% to 24.5% for fiscal 2018 and to 21.0% for following years.
+•For the nine-month period ended June 30, 2018, the Company recognized a net benefit of approximately $1.8 billion, which reflected an approximate $2.1 billion benefit from remeasuring our deferred tax balances to the new statutory rate, partially offset by a charge of approximately $0.3 billion from accruing a Deemed Repatriation Tax.
+•Generally, there will no longer be a U.S. federal income tax cost on the repatriation of foreign earnings.
+•The Company will be eligible to claim an immediate deduction for investments in qualified fixed assets and film and television productions placed in service during fiscal 2018 through fiscal 2022.
+This provision phases out through fiscal 2027.
+•Certain provisions of the Act are not effective for the Company until fiscal 2019 including:
+•The elimination of the domestic production activities deduction.
+•The taxation of certain foreign derived income in the U.S. at an effective rate of approximately 13% (which increases to approximately 16% in 2025) rather than the general statutory rate of 21%.
+•A minimum effective tax on certain foreign earnings of approximately 13%.
+We are continuing to assess the impacts of these provisions, but do not currently anticipate that the net impact will be material to our fiscal 2019 effective income tax rate.
+•We expect a cash tax benefit similar to the reduction in the statutory rate, as well as a benefit from the immediate deduction for investments in qualified fixed assets and film and television productions.
+45
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+FINANCIAL CONDITION
+The change in cash and cash equivalents is as follows:
+Operating Activities
+Cash provided by operating activities increased 19% to $10.4 billion for the current nine months compared to $8.8 billion in the prior-year nine months driven by a decrease in tax payments due to the Tax Act, a decrease in pension plan contributions and higher operating cash flow at Parks and Resorts, partially offset by lower operating cash flow at Media Networks.
+Parks and Resorts cash flow reflected higher operating cash receipts due to increased revenues, partially offset by higher spending on labor and other costs.
+Lower operating cash flow at Media Networks was primarily due to higher television production spending.
+Film and Television Costs
+The Company’s Studio Entertainment and Media Networks segments incur costs to acquire and produce feature film and television programming.
+Film and television production costs include all internally produced content such as live-action and animated feature films, animated direct-to-video programming, television series, television specials, theatrical stage plays or other similar product.
+Programming costs include film or television product licensed for a specific period from third parties for airing on the Company’s broadcast and cable networks and television stations.
+Programming assets are generally recorded when the programming becomes available to us with a corresponding increase in programming liabilities.
+Accordingly, we analyze our programming assets net of the related liability.
+46
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+The Company’s film and television production and programming activity for the nine months ended June 30, 2018 and July 1, 2017 are as follows:
+Investing Activities
+Investing activities consist principally of investments in parks, resorts and other property and acquisition and divestiture activity.
+The Company’s investments in parks, resorts and other property for the nine months ended June 30, 2018 and July 1, 2017 are as follows:
+Capital expenditures for the Parks and Resorts segment are principally for theme park and resort expansion, new attractions, cruise ships, capital improvements and systems infrastructure.
+The increase at our domestic parks and resorts was due to higher spending on new attractions.
+The decrease at our international parks and resorts was due to lower spending at Hong Kong Disneyland Resort and Shanghai Disney Resort.
+47
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Capital expenditures at Media Networks primarily reflect investments in facilities and equipment for expanding and upgrading broadcast centers, production facilities and television station facilities.
+The increase at Cable Networks was primarily due to technology spending at BAMTech.
+Capital expenditures at Corporate primarily reflect investments in corporate facilities, information technology infrastructure and equipment.
+The Company currently expects its fiscal 2018 capital expenditures will be approximately $1 billion higher than fiscal 2017 capital expenditures of $3.6 billion primarily due to increased investments at our domestic parks and resorts.
+Other Investing Activities
+During the current nine-month period, the Company made a $1.6 billion payment for its incremental 42% interest in BAMTech and contributed $329 million to Hulu.
+During the prior-year nine-month period, the Company acquired an incremental 18% interest in BAMTech for $557 million.
+The Company has entered into a definitive agreement to acquire 21CF, which, if completed, will require cash consideration of $35.7 billion and the issuance of stock (See Note 4 to the Condensed Consolidated Financial Statements).
+Financing Activities
+Cash used in financing activities was $5.0 billion in the current nine-month period, which reflected repurchases of common stock of $3.6 billion and dividends of $1.3 billion.
+Cash used in financing activities of $5.0 billion in the current year nine-month period was $0.8 billion less than the $5.8 billion used in the prior-year nine-month period as a decrease in repurchases of common stock in the current nine-month period compared to the prior-year nine-month period ($3.6 billion vs $5.9 billion respectively) was partially offset by lower net borrowings in the current nine-month period compared to the prior-year nine-month period ($0.2 billion vs $2.2 billion respectively).
+See Note 5 to the Condensed Consolidated Financial Statements for a summary of the Company’s borrowing activities during the nine months ended June 30, 2018 and information regarding the Company’s bank facilities.
+The Company may use commercial paper borrowings up to the amount of its unused bank facilities, in conjunction with term debt issuance and operating cash flow, to retire or refinance other borrowings before or as they come due.
+See Note 10 to the Condensed Consolidated Financial Statements for a summary of the Company’s dividends in fiscal 2018 and 2017 and share repurchases during the nine months ended June 30, 2018.
+We believe that the Company’s financial condition is strong and that its cash balances, other liquid assets, operating cash flows, access to debt and equity capital markets and borrowing capacity, taken together, provide adequate resources to fund the cash consideration in the pending acquisition of 21CF, ongoing operating requirements and future capital expenditures related to the expansion of existing businesses and development of new projects.
+However, the Company’s operating cash flow and access to the capital markets can be impacted by macroeconomic factors outside of its control.
+In addition to macroeconomic factors, the Company’s borrowing costs can be impacted by short- and long-term debt ratings assigned by nationally recognized rating agencies, which are based, in significant part, on the Company’s performance as measured by certain credit metrics such as interest coverage and leverage ratios.
+As of June 30, 2018, Moody’s Investors Service’s long- and short-term debt ratings for the Company were A2 and P-1, respectively; Standard and Poor’s long- and short-term debt ratings for the Company were A+ and A-1+; and Fitch’s long- and short-term debt ratings for the Company were A and F1, respectively.
+Each of Moody’s Investors Service, Standard and Poor’s and Fitch has placed the Company’s long- and short-term debt ratings on review for downgrade as a result of the pending acquisition of 21CF.
+The Company currently expects each rating agency to finalize its review of the Company’s debt ratings upon closing of the acquisition and one or more of the agencies may downgrade our long- and short-term debt ratings.
+Should a downgrade occur, we do not anticipate that it would impact our ability to fund ongoing operating requirements and future capital expenditures.
+The Company’s bank facilities contain only one financial covenant, relating to interest coverage, which the Company met on June 30, 2018 by a significant margin.
+The Company’s bank facilities also specifically exclude certain entities, including the Asia Theme Parks, from any representations, covenants or events of default.
+48
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+COMMITMENTS AND CONTINGENCIES
+Legal Matters
+As disclosed in Note 12 to the Condensed Consolidated Financial Statements, the Company has exposure for certain legal matters.
+Guarantees
+See Note 12 to the Condensed Consolidated Financial Statements for information regarding the Company’s guarantees.
+Tax Matters
+As disclosed in Note 9 to the Consolidated Financial Statements in the 2017 Annual Report on Form 10-K, the Company has exposure for certain tax matters.
+Contractual Commitments
+See Note 14 to the Consolidated Financial Statements in the 2017 Annual Report on Form 10-K for information regarding the Company’s contractual commitments.
+OTHER MATTERS
+Accounting Policies and Estimates
+We believe that the application of the following accounting policies, which are important to our financial position and results of operations require significant judgments and estimates on the part of management.
+For a summary of our significant accounting policies, including the accounting policies discussed below, see Note 2 to the Consolidated Financial Statements in the 2017 Annual Report on Form 10-K.
+Film and Television Revenues and Costs
+We expense film and television production, participation and residual costs over the applicable product life cycle based upon the ratio of the current period’s revenues to the estimated remaining total revenues (Ultimate Revenues) for each production.
+If our estimate of Ultimate Revenues decreases, amortization of film and television costs may be accelerated.
+Conversely, if our estimate of Ultimate Revenues increases, film and television cost amortization may be slowed.
+For film productions, Ultimate Revenues include revenues from all sources that will be earned within ten years from the date of the initial theatrical release.
+For television series, Ultimate Revenues include revenues that will be earned within ten years from delivery of the first episode, or if still in production, five years from delivery of the most recent episode, if later.
+With respect to films intended for theatrical release, the most sensitive factor affecting our estimate of Ultimate Revenues (and therefore affecting future film cost amortization and/or impairment) is theatrical performance.
+Revenues derived from other markets subsequent to the theatrical release (e.g., the home entertainment or television markets) have historically been highly correlated with the theatrical performance.
+Theatrical performance varies primarily based upon the public interest and demand for a particular film, the popularity of competing films at the time of release and the level of marketing effort.
+Upon a film’s release and determination of the theatrical performance, the Company’s estimates of revenues from succeeding windows and markets are revised based on historical relationships and an analysis of current market trends.
+The most sensitive factor affecting our estimate of Ultimate Revenues for released films is the level of expected home entertainment sales.
+Home entertainment sales vary based on the number and quality of competing home entertainment products, as well as the manner in which retailers market and price our products.
+With respect to television series or other television productions intended for broadcast, the most sensitive factors affecting estimates of Ultimate Revenues are program ratings and the strength of the advertising market.
+Program ratings, which are an indication of market acceptance, directly affect the Company’s ability to generate advertising revenues during the airing of the program.
+In addition, television series with greater market acceptance are more likely to generate incremental revenues through the licensing of program rights worldwide to television distributors, SVOD services and in home entertainment formats.
+Alternatively, poor ratings may result in cancellation of the program, which would require an immediate write-down of any unamortized production costs.
+A significant decline in the advertising market would also negatively impact our estimates.
+We expense the cost of television broadcast rights for acquired series, movies and other programs based on the number of times the program is expected to be aired or on a straight-line basis over the useful life, as appropriate.
+Amortization of those television programming assets being amortized on a number of airings basis may be accelerated if we reduce the estimated future airings and slowed if we increase the estimated future airings.
+The number of future airings of a particular program is impacted primarily by the program’s ratings in previous airings, expected advertising rates and availability and quality of
+49
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+alternative programming.
+Accordingly, planned usage is reviewed periodically and revised if necessary.
+We amortize rights costs for multi-year sports programming arrangements during the applicable seasons based on the estimated relative value of each year in the arrangement.
+The estimated value of each year is based on our projections of revenues over the contract period, which include advertising revenue and an allocation of affiliate revenue.
+If the annual contractual payments related to each season approximate each season’s estimated relative value, we expense the related contractual payments during the applicable season.
+If planned usage patterns or estimated relative values by year were to change significantly, amortization of our sports rights costs may be accelerated or slowed.
+Costs of film and television productions are subject to regular recoverability assessments, which compare the estimated fair values with the unamortized costs.
+The net realizable values of television broadcast program licenses and rights are reviewed using a daypart methodology.
+A daypart is defined as an aggregation of programs broadcast during a particular time of day or programs of a similar type.
+The Company’s dayparts are: primetime, daytime, late night, news and sports (includes broadcast and cable networks).
+The net realizable values of other cable programming assets are reviewed on an aggregated basis for each cable network.
+Individual programs are written off when there are no plans to air or sublicense the program.
+Estimated values are based upon assumptions about future demand and market conditions.
+If actual demand or market conditions are less favorable than our projections, film, television and programming cost write-downs may be required.
+Revenue Recognition
+We reduce home entertainment revenues for estimated future returns of merchandise and for customer programs and sales incentives.
+These estimates are based upon historical return experience, current economic trends and projections of customer demand for and acceptance of our products.
+If we underestimate the level of returns or sales incentives in a particular period, we may record less revenue in later periods when returns or sales incentives exceed the estimated amount.
+Conversely, if we overestimate the level of returns or sales incentives for a period, we may have additional revenue in later periods when returns or sales incentives are less than estimated.
+We recognize revenues from advance theme park ticket sales when the tickets are used.
+Revenues from annual pass sales are recognized ratably over the period for which the pass is available for use.
+Pension and Postretirement Medical Plan Actuarial Assumptions
+The Company’s pension and postretirement medical benefit obligations and related costs are calculated using a number of actuarial assumptions.
+Two critical assumptions, the discount rate and the expected return on plan assets, are important elements of expense and/or liability measurement, which we evaluate annually.
+Refer to the 2017 Annual Report on Form 10-K for estimated impacts of changes in these assumptions.
+Other assumptions include the healthcare cost trend rate and employee demographic factors such as retirement patterns, mortality, turnover and rate of compensation increase.
+The discount rate enables us to state expected future cash payments for benefits as a present value on the measurement date.
+A lower discount rate increases the present value of benefit obligations and increases pension expense.
+The guideline for setting this rate is a high-quality long-term corporate bond rate.
+The Company’s discount rate was determined by considering yield curves constructed of a large population of high-quality corporate bonds and reflects the matching of the plans’ liability cash flows to the yield curves.
+To determine the expected long-term rate of return on the plan assets, we consider the current and expected asset allocation, as well as historical and expected returns on each plan asset class.
+A lower expected rate of return on pension plan assets will increase pension expense.
+Goodwill, Other Intangible Assets, Long-Lived Assets and Investments
+The Company is required to test goodwill and other indefinite-lived intangible assets for impairment on an annual basis and if current events or circumstances require, on an interim basis.
+Goodwill is allocated to various reporting units, which are an operating segment or one level below the operating segment.
+The Company compares the fair value of each reporting unit to its carrying amount, and to the extent the carrying amount exceeds the fair value, an impairment of goodwill is recognized for the excess up to the goodwill allocated to the reporting unit.
+To determine the fair value of our reporting units, we generally use a present value technique (discounted cash flows) corroborated by market multiples when available and as appropriate.
+We apply what we believe to be the most appropriate valuation methodology for each of our reporting units.
+The discounted cash flow analyses are sensitive to our estimates of future revenue growth and margins for these businesses.
+We include in the projected cash flows an estimate of the revenue we believe the reporting unit would receive if the intellectual property developed by the reporting unit that is being used by other
+50
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+reporting units was licensed to an unrelated third party at its fair market value.
+These amounts are not necessarily the same as those included in segment operating results.
+We believe our estimates of fair value are consistent with how a marketplace participant would value our reporting units.
+In times of adverse economic conditions in the global economy, the Company’s long-term cash flow projections are subject to a greater degree of uncertainty than usual.
+If we had established different reporting units or utilized different valuation methodologies or assumptions, the impairment test results could differ, and we could be required to record impairment charges.
+The Company is required to compare the fair values of other indefinite-lived intangible assets to their carrying amounts.
+If the carrying amount of an indefinite-lived intangible asset exceeds its fair value, an impairment loss is recognized for the excess.
+Fair values of other indefinite-lived intangible assets are determined based on discounted cash flows or appraised values, as appropriate.
+The Company tests long-lived assets, including amortizable intangible assets, for impairment whenever events or changes in circumstances (triggering events) indicate that the carrying amount may not be recoverable.
+Once a triggering event has occurred, the impairment test employed is based on whether the intent is to hold the asset for continued use or to hold the asset for sale.
+The impairment test for assets held for use requires a comparison of cash flows expected to be generated over the useful life of an asset group to the carrying value of the asset group.
+An asset group is established by identifying the lowest level of cash flows generated by a group of assets that are largely independent of the cash flows of other assets and could include assets used across multiple businesses or segments.
+If the carrying value of an asset group exceeds the estimated undiscounted future cash flows, an impairment would be measured as the difference between the fair value of the group’s long-lived assets and the carrying value of the group’s long-lived assets.
+The impairment is allocated to the long-lived assets of the group on a pro rata basis using the relative carrying amounts, but only to the extent the carrying value of each asset is above its fair value.
+For assets held for sale, to the extent the carrying value is greater than the asset’s fair value less costs to sell, an impairment loss is recognized for the difference.
+Determining whether a long-lived asset is impaired requires various estimates and assumptions, including whether a triggering event has occurred, the identification of the asset groups, estimates of future cash flows and the discount rate used to determine fair values.
+If we had established different asset groups or utilized different valuation methodologies or assumptions, the impairment test results could differ, and we could be required to record impairment charges.
+The Company has cost and equity investments.
+The fair value of these investments is dependent on the performance of the investee companies as well as volatility inherent in the external markets for these investments.
+In assessing the potential impairment of these investments, we consider these factors, as well as the forecasted financial performance of the investees and market values, where available.
+If these forecasts are not met or market values indicate an other-than-temporary decline in value, impairment charges may be required.
+Allowance for Doubtful Accounts
+We evaluate our allowance for doubtful accounts and estimate collectability of accounts receivable based on our analysis of historical bad debt experience in conjunction with our assessment of the financial condition of individual companies with which we do business.
+In times of domestic or global economic turmoil, our estimates and judgments with respect to the collectability of our receivables are subject to greater uncertainty than in more stable periods.
+If our estimate of uncollectible accounts is too low, costs and expenses may increase in future periods, and if it is too high, costs and expenses may decrease in future periods.
+Contingencies and Litigation
+We are currently involved in certain legal proceedings and, as required, have accrued estimates of the probable and estimable losses for the resolution of these proceedings.
+These estimates are based upon an analysis of potential results, assuming a combination of litigation and settlement strategies, and have been developed in consultation with outside counsel as appropriate.
+From time to time, we may also be involved in other contingent matters for which we have accrued estimates for a probable and estimable loss.
+It is possible, however, that future results of operations for any particular quarterly or annual period could be materially affected by changes in our assumptions or the effectiveness of our strategies related to legal proceedings or our assumptions regarding other contingent matters.
+See Note 12 to the Condensed Consolidated Financial Statements for more detailed information on litigation exposure.
+51
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS — (continued)
+Income Tax Audits
+As a matter of course, the Company is regularly audited by federal, state and foreign tax authorities.
+From time to time, these audits result in proposed assessments.
+Our determinations regarding the recognition of income tax benefits are made in consultation with outside tax and legal counsel, where appropriate, and are based upon the technical merits of our tax positions in consideration of applicable tax statutes and related interpretations and precedents and upon the expected outcome of proceedings (or negotiations) with taxing and legal authorities.
+The tax benefits ultimately realized by the Company may differ from those recognized in our future financial statements based on a number of factors, including the Company’s decision to settle rather than litigate a matter, relevant legal precedent related to similar matters and the Company’s success in supporting its filing positions with taxing authorities.
+New Accounting Pronouncements
+See Note 16 to the Condensed Consolidated Financial Statements for information regarding new accounting pronouncements.
+MARKET RISK
+The Company is exposed to the impact of interest rate changes, foreign currency fluctuations, commodity fluctuations and changes in the market values of its investments.
+Policies and Procedures
+In the normal course of business, we employ established policies and procedures to manage the Company’s exposure to changes in interest rates, foreign currencies and commodities using a variety of financial instruments.
+Our objectives in managing exposure to interest rate changes are to limit the impact of interest rate volatility on earnings and cash flows and to lower overall borrowing costs.
+To achieve these objectives, we primarily use interest rate swaps to manage net exposure to interest rate changes related to the Company’s portfolio of borrowings.
+By policy, the Company targets fixed-rate debt as a percentage of its net debt between minimum and maximum percentages.
+Our objective in managing exposure to foreign currency fluctuations is to reduce volatility of earnings and cash flow in order to allow management to focus on core business issues and challenges.
+Accordingly, the Company enters into various contracts that change in value as foreign exchange rates change to protect the U.S. dollar equivalent value of its existing foreign currency assets, liabilities, commitments and forecasted foreign currency revenues and expenses.
+The Company utilizes option strategies and forward contracts that provide for the purchase or sale of foreign currencies to hedge probable, but not firmly committed, transactions.
+The Company also uses forward and option contracts to hedge foreign currency assets and liabilities.
+The principal foreign currencies hedged are the euro, British pound, Japanese yen and Canadian dollar.
+Cross-currency swaps are used to effectively convert foreign currency denominated borrowings to U.S. dollar denominated borrowings.
+By policy, the Company maintains hedge coverage between minimum and maximum percentages of its forecasted foreign exchange exposures generally for periods not to exceed four years.
+The gains and losses on these contracts offset changes in the U.S. dollar equivalent value of the related exposures.
+The economic or political conditions in a country could reduce our ability to hedge exposure to currency fluctuations in the country or our ability to repatriate revenue from the country.
+Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes.
+The amounts hedged using commodity swap contracts are based on forecasted levels of consumption of certain commodities, such as fuel oil and gasoline.
+It is the Company’s policy to enter into foreign currency and interest rate derivative transactions and other financial instruments only to the extent considered necessary to meet its objectives as stated above.
+The Company does not enter into these transactions or any other hedging transactions for speculative purposes.
+52
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk.

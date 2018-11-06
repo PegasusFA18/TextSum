@@ -1,0 +1,714 @@
+ITEM 7 — MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This management's discussion and analysis should be read in conjunction with the audited Consolidated Financial Statements and accompanying Notes included in this annual report on Form 10-K.
+In addition to historical financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs, and that are subject to numerous risks and uncertainties.
+Our actual results may differ materially from those expressed or implied in any forward-looking statements.
+Unless otherwise indicated, all results presented are prepared in a manner that complies, in all material respects, with accounting principles generally accepted in the United States of America ("GAAP").
+Additionally, unless otherwise indicated, all changes identified for the current-period results represent comparisons to results for the prior corresponding fiscal period.
+Unless the context indicates otherwise, references in this report to "we," "us," "our," the "Company," and "Dell Technologies" mean Dell Technologies Inc. and its consolidated subsidiaries, references to "Dell" mean Dell Inc. and Dell Inc.'s consolidated subsidiaries, and references to "EMC" mean EMC Corporation and EMC Corporation's consolidated subsidiaries.
+Our fiscal year is the 52- or 53-week period ending on the Friday nearest January 31.
+We refer to our fiscal years ended February 2, 2018, February 3, 2017, and January 29, 2016 as "Fiscal 2018," "Fiscal 2017," and "Fiscal 2016," respectively.
+Fiscal 2018 and Fiscal 2016 included 52 weeks.
+Fiscal 2017 included 53 weeks, with the extra week included in the fourth quarter of Fiscal 2017.
+On September 7, 2016, we completed our acquisition by merger of EMC.
+The consolidated results of EMC are included in Dell Technologies' consolidated results for Fiscal 2018 and the portion of Fiscal 2017 subsequent to the EMC merger transaction.
+During Fiscal 2017, we closed the Dell Services, Dell Software Group ("DSG"), and Enterprise Content Division ("ECD") divestiture transactions.
+Accordingly, the results of operations of Dell Services, DSG, and ECD, as well as the related gains or losses on sale, have been excluded from the results of continuing operations in the relevant periods, except as otherwise indicated.
+INTRODUCTION
+Dell Technologies is a strategically aligned family of businesses, poised to become the essential infrastructure company, from the edge to the core to the cloud, as we continue our mission to advance human progress through technology.
+We seek to accomplish this by executing two, related, high-level strategic initiatives: helping our customers transform their businesses through digital, IT, workforce and security transformation, while extending our many leading market positions in client solutions and IT infrastructure.
+Dell Technologies brings together the entire infrastructure from hardware to software to services.
+The core of IT is evolving in our hyper-connected world, containing both centralized data centers and geographically distributed hyper-converged infrastructure.
+Dell Technologies is a leader in the traditional technology of today and a leader in the cloud-native infrastructure of tomorrow.
+Through our recent combination with EMC, Dell Technologies offers next-generation solutions through our Client Solutions Group, Infrastructure Solutions Group, VMware, Inc., RSA Information Security ("RSA"), SecureWorks Corp. ("SecureWorks"), Pivotal Software, Inc. ("Pivotal"), Boomi, Inc. ("Boomi"), and Virtustream, Inc. ("Virtustream").
+Our next-generation solutions enable digital transformation and encompass software-defined data centers, all-flash arrays, hybrid cloud, converged and hyper-converged infrastructure, cloud-native application development tools, mobile, and security solutions.
+In addition, we provide important value differentiators through our extended warranty and delivery offerings, and software and peripherals, which are closely tied to the sale of our hardware products.
+Dell Technologies is committed to our customers.
+As we innovate to make our customers' existing IT increasingly productive, we help them reinvest their savings into the next generation of technologies that they need to succeed in the digital economy.
+We are positioned to help customers of any size and are differentiated by our practical innovation and efficient, simple, and affordable solutions.
+During Fiscal 2018, we celebrated the one year anniversary of our historic merger with EMC, and recognize the many accomplishments we have made since the merger.
+These accomplishments include the broad expansion of our product
+42
+portfolio, integration of our supply chain, and achievement of revenue synergies across the business.
+With these accomplishments, we believe we are well-positioned for long-term sustainable growth and innovation.
+As we continue our integration of the EMC acquired businesses, we remain committed to our customers, supporting them with outstanding solutions, products, and services.
+We will continue our focus on building superior customer relationships through our direct model and our network of channel partners, which includes value-added resellers, system integrators, distributors, and retailers.
+We also will continue to balance our efforts to drive cost efficiencies in the business with strategic investments in areas that will enable growth, such as our sales force, marketing, and research and development, as we seek to strengthen our position as a leading global technology company poised for long-term sustainable growth and innovation.
+Products and Services
+We design, develop, manufacture, market, sell, and support a wide range of products and services.
+We are organized into the following business units, which are our reportable segments: Client Solutions Group; Infrastructure Solutions Group; and VMware.
+Due to our divestitures of Dell Services, Dell Software Group, and Dell EMC Enterprise Content Division, the results of these businesses, as well as the related gains or losses on sale, have been excluded from the results of continuing operations in the relevant periods, except as otherwise indicated.
+•Client Solutions Group ("CSG") — Offerings by CSG include branded hardware, such as desktop PCs, notebooks, and workstations, and branded peripherals, such as monitors, and projectors.
+CSG also offers attached software, peripherals, and services, including support and deployment, configuration, and extended warranty services.
+Approximately half of CSG revenue is generated by sales to customers in the Americas, with the remaining portion derived from sales to customers in the Europe, Middle East, and Africa region ("EMEA") and the Asia-Pacific and Japan region ("APJ").
+•Infrastructure Solutions Group ("ISG") — EMC's Information Storage segment and our former Enterprise Solutions Group were merged to create the Infrastructure Solutions Group, which contains storage, server, and networking offerings.
+The comprehensive portfolio of advanced storage solutions includes traditional storage solutions as well as next-generation storage solutions (including all-flash arrays and scale-out file, and object platforms).
+The server portfolio includes high-performance rack, blade, tower, and hyperscale servers.
+The networking portfolio enables our business customers to transform and modernize their infrastructure, mobilize and enrich end-user experiences, and accelerate business applications and processes.
+ISG also offers attached software, peripherals, and services, including support and deployment, configuration, and extended warranty services.
+Approximately half of ISG revenue is generated by sales to customers in the Americas, with the remaining portion derived from sales to customers in EMEA and APJ.
+•VMware — The VMware reportable segment ("VMware") reflects the operations of VMware, Inc. (NYSE: VMW) within Dell Technologies.
+See Exhibit 99.1 filed with this report for further details on the differences between VMware reportable segment results and VMware, Inc. results.
+VMware provides compute, cloud, mobility, networking and security infrastructure software to businesses that provides a flexible digital foundation for the applications that empower businesses to serve their customers globally.
+VMware offers a broad portfolio of virtualization technologies across three main product groups: software-defined data center; hybrid cloud computing; and end-user computing.
+Approximately half of VMware revenue is generated by sales to customers in the United States.
+Our other businesses, described below, consist of product and service offerings of RSA, SecureWorks, Pivotal, and Boomi.
+These businesses are not classified as reportable segments, either individually or collectively, as the results of the businesses are not material to our overall results and the businesses do not meet the criteria for reportable segments.
+•RSA provides essential cybersecurity solutions engineered to enable organizations to detect, investigate, and respond to advanced attacks, confirm and manage identities, and, ultimately, help reduce IP theft, fraud, and cybercrime.
+•SecureWorks (NASDAQ: SCWX) is a leading global provider of intelligence-driven information security solutions singularly focused on protecting its clients from cyber attacks.
+43
+•Pivotal provides a leading cloud-native platform that makes software development and IT operations a strategic advantage for customers.
+Pivotal's cloud-native platform, Pivotal Cloud Foundry, accelerates and streamlines software development by reducing the complexity of building, deploying and operating new cloud-native applications and modernizing legacy applications.
+On March 23, 2018, in preparation for an initial public offering of Pivotal's Class A common stock, Pivotal filed a registration statement on Form S-1 with the SEC.
+No public market currently exists for Pivotal's Class A common stock.
+•Boomi specializes in cloud-based integration, connecting information between existing on-premise and cloud-based applications to ensure business processes are optimized, data is accurate and workflow is reliable.
+See Note 22 of the Notes to the Consolidated Financial Statements included in this report for more information about our other businesses.
+For further discussion regarding our current reportable segments, see "Results of Operations — Business Unit Results."
+Dell Financial Services
+We also offer or arrange various financing options and services for our customers in North America, Europe, Australia, and New Zealand through Dell Financial Services and its affiliates ("DFS").
+DFS services include originating, collecting, and servicing customer receivables primarily related to the purchase of Dell Technologies products.
+The results of these operations are allocated to our segments based on the underlying product or service financed.
+For additional information about our financing arrangements, see Note 7 of the Notes to the Consolidated Financial Statements included in this report.
+Strategic Investments and Acquisitions
+As part of our strategy, we will continue to evaluate opportunities for strategic investments through our venture capital investment arm, Dell Technologies Capital, with a focus on emerging technology areas that are relevant to the Dell Technologies' unique family of businesses and that will complement our existing portfolio of solutions.
+Our investment areas include storage, software-defined networking, management and orchestration, security, machine learning and artificial intelligence, Big Data and analytics, cloud, Internet of Things, and software development operations.
+In addition to these investments, we also may make disciplined acquisitions targeting businesses that advance our strategic objectives.
+Business Trends and Challenges
+We are seeing an unprecedented rate of change in the IT industry.
+Organizations of all kinds are embracing digital technology to achieve their business objectives.
+Our vision is to be an essential infrastructure company and leader in end-user computing, data center infrastructure solutions, virtualization, Internet of Things ("IoT"), and cloud software that our customers continue to trust and rely on for their IT solutions and transformations as they embrace the multi-cloud environment of today.
+To further advance this vision, we recently unveiled a new IoT strategy, division, and an array of solutions to support IoT adoption for our customers.
+We accelerate results for our customers by enabling them to be more efficient, mobile, informed, and secure.
+We continue to invest in research and development, sales, and other key areas of our business to deliver superior products and solutions capabilities and to drive execution of long-term sustainable growth.
+We believe that our results will benefit from an integrated go-to-market strategy, including enhanced coordination among the family of Dell Technologies companies, and from our differentiated products and solutions capabilities.
+We intend to continue to execute on our business model and seek to balance liquidity, profitability, and growth to position our company for long-term success.
+We are able to leverage our traditional strength in the PC market to offer solutions and services that provide higher-value, recurring revenue streams.
+Given current market trends, we expect that the demand environment will continue to be cyclical and that competitive dynamics will continue to pressure our CSG business.
+However, we are committed to a long-term growth strategy that we believe will benefit from the consolidation trends that are occurring in our markets.
+Our CSG offerings remain an important element of our strategy, generating strong cash flow and opportunities for cross-selling of complementary solutions.
+44
+We expect that ISG will continue to be impacted by the changing nature of the IT infrastructure market and competitive environment.
+Cloud-native applications are expected to continue as a primary growth driver in the infrastructure market as IT organizations increasingly become multi-cloud environments.
+We believe the complementary cloud solutions across our business, created through our combination with EMC, strongly position us to meet these demands for our customers who are increasingly looking to leverage cloud-based computing.
+We also continue to be impacted by the emerging trends of enterprises deploying software-defined storage, hyper-converged infrastructure, and modular solutions based on server-centric architectures.
+These trends have put pressure on our traditional storage offerings, and we are focused on strategically repositioning our storage portfolio.
+We have leading solutions through our ISG and VMware data center offerings.
+In addition, through our research and development efforts, we expect to develop new solutions in this rapidly changing industry that we believe will enable us to continue to provide superior solutions to our customers.
+In ISG, we are also seeing increased interest in flexible consumption models by our customers as they seek to build greater flexibility into their cost structures.
+These solutions are generally multi-year contracts that typically result in recognition of revenue over the term of the arrangement.
+We expect these flexible consumption models will further strengthen our customer relationships, and will provide more predictable revenue streams over time.
+During Fiscal 2018, we experienced higher component costs that primarily impacted CSG and ISG.
+We expect this trend to moderate in Fiscal 2019.
+We manage our business on a U.S. dollar basis.
+However, we have a large global presence, generating approximately half of our revenue by sales to customers outside of the United States during Fiscal 2018 and Fiscal 2017.
+Our revenues, therefore, can be impacted by fluctuations in foreign currency exchange rates.
+We utilize a comprehensive hedging strategy intended to mitigate the impact of foreign currency volatility over time, and we adjust pricing when possible to further minimize foreign currency impacts.
+The percentage of our revenues generated in regions outside of the United States did not change substantially as a result of the EMC merger transaction.
+EMC Merger Transaction
+As described in Note 3 of the Notes to the Consolidated Financial Statements included in this report, on September 7, 2016, a wholly-owned subsidiary of Dell Technologies Inc. ("Merger Sub") merged with and into EMC Corporation, a Massachusetts corporation ("EMC"), with EMC surviving the merger as a wholly-owned subsidiary of Dell Technologies Inc. (the "EMC merger transaction").
+Pursuant to the terms of the merger agreement, upon the completion of the EMC merger transaction, each issued and outstanding share of common stock, par value $0.01 per share, of EMC (approximately 2.0 billion as of September 7, 2016) was converted into the right to receive (1) $24.05 in cash, without interest, and (2) 0.11146 validly issued, fully paid and non-assessable shares of common stock of Dell Technologies Inc. designated as Class V Common Stock, par value $0.01 per share, plus cash in lieu of any fractional shares.
+Shares of the Class V Common Stock were approved for listing on the New York Stock Exchange (the "NYSE") under the ticker symbol "DVMT" and began trading on September 7, 2016.
+In connection with the EMC merger transaction, all principal, accrued but unpaid interest, fees, and other amounts (other than certain contingent obligations) outstanding at the effective time of the EMC merger transaction under EMC's unsecured revolving credit facility, Dell's asset-based revolving credit facility, and Dell's term facilities were substantially repaid concurrently with the closing.
+Further, all commitments to lend and guarantees and security interests, as applicable, in connection therewith were terminated or released.
+The aggregate amounts of principal, interest, and premium necessary to redeem in full the outstanding $1.4 billion in aggregate principal amount of 5.625% Senior First Lien Notes due 2020 co-issued by Dell International and Denali Finance Corp. were deposited with the trustee for such notes, and such notes were thereby satisfied and discharged, concurrently with the effective time of the EMC merger transaction.
+All of Dell's other outstanding senior notes and all of EMC's outstanding senior notes remained outstanding after the effective time of the EMC merger transaction in accordance with their respective terms.
+Dell Technologies financed the EMC merger transaction, the repayment of the foregoing indebtedness of EMC and Dell outstanding as of the closing of the EMC merger transaction, and the payment of related fees and expenses, with debt financing arrangements in an aggregate principal amount of approximately $45.9 billion, equity financing arrangements of approximately $4.4 billion, and cash on hand of approximately $7.8 billion.
+See Note 3 and Note 8 to the Consolidated Financial Statements included in this report for additional information regarding the EMC merger transaction and the related financing transactions.
+45
+NON-GAAP FINANCIAL MEASURES
+In this management's discussion and analysis, we use supplemental measures of our performance which are derived from our consolidated financial information but which are not presented in our consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP").
+These non-GAAP financial measures include non-GAAP product net revenue; non-GAAP services net revenue; non-GAAP net revenue; non-GAAP product gross margin; non-GAAP services gross margin; non-GAAP gross margin; non-GAAP operating expenses; non-GAAP operating income; non-GAAP net income from continuing operations; earnings before interest and other, net, taxes, depreciation and amortization ("EBITDA"); and adjusted EBITDA.
+We use non-GAAP financial measures to supplement financial information presented on a GAAP basis.
+We believe that excluding certain items from our GAAP results allows management to better understand our consolidated financial performance from period to period and better project our future consolidated financial performance as forecasts are developed at a level of detail different from that used to prepare GAAP-based financial measures.
+Moreover, we believe these non-GAAP financial measures provide our stakeholders with useful information to help them evaluate our operating results by facilitating an enhanced understanding of our operating performance and enabling them to make more meaningful period to period comparisons.
+There are limitations to the use of the non-GAAP financial measures presented in this report.
+Our non-GAAP financial measures may not be comparable to similarly titled measures of other companies.
+Other companies, including companies in our industry, may calculate non-GAAP financial measures differently than we do, limiting the usefulness of those measures for comparative purposes.
+Non-GAAP product net revenue, non-GAAP services net revenue, non-GAAP net revenue, non-GAAP product gross margin, non-GAAP services gross margin, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, and non-GAAP net income from continuing operations, as defined by us, exclude the impact of purchase accounting, amortization of intangible assets, transaction-related expenses, other corporate expenses and, for non-GAAP net income from continuing operations, an aggregate adjustment for income taxes.
+As the excluded items have a material impact on our financial results, our management compensates for this limitation by relying primarily on our GAAP results and using non-GAAP financial measures supplementally or for projections when comparable GAAP financial measures are not available.
+The non-GAAP financial measures are not meant to be considered as indicators of performance in isolation from or as a substitute for net revenue, gross margin, operating expenses, operating income, or net income prepared in accordance with GAAP, and should be read only in conjunction with financial information presented on a GAAP basis.
+Reconciliations of each non-GAAP financial measure to its most directly comparable GAAP financial measure are presented below.
+We encourage you to review the reconciliations in conjunction with the presentation of the non-GAAP financial measures for each of the periods presented.
+See the discussion below for more information on each of the excluded items as well as our reasons for excluding them from our non-GAAP results.
+In future fiscal periods, we may exclude such items and may incur income and expenses similar to these excluded items.
+Accordingly, the exclusion of these items and other similar items in our non-GAAP presentation should not be interpreted as implying that these items are non-recurring, infrequent, or unusual.
+The following is a summary of the items excluded from the most comparable GAAP financial measures to calculate our non-GAAP financial measures:
+•Amortization of Intangible Assets — Amortization of intangible assets primarily consists of amortization of customer relationships, developed technology, and trade names.
+In connection with the EMC merger transaction and the acquisition of Dell Inc. by Dell Technologies Inc. on October 29, 2013, referred to as the going-private transaction, all of the tangible and intangible assets and liabilities of EMC and Dell, respectively, were accounted for and recognized at fair value on the transaction dates.
+Accordingly, for the periods presented, amortization of intangible assets represents amortization associated with intangible assets recognized in connection with the EMC merger transaction and the going-private transaction.
+Amortization charges for purchased intangible assets are significantly impacted by the timing and magnitude of our acquisitions, and these charges may vary in amount from period to period.
+We exclude these charges for purposes of calculating the non-GAAP financial measures presented below to facilitate a more meaningful evaluation of our current operating performance and comparisons to our past operating performance.
+•Impact of Purchase Accounting — The impact of purchase accounting includes purchase accounting adjustments, related to the EMC merger transaction and the going-private transaction, recorded under the acquisition method of accounting in
+46
+accordance with the accounting guidance for business combinations.
+This guidance prescribes that the purchase price be allocated to assets acquired and liabilities assumed based on the estimated fair value of such assets and liabilities on the date of the transaction.
+Accordingly, all of the assets and liabilities acquired in the EMC merger transaction and the going-private transaction were accounted for and recognized at fair value as of the respective transaction dates, and the fair value adjustments are being amortized over the estimated useful lives in the periods following the transactions.
+The fair value adjustments primarily relate to deferred revenue, inventory, and property, plant, and equipment.
+The purchase accounting adjustments and related amortization of those adjustments are reflected in our GAAP results; however, we evaluate the operating results of the underlying businesses on a non-GAAP basis, after removing such adjustments.
+We believe that excluding the impact of purchase accounting provides results that are useful in understanding our current operating performance and provides more meaningful comparisons to our past operating performance.
+•Transaction-related Expenses — Transaction-related expenses consist of acquisition, integration, and divestiture related costs, and are expensed as incurred.
+These expenses primarily represent costs for legal, banking, consulting, and advisory services, as well as certain compensatory retention awards directly related to the EMC merger transaction and related integration.
+During Fiscal 2017, transaction-related expenses includes $0.8 billion in day one stock-based compensation charges primarily related to the acceleration of vesting of EMC stock options and related taxes incurred in connection with the EMC merger transaction.
+•Other Corporate Expenses — Other corporate expenses consists of severance, facility action costs, and stock-based compensation expense associated with equity awards.
+Severance costs are primarily related to severance and benefits for employees terminated pursuant to cost savings initiatives.
+Facility action costs were $0.2 billion during Fiscal 2018.
+We expect to incur additional costs in Fiscal 2019 as we continue to integrate owned and leased facilities and as we seek opportunities for operational efficiencies and cost savings.
+Other corporate expenses vary from period to period and are significantly impacted by the timing and nature of these events.
+Therefore, although we may incur these types of expenses in the future, we believe that eliminating these charges for purposes of calculating the non-GAAP financial measures presented below facilitates a more meaningful evaluation of our current operating performance and comparisons to our past operating performance.
+•Aggregate Adjustment for Income Taxes — The aggregate adjustment for income taxes is the estimated combined income tax effect for the adjustments described above.
+During Fiscal 2018, this amount includes a provisional tax benefit of $0.3 billion which was recorded in the fourth quarter of Fiscal 2018 related to the Tax Cuts and Jobs Act of 2017 (“U.S.
+Tax Reform” or the “Act”) which was signed into law on December 22, 2017.
+For further information regarding U.S. Tax Reform, see Note 14 of the Notes to the Consolidated Financial Statements included in this report.
+During Fiscal 2017, this amount also includes tax charges of $0.2 billion on previously untaxed earnings of a foreign subsidiary that will no longer be permanently reinvested as a result of the Dell Services and DSG divestitures.
+The tax effects are determined based on the tax jurisdictions where the above items were incurred.
+47
+The table below presents a reconciliation of each non-GAAP financial measure to the most directly comparable GAAP measure for each of the periods presented:
+48
+In addition to the above measures, we also use EBITDA and adjusted EBITDA to provide additional information for evaluation of our operating performance.
+Adjusted EBITDA excludes purchase accounting adjustments related to the EMC merger transaction and the going-private transaction, acquisition, integration, and divestiture related costs, severance and facility action costs, and stock-based compensation expense.
+We believe that, due to the non-operational nature of the purchase accounting entries, it is appropriate to exclude these adjustments.
+As is the case with the non-GAAP measures presented above, users should consider the limitations of using EBITDA and adjusted EBITDA, including the fact that those measures do not provide a complete measure of our operating performance.
+EBITDA and adjusted EBITDA do not purport to be alternatives to net income (loss) as measures of operating performance or to cash flows from operating activities as a measure of liquidity.
+In particular, EBITDA and adjusted EBITDA are not intended to be a measure of free cash flow available for management's discretionary use, as these measures do not consider certain cash requirements, such as working capital needs, capital expenditures, contractual commitments, interest payments, tax payments, and other debt service requirements.
+49
+The table below presents a reconciliation of EBITDA and adjusted EBITDA to net loss from continuing operations for the periods presented:
+________________
+(a)See "Results of Operations — Interest and Other, Net" for more information on the components of interest and other, net.
+(b)This amount includes the non-cash purchase accounting adjustments related to the EMC merger transaction and the going-private transaction.
+(c)Transaction-related expenses consist of acquisition, integration, and divestiture related costs.
+(d)Consists of severance and facility action costs.
+50
+RESULTS OF OPERATIONS
+Consolidated Results
+The following table summarizes our consolidated results from continuing operations for each of the periods presented.
+Unless otherwise indicated, all changes identified for the current-period results represent comparisons to results for the prior corresponding fiscal period.
+____________________
+(a) Product gross margin percentages represent product gross margin as a percentage of product net revenue, and non-GAAP product gross margin percentages represent product gross margin as a percentage of non-GAAP product net revenue.
+(b)Services gross margin percentages represent services gross margin as a percentage of services net revenue, and non-GAAP services gross margin percentages represent services gross margin as a percentage of non-GAAP services net revenue.
+51
+Non-GAAP product net revenue, non-GAAP services net revenue, non-GAAP net revenue, non-GAAP product gross margin, non-GAAP services gross margin, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP operating income, non-GAAP net income from continuing operations, EBITDA, and adjusted EBITDA are not measurements of financial performance prepared in accordance with GAAP.
+Non-GAAP financial measures as a percentage of revenue are calculated based on non-GAAP net revenue.
+See "Non-GAAP Financial Measures" for information about these non-GAAP financial measures, including our reasons for including these measures, material limitations with respect to the usefulness of the measures, and a reconciliation of each non-GAAP financial measure to the most directly comparable GAAP financial measure.
+As a result of the EMC merger transaction completed on September 7, 2016 and its impact on Fiscal 2017 results, our results for the fiscal periods discussed below are not directly comparable.
+Overview
+During Fiscal 2018, our net revenue and non-GAAP net revenue increased 28% and 27%, respectively.
+The increase in net revenue and non-GAAP net revenue was attributable to the incremental net revenue from the EMC acquired businesses and, to a lesser extent, an increase in CSG net revenue.
+The EMC merger transaction had an impact on the mix of revenue contributed by our business units.
+CSG net revenue represented approximately 50% of our net revenue during Fiscal 2018.
+In comparison, CSG net revenue constituted a higher proportion of our net revenue during Fiscal 2017, representing approximately 60% of our net revenue.
+Our operating loss increased 2% during Fiscal 2018, primarily due to higher operating expenses from the EMC acquired businesses, mostly offset by an increase in gross margin.
+While the EMC acquired businesses contributed higher gross margin overall, we experienced gross margin pressure in ISG related to the changing product mix within ISG as well as component cost inflation, particularly for memory components used in ISG products.
+Our operating loss was impacted by purchase accounting adjustments associated with the EMC merger transaction and, to a lesser extent, the going-private transaction, amortization of intangible assets, transaction-related expenses, and other corporate expenses.
+In aggregate, these items totaled $10.2 billion and $8.4 billion for Fiscal 2018 and Fiscal 2017, respectively.
+Excluding these adjustments, non-GAAP operating income during Fiscal 2018 increased 34% to $6.9 billion, primarily as a result of an increase in operating income for VMware and, to a lesser extent, CSG.
+Cash provided by operating activities was $6.8 billion during Fiscal 2018.
+The increase in operating cash flows during Fiscal 2018 was driven by improved profitability, including the incremental profitability from the EMC acquired businesses, and ongoing working capital initiatives.
+See "Market Conditions, Liquidity, Capital Commitments, and Contractual Cash Obligations" for further information on our cash flow metrics.
+Net Revenue
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018, our net revenue and non-GAAP net revenue increased 28%, and 27%, respectively, primarily due to the incremental net revenue from the EMC acquired businesses and, to a lesser extent, an increase in CSG net revenue.
+See "Business Unit Results" for further information.
+From a geographical perspective, net revenue generated by sales to customers in all regions increased in Fiscal 2018 primarily as a result of the incremental net revenue from the EMC acquired businesses.
+Our mix of revenues generated in the Americas, EMEA, and APJ did not change substantially as a result of the EMC merger transaction.
+52
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, our net revenue increased 21% due to the favorable impact of net revenue from the EMC acquired businesses of approximately $9.2 billion, partially offset by purchase accounting adjustments of approximately $1.0 billion.
+An increase of 2% in CSG net revenue also contributed to higher net revenue during Fiscal 2017.
+Our non-GAAP net revenue increased 22% during Fiscal 2017, primarily due to the impact from the EMC acquired businesses.
+See "Business Unit Results" for further information regarding revenue from our products, services, and software offerings.
+From a geographical perspective, net revenue generated by sales to customers in all regions increased during Fiscal 2017 primarily as a result of the impact from the EMC acquired businesses.
+Gross Margin
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018, our gross margin increased 55% to $20.1 billion, and our gross margin percentage increased 450 basis points to 25.5%.
+The increases in our gross margin and gross margin percentage were primarily attributable to incremental gross margin from the EMC acquired businesses, which have higher gross margin percentages.
+The effect of the higher gross margin and gross margin percentage was partially offset by the combined impact of amortization of intangibles and purchase accounting adjustments as a result of the EMC merger transaction.
+Our gross margin for the Fiscal 2018 and Fiscal 2017 included the effect of amortization of intangibles and purchase accounting adjustments related to the EMC merger transaction and, to a lesser extent, the going-private transaction, of $5.0 billion and $3.7 billion, respectively.
+Excluding these costs, transaction-related expenses, and other corporate expenses, total non-GAAP gross margin for Fiscal 2018 increased 50% to $25.2 billion and non-GAAP gross margin percentage increased 470 basis points to 31.5%.
+The increase in non-GAAP gross margin and non-GAAP gross margin percentage was primarily attributable to incremental gross margin from the EMC acquired businesses.
+During Fiscal 2018, non-GAAP product gross margin increased 34% to $12.5 billion, and non-GAAP product gross margin percentage increased 210 basis points to 21.2%.
+The increase in non-GAAP product gross margin from the EMC acquired businesses was partially offset by component cost pressures in CSG and ISG.
+Gross margin strengthened throughout Fiscal 2018 as we managed our pricing in response to the cost environment during the period.
+Our gross margins include benefits relating primarily to settlements from certain vendors regarding their past pricing practices.
+Vendor settlements are allocated to our segments based on the relative amount of affected vendor products sold by each segment.
+These benefits, which were entirely allocated to CSG, were $68 million and $80 million for Fiscal 2018 and Fiscal 2017, respectively.
+53
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, our total gross margin increased 55% to $13.0 billion, and our gross margin percentage increased 450 basis points to 21.0%.
+The increase in our total gross margin was primarily attributable to incremental gross margin of approximately $3.7 billion from the EMC acquired businesses, which had higher gross margin percentages.
+Cost favorability in CSG also contributed to the improvement in total gross margin, but to a lesser extent.
+The effects of these factors on total gross margin were partially offset by the impact of purchase accounting adjustments and amortization of intangibles related to the EMC merger transaction and the going-private transaction.
+Gross margin for Fiscal 2017 included the effect of $3.7 billion of amortization of intangibles and purchase accounting adjustments related to the EMC merger transaction and the going-private transaction.
+In comparison, the impacts of purchase
+accounting adjustments and amortization of intangibles were $0.9 billion in Fiscal 2016, and in this period related only to the going-private transaction.
+During Fiscal 2017, our total non-GAAP gross margin increased 81% to $16.8 billion and our non-GAAP gross margin percentage increased 870 basis points to 26.8%.
+The increase in our total non-GAAP gross margin was primarily due to the impact from the EMC acquired businesses.
+During Fiscal 2017, non-GAAP product gross margin increased 67% to $9.3 billion, and non-GAAP product gross margin percentage increased 600 basis points to 19.1%.
+The increase in non-GAAP product gross margin was primarily attributable to the incremental product gross margin from the EMC acquired businesses and an increase in CSG gross margin.
+Vendor Programs and Settlements
+Our gross margin is affected by our ability to achieve competitive pricing with our vendors and contract manufacturers, including through our negotiation of a variety of vendor rebate programs to achieve lower net costs for the various components we include in our products.
+Under these programs, vendors provide us with rebates or other discounts from the list prices for the components, which are generally elements of their pricing strategy.
+We account for vendor rebates and other discounts as a reduction in cost of net revenue.
+We manage our costs on a total net cost basis, which includes supplier list prices reduced by vendor rebates and other discounts.
+The terms and conditions of our vendor rebate programs are largely based on product volumes and are generally negotiated either at the beginning of the annual or quarterly period, depending on the program.
+The timing and amount of vendor rebates and other discounts we receive under the programs may vary from period to period, reflecting changes in the competitive environment.
+We monitor our component costs and seek to address the effects of any changes to terms that might arise under our vendor rebate programs.
+Our gross margins for Fiscal 2018, Fiscal 2017, and Fiscal 2016 were not materially affected by any changes to the terms of our vendor rebate programs, as the amounts we received under these programs were generally stable relative to our total net cost.
+We are not aware of any significant changes to vendor pricing or rebate programs that may impact our results in the near term.
+In addition, we have pursued legal action against certain vendors and are currently involved in negotiations with other vendors regarding their past pricing practices.
+We have negotiated settlements with some of these vendors and may have additional settlements in future periods.
+These settlements are allocated to our segments based on the relative amount of affected vendor products sold by each segment.
+Pricing settlements benefited product gross margins in Fiscal 2018, Fiscal 2017, and Fiscal 2016 by $68 million, $80 million, and $97 million, respectively.
+54
+Operating Expenses
+The following table presents information regarding our operating expenses during each of the periods presented:
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018, total operating expenses increased 44%.
+Our operating expenses include the impact of purchase accounting associated with the EMC merger transaction and, to a lesser extent, the going-private transaction, amortization of intangible assets, transaction-related expenses, and other corporate expenses.
+In aggregate, these items totaled $5.1 billion and $4.5 billion for Fiscal 2018 and Fiscal 2017, respectively.
+Excluding these costs, total non-GAAP operating expenses increased 57%.
+The increases in operating expenses and non-GAAP operating expenses were primarily due to the incremental operating costs from the EMC acquired businesses.
+•Selling, General, and Administrative — Selling, general, and administrative ("SG&A") expenses increased 40% during Fiscal 2018.
+The increases in SG&A expenses were primarily driven by incremental operating costs of the EMC acquired businesses.
+We will continue to balance our efforts to drive cost efficiencies in the business with strategic investments in areas that will enable growth, such as our sales force, marketing, and R&D.
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, our total operating expenses increased 82%.
+The increase in total operating expenses was primarily due to incremental costs associated with the EMC acquired businesses, including transaction-related expenses.
+These transaction-related expenses include consulting and advisory services and retention payments.
+Our operating expenses include purchase accounting adjustments associated with the EMC merger transaction and the going-private transaction, amortization of intangible assets, transaction-related expenses, and other corporate expenses.
+In aggregate, these items totaled $4.5 billion and $1.8 billion for Fiscal 2017 and Fiscal 2016, respectively.
+Excluding these costs, total non-GAAP operating expenses increased 65% primarily due to the impact from the EMC acquired businesses.
+•Selling, General, and Administrative — SG&A expenses increased 73% during Fiscal 2017.
+The increases in SG&A expenses were primarily driven by incremental costs associated with the EMC acquired businesses and also reflected the impact of our increased investment in sales capabilities and marketing costs.
+55
+Operating Income/Loss
+Fiscal 2018 compared to Fiscal 2017
+Our operating loss increased 2% during Fiscal 2018, primarily due to higher operating expenses from the EMC acquired businesses as well as an increase in amortization of intangibles related to the EMC merger transaction, mostly offset by an increase in gross margin.
+While the EMC acquired businesses contributed higher gross margin overall, we experienced gross margin pressure in ISG related to the changing product mix within ISG as well as component cost inflation, particularly for memory components used in ISG products.
+Our operating loss includes the impact of purchase accounting associated with the EMC merger transaction and, to a lesser extent, the going-private transaction, amortization of intangible assets, transaction-related expenses, and other corporate expenses.
+In aggregate, these items totaled $10.2 billion and $8.4 billion for Fiscal 2018 and Fiscal 2017, respectively.
+Excluding these costs, non-GAAP operating income for Fiscal 2018 increased 34% to $6.9 billion.
+The increase in non-GAAP operating income for Fiscal 2018 was attributable to an increase in operating income for VMware and CSG.
+Fiscal 2017 compared to Fiscal 2016
+Our operating loss was $3.3 billion and $0.5 billion during Fiscal 2017 and Fiscal 2016, respectively.
+The increase in operating loss was primarily attributable to higher operating expenses, partially offset by increases in gross margin.
+Our operating loss includes purchase accounting adjustments associated with the EMC merger transaction and the going-private transaction, amortization of intangible assets, transaction-related expenses, and other corporate expenses.
+In aggregate, these items totaled $8.4 billion and $2.7 billion for Fiscal 2017 and Fiscal 2016, respectively.
+Excluding these costs, non-GAAP operating income increased 130% to $5.1 billion during Fiscal 2017.
+The increase in non-GAAP operating income was primarily attributable to an increase in gross margin, which was partially offset by higher operating expenses from the EMC acquired businesses.
+Interest and Other, Net
+The following table provides information regarding interest and other, net for each of the periods presented:
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018, changes in interest and other, net were unfavorable by $251 million primarily due to an increase in interest expense from new borrowings associated with the EMC merger transaction, which was partially offset by expenses incurred in Fiscal 2017 of approximately $337 million related to debt extinguishment and new borrowings that did not recur in Fiscal 2018.
+See Note 8 of the Notes to the Consolidated Financial Statements included in this report for further information regarding our debt.
+56
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, changes in interest and other, net were unfavorable by $1.3 billion, primarily due to an increase in interest expense from higher average debt balances from debt issued in connection with the EMC merger transaction, and to costs related to debt extinguishment associated with that transaction.
+Income and Other Taxes
+On December 22, 2017, the Tax Cuts and Jobs Act of 2017 (“U.S.
+Tax Reform” or the “Act”) was signed into law.
+U.S. Tax Reform lowers the U.S. corporate income tax rate to 21% from 35% and establishes a modified territorial system requiring a mandatory deemed repatriation tax on undistributed earnings of foreign subsidiaries (the “Transition Tax”).
+For Fiscal 2019, U.S. Tax Reform also requires a minimum tax on certain future earnings generated by foreign subsidiaries while providing for future tax-free repatriation of earnings through a 100% dividends-received deduction, and places limitations on the deductibility of net interest expense.
+GAAP requires the effect of a change in tax laws to be recognized in the period that includes the enactment date.
+Accordingly, we recognized a provisional tax benefit in the fourth quarter of Fiscal 2018 of $0.3 billion related to U.S. Tax Reform, primarily driven by a $1.3 billion tax benefit related to the remeasurement of deferred tax assets and liabilities, offset by $1.0 billion of current and future income tax expenses related to the Transition Tax.
+Our effective income tax rates for continuing operations were 32.2%, 30.2%, and 9.2% on pre-tax losses from continuing operations of $5.7 billion, $5.4 billion, and $1.3 billion for Fiscal 2018, Fiscal 2017, and Fiscal 2016, respectively.
+The change in our effective income tax rate for Fiscal 2018 as compared to Fiscal 2017 was primarily attributable to tax benefits from charges incurred associated with the EMC merger transaction, including purchase accounting adjustments, interest charges, and stock-based compensation expense.
+The change in our effective income tax rate was also impacted by tax benefits recognized in the current period related to U.S. Tax Reform, as well as by tax charges recognized in the prior year related to the divestiture of Dell Services and DSG.
+The change in our effective income tax rate for Fiscal 2017 as compared to Fiscal 2016 was primarily attributable to tax benefits from charges associated with the EMC merger transaction, including purchase accounting adjustments, interest charges, and stock-based compensation expense, which were primarily incurred in higher tax jurisdictions.
+See Note 3 of the Notes to the Consolidated Financial Statements included in this report for more information on the EMC merger transaction.
+Our effective income tax rate can fluctuate depending on the geographic distribution of our world-wide earnings, as our foreign earnings are generally taxed at lower rates than in the United States.
+In certain jurisdictions, our tax rate is significantly less than the applicable statutory rate as a result of tax holidays.
+The majority of our foreign income that is subject to these tax holidays and lower tax rates is attributable to Singapore, China, and Malaysia.
+A significant portion of these income tax benefits relates to a tax holiday that expired at the end of Fiscal 2017.
+We have negotiated new terms for the affected subsidiary.
+These new terms provide for a reduced income tax rate and will be effective for a two-year bridge period expiring at the end of Fiscal 2019.
+We are currently seeking new terms for the affected subsidiary beyond Fiscal 2019, and it is uncertain whether any terms will be agreed upon.
+Our other tax holidays will expire in whole or in part during Fiscal 2019 through Fiscal 2023.
+Many of these tax holidays and reduced tax rates may be extended when certain conditions are met or may be terminated early if certain conditions are not met.
+The differences between our effective income tax rate and the U.S. federal statutory rate of 33.7% principally resulted from the geographical distribution of taxable income discussed above and permanent differences between the book and tax treatment of certain items.
+As discussed above, starting in Fiscal 2019, our U.S. corporate income tax rate will be lowered from 35% to 21%.
+In addition, we will be subject to additional provisions of U.S. Tax Reform including a minimum tax on foreign earnings, and limitations on the deductibility of net interest expense.
+These provisions could have a material impact on our future effective income tax rate.
+For further discussion regarding tax matters, including the status of income tax audits, see Note 14 of the Notes to the Consolidated Financial Statements included in this report.
+57
+Net Income/Loss from Continuing Operations
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018, net loss from continuing operations increased 3% to a net loss from continuing operations of $3.9 billion.
+The increase in net loss from continuing operations during Fiscal 2018 was primarily attributable to an increase in operating loss and to an increase in interest and other, net expense, which was partially offset by an increase in tax benefit.
+Net loss from continuing operations for Fiscal 2018 included amortization of intangible assets, the impact of purchase accounting,transaction-related expenses, and other corporate expenses.
+Excluding these costs and the related tax impacts, non-GAAP net income from continuing operations increased 36% to $3.7 billion during the Fiscal 2018.
+The increase in non-GAAP net income from continuing operations during Fiscal 2018 was primarily attributable to increases in operating income, the effect of which was partially offset by increases in interest and other, net expense and income tax expense.
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, net loss from continuing operations increased 220% to a net loss from continuing operations of $3.7 billion.
+The increase in net loss from continuing operations for Fiscal 2017 was primarily attributable to an increase in operating loss and to an increase in interest and other, net expense.
+The effect of these factors was partially offset by an increase in tax benefit during the period.
+Net loss from continuing operations for Fiscal 2017 included amortization of intangible assets, purchase accounting adjustments, transaction-related expenses, and other corporate expenses.
+Excluding these costs, non-GAAP net income from continuing operations increased 155% to $2.7 billion during Fiscal 2017.
+The increase in non-GAAP net income from continuing operations during Fiscal 2017 was primarily attributable to an increase in operating income, the effect of which was partially offset by an increase in interest and other, net expense.
+Non-controlling Interests
+Fiscal 2018 compared to Fiscal 2017
+During Fiscal 2018 and Fiscal 2017, net loss attributable to non-controlling interests was $127 million and $46 million, respectively.
+Net loss attributable to non-controlling interests primarily consisted of net loss attributable to the non-controlling interest in VMware, Inc. For more information about our non-controlling interests, see Note 16 of the Notes to the Consolidated Financial Statements included in this report.
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017, net loss attributable to non-controlling interests was $46 million.
+Net loss attributable to non-controlling interests was primarily attributable to the net loss attributable to non-controlling interest in VMware, Inc. of $41 million.
+During Fiscal 2016, Dell Technologies did not have any non-controlling interests.
+Net Income/Loss Attributable to Dell Technologies Inc.
+Fiscal 2018 compared to Fiscal 2017
+Net loss attributable to Dell Technologies Inc. represents net income/loss from continuing operations, an adjustment for non-controlling interests, and, in Fiscal 2017, an adjustment for discontinued operations.
+During Fiscal 2018 and Fiscal 2017, net loss attributable to Dell Technologies Inc. was $3.7 billion and $1.7 billion, respectively.
+The increase in net loss attributable to Dell Technologies Inc. during Fiscal 2018 was primarily attributable to an increase in net loss from continuing operations and the absence of income from our discontinued operations in Fiscal 2018, due to completion of the divestiture transactions in Fiscal 2017.
+Fiscal 2017 compared to Fiscal 2016
+During Fiscal 2017 and Fiscal 2016, net loss attributable to Dell Technologies Inc. was $1.7 billion and $1.1 billion, respectively.
+The increase in Fiscal 2017 was due to an increase in net loss from continuing operations, offset partially by an increase in income from discontinued operations.
+For more information regarding our discontinued operations, see Note 4 of the Notes to the Consolidated Financial Statements included in this report.
+58
+Business Unit Results
+Our reportable segments are based on the following business units: CSG, ISG, and VMware.
+A description of our three business units is provided under "Introduction."
+See Note 22 of the Notes to the Consolidated Financial Statements included in this report for a reconciliation of net revenue and operating income by reportable segment to consolidated net revenue and consolidated operating loss, respectively.
+Client Solutions Group:
+The following table presents net revenue and operating income attributable to CSG for the respective periods:
+Fiscal 2018 compared to Fiscal 2017
+Net Revenue — During Fiscal 2018, CSG net revenue increased 7%, driven by an increase in overall average selling price in both the commercial and consumer product categories, as we managed our pricing in response to the cost environment during the period.
+During Fiscal 2018, CSG net revenue also benefited from increases in units sold, as we experienced a general improvement in customer demand, which favored premium notebooks and workstations.
+From a geographical perspective, net revenue attributable to CSG increased across all regions during Fiscal 2018.
+Operating Income — During Fiscal 2018, CSG operating income as a percentage of net revenue increased 60 basis points to 5.6% primarily due to a reduction in CSG operating expenses as a percentage of net revenue, as we continued to manage our cost position.
+This benefit was partially offset by increased component costs, which we were able to mitigate through pricing actions.
+We will continue to adjust our pricing practices as needed based upon relevant factors, including the competitive environment and component costs.
+We expect that component cost increases will moderate in Fiscal 2019.
+The impact of the vendor settlements recorded in Fiscal 2018 and Fiscal 2017 did not affect comparability for these periods.
+Fiscal 2017 compared to Fiscal 2016
+Net Revenue — During Fiscal 2017, CSG net revenue increased 2%, driven by an increase in both commercial and consumer net revenue.
+Commercial net revenue benefited from an increase in volume of premium notebook and workstation units sold, partially offset by a decrease in overall average selling prices.
+The increase in consumer net revenue was driven by an increase in the volume of notebook units sold, which also was partially offset by a decrease in overall average selling prices.
+The increase in volume of commercial and consumer notebooks sold was attributable to an overall improvement in customer demand.
+Both commercial and consumer businesses experienced a decrease in overall average selling prices as we strategically managed our pricing position given competitive conditions and the favorable cost environment.
+From a geographical perspective, net revenue attributable to CSG increased in the Americas and APJ during Fiscal 2017, while net revenue in EMEA was unchanged.
+59
+Operating Income — During Fiscal 2017, CSG operating income as a percentage of net revenue increased 110 basis points to 5.0%.
+This increase was driven by improvement in our gross margin percentage, which was principally the result of a favorable cost position and a richer product mix of premium notebooks and workstations.
+Infrastructure Solutions Group:
+The following table presents net revenue and operating income attributable to ISG for the respective periods:
+Fiscal 2018 compared to Fiscal 2017
+Net Revenue — During Fiscal 2018, ISG net revenue increased 41% primarily due to incremental storage net revenue associated with the EMC acquired storage business, and to a lesser extent, increases in servers and networking.
+Revenue from servers and networking increased 20% during Fiscal 2018, driven by an increase in both average selling price and units sold of our PowerEdge server product.
+Average selling prices increased as we managed our pricing in response to the current component cost environment, and also reflected the sale of servers with higher memory and storage content.
+Storage revenue increased 71% during Fiscal 2018 due to the incremental revenue from the EMC acquired storage business.
+Although we experienced strong growth in all-flash and hyper-converged infrastructure products, we are experiencing reduced demand in ISG for certain elements of our storage portfolio, including traditional high-end and midrange storage offerings.
+We are addressing this dynamic through investments in our go-to-market capability and product enhancements.
+In ISG, we are seeing increased interest in flexible consumption models by our customers as they seek to build greater flexibility into their cost structures.
+We generally provide these solutions under multi-year contracts that typically result in recognition of revenue over the term of the arrangement.
+We expect these flexible consumption models will further strengthen our customer relationships, and will build more predictable revenue streams over time.
+From a geographical perspective, during Fiscal 2018, ISG net revenue increased in all regions due to the incremental revenue from the EMC acquired storage business.
+The EMC acquired storage business operates on a world-wide basis with a geographic mix similar to that of the legacy Dell ISG business.
+Operating Income — During Fiscal 2018, ISG operating income decreased 390 basis points to 7.1% primarily due to increased operating expenses from the EMC acquired businesses and larger investments in our go-to-market capabilities and research and development.
+While the EMC acquired storage business contributed higher gross margin overall, we experienced gross margin pressure due to changing product mix within ISG as well as component cost inflation, particularly for memory components used in ISG products, which we expect to moderate in Fiscal 2019.
+Fiscal 2017 compared to Fiscal 2016
+Net Revenue — During Fiscal 2017, ISG net revenue increased 45% due to incremental net revenue associated with the EMC acquired storage business, which caused storage revenue to increase 303%.
+Revenue from servers and networking was relatively unchanged over the period, resulting from the offsetting dynamics of an increase in average selling prices due to a shift to PowerEdge servers with richer configurations, as well as to a decline in volume of PowerEdge units, as customer demand has shifted to cloud and hyperscale servers, which generally have a lower average selling price.
+60
+From a geographical perspective, during Fiscal 2017, ISG net revenue increased in all regions due to the incremental revenue from the EMC acquired storage business.
+Operating Income — During Fiscal 2017, ISG operating income as a percentage of net revenue increased 400 basis points to 11.0%.
+The increase in ISG operating income percentage was primarily driven by the favorable impact of higher gross margin percentages and operating income percentages from the EMC acquired businesses.
+The gross margin percentage for the legacy Dell ISG business was relatively flat over the period.
+VMware:
+The following table presents net revenue and operating income attributable to VMware for the respective periods:
+Fiscal 2018 compared to Fiscal 2017
+Net Revenue — VMware net revenue during Fiscal 2018 primarily consisted of revenue from the sale of software licenses under perpetual licenses, related software maintenance and support, training, consulting services, and hosted services.
+VMware net revenue for Fiscal 2018 benefited from balanced performance in all major geographies and broad strength across the product portfolio.
+From a geographical perspective, approximately half of VMware net revenue during Fiscal 2018 was generated by sales to customers in the United States.
+Operating Income — During Fiscal 2018, VMware operating income as a percentage of net revenue was 31.8%, primarily driven by strong gross margin performance during the year.
+Fiscal 2017 compared to Fiscal 2016
+Net Revenue — VMware net revenue during Fiscal 2017 represents revenue from the EMC merger transaction date of September 7, 2016 through February 3, 2017.
+VMware net revenue for Fiscal 2017 primarily consisted of revenue from the sale of software licenses under perpetual licenses, related software maintenance and support, training, consulting services, and hosted services.
+From a geographical perspective, approximately half of VMware net revenue during Fiscal 2017 was generated by sales to customers in the United States.
+Operating Income — During Fiscal 2017, VMware operating income as a percentage of net revenue was 34.5%.
+The VMware operating income percentage during Fiscal 2017 was impacted by the timing of the completion of the EMC merger transaction.
+61
+OTHER BALANCE SHEET ITEMS
+Accounts Receivable
+We sell products and services directly to customers and through a variety of sales channels, including retail distribution.
+Our accounts receivable, net, was $11.2 billion and $9.4 billion as of February 2, 2018 and February 3, 2017, respectively.
+We maintain an allowance for doubtful accounts to cover receivables that may be deemed uncollectible.
+The allowance for losses is based on a provision for accounts that are collectively evaluated based on historical bad debt experience as well as specific identifiable customer accounts that are deemed at risk.
+As of February 2, 2018 and February 3, 2017, the allowance for doubtful accounts was $103 million and $57 million, respectively.
+Based on our assessment, we believe that we are adequately reserved for expected credit losses.
+We monitor the aging of our accounts receivable and continue to take actions to reduce our exposure to credit losses.
+Dell Financial Services and Financing Receivables
+Dell Financial Services and its affiliates ("DFS") offers a wide range of financial services, including originating, collecting, and servicing customer receivables primarily related to the purchase of Dell Technologies' products and services.
+In some cases, we also offer financing on the purchase of third-party technology products that complement our portfolio of products and services.
+New financing originations were $6.3 billion, $4.5 billion, and $3.7 billion for Fiscal 2018, Fiscal 2017, and Fiscal 2016, respectively.
+As of February 2, 2018 and February 3, 2017, our financing receivables, net were $7.6 billion and $5.9 billion, respectively.
+The increases in new financing originations and financing receivables during Fiscal 2018 were attributable to growth in DFS offerings related to customer purchases of products and services from the EMC acquired businesses.
+We have securitization facilities to fund revolving loans and fixed-term leases and loans through consolidated special purpose entities, referred to as SPEs, which we account for as secured borrowings.
+We transfer certain U.S. and European customer financing receivables to these SPEs, whose purpose is to facilitate the funding of customer receivables through financing arrangements with multi-seller conduits that issue asset-backed debt securities in the capital markets and to private investors.
+During Fiscal 2018 and Fiscal 2017, we transferred $3.9 billion and $3.3 billion, respectively, to these SPEs.
+The DFS debt related to all of our securitization facilities included as secured borrowings was $3.9 billion and $3.1 billion as of February 2, 2018 and February 3, 2017, respectively.
+In addition, the carrying amount of the corresponding financing receivables was $4.6 billion and $3.6 billion as of February 2, 2018 and February 3, 2017, respectively.
+As a result of the EMC merger transaction, we are expanding our existing securitization facilities to allow for additional funding of customer receivables in the capital markets.
+We maintain an allowance to cover expected financing receivable credit losses and evaluate credit loss expectations based on our total portfolio.
+For Fiscal 2018, Fiscal 2017, and Fiscal 2016, the principal charge-off rate for our total portfolio was 1.5%, 2.0%, and 2.5%, respectively.
+The credit quality of our financing receivables has improved in recent years due to an overall improvement in the credit environment and as the mix of high-quality commercial accounts in our portfolio has increased.
+The allowance for losses is determined based on various factors, including historical and anticipated experience, past due receivables, receivable type, and customer risk profile.
+As of February 2, 2018 and February 3, 2017, the allowance for financing receivable losses was $145 million and $143 million, respectively.
+In general, the loss rates on our financing receivables have improved over the periods presented.
+We expect relatively stable loss rates in future periods, with movements in these rates being primarily driven by seasonality and a continued shift in portfolio composition to lower risk commercial assets.
+We continue to monitor broader economic indicators and their potential impact on future loss performance.
+We have an extensive process to manage our exposure to customer credit risk, including active management of credit lines and our collection activities.
+We also sell selected fixed-term financing receivables to unrelated third parties on a periodic basis, primarily to manage certain concentrations of customer credit exposure.
+Based on our assessment of the customer financing receivables, we believe that we are adequately reserved.
+See Note 7 of the Notes to the Consolidated Financial Statements included in this report for additional information about our financing receivables and the associated allowances.
+62
+Deferred Revenue
+Deferred revenue is recorded when billings have been generated or payments have been received for undelivered products or services, or in situations where revenue recognition criteria have not been met.
+Deferred revenue represents amounts received in advance for extended warranty services, software maintenance, unearned license fees, and deferred profit on third-party software offerings.
+Deferred revenue is recognized on these items when the revenue recognition criteria are met, generally resulting in ratable recognition over the contract term.
+We also have deferred revenue related to undelivered hardware and professional services, consisting of installations and consulting engagements, which are recognized as our obligations under the contract are completed.
+Our total deferred revenue was $22.2 billion and $18.7 billion as of February 2, 2018 and February 3, 2017, respectively.
+The increase in our deferred revenue was driven by a $2.2 billion increase in deferrals, primarily related to maintenance, extended warranty services, and the introduction of our flexible consumption model offerings.
+The increase also reflected $1.2 billion of amortization of our deferred revenue fair value adjustment primarily related to purchase accounting for the EMC merger transaction.
+A majority of our deferred revenue as of February 2, 2018 is expected to be recognized over the next two years.
+Off-Balance Sheet Arrangements
+As of February 2, 2018, we had no off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect on our financial condition or results of operations.
+63
+MARKET CONDITIONS, LIQUIDITY, CAPITAL COMMITMENTS, AND CONTRACTUAL CASH OBLIGATIONS
+Market Conditions
+We regularly monitor economic conditions and associated impacts on the financial markets and our business.
+We consistently evaluate the financial health of our supplier base, carefully manage customer credit, diversify counterparty risk, and monitor the concentration risk of our cash and cash equivalents balances globally.
+We routinely monitor our financial exposure to borrowers and counterparties.
+We monitor credit risk associated with our financial counterparties using various market credit risk indicators such as credit ratings issued by nationally recognized rating agencies and changes in market credit default swap levels.
+We perform periodic evaluations of our positions with these counterparties and may limit exposure to any one counterparty in accordance with our policies.
+We monitor and manage these activities depending on current and expected market developments.
+We use derivative instruments to hedge certain foreign currency exposures.
+We use forward contracts and purchased options designated as cash flow hedges to protect against the foreign currency exchange rate risks inherent in our forecasted transactions denominated in currencies other than the U.S. dollar.
+In addition, we primarily use forward contracts and may use purchased options to hedge monetary assets and liabilities denominated in a foreign currency.
+See Note 9 of the Notes to the Consolidated Financial Statements included in this report for more information about our use of derivative instruments.
+We are exposed to interest rate risk related to our variable-rate debt and investment portfolio.
+In the normal course of business, we follow established policies and procedures to manage this risk, including monitoring of our asset and liability mix.
+As a result, we do not anticipate any material losses from interest rate risk.
+For additional information, see "Item 7A — Quantitative and Qualitative Disclosures About Market Risk."
+The impact of any credit adjustments related to our use of counterparties on our Consolidated Financial Statements included in this report has been immaterial.
+Liquidity and Capital Resources
+To support our ongoing business operations, we rely on operating cash flows as our primary source of liquidity.
+We monitor the efficiency of our balance sheet to ensure that we have adequate liquidity to support our strategic initiatives.
+In addition to internally generated cash, we have access to other capital sources to finance our strategic initiatives and fund growth in our financing operations.
+As of February 2, 2018, we had $13.9 billion of total cash and cash equivalents, the majority of which was held outside of the United States.
+Our strategy is to deploy capital from any potential source, whether internally generated cash or debt, depending on the adequacy and availability of that source of capital and whether it can be accessed in a cost-effective manner.
+A significant portion of our income is earned in non-U.S. jurisdictions.
+Prior to the enactment of U.S. Tax Reform as discussed above, earnings available to be repatriated to the United States would be subject to U.S. federal income tax, less applicable foreign tax credits.
+U.S. Tax Reform fundamentally changes the U.S. approach to taxation of foreign earnings to a modified territorial tax system, which generally allows companies to make distributions of non-U.S. earnings to the United States without incurring additional U.S. federal tax.
+However, local and U.S. state taxes may still apply.
+We have provided for future tax liabilities on income earned in non-U.S. jurisdictions, except for foreign earnings that are considered indefinitely reinvested outside of the United States.
+64
+The following table summarizes our cash and cash equivalents as well as our available borrowings as of February 2, 2018 and February 3, 2017:
+__________________
+(a) Of the $13.9 billion of cash and cash equivalents as of February 2, 2018, $6.0 billion was held by VMware, Inc.
+Our revolving credit facilities include the Revolving Credit Facility and China Revolving Credit Facility.
+Available borrowings under these facilities are reduced by draws on the facility and, under the Revolving Credit Facility, outstanding letters of credit.
+As of February 2, 2018, there were no borrowings outstanding under either facility and remaining available borrowings totaled approximately $3.8 billion.
+These available borrowings may be used periodically for general corporate purposes.
+The VMware Revolving Credit Facility and Pivotal Revolving Credit Facility have maximum aggregate borrowings of $1.0 billion and $100 million, respectively.
+None of the net proceeds of such borrowings will be made available to support the operations or satisfy any corporate purposes of Dell Technologies, other than the operations and corporate purposes of VMware, Inc., Pivotal, and their respective subsidiaries.
+As of February 2, 2018, $1.0 billion was available under the VMware Revolving Credit Facility and $80 million was available under the Pivotal Revolving Credit Facility.
+We believe that our current cash and cash equivalents, along with cash that will be provided by future operations and borrowings expected to be available under the Revolving Credit Facility and China Revolving Credit Facility, will be sufficient over at least the next twelve months to fund our operations, capital expenditures, share repurchases, debt service requirements, and other corporate needs.
+65
+Debt
+The following table summarizes our outstanding debt as of February 2, 2018 and February 3, 2017:
+The outstanding principal amount of our debt was $52.7 billion as of February 2, 2018, which included core debt of $39.9 billion.
+We define core debt as the total principal amount of our debt, less: (a) DFS related debt, (b) other debt, and (c) unrestricted subsidiary debt.
+DFS related debt primarily represents debt from securitization and structured financing programs.
+To fund expansion of the DFS business, we balance the use of our securitization and structure financing programs with other sources of liquidity.
+We approximate the amount of our debt used to fund the DFS business by applying a 7:1 debt to equity ratio to our financing receivables balance, based on the underlying credit quality of the assets.
+See Note 7 of the Notes to the Consolidated Financial Statements included in this report for more information about our DFS debt.
+As of February 2, 2018, other debt primarily consisted of the $2.0 billion Margin Loan Facility.
+As of February 3, 2017, other debt primarily consisted of the Margin Bridge Facility and VMware Note Bridge Facility which were repaid during Fiscal 2018.
+VMware, Inc., Pivotal, and their respective subsidiaries are unrestricted subsidiaries for purposes of the existing debt of Dell Technologies.
+Neither Dell Technologies nor any of its subsidiaries, other than VMware, Inc., is obligated to make payment on the VMware Notes.
+None of the net proceeds of the VMware Notes will be made available to support the operations or satisfy any corporate purposes of Dell Technologies, other than the operations and corporate purposes of VMware, Inc. and its subsidiaries.
+Our requirements for cash to pay principal and interest have increased significantly due to the borrowings that were required to finance the EMC merger transaction.
+We or our affiliates, at our or their sole discretion, may purchase, redeem, prepay, refinance, or otherwise retire any amount of our outstanding indebtedness under the terms of such indebtedness at any time and from time to time, in open market or negotiated transactions with the holders of such indebtedness, as appropriate market conditions exist.
+66
+See Note 8 of the Notes to the Consolidated Financial Statements included in this report for more information about our debt and our unrestricted subsidiaries.
+Fiscal 2018
+During Fiscal 2018, we completed two refinancing transactions of the Senior Secured Credit Facilities.
+In the first refinancing transaction, which occurred during the first quarter of Fiscal 2018, we refinanced the Term Loan B Facility to reduce the interest rate margin by 0.75% and to increase the outstanding principal amount by $0.5 billion.
+We applied the proceeds from the Term Loan B Facility refinancing to repay $0.5 billion principal amount of the Margin Bridge Facility.
+Additionally, during the first quarter of Fiscal 2018, we entered into the Margin Loan Facility in the principal amount of $2.0 billion, and used the proceeds of the new facility to repay the Margin Bridge Facility in full.
+In the second refinancing transaction, which occurred during the third quarter of Fiscal 2018, we refinanced the Term Loan A-2 Facility, Term Loan A-3 Facility, Term Loan B Facility, and the Revolving Credit Facility.
+As a result of the refinancing, the interest rate margin under each of these facilities decreased by 0.50% and the outstanding principal amount of the Term Loan A-2 Facility increased by $672 million, which was used to pay $212 million principal amount of the Term Loan A-3 Facility and $460 million principal amount of the Term Loan B Facility.
+Further, the Revolving Credit Facility's borrowing capacity increased by $180 million to $3.3 billion.
+During Fiscal 2018, we repaid approximately $1.2 billion principal amount of our term loan facilities and $0.4 billion under the Revolving Credit Facility and issued an additional $1.3 billion, net, in DFS debt to support the expansion of the DFS financing receivables portfolio.
+Further, during the third quarter of Fiscal 2018, VMware, Inc. completed a public offering of senior notes in the aggregate principal amount of $4.0 billion (the "VMware Notes").
+VMware, Inc. used a portion of the net proceeds from the offering to repay certain intercompany promissory notes previously issued by it to EMC in the aggregate principal amount of $1.2 billion.
+We applied the proceeds of this repayment, and other cash, to repay $1.5 billion principal amount of the VMware Note Bridge Facility.
+VMware, Inc. has disclosed that it intends to use the remaining net proceeds of the debt issuance to fund additional repurchases of up to $1.0 billion of its Class A common stock through August 31, 2018, and for general VMware, Inc. corporate purposes, including mergers and acquisitions and repaying other indebtedness.
+Fiscal 2017
+To finance the EMC merger transaction, we issued an aggregate principal amount of $45.9 billion in new debt, which included proceeds from the sale of the First Lien Notes and Senior Notes, as well as borrowings under the Senior Secured Credit Facilities (including the Revolving Credit Facility), the Asset Sale Bridge Facility, the Margin Bridge Facility, and the VMware Note Bridge Facility at the closing of the transaction.
+Additionally, on September 7, 2016, EMC had outstanding senior notes (the "EMC Notes") consisting of $2.5 billion aggregate principal amount of its 1.875% Notes due June 2018, $2.0 billion aggregate principal amount of its 2.650% Notes due June 2020 and $1.0 billion aggregate principal amount of its 3.375% Notes due June 2023.
+The EMC Notes remain outstanding following the closing of the EMC merger transaction.
+67
+Cash Flows
+The following table contains a summary of our Consolidated Statements of Cash Flows for the respective periods:
+Operating Activities — Cash provided by operating activities was $6.8 billion for Fiscal 2018 compared to $2.3 billion for Fiscal 2017.
+The increase in operating cash flows during Fiscal 2018 was driven by improved profitability, predominantly due to the incremental profitability from the EMC acquired businesses, and ongoing working capital initiatives.
+Further, cash paid for transaction costs during Fiscal 2017 did not recur in Fiscal 2018.
+The increase in operating cash flows was partially offset by the growth in our financing receivables portfolio and cash paid for interest and taxes.
+Cash provided by operating activities was $2.3 billion for Fiscal 2017 compared to $2.2 billion for Fiscal 2016.
+Cash flow performance during both periods was strong and remained relatively unchanged as the incremental profitability from the EMC acquired businesses during Fiscal 2017 was largely offset by cash paid for transaction costs.
+Investing Activities — Investing activities primarily consist of cash used to fund strategic investments, the maturities, sales, and purchases of investments, capital expenditures for property, plant, and equipment, and capitalized software development costs.
+During Fiscal 2018, cash used by investing activities was $2.9 billion and was primarily driven by capital expenditures, VMware Inc.'s Fiscal 2018 acquisitions, and the net purchases of investments.
+See Note 3 of the Notes to the Consolidated Financial Statements included in this report for further information regarding VMware, Inc.'s acquisitions.
+In comparison, cash used in investing activities was $31.3 billion during Fiscal 2017, principally due to our use of $37.6 billion, net cash to fund the EMC merger transaction.
+Cash used in investing activities during Fiscal 2016, which primarily consisted of capital expenditures, was $0.3 billion.
+Financing Activities — Financing activities primarily consist of the proceeds and repayments of debt and cash used to repurchase common stock.
+Cash provided by financing activities of $0.4 billion during Fiscal 2018 was driven by net proceeds from debt, primarily due to the issuance of the VMware Notes, partially offset by cash used for share repurchases.
+In comparison, during Fiscal 2017, cash provided by financing activities was $31.8 billion.
+Cash provided by financing activities consisted primarily of $46.9 billion in cash proceeds from debt, $43.2 billion of which was issued in connection with the EMC merger transaction, and $4.4 billion in proceeds from the sale and issuance of our Class A, Class B, and Class C Common Stock for financing of that transaction.
+These issuances were partially offset by $17.0 billion in repayments of debt, $0.9 billion in payments of debt issuance costs, $1.3 billion in payments to repurchase common stock, and $0.4 billion in payments in connection with the appraisal litigation related to the going-private transaction.
+During Fiscal 2016, cash used in financing activities was $0.5 billion and primarily consisted of net repayments of debt.
+68
+Key Performance Metrics
+Our key performance metrics are net revenue, operating income, adjusted EBITDA, and cash flows from operations, and are discussed elsewhere in this report.
+Our cash conversion cycle is presented below.
+Our approach to, and use of the cash conversion cycle has evolved since the EMC merger transaction.
+Accordingly, we believe a consolidated cash conversion cycle no longer constitutes a key performance metric for Dell Technologies.
+Beginning in the first quarter of Fiscal 2019, we will no longer present information about this metric as part of our management's discussion and analysis.
+Cash Conversion Cycle
+The following table presents the components of our cash conversion cycle for the periods presented:
+(d)We calculate our cash conversion cycle using non-GAAP net revenue and non-GAAP cost of goods sold because we believe that excluding certain items from the GAAP results facilitates management's understanding of this key performance metric.
+69
+The table below provides reconciliations of each non-GAAP financial measure used in calculating the DSO, DSI, and DPO metrics to its most directly comparable GAAP financial measure:
+For the three months ended February 2, 2018, the change in our cash conversion cycle was favorable by 10 days when compared to the three months ended February 3, 2017.
+This change was driven by a nine day improvement in DPO, which was primarily attributable to alignment of supplier payment terms as part of our ongoing integration efforts following the EMC merger transaction.
+DSI also improved by two days, driven by efficient inventory management despite increased sales volume, while DSO was essentially flat.
+For the three months ended February 3, 2017, changes in our cash conversion cycle were unfavorable by 25 days when compared to the three months ended January 29, 2016.
+This change was primarily driven by the acquisition of EMC, which had a negative impact across all three components.
+DPO decreased 12 days primarily due to supplier payments terms of the EMC acquired businesses, DSO increased 9 days primarily due to differences in collections management from the EMC acquired businesses, and a DSI increased 4 days primarily as a result of a longer inventory cycle associated with the EMC acquired product lines.
+We believe our business model allows us to maintain an efficient cash conversion cycle, which compares favorably with that of others in our industry.
+Capital Commitments
+Capital Expenditures — During Fiscal 2018 and Fiscal 2017, we spent $1.2 billion and $0.7 billion, respectively, on property, plant, and equipment.
+These expenditures were primarily incurred in connection with our global expansion efforts and infrastructure investments made to support future growth.
+Product demand, product mix, and the use of contract manufacturers, as well as ongoing investments in operating and information technology infrastructure, influence the level and prioritization of our capital expenditures.
+Aggregate capital expenditures for Fiscal 2019, which will be primarily related to infrastructure investments and strategic initiatives, are currently expected to total between $1.1 billion and $1.3 billion.
+70
+Repurchases of Common Stock
+Class V Common Stock Repurchases by Dell Technologies Inc.— On September 7, 2016, our board of directors approved a stock repurchase program (the "DHI Group Repurchase Program") under which we are authorized to use assets of the DHI Group to repurchase up to $1.0 billion of shares of Class V Common Stock over a period of two years.
+During the fiscal year ended February 3, 2017, we repurchased 7 million shares of Class V Common Stock for $324 million using cash of the DHI Group.
+Shares repurchased under the DHI Group Repurchase Program are being held as treasury stock at cost.
+On December 13, 2016, the board of directors approved the suspension of the DHI Group Repurchase Program until such time as the board of directors authorizes the reinstatement of that program.
+As of February 2, 2018, remaining authorized amount for share repurchases under the DHI Group Repurchase Program was $676 million.
+On December 13, 2016, the board of directors approved a stock repurchase program (the “Class V Group Repurchase Program”) which authorized us to use assets of the Class V Group to repurchase up to $500 million of shares of Class V Common Stock over a period of six months.
+During Fiscal 2018, we repurchased 1.3 million shares of Class V Common Stock for $82 million pursuant to and in completion of this initial authorization.
+A total of 8.4 million shares were repurchased under this initial authorization, including shares repurchased during Fiscal 2017.
+On March 27, 2017 and August 18, 2017, the board of directors approved two amendments of the Class V Group Repurchase Program (the "March 2017 Class V Group Repurchase Program" and the “August 2017 Class V Group Repurchase Program,” respectively) which, when combined, authorized us to use assets of the Class V Group to repurchase up to an additional $600 million of shares of Class V Common Stock over additional six month periods from the respective board approval dates.
+On May 9, 2017, we completed the March 2017 Class V Group Repurchase Program, pursuant to which we repurchased 4.6 million shares of Class V Common Stock for $300 million.
+On October 31, 2017, we completed August 2017 Class V Group Repurchase Program, pursuant to which we repurchased 3.8 million shares of Class V Common Stock for $300 million.
+Class A Common Stock Repurchases by VMware, Inc. — On December 15, 2016, we entered into a stock purchase agreement with VMware, Inc. (the "December 2016 Stock Purchase Agreement"), pursuant to which VMware, Inc. agreed to repurchase for cash $500 million of shares of VMware, Inc. Class A common stock from a subsidiary of Dell Technologies.
+During Fiscal 2018, VMware, Inc. repurchased 1.4 million shares for $125 million pursuant to and in completion of the December 2016 Stock Purchase Agreement.
+VMware, Inc. repurchased a total of 6.2 million shares under this agreement, including shares repurchased during Fiscal 2017.
+We applied the proceeds from the sale to the repurchase of shares of our Class V Common Stock under the Class V Group Repurchase Program described above.
+All shares repurchased under VMware, Inc.'s stock repurchase programs are retired.
+In January 2017 and August 2017, VMware, Inc.'s board of directors authorized the repurchase of up to $2.2 billion of shares of VMware, Inc. Class A common stock (the "January 2017 Authorization" for up to $1.2 billion through the end of Fiscal 2018, and the "August 2017 Authorization" for up to $1 billion through August 31, 2018).
+On March 29, 2017 and August 23, 2017, we entered into two new stock purchase agreements with VMware, Inc. (the "March 2017 Stock Purchase Agreement" and the "August 2017 Stock Purchase Agreement," respectively), pursuant to which VMware, Inc. agreed to repurchase for cash a total of $600 million of shares of VMware, Inc. Class A common stock from a subsidiary of Dell Technologies.
+VMware, Inc. repurchased approximately 6.1 million shares of Class A common stock, consisting of 3.4 million shares pursuant to the March 2017 Stock Purchase Agreement and 2.7 million shares pursuant to the August 2017 Stock Purchase Agreement.
+We applied the proceeds of the sales to the repurchase of shares of the Class V Common Stock under the March 2017 and August 2017 Class V Group Repurchase Programs described above.
+As of November 3, 2017, the sale transactions under the March 2017 and August 2017 Stock Purchase Agreements were completed.
+The purchase prices of the 3.4 million shares and 2.7 million shares repurchased by VMware, Inc. were each based on separate volume-weighted average per share prices of the Class A common stock as reported on the New York Stock Exchange during separate specified reference periods, less a discount of 3.5% from the respective volume-weighted average per share price.
+During Fiscal 2018, VMware, Inc. repurchased 6.4 million shares of Class A common stock in the open market for $724 million.
+As of February 2, 2018, the cumulative authorized amount remaining for share repurchases by VMware, Inc. was $876 million, which represents the $2.2 billion authorized since January 2017, less $600 million Class A common stock repurchases from a subsidiary of the Company during Fiscal 2018, and less $724 million of the Class A common stock repurchases in the open market during Fiscal 2018.
+71
+For more information regarding share repurchase programs, see Note 18 of the Notes to the Consolidated Financial Statements included in this report.
+Contractual Cash Obligations
+The following table summarizes our contractual cash obligations as of February 2, 2018:
+Principal Payments on Long-Term Debt — Our expected principal cash payments on borrowings are exclusive of discounts and premiums.
+We have outstanding long-term notes with varying maturities.
+As of February 2, 2018, the future principal payments related to our DFS debt were expected to be $3.3 billion in Fiscal 2019, $1.4 billion in Fiscal 2020-2021, and immaterial thereafter.
+For additional information about our debt, see Note 8 of the Notes to the Consolidated Financial Statements included in this report.
+Operating Leases — We lease property and equipment, manufacturing facilities, and office space under non-cancelable leases.
+Certain of these leases obligate us to pay taxes, maintenance, and repair costs.
+Purchase Obligations — Purchase obligations are defined as contractual obligations to purchase goods or services that are enforceable and legally binding on us.
+These obligations specify all significant terms, including fixed or minimum quantities to be purchased; fixed, minimum, or variable price provisions; and the approximate timing of the transaction.
+Purchase obligations do not include contracts that may be canceled without penalty.
+We utilize several suppliers to manufacture sub-assemblies for our products.
+Our efficient supply chain management allows us to enter into flexible and mutually beneficial purchase arrangements with our suppliers in order to minimize inventory risk.
+Consistent with industry practice, we acquire raw materials or other goods and services, including product components, by issuing to suppliers authorizations to purchase based on our projected demand and manufacturing needs.
+These purchase orders are typically fulfilled within 30 days and are entered into during the ordinary course of business in order to establish best pricing and continuity of supply for our production.
+Purchase orders are not included in purchase obligations, as they typically represent our authorization to purchase rather than binding purchase obligations.
+Interest — See Note 8 of the Notes to the Consolidated Financial Statements included in this report for further discussion of our debt and related interest expense.
+72
+Critical Accounting Policies
+We prepare our financial statements in conformity with GAAP, which requires certain estimates, assumptions, and judgments to be made that may affect our Consolidated Statements of Financial Position and Consolidated Statements of Income.
+Accounting policies that have a significant impact on our Consolidated Financial Statements are described in Note 2 of the Notes to the Consolidated Financial Statements included in this report.
+The accounting estimates and assumptions discussed in this section are those that we consider to be the most critical.
+We consider an accounting policy to be critical if the nature of the estimate or assumption is subject to a material level of judgment and if changes in those estimates or assumptions are reasonably likely to materially impact our Consolidated Financial Statements.
+We have discussed the development, selection, and disclosure of our critical accounting policies with the Audit Committee of our board of directors.
+Revenue Recognition and Related Allowances — We enter into contracts to sell our products and services, and frequently enter into sales arrangements with customers that contain multiple elements or deliverables, such as hardware, services, software licenses, and peripherals.
+Significant judgments and estimates are necessary for the allocation of the proceeds received from an arrangement to the multiple elements, and the appropriate timing of revenue recognition.
+We record reductions to revenue for estimated customer sales returns, rebates, and certain other customer incentive programs.
+These reductions to revenue are made based upon reasonable and reliable estimates that are determined by historical experience, contractual terms, and current conditions.
+The primary factors affecting our accrual for estimated customer returns include estimated return rates as well as the number of units shipped that have a right of return that has not expired as of the balance sheet date.
+If returns cannot be reliably estimated, revenue is not recognized until a reliable estimate can be made or the return right lapses.
+Each quarter, we reevaluate our estimates to assess the adequacy of our recorded accruals and allowance for doubtful accounts, and adjust the amounts as necessary.
+We sell our products directly to customers as well as through other channels, including value-added resellers, system integrators, distributors, and retailers.
+Sales through our sales channels are primarily made under agreements allowing for limited rights of return, price protection, rebates, and marketing development funds.
+We have generally limited return rights through contractual caps or we have an established selling history for these arrangements.
+Therefore, there are sufficient data to establish reasonable and reliable estimates of returns for the majority of these sales.
+To the extent price protection or return rights are not limited and a reliable estimate cannot be made, all of the revenue and related costs are deferred until the product has been sold to the end-user or the rights expire.
+We record estimated reductions to revenue or an expense for channel programs at the later of the offer or the time revenue is recognized.
+Another significant judgment includes determining whether Dell or a reseller is acting as the principal in a transaction.
+For arrangements in which a reseller is the principal, revenue is recognized on a net basis.
+All other revenue is recognized on a gross basis.
+As our business evolves, the mix of products and services sold will impact the timing of when revenue and related costs are recognized.
+We analyze various factors, including a review of specific transactions, the credit-worthiness of our customers, our historical experience, and market and economic conditions.
+Changes in judgments on these factors could materially impact the timing and amount of revenue and costs recognized.
+Business Combinations and Intangible Assets, Including Goodwill — We account for business combinations using the acquisition method of accounting, and, accordingly, the assets and liabilities of the acquired business are recorded at their fair values at the date of acquisition.
+The excess of the purchase price over the estimated fair value is recorded as goodwill.
+Any changes in the estimated fair values of the net assets recorded for acquisitions prior to the finalization of more detailed analysis, but not to exceed one year from the date of acquisition, will change the amount of the purchase price allocable to goodwill.
+The cumulative impact of any subsequent changes to any purchase price allocations that are material to our consolidated financial results will be adjusted in the reporting period in which the adjustment amount is determined.
+All acquisition costs are expensed as incurred.
+Identifiable intangible assets with finite lives are amortized over their estimated useful lives.
+In-process research and development costs are recorded at fair value as an indefinite-lived intangible asset and assessed for impairment thereafter until completion, at which point the asset is amortized over its expected useful life.
+Separately recognized transactions associated with business combinations are generally expensed subsequent to the acquisition date.
+The application of business combination and impairment accounting requires the use of significant estimates and assumptions.
+The results of operations of acquired businesses are included in our Consolidated Financial Statements from the acquisition date.
+73
+Goodwill and indefinite-lived intangible assets are tested for impairment annually during the third fiscal quarter and whenever events or circumstances may indicate that an impairment has occurred.
+To determine whether goodwill is impaired, we first assess certain qualitative factors.
+Based on this assessment, if it is determined more likely than not that the fair value of a goodwill reporting unit is less than its carrying amount, we perform the quantitative analysis of the goodwill impairment test.
+The fair value of each of our goodwill reporting units is generally estimated using a combination of public company multiples and discounted cash flow methodologies, and then compared to the carrying value of each goodwill reporting unit.
+Standard Warranty Liabilities — We record warranty liabilities at the time of sale for the estimated costs that may be incurred under the terms of the limited warranty.
+The liability for standard warranties is included in accrued and other current and other non-current liabilities on the Consolidated Statements of Financial Position.
+The specific warranty terms and conditions vary depending upon the product sold and the country in which we do business, but generally include technical support, parts, and labor over a period ranging from one to three years.
+Factors that affect our warranty liability include the number of installed units currently under warranty, historical and anticipated rates of warranty claims on those units, and cost per claim to satisfy our warranty obligation.
+The anticipated rate of warranty claims is the primary factor impacting our estimated warranty obligation.
+The other factors are less significant due to the fact that the average remaining aggregate warranty period of the covered installed base is approximately 16 months, repair parts are generally already in stock or available at pre-determined prices, and labor rates are generally arranged at pre-established amounts with service providers.
+Warranty claims are reasonably predictable based on historical experience of failure rates.
+If actual results differ from our estimates, we revise our estimated warranty liability to reflect such changes.
+Each quarter, we reevaluate our estimates to assess the adequacy of the recorded warranty liabilities and adjust the amounts as necessary.
+Income Taxes — We are subject to income tax in the United States and numerous foreign jurisdictions.
+Significant judgments are required in determining the consolidated provision for income taxes.
+We calculate a provision for income taxes using the asset and liability method, under which deferred tax assets and liabilities are recognized by identifying the temporary differences arising from the different treatment of items for tax and accounting purposes.
+We provide related valuation allowances for deferred tax assets, where appropriate.
+Significant judgment is required in determining any valuation allowance against deferred tax assets.
+In assessing the need for a valuation allowance, we consider all available evidence for each jurisdiction, including past operating results, estimates of future taxable income, and the feasibility of ongoing tax planning strategies.
+In the event we determine that all or part of the net deferred tax assets are not realizable in the future, we will make an adjustment to the valuation allowance that would be charged to earnings in the period such determination is made.
+Significant judgment is also required in evaluating our uncertain tax positions.
+Although we believe our tax return positions are sustainable, we recognize tax benefits from uncertain tax positions in the financial statements only when it is more likely than not that the positions will be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits and a consideration of the relevant taxing authority's administrative practices and precedents.
+To the extent that the final tax outcome of these matters is different from the amounts recorded, such differences will impact the provision for income taxes in the period in which such determination is made.
+The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate, as well as the related net interest and penalties.
+We believe we have provided adequate reserves for all uncertain tax positions.
+Loss Contingencies — We are subject to the possibility of various losses arising in the ordinary course of business.
+We consider the likelihood of loss or impairment of an asset or the incurrence of a liability, as well as our ability to reasonably estimate the amount of loss, in determining loss contingencies.
+An estimated loss contingency is accrued when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated.
+We regularly evaluate current information available to us to determine whether such accruals should be adjusted and whether new accruals are required.
+Third parties have in the past asserted, and may in the future assert, claims or initiate litigation related to exclusive patent, copyright, and other intellectual property rights to technologies and related standards that are relevant to us.
+If any infringement or other intellectual property claim made against us by any third party is successful, or if we fail to develop non-infringing technology or license the proprietary rights on commercially reasonable terms and conditions, our business, operating results, and financial condition could be materially and adversely affected.
+Inventories — We state our inventory at the lower of cost or market.
+We record a write-down for inventories of components and products, including third-party products held for resale, which have become obsolete or are in excess of anticipated demand or net realizable value.
+We perform a detailed review of inventory each fiscal quarter that considers multiple factors, including demand forecasts, product life cycle status, product development plans, current sales levels, and component cost trends.
+The industries in which we compete are subject to demand changes.
+If future demand or market conditions for our products are less favorable than forecasted or if unforeseen technological changes negatively impact the utility of component inventory, we may be required to record additional write-downs, which would adversely affect our gross margin.
+74
+Recently Issued Accounting Pronouncements
+See Note 2 of the Notes to the Consolidated Financial Statements included in this report for a summary of recently issued accounting pronouncements that are applicable to our Consolidated Financial Statements.
+75
+ITEM 7A — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

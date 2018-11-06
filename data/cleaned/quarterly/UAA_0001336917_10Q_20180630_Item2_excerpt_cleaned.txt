@@ -1,0 +1,241 @@
+ITEM 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking Statements
+Some of the statements contained in this Form 10-Q constitute forward-looking statements.
+Forward-looking statements relate to expectations, beliefs, projections, future plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts, such as statements regarding our future financial condition or results of operations, our prospects and strategies for future growth, our anticipated charges and restructuring costs and the timing of these measures, the impact of the Tax Act on our results of operations, the development and introduction of new products, the implementation of our marketing and branding strategies and future benefits and opportunities from significant investments.
+In many cases, you can identify forward-looking statements by terms such as “may,” “will,” “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “outlook,” “potential” or the negative of these terms or other comparable terminology.
+The forward-looking statements contained in this Form 10-Q reflect our current views about future events and are subject to risks, uncertainties, assumptions and changes in circumstances that may cause events or our actual activities or results to differ significantly from those expressed in any forward-looking statement.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future events, results, actions, levels of activity, performance or achievements.
+Readers are cautioned not to place undue reliance
+19
+on these forward-looking statements.
+A number of important factors could cause actual results to differ materially from those indicated by these forward-looking statements, including, but not limited to, those factors described in our Annual Report on Form 10-K for the year ended December 31, 2017 filed with the Securities and Exchange Commission (“SEC”) (our “2017 Form 10-K”) or in this Form 10-Q under “Risk Factors”, if included herein, and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” These factors include without limitation:
+•changes in general economic or market conditions that could affect overall consumer spending or our industry;
+•changes to the financial health of our customers;
+•our ability to successfully execute our long-term strategies;
+•our ability to successfully execute any restructuring plans and realize expected benefits;
+•our ability to effectively drive operational efficiency in our business;
+•our ability to manage the increasingly complex operations of our global business;
+•our ability to comply with existing trade and other regulations, and the potential impact of new trade and tax regulations on our profitability;
+•our ability to effectively develop and launch new, innovative and updated products;
+•our ability to accurately forecast consumer demand for our products and manage our inventory in response to changing demands;
+•any disruptions, delays or deficiencies in the design, implementation or application of our new global operating and financial reporting information technology system;
+•increased competition causing us to lose market share or reduce the prices of our products or to increase significantly our marketing efforts;
+•fluctuations in the costs of our products;
+•loss of key suppliers or manufacturers or failure of our suppliers or manufacturers to produce or deliver our products in a timely or cost-effective manner, including due to port disruptions;
+•our ability to further expand our business globally and to drive brand awareness and consumer acceptance of our products in other countries;
+•our ability to accurately anticipate and respond to seasonal or quarterly fluctuations in our operating results;
+•our ability to successfully manage or realize expected results from acquisitions and other significant investments or capital expenditures;
+•risks related to foreign currency exchange rate fluctuations;
+•our ability to effectively market and maintain a positive brand image;
+•the availability, integration and effective operation of information systems and other technology, as well as any potential interruption of such systems or technology;
+•risks related to data security or privacy breaches, including the 2018 data security issue related to our Connected Fitness business;
+our ability to raise additional capital required to grow our business on terms acceptable to us;
+•our potential exposure to litigation and other proceedings; and
+•our ability to attract key talent and retain the services of our senior management and key employees.
+The forward-looking statements contained in this Form 10-Q reflect our views and assumptions only as of the date of this Form 10-Q.
+We undertake no obligation to update any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated events.
+Overview
+We are a leading developer, marketer and distributor of branded performance apparel, footwear and accessories.
+Our products are sold worldwide and worn by athletes at all levels, from youth to professional, on playing fields around the globe, as well as by consumers with active lifestyles.
+The Under Armour Connected Fitness platform powers the world's largest digital health and fitness community and our strategy is focused on engaging with these consumers and increasing awareness and sales of our products.
+20
+Our net revenues grew to $4,976.6 million in 2017 from $2,332.1 million in 2013.
+We believe that our growth in net revenues has been driven by a growing interest in performance products and the strength of the Under Armour brand in the marketplace.
+Our long-term growth strategy is focused on increased sales of our products through ongoing product innovation, investment in our distribution channels and international expansion.
+While we plan to continue to invest in growth, we also plan to improve efficiencies throughout our business as we seek to gain scale through our operations and return on our investments.
+Financial highlights for the three months ended June 30, 2018 as compared to the prior year period include:
+•Net revenues increased 7.7%.
+•Selling, general and administrative expense increased 9.9%.
+•Gross margin decreased 110 basis points.
+2017 Restructuring
+On July 27, 2017, our Board of Directors approved a restructuring plan (the “2017 restructuring plan”) to more closely align our financial resources with the critical priorities of the business.
+We recognized approximately $100.4 million of pre-tax charges in connection with this restructuring plan for the year ended December 31, 2017.
+In addition to these charges, we also recognized restructuring related goodwill impairment charges of approximately $28.6 million for our Connected Fitness business.
+2018 Restructuring
+On February 9, 2018, our Board of Directors approved an additional restructuring plan (the "2018 restructuring plan") pursuant to which approximately $110.0 to $130.0 million of pre-tax restructuring and related charges were expected to be incurred during the 2018 fiscal year.
+During the six months ended June 30, 2018, we recognized $129.7 million of pre-tax charges in connection with the 2018 restructuring plan.
+On July 23, 2018, the Company's Board of Directors approved increasing the size of the 2018 restructuring plan by approximately $80 million for a total range of $190.0 to $210.0 million of total pre-tax restructuring and related charges during the 2018 fiscal year.
+General
+Net revenues comprise net sales, license revenues and Connected Fitness revenues.
+Net sales comprise sales from our primary product categories, which are apparel, footwear and accessories.
+Our license revenues primarily consist of fees paid to us by our licensees in exchange for the use of our trademarks on their products.
+Our Connected Fitness revenues consist of digital advertising, digital fitness platform licenses and subscriptions from our Connected Fitness business.
+Cost of goods sold consists primarily of product costs, inbound freight and duty costs, outbound freight costs, handling costs to make products floor-ready to customer specifications, royalty payments to endorsers based on a predetermined percentage of sales of selected products and write downs for inventory obsolescence.
+In general, as a percentage of net revenues, we expect cost of goods sold associated with our apparel and accessories to be lower than that of our footwear.
+A limited portion of cost of goods sold is associated with license and Connected Fitness revenues, primarily website hosting costs and other costs related to our Connected Fitness business.
+We include outbound freight costs associated with shipping goods to customers as cost of goods sold; however, we include the majority of outbound handling costs as a component of selling, general and administrative expenses.
+As a result, our gross profit may not be comparable to that of other companies that include outbound handling costs in their cost of goods sold.
+Outbound handling costs include costs associated with preparing goods to ship to customers and certain costs to operate our distribution facilities.
+These costs were $22.4 million and $24.2 million for the three
+21
+months ended June 30, 2018 and 2017, respectively, and $46.0 million and $48.9 million for the six months ended June 30, 2018 and 2017.
+Our selling, general and administrative expenses consist of costs related to marketing, selling, product innovation and supply chain and corporate services.
+We consolidate our selling, general and administrative expenses into two primary categories: marketing and other.
+The other category is the sum of our selling, product innovation and supply chain and corporate services categories.
+Personnel costs are included in these categories based on the employees’ function.
+Personnel costs include salaries, benefits, incentives and stock-based compensation related to our employees.
+Our marketing costs are an important driver of our growth.
+Marketing costs consist primarily of commercials, league, team, player and event sponsorships and depreciation expense specific to our in-store fixture program for our concept shops.
+Other expense, net consists of unrealized and realized gains and losses on our foreign currency derivative financial instruments and unrealized and realized gains and losses on adjustments that arise from fluctuations in foreign currency exchange rates relating to transactions generated by our international subsidiaries.
+Results of Operations
+The following tables set forth key components of our results of operations for the periods indicated, both in dollars and as a percentage of net revenues:
+Consolidated Results of Operations
+22
+Three Months Ended June 30, 2018 Compared to Three Months Ended June 30, 2017
+Net revenues increased $83.7 million, or 7.7%, to $1,174.9 million for the three months ended June 30, 2018 from $1,091.2 million during the same period in 2017.
+Net revenues by product category are summarized below:
+The increase in net sales was driven primarily by:
+•Apparel unit sales growth in multiple categories led by training and running.
+•Footwear unit sales growth in multiple categories led by running and team sports.
+The above increases were partially offset by accessories unit sales decline due to softer demand.
+License revenues decreased $3.9 million, or 15.7%, to $21.2 million for the three months ended June 30, 2018 from $25.1 million during the same period in 2017 driven primarily by decreased revenue from our licensing partners in North America due to softer demand.
+Connected Fitness revenue increased $3.2 million, or 12.3%, to $29.1 million for the three months ended June 30, 2018 from $25.9 million during the same period in 2017, primarily driven by increases in new subscription revenue.
+Gross profit increased $25.4 million to $526.6 million for the three months ended June 30, 2018 from $501.2 million for the same period in 2017.
+Gross profit as a percentage of net revenues, or gross margin, decreased 110 basis points to 44.8% for the three months ended June 30, 2018 compared to 45.9% during the same period in 2017.
+The decrease in gross margin percentage was primarily driven by the following:
+•approximate 240 basis point decrease driven by channel mix due to a higher composition of sales through our liquidation channel; and
+•approximate 50 basis point decrease driven by a disposition of inventory related to our 2018 restructuring plan.
+The above decreases were partially offset by:
+•approximate 170 basis point increase driven by product cost improvements and changes in foreign currency.
+We expect the continued inventory management actions and disposition of inventory related to our restructuring plan to be offset by benefits from product costs and lower planned promotional activity for the fully year.
+Selling, general and administrative expenses increased $49.7 million, or 9.9%, to $552.6 million for the three months ended June 30, 2018 from $502.9 million for the same period in 2017.
+As a percentage of net revenues, selling, general and administrative expenses increased to 47.0% for the three months ended June 30, 2018 compared to 46.1% for the same period in 2017.
+Loss from operations increased $100.1 million to a loss of $104.9 million for the three months ended June 30, 2018 from a loss of $4.8 million for the same period in 2017.
+Loss from operations for the three months ended June
+23
+30, 2018 was negatively impacted by $85 million of restructuring and impairment charges in connection with the 2018 Restructuring Plan.
+Interest expense, net increased $0.8 million to $8.6 million for the three months ended June 30, 2018 from $7.8 million for the same period in 2017.
+Other expense, net increased $5.2 million to $8.1 million for the three months ended June 30, 2018 from $2.9 million for the same period in 2017.
+Provision for income taxes decreased $22.9 million to a benefit of $26.1 million during the three months ended June 30, 2018 from a benefit of $3.2 million during the same period in 2017.
+For the three months ended June 30, 2018, our effective tax rate was 21.5% compared to 20.6% for the same period in 2017.
+The effective tax rate for the three months ended June 30, 2018 was higher than the effective tax rate for the three months ended June 30, 2017, primarily due to the impact of valuation allowances recorded in certain foreign markets in relation to the pre-tax loss for the three months in each year and the measurement-period adjustment related to the Tax Act recorded during the three months ended June 30, 2018, partially offset by decreased excess tax benefits on stock based compensation recorded during the three months ended June 30, 2018.
+Six Months Ended June 30, 2018 Compared to Six Months Ended June 30, 2017
+Net revenues increased $149.2 million, or 6.7%, to $2,360.2 million for the six months ended June 30, 2018 from $2,211.0 million during the same period in 2017.
+Net revenues by product category are summarized below:
+The increase in net sales was driven primarily by:
+•Apparel unit sales growth in multiple categories led by training and running.
+•Footwear unit sales growth in multiple categories led by running and team sports.
+The above increases were partially offset by accessories unit sales decline due to softer demand.
+License revenues decreased $1.8 million, or 3.7%, to $47.5 million for the six months ended June 30, 2018 from $49.3 million during the same period in 2017 driven primarily by decreased revenue from our licensing partners in North America and Japan due to softer demand.
+Connected Fitness revenue increased $10.6 million, or 22.3%, to $57.9 million for the six months ended June 30, 2018 from $47.4 million during the same period in 2017, primarily driven by increases in new subscription revenue and advertising revenue.
+Gross profit increased $40.9 million to $1,050.0 million for the six months ended June 30, 2018 from $1,009.1 million for the same period in 2017.
+Gross profit as a percentage of net revenues, or gross margin, decreased 110.0 basis points to 44.5% for the six months ended June 30, 2018 compared to 45.6% during the same period in 2017.
+The decrease in gross margin percentage was primarily driven by the following:
+•approximate 180 basis point decrease driven by channel mix due to a higher composition of sales to liquidation partners; and
+•approximate 55 basis point decrease driven by a disposition of inventory related to our 2018 restructuring plan,
+The above decreases were partially offset by:
+•approximate 110 basis point increase driven by product cost improvements and changes in foreign currency.
+We expect the continued inventory management actions and disposition of inventory related to our restructuring plan to be offset by benefits from product costs and lower planned promotional activity for the fully year.
+24
+Selling, general and administrative expenses increased $64.0 million, or 6.4%, to $1,067.3 million for the six months ended June 30, 2018 from $1,003.3 million for the same period in 2017.
+As a percentage of net revenues, selling, general and administrative expenses decreased to 45.2% for the six months ended June 30, 2018 compared to 45.4% for the same period in 2017.
+Income (loss) from operations decreased $136.3 million to a loss of $133.5 million for the six months ended June 30, 2018 from income of $2.8 million for the same period in 2017.
+Loss from operations for the six months ended June 30, 2018 was negatively impacted by $130 million of restructuring, impairment and restructuring related charges in connection with the 2018 Restructuring Plan.
+Interest expense, net increased $1.5 million to $17.1 million for the six months ended June 30, 2018 from $15.7 million for the same period in 2017.
+This increase was primarily due to increase borrowings on our revolving credit facility.
+Other expense, net increased $4.9 million to $5.2 million for the six months ended June 30, 2018 from $0.3 million for the same period in 2017.
+Provision for income taxes decreased $31.6 million to a benefit of $30.2 million during the six months ended June 30, 2018 from $1.4 million during the same period in 2017.
+For the six months ended June 30, 2018, our effective tax rate was 19.4% compared to (10.3)% for the same period in 2017.
+The effective tax rate for the six months ended June 30, 2018 was higher than the effective tax rate for the six months ended June 30, 2017, primarily due to the impact of valuation allowances recorded in certain foreign markets in relation to the pre-tax loss for the six months in each year.
+Segment Results of Operations
+The net revenues and operating income (loss) associated with our segments are summarized in the following tables.
+The majority of corporate expenses within North America have not been allocated to our other segments.
+Three Months Ended June 30, 2018 Compared to Three Months Ended June 30, 2017
+Net revenues by segment are summarized below:
+25
+Operating income (loss) by segment is summarized below:
+Six Months Ended June 30, 2018 Compared to Six Months Ended June 30, 2017
+Net revenues by segment are summarized below:
+26
+Operating income (loss) by segment is summarized below:
+Seasonality
+Historically, we have recognized a majority of our net revenues and a significant portion of our income from operations in the last two quarters of the year, driven primarily by increased sales volume of our products during the
+27
+fall selling season, including our higher priced cold weather products, along with a larger proportion of higher margin direct to consumer sales.
+The level of our working capital generally reflects the seasonality and growth in our business.
+Financial Position, Capital Resources and Liquidity
+Our cash requirements have principally been for working capital and capital expenditures.
+We fund our working capital, primarily inventory, and capital investments from cash flows from operating activities, cash and cash equivalents on hand and borrowings available under our credit and long term debt facilities.
+Our working capital requirements generally reflect the seasonality and growth in our business as we recognize the majority of our net revenues in the last two quarters of the year.
+Our capital investments have included expanding our in-store fixture and branded concept shop program, improvements and expansion of our distribution and corporate facilities to support our growth, leasehold improvements to our brand and factory house stores, and investment and improvements in information technology systems.
+Our inventory strategy is focused on continuing to meet consumer demand while improving our inventory efficiency over the long term by putting systems and processes in place to improve our inventory management.
+These systems and processes are designed to improve our forecasting and supply planning capabilities.
+In addition to systems and processes, key areas of focus that we believe will enhance inventory performance are added discipline around the purchasing of product, production lead time reduction, and better planning and execution in selling of excess inventory through our factory house stores and other liquidation channels.
+We believe our cash and cash equivalents on hand, cash from operations, our ability to access the debt capital markets and borrowings available to us under our credit agreement and other financing instruments are adequate to meet our liquidity needs and capital expenditure requirements for at least the next twelve months.
+As of June 30, 2018, we had $1.25 billion of remaining availability under our revolving credit facility.
+Although we believe we have adequate sources of liquidity over the long term, an economic recession or a slow recovery could adversely affect our business and liquidity.
+In addition, instability in or tightening of the capital markets could adversely affect our ability to obtain additional capital to grow our business on terms acceptable to us or at all.
+Cash Flows
+The following table presents the major components of net cash flows provided by and used in operating, investing and financing activities for the periods presented:
+Operating Activities
+Operating activities consist primarily of net income adjusted for certain non-cash items.
+Adjustments to net income for non-cash items include depreciation and amortization, unrealized foreign currency exchange rate gains and losses, losses on disposals of property and equipment, impairment charges, stock-based compensation, excess tax benefits from stock-based compensation arrangements, deferred income taxes and changes in reserves and allowances.
+In addition, operating cash flows include the effect of changes in operating assets and liabilities, principally inventories, accounts receivable, income taxes payable and receivable, prepaid expenses and other assets, accounts payable and accrued expenses.
+Cash provided by operating activities increased $206.8 million to $146.0 million for the six months ended June 30, 2018 from $60.7 million of cash used in operating activities during the same period in 2017.
+The increase in cash provided by operating activities was due to a decrease in net cash outflows from reserves and allowances and operating assets and liabilities of $310.9 million offset by an increase in net loss adjusted for non-cash items of $104.2 million.
+Investing Activities
+Cash used in investing activities decreased $41.2 million to $126.1 million for the six months ended June 30, 2018 from $167.3 million for the same period in 2017, primarily due to lower capital expenditures.
+28
+Capital expenditures for the full year 2018 are expected to be approximately $200.0 million, comprised primarily of investments in our retail stores and global wholesale fixtures.
+Financing Activities
+Cash used in financing activities increased $271.9 million to a use of $131.3 million for the six months ended June 30, 2018 from $140.7 million of cash provided by financing activities during the same period in 2017.
+This increase was primarily due to lower borrowings on our revolving credit facility.
+Capital Resources
+Credit Facility
+We are party to a credit agreement that provides revolving credit commitments for up to $1.25 billion of borrowings, as well as term loan commitments, in each case maturing in January 2021.
+As of June 30, 2018 there were no amounts outstanding under the revolving credit facility and $148.8 million of term loan borrowings outstanding.
+At our request and the lender's consent, revolving and or term loan borrowings may be increased by up to $300.0 million in aggregate, subject to certain conditions as set forth in the credit agreement, as amended.
+Incremental borrowings are uncommitted and the availability thereof will depend on market conditions at the time we seek to incur such borrowings.
+The borrowings under the revolving credit facility have maturities of less than one year.
+Up to $50.0 million of the facility may be used for the issuance of letters of credit.
+There were $4.5 million of letters of credit outstanding as of June 30, 2018.
+The credit agreement contains negative covenants that, subject to significant exceptions, limit our ability to, among other things, incur additional indebtedness, make restricted payments, pledge our assets as security, make investments, loans, advances, guarantees and acquisitions, undergo fundamental changes and enter into transactions with affiliates.
+We are also required to maintain a ratio of consolidated EBITDA, as defined in the credit agreement, to consolidated interest expense of not less than 3.50 to 1.00 and we are not permitted to allow the ratio of consolidated total indebtedness to consolidated EBITDA to be greater than 3.25 to 1.00 ("consolidated leverage ratio").
+In February 2018, we amended the credit agreement to amend the definition of consolidated EBITDA, and to provide that our trailing four-quarter consolidated leverage ratio may not exceed 3.75 to 1.00 for the four quarters ending June 30, 2018, and 4.00 to 1.00 for the four quarters ending September 30, 3018.
+Beginning with the four quarters ending December 31, 2018 and thereafter, the consolidated leverage ratio requirement will return to 3.25 to 1.00.
+As of June 30, 2018, we were in compliance with these ratios.
+In addition, the credit agreement contains events of default that are customary for a facility of this nature, and includes a cross default provision whereby an event of default under other material indebtedness, as defined in the credit agreement, will be considered an event of default under the credit agreement.
+Borrowings under the credit agreement bear interest at a rate per annum equal to, at our option, either (a) an alternate base rate, or (b) a rate based on the rates applicable for deposits in the interbank market for U.S.
+Dollars or the applicable currency in which the loans are made (“adjusted LIBOR”), plus in each case an applicable margin.
+The applicable margin for loans will be adjusted by reference to a grid (the “Pricing Grid”) based on the consolidated leverage ratio and ranges between  1.00% to 1.25% for alternate base rate loans.
+The weighted average interest rates under the outstanding term loans were 3.3% and 2.2% during the three months ended June 30, 2018 and 2017, respectively, and 3.1% and 2.0% for the six months ended June 30, 2018 and 2017, respectively.
+The weighted average interest rate under the revolving credit facility borrowings were 2.9% and 2.2% during the three months ended June 30, 2018 and 2017,  respectively, and 2.8% and 2.0% for the six months ended June 30, 2018 and 2017, respectively.
+We pay a commitment fee on the average daily unused amount of the revolving credit facility and certain fees with respect to letters of credit.
+As of June 30, 2018, the commitment fee was 15.0 basis points.
+3.250% Senior Notes
+In June 2016, we issued $600.0 million aggregate principal amount of 3.250% senior unsecured notes due June 15, 2026 (the “Notes”).
+The proceeds were used to pay down amounts outstanding under the revolving credit facility.
+Interest is payable semi-annually on June 15 and December 15 beginning December 15, 2016.
+Prior to March 15, 2026, (three months prior to the maturity date of the Notes), we may redeem some or all of the Notes at any time or from time to time at a redemption price equal to the greater of 100% of the principal amount of the Notes to be redeemed or a "make-whole" amount applicable to such Notes as described in the indenture governing the Notes, plus accrued and unpaid interest to, but excluding, the redemption date.
+The indenture governing the Notes contains covenants, including limitations that restrict our ability and the ability of certain of our subsidiaries to create or incur secured indebtedness and enter into sale and leaseback
+29
+transactions and our ability to consolidate, merge or transfer all or substantially all of our properties or assets to another person, in each case subject to material exceptions described in the indenture.
+Other Long Term Debt
+In December 2012, we entered into a $50.0 million recourse loan collateralized by the land, buildings and tenant improvements comprising our corporate headquarters.
+On July 17, 2018, this loan was paid in full using borrowings under our revolving credit facility.
+The loan had a seven year term and maturity date of December 2019.
+The loan bore interest at one month LIBOR plus a margin of 1.50%, and allowed for prepayment without penalty.
+our As of June 30, 2018, December 31, 2017 and June 30, 2017, the outstanding balance on the loan was $39.0 million, $40.0 million and $41.0 million, respectively.
+The weighted average interest rate on the loan was 3.4% and 2.5% for the three months ended June 30, 2018 and 2017, respectively, and 3.2% and 2.4% for the six months ended June 30, 2018 and 2017, respectively.
+Interest expense, net, was $8.6 million and $7.8 million for the three months ended June 30, 2018 and 2017, respectively, and 17.1 and $15.7 million for the six months ended June 30, 2018 and 2017, respectively.
+Interest expense includes the amortization of deferred financing costs, bank fees, capital and built-to-suit lease interest and interest expense under the credit and other long term debt facilities.
+We monitor the financial health and stability of our lenders under the credit and other long term debt facilities, however during any period of significant instability in the credit markets, lenders could be negatively impacted in their ability to perform under these facilities.
+Contractual Commitments and Contingencies
+Other than the borrowings and repayments disclosed above in the "Capital Resources" section and changes which occur in the normal course of business, there were no significant changes to the contractual obligations reported in our 2017 Form 10-K as updated in our Form 10-Q for the quarter ended June 30, 2018.
+Critical Accounting Policies and Estimates
+Our consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America.
+To prepare these financial statements, we must make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, as well as the disclosures of contingent assets and liabilities.
+Actual results could be significantly different from these estimates.
+We believe the following addresses the critical accounting policies that are necessary to understand and evaluate our reported financial results.
+Our significant accounting policies are described in Note 2 of the audited consolidated financial statements included in our 2017 Form 10-K.
+The SEC suggests companies provide additional disclosure on those accounting policies considered most critical.
+The SEC considers an accounting policy to be critical if it is important to our financial condition and results of operations and requires significant judgments and estimates on the part of management in its application.
+Our estimates are often based on complex judgments, probabilities and assumptions that management believes to be reasonable, but that are inherently uncertain and unpredictable.
+It is also possible that other professionals, applying reasonable judgment to the same facts and circumstances, could develop and support a range of alternative estimated amounts.
+For a complete discussion of our critical accounting policies, see the “Critical Accounting Policies” section of the MD&A in our 2017 Form 10-K. Other than adoption of recent accounting standards as discussed in Note 2 to the notes to our consolidated financial statements, there were no significant changes to our critical accounting policies during the six months ended June 30, 2018.
+Recently Issued Accounting Standards
+Refer to Note 2 to the notes to our consolidated financial statements included in this Form 10-Q for our assessment of recently issued accounting standards.
+30
+ITEM 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

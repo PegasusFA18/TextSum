@@ -1,0 +1,102 @@
+ITEM 1A.RISK FACTORS
+The risks and uncertainties described below are not the only ones facing us.
+Malicious third parties may also conduct attacks designed to temporarily deny customers access to our services.
+Any interruptions or delays in services from third-parties, including data center hosting facilities, cloud computing platform providers and other hardware and software vendors, or from our inability to adequately plan for and manage service interruptions or infrastructure capacity requirements, could impair the delivery of our services and harm our business.
+Our services involve the storage and transmission of our customers’ and our customers' customers' proprietary and other sensitive data, including financial information and other personally identifiable information.
+For example, ongoing legal challenges in Europe to the mechanisms allowing companies to transfer personal data from the European Economic Area to the United States could result in further limitations on the ability to transfer data across borders, particularly if governments are unable or unwilling to reach new or maintain existing agreements that support cross-border data transfers, such as the EU-U.S. and Swiss-U.S. Privacy Shield framework.
+Regulators in certain industries have adopted and may in the future adopt regulations or interpretive positions regarding the use of cloud computing and other outsourced services.
+Our efforts to expand our services beyond the CRM market may not succeed and may reduce our revenue growth rate.
+The Internet has experienced a variety of outages and other delays as a result of damages to portions of its infrastructure, denial-of-service attacks or related cyber incidents, and it could face outages and delays in the future.
+Our subscription model also makes it difficult for us to rapidly increase our revenue through additional sales in any period, as revenue from new customers must be recognized over the applicable subscription term.
+Any failure to maintain high-quality technical support, or a market perception that we do not maintain high-quality support, could adversely affect our reputation, our ability to sell our service offerings to existing and prospective customers, and our business, operating results and financial position.
+Because our services are complex and incorporate a variety of hardware, proprietary software and third-party software, our services may have errors or defects that could result in unanticipated downtime for our subscribers and harm to our reputation and our business.
+The success of enhancements, new features and services depends on several factors, including the timely completion, introduction and market acceptance of the feature, service or enhancement by customers, administrators and developers, as well as our ability to seamlessly integrate all of our service offerings.
+2014-09, “Revenue from Contracts with Customers (Topic 606)” (“ASU 2014-09”), which includes the accounting for revenue recognized and capitalized costs.
+If third-party developers and providers do not continue to embrace our technology delivery model and enterprise cloud computing services, or if our customers seek warranties from us for third-party applications, integrations, data and content, our business could be harmed.
+In addition, our customers may renew for fewer subscriptions, renew for shorter contract lengths, or switch to lower cost offerings of our services.
+We sell our services throughout the world and are subject to risks and challenges associated with international business.
+Our strategy is to work with third parties to increase the breadth of capability and depth of capacity for delivery of these services to our customers.
+As more of our sales efforts are targeted at larger enterprise customers, our sales cycle may become more time-consuming and expensive, we may encounter pricing pressure and implementation and configuration challenges, and we may have to delay revenue recognition for some complex transactions, all of which could harm our business and operating results.
+The U.S. Treasury Department, the Internal Revenue Service ("IRS"), and other standard-setting bodies may issue guidance on how the provisions of the Tax Act will be applied or otherwise administered, and additional accounting guidance or interpretations may be issued in the future that is different from our current interpretation.
+Consequently, a decline in new or renewed subscriptions in any one quarter may not be reflected in our revenue results for that quarter.
+Any failure of our services to operate effectively with future network platforms and technologies could reduce the demand for our services, result in customer dissatisfaction and harm our business.
+If we fail to maintain and enhance our brands, or if we incur excessive expenses in our efforts to do so, our business, operating results and financial condition may be materially and adversely affected.
+We may not be able to adjust our spending appropriately if the addition of new subscriptions or the renewals of existing subscriptions fall short of our expectations.
+Any of these factors could negatively impact our business and results of operations.
+Further, valuations of privately-held companies are inherently complex due to the lack of readily available market data.
+As a result, our fiscal first quarter is our largest collections and operating cash flow quarter.
+As a result, our competitors may be able to respond more quickly and effectively than we can to new or changing opportunities, technologies, standards or customer requirements.
+If we fail to successfully scale our operations and increase productivity, we may be unable to execute our business plan and the fair value of our common stock could decline.
+Our corporate headquarters, and a significant portion of our research and development activities, information technology systems, and other critical business operations, are located near major seismic faults in the San Francisco Bay Area.
+Additionally, some of the important factors that may cause our revenues, operating results and cash flows to fluctuate from quarter to quarter include:
+•our ability to retain and increase sales to existing customers, attract new customers and satisfy our customers’ requirements;
+•the attrition rates for our services;
+•the rate of expansion and productivity of our sales force;
+•the length of the sales cycle for our services;
+•new product and service introductions by our competitors;
+•our success in selling our services to large enterprises;
+•our ability to realize benefits from strategic partnerships, acquisitions or investments;
+•general economic conditions, which may adversely affect either our customers’ ability or willingness to purchase additional subscriptions or upgrade their services, or delay a prospective customer's purchasing decision, reduce the value of new subscription contracts, or affect attrition rates;
+•variations in the revenue mix of our services and growth rates of our cloud subscription and support offerings;
+•changes in our pricing policies and terms of contracts, whether initiated by us or as a result of competition;
+•changes in payment terms and the timing of customer payments and payment defaults by customers;
+•changes in deferred revenue and unbilled deferred revenue balances, which are not reflected in the balance sheet, due to seasonality, the compounding effects of renewals, invoice duration, size and timing, new business linearity between quarters and within a quarter and fluctuations due to foreign currency movements, all of which may impact implied growth rates;
+•the seasonality of our customers’ businesses, especially Commerce Cloud customers, including retailers and branded manufacturers;
+•changes in foreign currency exchange rates such as with respect to the British Pound;
+•the amount and timing of operating costs and capital expenditures related to the operations and expansion of our business;
+•the number of new employees;
+•the timing of commission, bonus, and other compensation payments to employees;
+•the cost, timing and management effort for the introduction of new features to our services;
+•the costs associated with acquiring new businesses and technologies and the follow-on costs of integration and consolidating the results of acquired businesses;
+•expenses related to our real estate, our office leases and our data center capacity and expansion;
+•timing of additional investments in our enterprise cloud computing application and platform services and in our consulting services;
+•expenses related to significant, unusual or discrete events, which are recorded in the period in which the events occur;
+•extraordinary expenses such as litigation or other dispute-related settlement payments;
+•income tax effects, including the impact of changes in U.S. federal and state and international tax laws applicable to corporate multinationals;
+15
+•the timing of payroll and other withholding tax expenses, which are triggered by the payment of bonuses and when employees exercise their vested stock awards;
+•technical difficulties or interruptions in our services;
+•changes in interest rates and our mix of investments, which would impact the return on our investments in cash and marketable securities;
+•conditions, particularly sudden changes, in the financial markets, which have impacted and may continue to impact the value of and liquidity of our investment portfolio;
+•changes in the fair value of our strategic investments in early-to-late stage public and privately held companies, which could be material in a particular quarter;
+•equity issuances, including as consideration in acquisitions or due to the conversion of our outstanding convertible notes at the election of the note holders;
+•the timing of stock awards to employees and the related adverse financial statement impact of having to expense those stock awards on a straight-line basis over their vesting schedules;
+•evolving regulations of cloud computing and cross-border data transfer restrictions and similar regulations;
+•regulatory compliance costs; and
+•the impact of new accounting pronouncements and associated system implementations, for example, the adoption of Accounting Standards Update No.
+Our exposure to risks associated with various claims, including the use of intellectual property, may be increased as a result of acquisitions of other companies.
+Any claims and lawsuits, and the disposition of such claims and lawsuits, whether through settlement or licensing discussions, or litigation, could be time-consuming and expensive to resolve, divert management attention from executing our business plan, result in efforts to enjoin our activities, lead to attempts on the part of other parties to pursue similar claims and, in the case of intellectual property claims, require us to change our technology, change our business practices, pay monetary damages or enter into short- or long-term royalty or licensing agreements.
+Our future success also depends in part on our ability to sell additional features and services, more subscriptions or enhanced editions of our services to our current customers.
+While we regularly evaluate new information that may change our judgment resulting in recognition, derecognition or change in measurement of a tax position taken, there can be no assurance that the final determination of any examinations will not have an adverse effect on our operating results and financial position.
+We may be subject to audits and investigations relating to our government contracts, and any violations could result in various civil and criminal penalties and administrative sanctions, including termination of contract, refunding or suspending of payments, forfeiture of profits, payment of fines, and suspension or debarment from future government business.
+We may be required to spend significant resources and expense to monitor and protect our intellectual property rights.
+In addition, we have been, and may in the future be, sued by third parties for alleged infringement of their claimed proprietary rights.
+In addition, our existing patents and any patents issued in the future may not provide us with competitive advantages, or may be successfully challenged by third parties.
+This infrastructure is run by a series of independent third-party organizations that work together to provide the infrastructure and supporting services of the Internet under the governance of the Internet Corporation for Assigned Numbers and Names (ICANN) and the Internet Assigned Numbers Authority (IANA), now under the stewardship of ICANN.
+The fluctuations of currencies in which we conduct business can both increase and decrease our overall revenue and expenses for any given fiscal period.
+We are subject to income taxes in the United States and various jurisdictions outside of the United States.
+Such changes in our executive management team may be disruptive to our business.
+In addition, Section 203 of the Delaware General Corporation Law may discourage, delay or prevent a change in control of our company.
+The United States and other key international economies have experienced cyclical downturns from time to time in which economic activity was impacted by falling demand for a variety of goods and services, restricted credit, poor liquidity, reduced corporate profitability, volatility in credit, equity and foreign exchange markets, bankruptcies and overall uncertainty with respect to the economy.
+These exposures may change over time as business practices evolve, economic conditions change and evolving tax regulations come into effect.
+Our exposure to the credit risk of the hedge counterparties will not be secured by any collateral.
+Current and future accounting pronouncements and other financial reporting standards, especially but not only concerning revenue recognition, cost capitalization and lease accounting, may negatively impact our financial results.
+We can provide no assurances as to the financial stability or viability of any of the hedge counterparties.
+For example, the 2017 U.S. Tax Cuts and Jobs Act ("Tax Act") significantly changed income tax law that affect U.S. corporations.
+Periodic changes to our sales organization can be disruptive and may reduce our rate of growth.
+We made significant judgments and assumptions in the interpretation of this new law and in our calculations of the provisional amounts reflected in our financial statements.
+The capital markets for public offerings and acquisitions are
+14
+dynamic and the likelihood of liquidity events for the companies we have invested in could significantly worsen.
+The hedge counterparties and their respective affiliates periodically modify their hedge positions from time to time following the pricing of the notes (and are particularly likely to do so during any observation period relating to a conversion of the notes) by entering into or unwinding various over-the-counter derivative transactions with respect to our common stock, or by purchasing or selling shares of our common stock or the notes in privately negotiated transactions or open market transactions.
+In addition, if one or more of the securities analysts who cover us adversely change their recommendation regarding our stock, the market price of our common stock could decline.
+Natural disasters or other catastrophic events may cause damage or disruption to our operations, international commerce and the global economy, and thus could have a strong negative effect on us.
+If we are at any time unable to generate sufficient cash flows from operations to service our indebtedness when payment is due, we may be required to attempt to renegotiate the terms of the instruments relating to the indebtedness, seek to refinance all or a portion of the indebtedness or obtain additional financing.
+If we issue additional shares of our common stock or instruments convertible into shares of our common stock, it may materially and adversely affect the market price of our common stock and, in turn, the trading price of the notes.
+The fundamental change purchase rights will allow holders of the notes to require us to purchase all or a portion of their notes upon the occurrence of a fundamental change.
+We also entered into privately negotiated warrant transactions with the hedge counterparties.
+The hedge counterparties are financial institutions or affiliates of financial institutions, and we will be subject to the risk that these hedge counterparties may default under the convertible note hedge transactions.
+ITEM 2.
+UNRESOLVED STAFF COMMENTS
+None.
+PROPERTIES

@@ -1,0 +1,69 @@
+BlackRock’s fee arrangements under any of its advisory or management contracts may be reduced (including at the behest of a fund’s board of directors).
+The sophisticated risk analytics that BlackRock provides via its technology platform to support investment advisory and Aladdin clients are an important element of BlackRock’s competitive success.
+BlackRock must manage this process and is charged with mitigating the associated operational risks.
+BlackRock provides borrower default indemnification to certain of its securities lending clients.
+Failure or unavailability of third-party dependencies may adversely affect Aladdin operations and could lead to a loss of clients and could impede BlackRock’s productivity and growth.
+Continuing enhancements to Aladdin’s capabilities, as well as the expansion of BlackRock’s Aladdin platform into new markets and geographies, may expose BlackRock to heightened cyber- and information-security, operational and data management risks.
+Substantial risk and uncertainties are associated with the introduction of new products and services, including the implementation of new and appropriate operational controls and procedures, shifting client and market preferences, the introduction of competing products or services and compliance with regulatory requirements.
+BlackRock’s ability to maintain strong relationships with its distributors may impact the Company’s future performance, and its relationships with distributors are subject to periodic renegotiation that may result in increased distribution costs and/or reductions in the amount of BlackRock products and services being marketed or distributed.
+The Company collaborates with clients, vendors and other third parties to develop secure transmission capabilities and protect against cyber-attacks.
+Moreover, due to the complexity and interconnectedness of BlackRock’s systems, the process of upgrading or patching the Company’s protective measures could itself create a risk of security issues or system disruptions for the Company, as well as for clients who rely upon, or have exposure to, BlackRock’s systems.
+The volatility of the Company’s future revenue and earnings may also be affected due to illiquid alternatives becoming an increasing component of the overall composition of the Company’s performance fee generating assets.
+The failure of the Company’s systems of internal control to mitigate such risks, or of its operating infrastructure to support its global activities, could result in operational failures and regulatory fines and/or sanctions, which may cause the Company’s AUM, revenue and earnings to decline.
+BlackRock derives a substantial portion of its revenue from providing investment advisory services.
+In addition, if a number of BlackRock’s clients terminate their contracts, remove BlackRock from advisory roles, liquidate funds or fail to renew management contracts on favorable terms, the fees or carried interest BlackRock earns could be reduced, which may cause BlackRock’s AUM, revenue and earnings to decline.
+MiFID II may also impact the ability of certain of BlackRock’s distribution partners to accept commissions.
+BlackRock’s trust bank subsidiary, which is a national banking association chartered by the OCC, is subject to OCC regulation and capital requirements.
+BlackRock may also be adversely affected by its failure to comply with current laws and regulations or by changes in the interpretation or enforcement of existing laws and regulations.
+BlackRock relies on a number of third parties to provide distribution, portfolio administration and servicing for certain BlackRock investment management products and services through their various distribution channels.
+Operating outside the United States may also expose BlackRock to increased compliance risks, as well as higher compliance costs to comply with U.S. and non-U.S. anti-corruption, anti-money laundering and sanctions laws and regulations.
+The reforms will limit the use of constant net asset value money market funds to those holding only government debt, and introduce a new category of “low volatility net asset value” money market funds, with both categories of money market funds being subject to reinforced liquidity requirements as well as safeguards such as liquidity fees and redemption gates.
+Fraud, the circumvention of controls or the violation of risk management and workplace policies could have an adverse effect on BlackRock’s reputation, which may cause the Company’s AUM, revenue and earnings to decline.
+Transactions with counterparties expose the products and accounts BlackRock manages to credit risk in the event the
+22
+applicable counterparty defaults.
+Risks Related to KEY THIRD-PARTY Relationships
+The impairment or failure of third parties may cause BlackRock’s AUM, revenue and earnings to decline.
+In the event the SEC moves forward with any such proposals, any new rules, guidance or regulatory initiatives could expose BlackRock to additional compliance costs and may require the Company to change how it operates its business and/or manages its funds.
+Risks Related to INVESTMENT PERFORMANCE
+Poor investment performance could lead to the loss of clients and may cause AUM, revenue and earnings to decline.
+In addition, certain EU Member States have enacted financial transaction taxes (“FTTs”), which impose taxation on a broad range of financial instrument and derivatives transactions, and the European Commission has proposed legislation to harmonize these taxes and provide for the adoption of EU-level legislation applicable to some (but not all) EU Member States.
+Although BlackRock expends considerable resources on systemic controls, supervision, technology and training in an effort to ensure that such transactions do not violate client guidelines and applicable rules and regulations or adversely affect clients, counterparties or the Company, BlackRock’s operations are dependent on its employees.
+Once implemented, any new requirements could result in significant changes to the methodology used to determine the amount of regulatory capital that BlackRock is required to hold in the EU.
+These regulators have imposed numerous regulations, guidelines and standards on the activities of BlackRock and its subsidiaries covering a variety of areas, including capital resources requirements, marketing activities, client and investor protections, senior management arrangements, and system and control requirements.
+As of December 31, 2017, PNC owned 22% of the Company’s capital stock.
+If BlackRock is unable to offer competitive compensation or otherwise attract and retain talented individuals, or if it fails to effectively manage executive succession, the Company’s ability to compete effectively and retain its existing clients may be materially impacted.
+The MiFID II reforms, which came into force in January 2018, are substantive, materially changing market transparency requirements and enhancing protections afforded to investors.
+Numerous factors, including price movements in the equity, debt or currency markets, or in the price of real assets, commodities or alternative investments in which BlackRock invests, could cause:
+•
+the value of AUM, or the returns BlackRock realizes on AUM, to decrease;
+•
+the withdrawal of funds from BlackRock’s products in favor of products offered by competitors;
+•
+the rebalancing or reallocating of assets into BlackRock products that yield lower fees;
+•
+an impairment to the value of intangible assets and goodwill; or
+•
+a decrease in the value of seed or co-investment capital.
+The Bank Holding Company Act by its terms does not currently apply to BlackRock.
+In the event that BlackRock is designated as a SIFI, under Dodd-Frank, the Federal Reserve is charged with establishing enhanced regulatory requirements for nonbank financial institutions and BlackRock could become subject to direct supervision by the Federal Reserve.
+Any such determination, if successful, would subject BlackRock to current and future regulatory requirements under the Bank Holding Company Act, including the Volcker Rule.
+Based on this interpretation of the Bank Holding Company Act, the Federal Reserve could initiate a process to formally determine that PNC controls BlackRock under the terms of the Bank Holding Company Act.
+Item 1A.
+In addition, the highly regulated business activities of many Aladdin clients may indirectly expose BlackRock to heightened regulatory scrutiny.
+The substantive provisions of the rule began to apply in June 2017.
+BlackRock’s business and operating activities are subject to increasing regulatory oversight outside of the United States and the Company may be affected by a number of pending regulatory reform initiatives in EMEA and the Asia-Pacific region, as well as volatility associated with international regulatory uncertainty, including:
+•
+British Exit from the European Union: Following the June 2016 vote to exit the European Union (“EU”), the United Kingdom served notice under Article 50 of the Treaty on European Union on March 29, 2017 to initiate the process of exiting from the EU, commonly referred to as "Brexit".
+•
+Reform of EU investment markets: The European Commission has revised the Directive governing the provision of investment services in Europe (“MiFID”) and introduced an associated Regulation (together with certain secondary regulation, “MiFID II”).
+In particular, additional disclosures are required in respect of costs and fees BlackRock charges to certain of its clients.
+Legal and Regulatory Risks
+BlackRock is subject to extensive regulation around the world.
+•
+Revised EU capital requirements: EU regulators are considering how to design an appropriate capital regime for non-systemically important investment firms as the current regime is based on banking requirements and has not been modified for asset managers.
+For a more extensive discussion of the laws, regulations and regulators to which BlackRock is subject, see “Item 1 – Business – Regulation.”
+Regulatory reforms in the United States expose BlackRock to increasing regulatory scrutiny, as well as regulatory uncertainty.
+Being subject to banking regulation may put BlackRock at a competitive disadvantage because certain of its competitors are not subject to these limitations.
+Future sales or distributions of BlackRock’s common stock in the public market by the Company or PNC could adversely affect the trading price of BlackRock’s common stock.
+Properties

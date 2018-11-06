@@ -1,0 +1,73 @@
+Our users are accessing the Internet via multiple devices and modalities and want to feel connected no matter where they are or what they are doing.
+•Users are increasingly using multiple devices and modalities to access our products and services, and our advertising revenues are increasingly coming from mobile and other new formats.
+•Our employees are critical to our success and we expect to continue investing in them.
+•Capital expenditures were $13.2 billion.
+Their energy and talent drive Alphabet and create our success.
+Google is our only reportable segment.
+We expect this trend to continue as we focus on expanding our offerings to our users through products and services like Google Cloud, Google Play, hardware products, and YouTube subscriptions.
+The positive impact on our revenues from an increase in paid clicks was partially offset by a decrease in the cost-per-click paid by our advertisers.
+Revenues
+The following table presents our revenues, by segment and revenue source (in millions):
+Google segment
+The following table presents our Google segment revenues (in millions), and changes in our aggregate paid clicks and cost-per-click (expressed as a percentage):
+Use of Monetization Metrics
+When assessing our advertising revenues performance, we present information regarding the percentage change in the number of paid clicks and cost-per-click for our Google properties and Google Network Members' properties.
+Impairment of Securities
+We periodically review our securities for impairment.
+The growth was primarily driven by strength in both programmatic advertising buying and AdMob, offset by a decline in our traditional AdSense businesses and the general strengthening of the U.S. dollar compared to certain foreign currencies.
+The increase in Google properties TAC rate was primarily driven by a shift to mobile and more mobile searches are subject to TAC.
+The decrease in cost-per-click paid by our advertisers from 2015 to 2016 resulted from changes in the product mix of Google Network Members advertising revenues, ongoing product and policy changes, changes in property and device mix, geographic mix, and relative fluctuations of the U.S. dollar compared to certain foreign currencies.
+Our Google other revenues increased $4,197 million from 2016 to 2017.
+The foreign exchange impact was due to the U.S. dollar weakening relative to the Brazilian real and Canadian dollar, partially offset by the impact of the U.S. dollar strengthening relative to the Argentine peso.
+35
+Table of ContentsAlphabet Inc.
+We expect cost of revenues to increase in dollar amount and as a percentage of total revenues in future periods based on a number of factors, including the following:
+•Google Network Members TAC rates, which are affected by the continued underlying shift in advertising buying from our traditional network business to programmatic advertising buying which carries higher TAC;
+•Google properties TAC rates, which are affected by changes in device mix between mobile, desktop, and tablet, partner mix, partner agreement terms such as revenue share arrangements, and the percentage of queries channeled through paid access points;
+•Growth rates of expenses associated with our data center and other operations, content acquisition costs, as well as our hardware inventory and related costs;
+•Increased proportion of non-advertising revenues, whose costs are generally higher in relation to our advertising revenues;
+•Relative revenue growth rates of Google properties and our Google Network Members' properties.
+Our Google properties revenues increased $11,428 million from 2015 to 2016 and also increased as a percentage of Google segment revenues.
+Our distribution partners include browser providers, mobile carriers, original equipment manufacturers, and software developers.
+Our EMEA revenues from 2015 to 2016 were unfavorably impacted, primarily as a result of an unfavorable impact from foreign currency exchange rates, offset by a favorable impact from hedging benefits.
+32
+Table of ContentsAlphabet Inc.
+The increase in the aggregate TAC rate was also partially offset by a favorable revenue mix shift from Google Network Members' properties to Google properties.
+Research and Development
+The following table presents our R&D expenses (in millions):
+R&D expenses consist primarily of:
+•Compensation expenses, including SBC, and facilities-related costs for employees responsible for R&D of our existing and new products and services; and
+•Depreciation and equipment-related expenses.
+Google generates revenues primarily from advertising; sales of apps, in-app purchases, digital content products, and hardware; and licensing and service fees, including fees received for Google Cloud offerings.
+General and administrative expenses increased $849 million from 2015 to 2016.
+The decrease was partially offset by an increase in compensation expenses, including SBC, and facilities-related costs of $271 million, largely resulting from a 9% increase in headcount.
+Due to the early stage of our Other Bets businesses and because their revenues aggregate a number of businesses operating in different industries, our Other Bets revenues may fluctuate in future periods.
+We expect that R&D expenses will increase in dollar amount and may fluctuate as a percentage of revenues in future periods.
+These seasonal trends have caused, and will likely continue to cause, fluctuations in our quarterly results, including fluctuations in sequential revenue growth rates.
+Accounting for the income tax effects of the Tax Act requires significant judgments and estimates in the interpretation and calculations of the provisions of the Tax Act.
+2016-09 (ASU 2016-09).
+The foreign exchange impact
+33
+Table of ContentsAlphabet Inc.
+was due to the U.S. dollar strengthening relative to the Japanese yen, partially offset by the impact of the U.S. dollar weakening relative to the Australian dollar, Indian rupee, South Korean won, and Taiwanese dollar.
+Accordingly, actual results could differ materially from our estimates.
+37
+Table of ContentsAlphabet Inc.
+Other income (expense), net, increased $143 million from 2015 to 2016.
+Please refer to Note 14 of the Notes to Consolidated Financial Statements included in Part II of this Annual Report on Form 10-K for further information.
+In January 2018, the Board of Directors authorized the repurchase of up to an additional $8.6 billion of Alphabet Class C capital stock.
+Our operating results for any quarter are not necessarily indicative of results for any future quarters or for a full year.
+The amounts included above represent the non-cancelable portion of agreements or the minimum cancellation fee.
+The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate as well as the related net interest and penalties.
+Our provision for income taxes and our effective tax rate increased from 2015 to 2016, largely due to proportionately more earnings generated in jurisdictions that have higher statutory tax rates and discrete items in 2015 and 2016, partially offset by the stock-based compensation benefits recognized resulting from the adoption of Accounting Standards Update No.
+Net proceeds from this program are used for general corporate purposes.
+The following table presents our unaudited quarterly results of operations for the eight quarters ended December 31, 2017.
+We have a short-term debt financing program of up to $5.0 billion through the issuance of commercial paper.
+Effective in 2018, the Tax Act reduces the U.S. statutory tax rate from 35% to 21% and creates new taxes on certain foreign-sourced earnings and certain related-party payments, which are referred to as the global intangible low-taxed income tax and the base erosion tax, respectively.
+The evaluation is performed at the lowest level of identifiable cash flows independent of other assets.
+Net cash used in financing activities increased from 2015 to 2016 primarily driven by decreases in proceeds from issuance of debt, and increases in the repurchases of capital stock and net payments related to stock-based award activities, partially offset by a decrease in debt repayments.
+Excluded from the table above are open orders for purchases that support normal operations.
+(3) Represents our principal and interest payments.
+We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis.
+We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate.
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

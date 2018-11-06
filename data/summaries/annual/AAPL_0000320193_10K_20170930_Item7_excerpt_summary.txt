@@ -1,0 +1,58 @@
+This included increasing its share repurchase authorization from $175 billion to $210 billion and raising its quarterly dividend from $0.57 to $0.63 per share beginning in May 2017.
+Additionally, the Company issued $24.0 billion of U.S. dollar-denominated term debt, €2.5 billion of euro-denominated term debt and C$2.5 billion of Canadian dollar-denominated term debt during 2017.
+(3)Includes sales of Apple TV, Apple Watch, Beats products, iPod touch and Apple-branded and third-party accessories.
+Services net sales in the fourth quarter of 2017 included a favorable one-time adjustment of $640 million due to a change in estimate based on the availability of additional supporting information.
+The weakness in foreign currencies relative to the U.S. dollar had an unfavorable impact on Greater China net sales during 2017 compared to 2016.
+Greater China includes China, Hong Kong and Taiwan.
+Greater China net sales decreased during 2016 compared to 2015 due primarily to lower net sales of iPhone and the effect of weakness in foreign currencies relative to the U.S. dollar.
+The year-over-year increase in Services net sales in 2016 was due primarily to growth from the App Store, licensing and AppleCare sales, partially offset by the effect of weakness in most foreign currencies relative to the U.S. dollar.
+Europe
+The following table presents Europe net sales information for 2017, 2016 and 2015 (dollars in millions):
+Europe net sales increased during 2017 compared to 2016 due primarily to higher net sales of iPhone and Services.
+Year-over-year gross margin increased due primarily to a shift in mix to services and an overall increase in product volumes.
+In May 2017, the Company announced an increase to its capital return program by raising the expected total size of the program from $250 billion to $300 billion through March 2019.
+Overview and Highlights
+The Company designs, manufactures and markets mobile communication and media devices and personal computers, and sells a variety of related software, services, accessories, networking solutions and third-party digital content and applications.
+Other Income/(Expense), Net
+Other income/(expense), net for 2017, 2016 and 2015 was as follows (dollars in millions):
+The year-over-year increase in other income/(expense), net during 2017 was due primarily to higher interest income and the favorable impact of foreign exchange-related items, partially offset by higher interest expense on debt.
+The lower effective tax rate in 2017 compared to 2016 was due to a different geographic mix of earnings and higher U.S. R&D tax credits.
+The IRS concluded its review of the years 2010 through 2012 during the third quarter of 2017.
+During 2017, the Company spent $33.0 billion to repurchase shares of its common stock and paid dividends and dividend equivalents of $12.8 billion.
+The Company’s future gross margins can be impacted by multiple factors including, but not limited to, those set forth in Part I, Item 1A of this Form 10-K under the heading “Risk Factors” and those described in this paragraph.
+2016-09, Compensation – Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting (“ASU 2016-09”), which modifies certain aspects of the accounting for share-based payment transactions, including income taxes, classification of awards, and classification in the statement of cash flows.
+Restricted Cash
+In November 2016, the FASB issued ASU No.
+The Company will adopt ASU 2016-18 in its first quarter of 2019 utilizing the retrospective transition method.
+The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the U.S., the U.K. and mainland China.
+2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing (“ASU 2016-10”); ASU No.
+VSOE generally exists only when the Company sells the deliverable separately and is the price actually charged by the Company for that deliverable.
+The Company must adopt ASU 2016-08, ASU 2016-10, ASU 2016-12 and ASU 2016-20 with ASU 2014-09 (collectively, the “new revenue standards”).
+2016-01, Financial Instruments – Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities (“ASU 2016-01”), which updates certain aspects of recognition, measurement, presentation and disclosure of financial instruments.
+Item 7A.
+Although Ireland is still computing the recovery amount, the Company expects the amount to be in line with the European Commission’s announced recovery amount of €13 billion, plus interest of €1 billion.
+Once the recovery amount is finalized by Ireland, the Company anticipates funding it, including interest, out of foreign cash.
+As of September 30, 2017, the Company had $12.0 billion of Commercial Paper outstanding, with a weighted-average interest rate of 1.20% and maturities generally less than nine months.
+The following table presents certain payments due by the Company as of September 30, 2017, and excludes amounts already recorded on the Consolidated Balance Sheet, except for term debt (in millions):
+(1)Represents amount expected to be paid under manufacturing-related supplier arrangements, substantially all of which is noncancelable.
+Off-Balance Sheet Arrangements and Contractual Obligations
+The Company has not entered into any transactions with unconsolidated entities whereby the Company has financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose the Company to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk, or credit risk support to the Company, or engages in leasing, hedging, or R&D services with the Company.
+The Company records reductions to revenue for estimated commitments related to price protection and other customer incentive programs.
+Based on the composition of the Company’s investment portfolio, the adoption of ASU 2016-01 is not expected to have a material impact on its consolidated financial statements.
+Cash used in financing activities of $20.5 billion during 2016 consisted primarily of cash used to repurchase common stock of $29.7 billion, cash used to pay dividends and dividend equivalents of $12.2 billion and cash used to repay term debt of $2.5 billion, partially offset by proceeds from the issuance of term debt, net of $25.0 billion.
+Valuation and Impairment of Marketable Securities
+The Company’s investments in available-for-sale securities are reported at fair value.
+These amounts are expected to be placed into escrow in 2018, where they will remain pending conclusion of all appeals.
+In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of uncertainties in the application of GAAP and complex tax laws.
+As of September 30, 2017, $166 billion of the share repurchase program had been utilized.
+The Company also reviews its manufacturing-related capital assets and inventory prepayments for impairment whenever events or circumstances indicate the carrying amount of such assets may not be recoverable.
+Warranty Costs
+The Company accrues for the estimated cost of warranties in the period the related revenue is recognized based on historical and projected warranty claim rates, historical and projected cost per claim and knowledge of specific product failures that are outside of the Company’s typical experience.
+The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment.
+The Company’s assessment of whether a security is other-than-temporarily impaired could change in the future due to new developments or changes in assumptions related to any particular security, which would have an adverse impact on the Company’s financial condition and operating results.
+Manufacturing Purchase Obligations
+The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final assembly and testing of finished products.
+The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified amount when purchasing a new iPhone, provided certain conditions are met.
+In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss contingencies for asserted legal and other claims.
+These circumstances include future demand or market conditions for the Company’s products being less favorable than forecasted, unforeseen technological changes or changes to the Company’s product development plans that negatively impact the utility of any of these assets, or significant deterioration in the financial condition of one or more of the Company’s suppliers that hold any of the Company’s manufacturing-related assets or to whom the Company has made an inventory prepayment.
+Quantitative and Qualitative Disclosures About Market Risk

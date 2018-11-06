@@ -28,7 +28,6 @@ path_to_tables = 'D:/Documents/College Work/DSS Pegasus/TextSum/skip-thoughts/mo
 path_to_umodel = path_to_models + 'uni_skip.npz'
 path_to_bmodel = path_to_models + 'bi_skip.npz'
 
-
 def load_model():
     """
     Load the model with saved tables
@@ -439,3 +438,5 @@ def gru_layer(tparams, state_below, options, prefix='gru', mask=None, **kwargs):
     return rval
 
 
+model = load_model()
+encoder = Encoder(model)

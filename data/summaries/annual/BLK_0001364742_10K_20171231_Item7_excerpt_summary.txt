@@ -1,0 +1,117 @@
+Forward-looking statements are typically identified by words or phrases such as “trend,” “potential,” “opportunity,” “pipeline,” “believe,” “comfortable,” “expect,” “anticipate,” “current,” “intention,” “estimate,” “position,” “assume,” “outlook,” “continue,” “remain,” “maintain,” “sustain,” “seek,” “achieve,” and similar expressions, or future or conditional verbs such as “will,” “would,” “should,” “could,” “may” and similar expressions.
+BlackRock has previously disclosed risk factors in its Securities and Exchange Commission (“SEC”) reports.
+These risk factors and those identified elsewhere in this report, among others, could cause actual results to differ materially from forward-looking statements or historical performance and include: (1) the introduction, withdrawal, success and timing of business initiatives and strategies; (2) changes and volatility in political, economic or industry conditions, the interest rate environment, foreign exchange rates or financial and capital markets, which could result in changes in demand for products or services or in the value of assets under management (“AUM”); (3) the relative and absolute investment performance of BlackRock’s investment products; (4) the impact of increased competition; (5) the impact of future acquisitions or divestitures; (6) the unfavorable resolution of legal proceedings; (7) the extent and timing of any share repurchases; (8) the impact, extent and timing of technological changes and the adequacy of intellectual property, information and cyber security protection; (9) the potential for human error in connection with BlackRock’s operational systems; (10) the impact of legislative and regulatory actions and reforms and regulatory, supervisory or enforcement actions of government agencies relating to BlackRock or The PNC Financial Services Group, Inc. (“PNC”); (11) changes in law and policy and uncertainty pending any such changes; (12) terrorist activities, international hostilities and natural disasters, which may adversely affect the general economy, domestic and local financial and capital markets, specific industries or BlackRock; (13) the ability to attract and retain highly talented professionals; (14) fluctuations in the carrying value of BlackRock’s economic investments; (15) the impact of changes to tax legislation, including income, payroll and transaction taxes, and taxation on products or transactions, which could affect the value proposition to clients and, generally, the tax position of the Company; (16) BlackRock’s success in negotiating distribution arrangements and maintaining distribution channels for its products; (17) the failure by a key vendor of BlackRock to fulfill its obligations to the Company; (18) any disruption to the operations of third parties whose functions are integral to BlackRock’s exchange-traded funds (“ETF”) platform; (19) the impact of BlackRock electing to provide support to its products from time to time and any potential liabilities related to securities lending or other indemnification obligations; and (20) the impact of problems at other financial institutions or the failure or negative performance of products at other financial institutions.
+Income tax expense for 2016 also included nonrecurring tax benefits of $65 million.
+Income tax expense for 2016 and 2015 excluded the previously described net noncash benefits of $30 million and $54 million, respectively.
+Management believes the exclusion of such costs and related commissions is useful because these costs can fluctuate considerably and revenue associated with the expenditure of these costs will not fully impact BlackRock’s results until future periods.
+(3) Nonvoting participating preferred stock is considered to be a common stock equivalent for purposes of determining basic and diluted earnings per share calculations.
+Operating income of $5,272 million increased $702 million and operating margin of 42.2% increased 120 bps from 2016.
+Non-GAAP measures may not be comparable to other similarly titled measures of other companies.
+closed-end fund launch costs) and related commissions.
+47
+Income Tax Expense
+(1)
+See Non-GAAP Financial Measures for further information on and reconciliation of as adjusted items.
+Operating income for 2016 included a restructuring charge of $76 million in connection with a project to streamline and simplify the organization.
+BlackRock is positioned to provide alpha-seeking active and index investment solutions across asset classes and geographies.
+The following table presents component changes in AUM by product type for 2017.
+BlackRock’s technology portfolio includes Aladdin and Aladdin Risk for Wealth Management, FutureAdvisor, Cachematrix, as well as minority investments in Scalable Capital and iCapital.
+(2)
+Foreign exchange reflects the impact of translating non-U.S. dollar denominated AUM into U.S. dollars for reporting purposes.
+Income tax expense for 2017 included the previously mentioned $1.2 billion net tax benefit related to the 2017 Tax Act, $173 million of discrete tax benefits, primarily related to stock-based compensation awards, including a $151 million discrete tax benefit reflecting the adoption of new stock-based compensation accounting guidance, and a $16 million noncash tax expense associated with the revaluation of certain deferred income tax liabilities.
+(4)
+Advisory AUM represents long-term portfolio liquidation assignments.
+AUM decreased $106.8 billion due to the impact of foreign exchange movements, primarily resulting from the strengthening of the U.S. dollar, largely against the British pound and the Euro.
+(3)
+Average AUM is calculated as the average of the month-end spot AUM amounts for the trailing thirteen months.
+(5)
+Amounts include commodity iShares ETFs.
+Adjustments to GAAP financial measures (“non-GAAP adjustments”) include certain items management deems nonrecurring or that occur infrequently, transactions that ultimately will not impact BlackRock’s book value or certain tax items that do not impact cash flow.
+BlackRock primarily holds seed and co-investments in sponsored investment products that invest in a variety of asset classes, including private equity, hedge funds and real assets.
+Approximately 75% of the Company’s revenue is generated in U.S. dollars.
+In 2015, compensation expense associated with appreciation (depreciation) on investments related to certain BlackRock deferred compensation plans has been excluded, as returns on investments set aside for these plans, which substantially offset this expense, are reported in nonoperating income (expense).
+Other liabilities increased $343 million from December 31, 2016, primarily related to an increase in unit trust payables (substantially offset by an increase in unit trust receivables recorded within other assets) and contingent liabilities related to the First Reserve Transaction and uncertain tax positions, partially offset by a decrease in other operating liabilities.
+The as adjusted effective tax rate of 29.6% for 2016 excluded the net noncash benefit of $30 million mentioned above as it will not have a cash flow impact and to ensure comparability among periods presented.
+The components of nonoperating income (expense), less net income (loss) attributable to NCI for 2017, 2016 and 2015 were as follows:
+(1)
+Net of net income (loss) attributable to NCI.
+•
+Direct fund expense primarily consists of third-party nonadvisory expense incurred by BlackRock related to certain funds for the use of index trademarks, reference data for indices, custodial services, fund administration, fund accounting, transfer agent services, shareholder reporting services, legal expense, and audit and tax services as well as other fund-related expense directly attributable to the nonadvisory operations of the fund.
+Technology and risk management revenue of $677 million for 2017 increased $82 million from $595 million in 2016 reflecting ongoing demand for Aladdin.
+2016 Compared with 2015
+Revenue decreased $246 million, or 2%, from 2015, driven by lower performance fees, partially offset by higher technology and risk management revenue.
+The restructuring charge recorded in 2016 has been excluded from the as adjusted results.
+See Non-GAAP Financial Measures for further information on non-GAAP financial measures for 2017, 2016 and 2015.
+As Adjusted.
+(2)
+Amounts represent the portion of assets and liabilities of Consolidated Sponsored Investment Funds attributable to NCI.
+2017 Compared with 2016
+GAAP.
+Goodwill and intangible assets increased $128 million from December 31, 2016, primarily due to the First Reserve and Cachematrix Transactions, partially offset by $89 million of amortization of intangible assets.
+(2)
+Net of net income (loss) attributable to NCI.
+The decrease in total expense, as adjusted, is primarily attributable to lower employee compensation and benefits expense, expense discipline and lower amortization of intangible assets.
+These leases are classified as operating leases and, as such, are not recorded as liabilities on the consolidated statements of financial condition.
+Investment advisory performance fees were $594 million in 2017 compared with $295 million in 2016.
+The decrease was primarily driven by lower fees from equity and alternative products, including the impact of the strong performance from a single hedge fund with an annual performance measurement period that ended in the third quarter of 2015.
+Balance Sheet Overview
+As Adjusted Balance Sheet
+The following table presents a reconciliation of the consolidated statement of financial condition presented on a GAAP basis to the consolidated statement of financial condition, excluding the impact of separate account assets and separate account collateral held under securities lending agreements (directly related to lending separate account securities) and separate account liabilities and separate account collateral liabilities under securities lending agreements and consolidated sponsored investment funds, including consolidated VIEs.
+The Company also earns revenue related to certain strategic investments accounted for as equity method investments.
+BlackRock’s management does not advocate that investors consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+CRITICAL ACCOUNTING POLICIES
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenue and expense during the reporting periods.
+General and administration expense decreased $79 million from 2015, reflecting expense discipline and the impact of higher transaction-related expense recorded in 2015.
+The Company repurchased 2.6 million common shares in open market transactions under the share repurchase program for approximately $1.1 billion during 2017.
+Liquidity resources at December 31, 2017 and 2016 were as follows:
+(1)
+The percentage of cash and cash equivalents held by the Company’s U.S. subsidiaries was approximately 40% and 50% at December 31, 2017 and 2016, respectively.
+(2)
+Management believes nonoperating income (expense), as adjusted, is an effective measure for reviewing BlackRock’s nonoperating contribution to results.
+At December 31, 2017, there were 6.4 million shares still authorized to be repurchased.
+The Company records equal and offsetting separate account liabilities.
+2017.
+The Company uses an adjusted cash flow statement, which excludes the impact of Consolidated Sponsored Investment Funds, as a supplemental non-GAAP measure to assess liquidity and capital requirements.
+Actual results could differ materially from those anticipated in forward-looking statements and future results could differ materially from historical performance.
+For further information on the 2017 Tax Act, see Note 21, Income Taxes, in the consolidated financial statements included in Part II, Item 8 of this filing.
+In addition, management believes the exclusion of such costs is useful because it creates consistency in the treatment for certain contracts for similar services, which due to the terms of the contracts, are accounted for under GAAP on a net basis within investment advisory, administration fees and securities lending revenue.
+50
+As adjusted investment activity for 2017 and 2016 was as follows:
+(1)
+Amount includes distributions representing return of capital and return on investments.
+The assignment of indefinite lives to such investment fund contracts is based upon the assumption there is no foreseeable limit on the contract period to manage these funds due to the likelihood of continued renewal at little or no cost.
+In these securities lending transactions, the borrower is required to provide and maintain collateral at or above regulatory minimums.
+The Company earns revenue by lending securities as an agent on behalf of clients, primarily to brokerage institutions.
+Investment Commitments.
+Consolidated Sponsored Investment Funds
+The Company consolidates certain sponsored investment funds accounted for as voting rights entities (“VREs”) and VIEs, (collectively, “Consolidated Sponsored Investment Funds”).
+Fees earned for technology and risk management revenue are recorded as services are performed and are generally determined using the value of positions on the Aladdin platform or on a fixed-rate basis.
+Expense, as adjusted, decreased $225 million, or 3%, to $6,481 million in 2016 from $6,706 million in 2015.
+42
+Discussion of Financial Results
+Introduction
+BlackRock derives a substantial portion of its revenue from investment advisory and administration fees, which are recognized as the services are performed.
+57
+Accounting Developments
+Recent Accounting Pronouncements Not Yet Adopted.
+Assets.
+Generally, the revenue earned is shared between the Company and the funds or other third-party accounts managed by the Company from which the securities are borrowed.
+Total liquidity resources increased $793 million during 2017, primarily reflecting cash flows from operating activities, partially offset by cash payments of 2016 year-end incentive awards, share repurchases of $1.4 billion and cash dividend payments of $1.7 billion.
+See Note 4, Consolidated Voting Rights Entities, in the notes to the consolidated financial statements contained in Part II, Item 8 of this filing for more information.
+The Company performs an analysis for investment products to determine if the product is a VIE or a VRE.
+The net investment income attributable to separate account assets accrues directly to the contract owners and is not reported on the consolidated statements of income.
+At December 31, 2017, changes in fair value of approximately $1,739 million of consolidated VIEs/VREs will impact BlackRock’s net income (loss) attributable to noncontrolling interests on the consolidated statements of income.
+In the ordinary course of business or in connection with certain acquisition agreements, BlackRock enters into contracts pursuant to which it may agree to indemnify third parties in certain circumstances.
+The prior year periods also included net gains related to opportunistic credit strategies.
+Management is required to estimate the timing of the recognition of deferred tax assets and liabilities, make assumptions about the future deductibility of deferred income tax assets and assess deferred income tax liabilities based on enacted tax rates for the appropriate tax jurisdictions to determine the amount of such deferred income tax assets and liabilities.
+Such fees are primarily based on agreed-upon percentages of the net asset value of AUM or committed capital.
+Impairments of Investments.
+At December 31, 2017 and 2016, the Company had $219 million and $152 million, respectively, of deferred carried interest recorded in other liabilities/other liabilities of consolidated VIEs on the consolidated statements of financial condition.
+Factors considered in these evaluations may include the type of investment, the legal structure of the investee, the terms and structure of the investment agreement, including investor voting or other rights, the terms of BlackRock’s advisory agreement or other agreements with the investee, any influence BlackRock may have on the governing board of the investee, the legal rights of other investors in the entity pursuant to the fund’s operating documents and the relationship between BlackRock and other investors in the entity.
+If the Company does not intend to sell a security and it is not more likely than not that it will be required to sell the security but the security has suffered an impairment related to credit, the credit loss will be bifurcated from the total decline in value and recorded in earnings with the remaining portion recorded in accumulated other comprehensive income.
+Carried interest is recorded as performance fees on consolidated statements of income upon the earlier of the termination of the investment fund or when the likelihood of clawback is considered mathematically improbable.
+The Company assesses its goodwill for impairment at least annually, considering such factors as the book value and the market capitalization of the Company.
+The Company’s actual tax liability or benefit may differ from the estimated income tax liability or benefit.
+If the carrying value of the asset is determined not to be recoverable based on the undiscounted cash flow test, the difference between the book value of the asset and its current fair value would be recognized as an expense in the period in which the impairment occurs.
+A change in the remaining useful life of any of these assets, or the reclassification of an indefinite-lived intangible asset to a finite-lived intangible asset, could have a significant impact on the Company’s amortization expense, which was $89 million, $99 million and $128 million for 2017, 2016 and 2015, respectively.
+Quantitative and Qualitative Disclosures about Market Risk

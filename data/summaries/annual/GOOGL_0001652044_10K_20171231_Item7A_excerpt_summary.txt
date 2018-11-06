@@ -1,0 +1,7 @@
+When the U.S. dollar strengthens, gains from foreign currency options and forwards reduce the foreign currency losses related to our earnings.
+We considered the historical trends in foreign currency exchange rates and determined that it was reasonably possible that adverse changes in exchange rates of 10% for all currencies could be experienced in the near term.
+If the U.S. dollar weakened by 10% as of December 31, 2016 and December 31, 2017, the amount recorded in AOCI related to our foreign exchange contracts before tax effect would have been approximately $920 million and $950 million lower as of December 31, 2016 and December 31, 2017, respectively.
+The VaR is the expected loss in fair value, for a given confidence interval, for our investment portfolio due to adverse movements in interest rates.
+Foreign Currency Exchange Risk
+We transact business globally in multiple currencies.
+ITEM 8.FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

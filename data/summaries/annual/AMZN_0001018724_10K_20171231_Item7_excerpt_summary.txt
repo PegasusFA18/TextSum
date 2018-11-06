@@ -1,0 +1,51 @@
+We also offer other services such as compute, storage, and database offerings, fulfillment, publishing, certain digital content subscriptions, advertising, and co-branded credit cards.
+We seek to invest efficiently in several areas of technology and content, including AWS, and expansion of new and existing product categories and service offerings, as well as in technology infrastructure to enhance the customer experience and improve our process efficiencies.
+We seek to reduce our variable costs per unit and work to leverage our fixed costs.
+We believe this decision to be without merit and will consider our legal options, including an appeal.
+In performing this assessment with respect to each jurisdiction, we review all available evidence, including recent cumulative loss experience and expectations of future earnings, capital gains, and investment in such jurisdiction, the carry-forward periods available to us for tax reporting purposes, and other relevant factors.
+On March 23, 2017, the U.S. Tax Court issued its decision regarding the issues raised in the IRS NOPAs.
+In 2015, 2016, and 2017, we recorded net tax provisions of $950 million, $1.4 billion, and $769 million.
+Although we believe our tax estimates are reasonable, the final outcome of tax audits, investigations, and any related litigation could be materially different from our historical income tax provisions and accruals.
+As we complete our analysis of the 2017 Tax Act, collect and prepare necessary data, and interpret any additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, we may make adjustments to the provisional amounts.
+Our technology and content investment and capital spending projects often support a variety of product and service offerings due to geographic expansion and the cross-functionality of our systems and operations.
+To the extent we process payments for third-party sellers or offer certain types of stored value to our customers, some jurisdictions may restrict our use of those funds.
+Our variable costs include product and content costs, payment processing and related transaction costs, picking, packaging, and preparing orders for shipment, transportation, customer service support, costs necessary to run AWS, and a portion of our marketing costs.
+In measuring shareholder dilution, we include all vested and unvested stock awards outstanding, without regard to estimated forfeitures.
+The 2017 Tax Act significantly revises the U.S. corporate income tax by, among other things, lowering the statutory corporate tax rate from 35% to 21%, eliminating certain deductions, imposing a mandatory one-time tax on accumulated earnings of foreign subsidiaries as of 2017, introducing new tax regimes, and changing how foreign earnings are subject to U.S. tax.
+Cash provided by (used in) investing activities was $(6.5) billion, $(9.9) billion, and $(27.8) billion in 2015, 2016, and 2017, with the variability caused primarily by cash paid for acquisitions, our decision to purchase or lease property and equipment, and purchases, maturities, and sales of marketable securities.
+See Item 8 of Part II, “Financial Statements and Supplementary Data—Note 10—Income Taxes” for additional information.
+As of December 31, 2017, cash, cash equivalents, and marketable securities held by foreign subsidiaries was $9.6 billion.
+Pricing changes were driven largely by our continued efforts to reduce prices for our customers.
+The 2017 Tax Act significantly changes how the U.S. taxes corporations.
+Forward-looking statements reflect management’s current expectations and are inherently uncertain.
+These costs are allocated to segments based on usage.
+Our marketing costs are largely variable, based on growth in sales and changes in rates.
+Likewise, if the U.S. Dollar strengthens year-over-year relative to currencies in our international locations, our consolidated net sales and operating expenses will be lower than if currencies had remained constant.
+The increase in International operating loss in absolute dollars in 2016 and 2017, compared to the comparable prior year periods, is primarily due to increased levels of operating expenses to expand our fulfillment network and spending on technology and content and marketing efforts, partially offset by increased unit sales, including sales by third-party sellers.
+We utilize restricted stock units as our primary vehicle for equity compensation because we believe this compensation model aligns the long-term interests of our shareholders and employees.
+Costs to operate our AWS segment are primarily classified as “Technology and content” as we leverage a shared infrastructure that supports both our internal technology requirements and external sales to AWS customers.
+Our measures of free cash flows and the effect of foreign exchange rates on our consolidated statements of operations, meet the definition of non-GAAP financial measures.
+The increase in operating cash flow in 2016, compared to the comparable prior year period, was primarily due to the increase in net income, excluding non-cash charges such as depreciation, amortization, and stock-based compensation.
+Interest Income and Expense
+Our interest income was $50 million, $100 million, and $202 million during 2015, 2016, and 2017.
+North America sales increased 25% and 33% in 2016 and 2017, compared to the comparable prior year periods.
+The increase is primarily due to increases in our capital and finance lease arrangements and long-term debt.
+We have tax benefits relating to excess stock-based compensation deductions and accelerated depreciation deductions that are being utilized to reduce our U.S. taxable income.
+Changes in foreign exchange rates impacted operating income by $264 million, $(5) million, and $(53) million for 2015, 2016, and 2017.
+Our federal tax credits are primarily related to the U.S. federal research and development credit.
+This amount is primarily comprised of the remeasurement of federal net deferred tax liabilities resulting from the permanent reduction in the U.S. statutory corporate tax rate to 21% from 35%, after taking into account the mandatory one-time tax on the accumulated earnings of our foreign subsidiaries.
+The 2017 Tax Act enhanced and extended through 2026 the option to claim accelerated depreciation deductions on qualifying property.
+Our other long-term liabilities were $12.6 billion and $21.0 billion as of December 31, 2016 and 2017.
+31
+Effect of Foreign Exchange Rates
+Information regarding the effect of foreign exchange rates, versus the U.S. Dollar, on our net sales, operating expenses, and operating income is provided to show reported period operating results had the foreign exchange rates remained the same as those in effect in the comparable prior year periods.
+As of December 31, 2017, our federal net operating loss carryforward was approximately $226 million and we had approximately $855 million of federal tax credits potentially available to offset future tax liabilities.
+Guidance
+We provided guidance on February 1, 2018, in our earnings release furnished on Form 8-K as set forth below.
+The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, “Net cash provided by (used in) operating activities,” for 2015, 2016, and 2017 (in millions):
+30
+Free Cash Flow Less Lease Principal Repayments
+Free cash flow less lease principal repayments is free cash flow reduced by “Principal repayments of capital lease obligations,” and “Principal repayments of finance lease obligations,” which are included in cash flow from financing activities.
+(2)Represents the outcome that would have resulted had foreign exchange rates in the reported period been the same as those in effect in the comparable prior year period for operating results.
+32
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk

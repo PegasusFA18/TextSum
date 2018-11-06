@@ -1,0 +1,385 @@
+PART I
+Item 1. Business
+OVERVIEW
+General
+Capital One Financial Corporation, a Delaware corporation established in 1994 and headquartered in McLean, Virginia, is a diversified financial services holding company with banking and non-banking subsidiaries.
+Capital One Financial Corporation and its subsidiaries (the “Company” or “Capital One”) offer a broad array of financial products and services to consumers, small businesses and commercial clients through branches, the internet and other distribution channels.
+As of December 31, 2017, our principal subsidiaries included:
+•Capital One Bank (USA), National Association (“COBNA”), which offers credit and debit card products, other lending products and deposit products; and
+•Capital One, National Association (“CONA”), which offers a broad spectrum of banking products and financial services to consumers, small businesses and commercial clients.
+The Company is hereafter collectively referred to as “we,” “us” or “our.” COBNA and CONA are collectively referred to as the “Banks.” References to “this Report” or our “2017 Form 10-K” or “2017 Annual Report” are to our Annual Report on Form 10-K for the fiscal year ended December 31, 2017.
+All references to 2017, 2016, 2015, 2014 and 2013, refer to our fiscal years ended, or the dates, as the context requires, December 31, 2017, December 31, 2016, December 31, 2015, December 31, 2014 and December 31, 2013, respectively.
+Certain business terms used in this document are defined in the “MD&A—Glossary and Acronyms” and should be read in conjunction with the Consolidated Financial Statements included in this Report.
+As one of the nation’s ten largest banks based on deposits as of December 31, 2017, we service banking customer accounts through the internet and mobile banking, as well as through Cafés, ATMs and branch locations primarily across New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia.
+We also operate the largest online direct bank in the United States (“U.S.”) by deposits.
+In addition to bank lending, treasury management and depository services, we offer credit and debit card products, auto loans and other consumer lending products in markets across the United States.
+We were the third largest issuer of Visa (“Visa”) and MasterCard (“MasterCard”) credit cards in the U.S. based on the outstanding balance of credit card loans as of December 31, 2017.
+We also offer products outside of the U.S. principally through Capital One (Europe) plc (“COEP”), an indirect subsidiary of COBNA organized and located in the United Kingdom (“U.K.”), and through a branch of COBNA in Canada.
+Both COEP and our branch of COBNA in Canada have the authority to provide credit card loans.
+Business Developments
+We regularly explore and evaluate opportunities to acquire financial services and financial assets, including credit card and other loan portfolios, and enter into strategic partnerships as part of our growth strategy.
+We also explore opportunities to acquire digital companies and related assets to improve our information technology infrastructure and to deliver on our digital strategy.
+In addition, we regularly consider the potential disposition of certain of our assets, branches, partnership agreements or lines of business.
+We may issue equity or debt, including public offerings, to fund our acquisitions.
+On November 7, 2017, we announced our decision to cease new originations of residential mortgage and home equity loan products within our Consumer Banking business.
+We continue to service our existing home loan portfolio.
+On September 25, 2017, we completed the acquisition from Synovus Bank of credit card assets and related liabilities of World’s Foremost Bank, a wholly-owned subsidiary of Cabela’s Incorporated (“Cabela’s acquisition”).
+The Cabela’s acquisition added approximately $5.7 billion to our domestic credit card loans held for investment portfolio as of the acquisition date.
+See “Note 2—Business Developments and Discontinued Operations” for additional details.
+ 4Capital One Financial Corporation (COF)
+On December 1, 2015, we completed the acquisition of the Healthcare Financial Services business of General Electric Capital Corporation (“HFS acquisition”).
+Including post-closing purchase price adjustments, we recorded approximately $9.2 billion in assets, including $8.2 billion of loans.
+Additional Information
+Our common stock trades on the New York Stock Exchange (“NYSE”) under the symbol “COF” and is included in the Standard & Poor’s (“S&P”) 100 Index.
+We maintain a website at www.capitalone.com.
+Documents available under Corporate Governance in the Investor Relations section of our website include:
+•our Code of Business Conduct and Ethics for the Corporation;
+•our Corporate Governance Guidelines; and
+•charters for the Audit, Compensation, Governance and Nominating, and Risk Committees of the Board of Directors.
+These documents also are available in print to any stockholder who requests a copy.
+We intend to disclose future amendments to certain provisions of our Code of Business Conduct and Ethics, and waivers of our Code of Business Conduct and Ethics granted to executive officers and directors, on the website within four business days following the date of the amendment or waiver.
+In addition, we make available free of charge through our website our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to those reports as soon as reasonably practicable after electronically filing or furnishing such material to the U.S. Securities and Exchange Commission (“SEC”).
+OPERATIONS AND BUSINESS SEGMENTS
+Our consolidated total net revenues are derived primarily from lending to consumer and commercial customers net of funding costs associated with deposits, short-term borrowings and long-term debt.
+We also earn non-interest income which primarily consists of interchange income net of reward expenses, and service charges and other customer-related fees.
+Our expenses primarily consist of the provision for credit losses, operating expenses, marketing expenses and income taxes.
+Our principal operations are organized for management reporting purposes into three primary business segments, which are defined primarily based on the products and services provided or the type of customer served: Credit Card, Consumer Banking and Commercial Banking.
+The operations of acquired businesses have been integrated into our existing business segments.
+Certain activities that are not part of a segment, such as management of our corporate investment portfolio, asset/liability management by our centralized Corporate Treasury group and residual tax expense or benefit to arrive at the consolidated effective tax rate that is not assessed to our primary business segments, are included in the Other category.
+•Credit Card: Consists of our domestic consumer and small business card lending, and international card businesses in Canada and the United Kingdom.
+•Consumer Banking: Consists of our branch-based lending and deposit gathering activities for consumers and small businesses, national deposit gathering, national auto lending and our consumer home loan portfolio and associated servicing activities.
+•Commercial Banking: Consists of our lending, deposit gathering, capital markets and treasury management services to commercial real estate and commercial and industrial customers.
+Our commercial and industrial customers typically include companies with annual revenues between $20 million and $2 billion.
+Customer usage and payment patterns, credit quality, levels of marketing expense and operating efficiency all affect our profitability.
+In our Credit Card business, we experience fluctuations in purchase volume and the level of outstanding loan receivables due to seasonal variances in consumer spending and payment patterns which, for example, are highest around the winter holiday season.
+No individual quarter in 2017, 2016 or 2015 accounted for more than 30% of our total revenues in any of these fiscal years.
+Net charge-off rates in our Credit Card and Consumer Banking businesses also have historically exhibited seasonal patterns and generally tend to be the highest in the first and fourth quarters of the year.
+ 5Capital One Financial Corporation (COF)
+For additional information on our business segments, including the financial performance of each business, see “Part II—Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”)—Executive Summary and Business Outlook,” “MD&A—Business Segment Financial Performance” and “Note 18—Business Segments” of this Report.
+COMPETITION
+Each of our business segments operates in a highly competitive environment, and we face competition in all aspects of our business from numerous bank and non-bank providers of financial services.
+Our Credit Card business competes with international, national, regional and local issuers of Visa and MasterCard credit cards, as well as with American Express, Discover Card, private-label card brands, and, to a certain extent, issuers of debit cards.
+In general, customers are attracted to credit card issuers largely on the basis of price, credit limit, reward programs and other product features.
+Our Consumer Banking and Commercial Banking businesses compete with national, state and direct banks for deposits, commercial and auto loans, as well as with savings and loan associations and credit unions for loans and deposits.
+Our competitors also include automotive finance companies, commercial mortgage banking companies and other financial services providers that provide loans, deposits, and other similar services and products.
+In addition, we compete against non-depository institutions that are able to offer these products and services.
+Securities firms and insurance companies that elect to become financial holding companies may acquire banks and other financial institutions.
+Combinations of this type could significantly change the competitive environment in which we conduct business.
+The financial services industry is also likely to become more competitive as further technological advances enable more companies to provide financial services.
+These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.
+In addition, competition among direct banks is intense because online banking provides customers the ability to rapidly deposit and withdraw funds and open and close accounts in favor of products and services offered by competitors.
+Our businesses generally compete on the basis of the quality and range of their products and services, transaction execution, innovation and price.
+Competition varies based on the types of clients, customers, industries and geographies served.
+Our ability to compete depends, in part, on our ability to attract and retain our associates and on our reputation.
+Our decision to cease new originations of residential mortgage and home equity loan products within our Consumer Banking business was informed, in part, by the competitive landscape for those products.
+That decision notwithstanding, we believe that we are able to compete effectively in our current markets.
+There can be no assurance, however, that our ability to market products and services successfully or to obtain adequate returns on our products and services will not be impacted by the nature of the competition that now exists or may later develop, or by the broader economic environment.
+For a discussion of the risks related to our competitive environment, please refer to “Part I—Item 1A.
+Risk Factors.”
+SUPERVISION AND REGULATION
+General
+Capital One Financial Corporation is a bank holding company (“BHC”) and a financial holding company (“FHC”) under the Bank Holding Company Act of 1956, as amended (“BHC Act”), and is subject to the requirements of the BHC Act, including approval requirements for investments in or acquisitions of banking organizations, capital adequacy standards and limitations on nonbanking activities.
+As a BHC and FHC, we are subject to supervision, examination and regulation by the Board of Governors of the Federal Reserve System (“Federal Reserve”).
+Permissible activities for a BHC include those activities that are so closely related to banking as to be a proper incident thereto.
+In addition, an FHC is permitted to engage in activities considered to be financial in nature (including, for example, securities underwriting and dealing and merchant banking activities), incidental to financial activities or, if the Federal Reserve determines that they pose no risk to the safety or soundness of depository institutions or the financial system in general, activities complementary to financial activities.
+To become and remain eligible for financial holding company status, a BHC and its subsidiary depository institutions must meet certain criteria, including capital, management and Community Reinvestment Act (“CRA”) requirements.
+Failure to meet such criteria could result, depending on which requirements were not met, in the Company facing restrictions on new financial activities or acquisitions or being required to discontinue existing activities that are not generally permissible for BHCs.
+ 6Capital One Financial Corporation (COF)
+The Banks are national associations chartered under the laws of the United States, the deposits of which are insured by the Deposit Insurance Fund (“DIF”) of the Federal Deposit Insurance Corporation (“FDIC”) up to applicable limits.
+The Banks are subject to comprehensive regulation and periodic examination by the Office of the Comptroller of the Currency (“OCC”), the FDIC and the Consumer Financial Protection Bureau (“CFPB”).
+We are also registered as a financial institution holding company under the law of the Commonwealth of Virginia and, as such, we are subject to periodic examination by the Virginia Bureau of Financial Institutions.
+We also face regulation in the international jurisdictions in which we conduct business (see below under “Regulation of Businesses by Authorities Outside the United States”).
+Regulation of Business Activities
+The business activities of the Company and Banks are also subject to regulation and supervision under various laws and regulations.
+Regulations of Consumer Lending Activities
+The activities of the Banks as consumer lenders are subject to regulation under various federal laws, including, for example, the Truth in Lending Act (“TILA”), the Equal Credit Opportunity Act, the Fair Credit Reporting Act, the CRA, the Servicemembers Civil Relief Act and the Military Lending Act, as well as under various state laws.
+We are also subject to the Credit Card Accountability Responsibility and Disclosure Act, which amended the TILA, and which imposes a number of restrictions on credit card practices impacting rates and fees, requires that a consumer’s ability to pay be taken into account before issuing credit or increasing credit limits, and imposes revised disclosures required for open-end credit.
+Depending on the underlying issue and applicable law, regulators may be authorized to impose penalties for violations of these statutes and, in certain cases, to order banks to compensate customers.
+Borrowers may also have a private right of action for certain violations.
+Federal bankruptcy and state debtor relief and collection laws may also affect the ability of a bank, including the Banks, to collect outstanding balances owed by borrowers.
+Mortgage Lending
+The CFPB has issued several rules pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) that provide additional disclosure requirements and substantive limitations on our mortgage lending activities.
+Although we announced our decision to cease new originations of residential mortgage and home equity loan products within our Consumer Banking business, these rules could still impact pending mortgage loan applications and our servicing activities.
+Debit Interchange Fees
+The Dodd-Frank Act requires that the amount of any interchange fee received by a debit card issuer with respect to debit card transactions be reasonable and proportional to the cost incurred by the issuer with respect to the transaction.
+Final rules adopted by the Federal Reserve to implement these requirements limit interchange fees per debit card transaction to $0.21 plus five basis points of the transaction amount and provide for an additional $0.01 fraud prevention adjustment to the interchange fee for issuers that meet certain fraud prevention requirements.
+Bank Secrecy Act and USA PATRIOT Act of 2001
+The Bank Secrecy Act and the USA PATRIOT Act of 2001 (“Patriot Act”) require financial institutions, among other things, to implement a risk-based program reasonably designed to prevent money laundering and to combat the financing of terrorism, including through suspicious activity and currency transaction reporting, compliance, record-keeping and customer due diligence.
+In May 2016, the United States Department of the Treasury’s Financial Crimes Enforcement Network issued a final rule making customer due diligence a required, stand-alone part of the anti-money laundering programs financial institutions must maintain under the Bank Secrecy Act.
+For these purposes, the term “customer due diligence” refers to customer identification and verification, beneficial ownership identification and verification, understanding the nature and purpose of customer relationships to develop a customer risk profile, ongoing monitoring for reporting suspicious transactions and, on a risk-adjusted basis, maintaining and updating customer information.
+The rule became effective on July 11, 2016 and requires full compliance by May 11, 2018 for Capital One and all other covered financial institutions.
+The Patriot Act also contains financial transparency laws and provides enhanced information collection tools and enforcement mechanisms to the United States government, including due diligence and record-keeping requirements for private banking and correspondent accounts; standards for verifying customer identification at account opening; rules to produce certain records upon
+ 7Capital One Financial Corporation (COF)
+request of a regulator or law enforcement agency; and rules to promote cooperation among financial institutions, regulators and law enforcement agencies in identifying parties that may be involved in terrorism, money laundering and other crimes.
+Funding
+Under the Federal Deposit Insurance Corporation Improvement Act of 1991 (“FDICIA”), as discussed in “MD&A—Liquidity Risk Profile,” only well-capitalized and adequately capitalized institutions may accept brokered deposits.
+Adequately capitalized institutions, however, must obtain a waiver from the FDIC before accepting brokered deposits, and such institutions may not pay rates that significantly exceed the rates paid on deposits of similar maturity obtained from the institution’s normal market area or, for deposits obtained from outside the institution’s normal market area, the national rate on deposits of comparable maturity.
+The FDIC is authorized to terminate a bank’s deposit insurance upon a finding by the FDIC that the bank’s financial condition is unsafe or unsound or that the institution has engaged in unsafe or unsound practices or has violated any applicable rule, regulation, order or condition enacted or imposed by the bank’s regulatory agency.
+The termination of deposit insurance would likely have a material adverse effect on a bank’s liquidity and earnings.
+Nonbank Activities
+Certain of our nonbank subsidiaries are subject to supervision and regulation by various other federal and state authorities.
+Capital One Securities, Inc. and Capital One Investing, LLC are registered broker-dealers regulated by the SEC and the Financial Industry Regulatory Authority.
+Our broker-dealer subsidiaries are subject, among other things, to net capital rules designed to measure the general financial condition and liquidity of a broker-dealer.
+Under these rules, broker-dealers are required to maintain the minimum net capital deemed necessary to meet their continuing commitments to customers and others, and to keep a substantial portion of their assets in relatively liquid form.
+These rules also limit the ability of a broker-dealer to transfer capital to its parent companies and other affiliates.
+Broker-dealers are also subject to regulations covering their business operations, including sales and trading practices, public offerings, publication of research reports, use and safekeeping of client funds and securities, capital structure, record-keeping and the conduct of directors, officers and employees.
+Capital One Asset Management, LLC and Capital One Advisors, LLC are SEC-registered investment advisers regulated under the Investment Advisers Act of 1940.
+Capital One Asset Management, LLC, whose sole client is CONA, provides investment advice to CONA’s private banking customers, including trusts, high net worth individuals, institutions, foundations, endowments and other organizations.
+Capital One Agency LLC is a licensed insurance agency that provides both personal and business insurance services to retail and commercial clients.
+It is regulated by state insurance regulatory agencies in the states in which it operates.
+Derivatives Activities
+The Commodity Futures Trading Commission (“CFTC”) and the SEC have jointly issued final rules further defining the Dodd-Frank Act’s “swap dealer” definitions.
+Based on these rules, no Capital One entity is currently required to register with the CFTC or SEC as a swap dealer.
+The Dodd-Frank Act also requires all swap market participants to keep certain swap transaction records and report pertinent information to swap data repositories on a real-time and on-going basis.
+Further, each swap, group, category, type or class of swap that the CFTC or SEC determines must be cleared through a derivatives clearinghouse (unless the swap is eligible for a clearing exemption) must also be executed on a designated contract market (“DCM”), exchange or swap execution facility (“SEF”), unless no DCM, exchange or SEF has made the swap available for trading.
+Volcker Rule
+We and each of our subsidiaries, including the Banks, are subject to the “Volcker Rule,” a provision of the Dodd-Frank Act that contains prohibitions on proprietary trading and certain investments in, and relationships with, covered funds (hedge funds, private equity funds and similar funds), subject to certain exemptions, in each case as the applicable terms are defined in the Volcker Rule and the implementing regulations.
+The implementing regulations also require that we, as a banking entity with $50 billion or more in total assets, establish and maintain an enhanced compliance program designed to ensure that we comply with the requirements of the regulations.
+ 8Capital One Financial Corporation (COF)
+Capital and Liquidity Regulation
+The Company and the Banks are subject to capital adequacy guidelines adopted by the Federal Reserve and OCC.
+For a further discussion of the capital adequacy guidelines, see “MD&A—Capital Management,” “MD&A—Liquidity Risk Profile” and “Note 12—Regulatory and Capital Adequacy.”
+Basel III and United States Capital Rules
+In December 2010, the Basel Committee on Banking Supervision (“Basel Committee”) published a framework for additional capital and liquidity requirements (“Basel III”), which included detailed capital ratios and buffers, subject to transition periods.
+The Federal Reserve, OCC and FDIC (collectively, the “Federal Banking Agencies”) issued a final rule that implemented Basel III and certain Dodd-Frank Act and other capital provisions and updated the prompt corrective action (“PCA”) framework to reflect the new regulatory capital minimums (“Basel III Capital Rule”).
+The Basel III Capital Rule increased the minimum capital that we and other institutions are required to hold.
+The Basel III Capital Rule includes the “Basel III Standardized Approach” and the “Basel III Advanced Approaches.”
+The Basel III Advanced Approaches are mandatory for institutions with total consolidated assets of $250 billion or more or total consolidated on-balance-sheet foreign exposure of $10 billion or more.
+We became subject to the predecessor of these rules at the end of 2012.
+Prior to full implementation of the Basel III Advanced Approaches, however, a covered organization must complete a qualification period, known as the parallel run, during which it must demonstrate that it meets the requirements of the rule to the satisfaction of its primary United States banking regulator.
+We entered parallel run on January 1, 2015.
+A parallel run must last at least four quarters, but in practice United States banks have taken considerably longer to complete parallel runs.
+Notwithstanding the Basel III Advanced Approaches, the Basel III Capital Rule also established a capital floor so that organizations subject to the Basel III Advanced Approaches may not hold less capital than would be required using the Basel III Standardized Approach capital calculations.
+The Basel III Capital Rule revised the definition of regulatory capital, established a new common equity Tier 1 capital requirement, set higher minimum capital ratio requirements, introduced a new capital conservation buffer of 2.5%, introduced a new countercyclical capital buffer (currently set at 0.0%) and updated the PCA framework.
+Compliance with certain aspects of the Basel III Capital Rule went into effect for Capital One as of January 1, 2014, and other provisions have gone or will go into effect according to various start dates and phase-in periods.
+As of January 1, 2014, the minimum risk-based and leverage capital requirements for Advanced Approaches banking organizations included a common equity Tier 1 capital ratio of at least 4.0%, a Tier 1 risk-based capital ratio of at least 5.5%, a total risk-based capital ratio of at least 8.0% and a Tier 1 leverage capital ratio of at least 4.0%.
+On January 1, 2015, the minimum risk-based capital ratio requirements increased to 4.5% for the common equity Tier 1 capital ratio and to 6.0% for the Tier 1 risk-based capital ratio, and the minimum requirements for the total risk-based capital ratio and Tier 1 leverage capital ratio remained the same.
+Both the capital conservation buffer and the countercyclical capital buffer are being phased-in over a transition period of four years that commenced on January 1, 2016.
+On January 1, 2014, we began to use the Basel III Capital Rule, with transition provisions, to calculate our regulatory capital, including for purposes of calculating our regulatory capital ratios.
+On January 1, 2015, we began to use the Basel III Standardized Approach for calculating our risk-weighted assets in our regulatory capital ratios.
+The Basel III Capital Rule also introduced a new supplementary leverage ratio for all Advanced Approaches banking organizations with a minimum requirement of 3.0%.
+The supplementary leverage ratio compares Tier 1 capital to total leverage exposure, which includes all on-balance sheet assets and certain off-balance sheet exposures, including derivatives and unused commitments.
+Given that we are in our Basel III Advanced Approaches parallel run, we calculate the ratio based on Tier 1 capital under the Standardized Approach.
+The minimum requirement for the supplementary leverage ratio became effective on January 1, 2018.
+As an Advanced Approaches banking organization, however, we were required to calculate and publicly disclose our supplementary leverage ratio beginning in the first quarter of 2015.
+For further information, see “MD&A—Capital Management.”
+Global systemically important banks (“G-SIBs”) that are based in the United States are subject to an additional common equity Tier 1 capital requirement (“G-SIB Surcharge”).
+United States BHCs with total consolidated assets of $250 billion or more or total consolidated on-balance-sheet foreign exposure of $10 billion or more are required to determine annually whether they are considered to be a G-SIB for purposes of the G-SIB Surcharge.
+We are not a G-SIB based on the most recent available data and thus we are not subject to a G-SIB Surcharge.
+In October 2017, the Federal Banking Agencies proposed certain limited changes to the Basel III Capital Rule.
+There is uncertainty regarding how any of the proposed changes may impact the Basel III Standardized Approach and the Basel III Advanced Approaches.
+ 9Capital One Financial Corporation (COF)
+Additionally, in December 2017, the Basel Committee finalized certain modifications to the international Basel III capital standards, which would require rulemaking in the United States prior to becoming effective for United States banking organizations.
+There is uncertainty around which of those changes may be adopted in the United States and how those changes may impact the U.S. capital framework.
+Market Risk Rule
+The “Market Risk Rule” supplements both the Basel III Standardized Approach and the Basel III Advanced Approaches by requiring institutions subject to the Market Risk Rule to adjust their risk-based capital ratios to reflect the market risk in their trading portfolios.
+The Market Risk Rule generally applies to institutions with aggregate trading assets and liabilities equal to the lesser of:
+•10% or more of total assets; or
+•$1 billion or more.
+As of December 31, 2017, the Company and CONA are subject to the Market Risk Rule.
+See “MD&A—Market Risk Profile” below for additional information.
+Basel III and United States Liquidity Rules
+The Basel Committee has published a liquidity framework, which includes two standards for liquidity risk supervision, each subject to observation periods and transitional arrangements.
+One standard, the liquidity coverage ratio (“LCR”), seeks to promote short-term resilience by requiring organizations to hold sufficient high-quality liquid assets to survive a stress scenario lasting for 30 days.
+The other standard, the net stable funding ratio (“NSFR”), seeks to promote longer-term resilience by requiring sufficient stable funding over a one-year period based on the liquidity characteristics of its assets and activities.
+As implemented in the United States, the LCR Rule applies to institutions with total consolidated assets of $250 billion or more or total consolidated on-balance sheet foreign exposure of $10 billion or more, and their respective consolidated subsidiary depository institutions with $10 billion or more in total consolidated assets.
+As a result, the Company and the Banks are subject to the LCR Rule.
+The rule requires the Company and each of the Banks to hold an amount of eligible high-quality, liquid assets that equals or exceeds 100% of their respective projected net cash outflows over a 30-day period, each as calculated in accordance with the LCR Rule.
+The LCR Rule requires us to calculate the LCR daily as of July 1, 2016.
+Each company subject to the LCR Rule is required to make quarterly public disclosures of its LCR and certain related quantitative liquidity metrics, along with a qualitative discussion of its LCR.
+The Company is required to comply with these disclosure requirements beginning April 1, 2018.
+In April 2016, the Federal Banking Agencies issued an interagency notice of proposed rulemaking regarding the U.S. implementation of the Basel III NSFR (the “Proposed NSFR”), which would apply to the same institutions subject to the LCR Rule.
+The Proposed NSFR would require us to maintain a sufficient amount of stable funding in relation to our assets, derivatives exposures and commitments over a one-year horizon period.
+While the Proposed NSFR is generally consistent with the Basel NSFR standard, it is more stringent in certain areas.
+The financial and operational impact on us of a final NSFR rule remains uncertain until a final rule is published.
+There is uncertainty regarding the timing and form of any final rule implementing the NSFR in the United States.
+In general, U.S. implementation of the above capital and liquidity rules has increased capital and liquidity requirements for us.
+We will continue to monitor regulators’ implementation of the new capital and liquidity rules and assess the potential impact to us.
+FDICIA and Prompt Corrective Action
+The FDICIA requires Federal Banking Agencies to take “prompt corrective action” for banks that do not meet minimum capital requirements.
+The FDICIA establishes five capital ratio levels: well capitalized; adequately capitalized; undercapitalized; significantly undercapitalized; and critically undercapitalized.
+The three undercapitalized categories are based upon the amount by which a bank falls below the ratios applicable to an adequately capitalized institution.
+The capital categories are determined solely for purposes of applying the FDICIA’s PCA provisions, and such capital categories may not constitute an accurate representation of the Banks’ overall financial condition or prospects.
+ 10Capital One Financial Corporation (COF)
+As noted above, the Basel III Capital Rule updated the PCA framework to reflect new, higher regulatory capital minimums.
+For an insured depository institution to be well capitalized, it must maintain a total risk-based capital ratio of 10% or more; a Tier 1 capital ratio of 8% or more; a common equity Tier 1 capital ratio of 6.5% or more; and a leverage ratio of 5% or more.
+An adequately capitalized depository institution must maintain a total risk-based capital ratio of 8% or more; a Tier 1 capital ratio of 6% or more; a common equity Tier 1 capital ratio of 4.5% or more; a leverage ratio of 4% or more; and, for Basel III Advanced Approaches institutions, a supplementary leverage ratio, which incorporates a broader set of exposures as noted above, of 3% or more.
+The revised PCA requirements became effective on January 1, 2015, other than the supplementary leverage ratio, which became effective on January 1, 2018.
+Under applicable regulations for 2014, before the PCA requirements became effective, an insured depository institution was considered to be well capitalized if it maintained a total risk-based capital ratio of at least 10%, a Tier 1 risk-based capital ratio of at least 6%, a Tier 1 leverage capital ratio of at least 5% and was not subject to any supervisory agreement, order or directive to meet and maintain a specific capital level for any capital measure.
+The PCA provisions also authorize the Federal Banking Agencies to reclassify a bank’s capital category or take other action against banks that are determined to be in an unsafe or unsound condition or to have engaged in unsafe or unsound banking practices.
+As an additional means to identify problems in the financial management of depository institutions, the FDICIA required the Federal Banking Agencies to establish certain non-capital safety and soundness standards.
+The standards relate generally to operations and management, asset quality, interest rate exposure and executive compensation.
+The Federal Banking Agencies are authorized to take action against institutions that fail to meet such standards.
+Enhanced Prudential Standards and Other Requirements Under the Dodd-Frank Act
+As a BHC with total consolidated assets of $50 billion or more (a “covered company”), we are subject under the Dodd-Frank Act to certain enhanced prudential standards, including requirements that may be recommended by the Financial Stability Oversight Council (“FSOC”) and implemented by the Federal Reserve and other regulators.
+As a result, we are subject to more stringent standards and requirements than those applicable to smaller institutions.
+The FSOC may also issue recommendations to the Federal Reserve or other primary financial regulatory agencies to apply new or enhanced standards to certain financial activities or practices.
+The Federal Reserve and FDIC have issued rules requiring covered companies to implement resolution planning for orderly resolution in the event the Company faces material financial distress or failure.
+The FDIC issued similar rules regarding resolution planning applicable to the Banks.
+In addition, the OCC issued final guidelines in September 2016 that require the Banks to develop recovery plans detailing the actions they would take to remain a going concern when they experience considerable financial or operational stress, but have not deteriorated to the point that resolution is imminent.
+The Federal Reserve established a rule that implements the requirement in the Dodd-Frank Act that the Federal Reserve conduct annual stress tests on the capacity of our capital to absorb losses as a result of adverse economic conditions.
+The stress test rule also implements the requirement that we conduct our own semiannual stress tests and requires us to publish the results of the stress tests on our website or other public forum.
+The OCC adopted a similar stress test rule to implement the requirement that each of the Banks conduct annual stress tests.
+The Federal Reserve has finalized other rules implementing certain other aspects of the enhanced prudential standards under the Dodd-Frank Act, which were applicable to us beginning on January 1, 2015 (“Enhanced Standards Rule”).
+Under the Enhanced Standards Rule, we must meet liquidity risk management standards, conduct internal liquidity stress tests, and maintain a 30-day buffer of highly liquid assets, in each case, consistent with the requirements of the rule.
+These requirements are in addition to the LCR, discussed above in “Basel III and United States Liquidity Rules.” The Enhanced Standards Rule also requires that we comply with, and hold capital commensurate with, the requirements of, any regulations adopted by the Federal Reserve relating to capital planning and stress tests.
+Stress testing and capital planning regulations are discussed further below under “Dividends, Stock Repurchases and Transfers of Funds.” The Enhanced Standards Rule also requires that we establish and maintain an enterprise-wide risk management framework that includes a risk committee and a chief risk officer.
+Although not a requirement of the Dodd-Frank Act, the OCC established regulatory guidelines (“Heightened Standards Guidelines”) that apply heightened standards for risk management to large institutions subject to its supervision, including the Banks.
+The Heightened Standards Guidelines establish standards for the development and implementation by the Banks of a risk governance framework.
+ 11Capital One Financial Corporation (COF)
+Investment in the Company and the Banks
+Certain acquisitions of our capital stock may be subject to regulatory approval or notice under federal or state law.
+Investors are responsible for ensuring that they do not, directly or indirectly, acquire shares of our capital stock in excess of the amount that can be acquired without regulatory approval, including under the BHC Act and the Change in Bank Control Act (“CIBC Act”).
+Federal law and regulations prohibit any person or company from acquiring control of the Company or the Banks without, in most cases, prior written approval of the Federal Reserve or the OCC, as applicable.
+Control exists if, among other things, a person or company acquires more than 25% of any class of our voting stock or otherwise has a controlling influence over us.
+For a publicly traded BHC like us, a rebuttable presumption of control arises under the CIBC Act if a person or company acquires more than 10% of any class of our voting stock.
+Additionally, COBNA and CONA are “banks” within the meaning of Chapter 13 of Title 6.1 of the Code of Virginia governing the acquisition of interests in Virginia financial institutions (“Financial Institution Holding Company Act”).
+The Financial Institution Holding Company Act prohibits any person or entity from acquiring, or making any public offer to acquire, control of a Virginia financial institution or its holding company without making application to, and receiving prior approval from, the Virginia Bureau of Financial Institutions.
+Dividends, Stock Repurchases and Transfers of Funds
+Under the Federal Reserve’s capital planning rules applicable to large BHCs including us (commonly referred to as Comprehensive Capital Analysis and Review or “CCAR”), a BHC with total consolidated assets of $50 billion or more must submit a capital plan to the Federal Reserve on an annual basis that contains a description of all planned capital actions, including dividends or stock repurchases, over a nine-quarter planning horizon beginning with the fourth quarter of the calendar year prior to the submission of the capital plan (“CCAR cycle”).
+A covered BHC may take the proposed capital actions if the Federal Reserve does not object to the plan.
+Dodd-Frank Act stress testing, described above in “Enhanced Prudential Standards and Other Requirements under the Dodd-Frank Act,” is a complementary exercise to CCAR.
+It is a forward-looking exercise conducted by the Federal Reserve and covered financial companies to help assess whether a company has sufficient capital to absorb losses and support operations during adverse economic conditions.
+The supervisory stress test, after incorporating a firm’s planned capital actions, is used for quantitative assessment in CCAR.
+As part of its evaluation of a large BHC’s capital plan, the Federal Reserve will consider how comprehensive the plan is, the reasonableness of the assumptions, analysis and methodologies used therein to assess capital adequacy and the ability of the BHC to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout a planning horizon of at least nine quarters.
+The annual CCAR cycle measures our capital levels under the Basel III Standardized Approach, with appropriate phase-in provisions applicable to Capital One.
+The Federal Reserve has indefinitely delayed incorporation of the Basel III Advanced Approaches into the capital planning and stress testing process.
+The Company must file its capital plan and stress testing results with the Federal Reserve by April 5, 2018, using data as of the end of the prior calendar year.
+The Federal Reserve is expected to provide its objection or non-objection to that capital plan the following June.
+The Federal Reserve’s objection or non-objection applies to planned capital actions from the third quarter of the year the capital plan is submitted through the end of the second quarter of the following year.
+The Company, along with other BHCs subject to the supplementary leverage ratio, must incorporate an estimate of its supplementary leverage ratio into its capital plan and stress tests.
+For annual company-run stress tests, a covered BHC is required to disclose the results within 15 calendar days after the Federal Reserve discloses the results of the BHC’s supervisory stress test, unless that time period is extended by the Federal Reserve.
+For the mid-cycle company-run stress test, a BHC must disclose the results within 30 calendar days after the BHC submits the results of the test to the Federal Reserve, unless that time period is extended by the Federal Reserve.
+The current capital planning and stress testing rules place supervisory focus on quarterly capital issuances and distributions by establishing a cumulative net distribution requirement.
+With certain limited exceptions, to the extent a BHC does not issue the amount of a given class of regulatory capital instrument that it projected in its capital plan, as measured on an aggregate basis beginning in the third quarter of the planning horizon, the BHC must reduce its capital distributions.
+ 12Capital One Financial Corporation (COF)
+In January 2017, the Federal Reserve issued revisions to its capital planning and stress testing rules for the 2017 cycle.
+Among the provisions applicable to the Company, the revisions decrease the amount of capital a company subject to the quantitative requirements of CCAR can distribute to shareholders outside of an approved capital plan without seeking prior approval from the Federal Reserve (known as the “de minimis exception”).
+Beginning April 1, 2017, if a company does not receive an objection to its capital plan, it may distribute up to 0.25% of its Tier 1 capital above the distributions in its capital plan, a reduction from the 1% of Tier 1 capital permitted previously.
+The revisions also impose a “blackout period,” starting with the 2017 CCAR exercise, during the second calendar quarter on the ability of a firm subject to CCAR to submit prior notice of its intention to rely on the aforementioned de minimis exception or to submit a request for prior approval for a capital distribution that is not reflected in the firm’s capital plan for which it has received a non-objection from the Federal Reserve.
+Historically, dividends from the Company’s direct and indirect subsidiaries have represented a major source of the funds we have used to pay dividends on our stock, make payments on corporate debt securities and meet our other obligations.
+There are various federal law limitations on the extent to which the Banks can finance or otherwise supply funds to us through dividends and loans.
+These limitations include minimum regulatory capital requirements, federal banking law requirements concerning the payment of dividends out of net profits or surplus, provisions of Sections 23A and 23B of the Federal Reserve Act and Regulation W governing transactions between an insured depository institution and its affiliates, as well as general federal regulatory oversight to prevent unsafe or unsound practices.
+In general, federal and applicable state banking laws prohibit insured depository institutions, such as the Banks, from making dividend distributions without first obtaining regulatory approval if such distributions are not paid out of available earnings or would cause the institution to fail to meet applicable capital adequacy standards.
+Deposit Insurance Assessments
+Each of CONA and COBNA, as an insured depository institution, is a member of the DIF maintained by the FDIC.
+Through the DIF, the FDIC insures the deposits of insured depository institutions up to prescribed limits for each depositor.
+The FDIC sets a Designated Reserve Ratio (“DRR”) for the DIF.
+To maintain the DIF, member institutions may be assessed an insurance premium, and the FDIC may take action to increase insurance premiums if the DRR falls below its required level.
+The Dodd-Frank Act reformed the management of the DIF in several ways.
+It raised the minimum DRR to 1.35% (from the former minimum of 1.15%); removed the upper limit on the DRR; required that the reserve ratio reach 1.35% by September 30, 2020; required the FDIC, when setting deposit insurance assessments, to offset the effect on small insured depository institutions of meeting the increased reserve ratio; and eliminated the requirement that the FDIC pay dividends from the DIF when the reserve ratio reached certain levels.
+The FDIC has set the DRR at 2% and, in lieu of dividends, has established progressively lower assessment rate schedules as the reserve ratio meets certain trigger levels.
+The Dodd-Frank Act also required the FDIC to change the deposit insurance assessment base from deposits to average total consolidated assets minus average tangible equity.
+On March 15, 2016, the FDIC issued a final rule implementing Section 334(e) of the Dodd-Frank Act, which requires the FDIC to offset the effect on community banks of increasing the DIF reserve ratio from 1.15% to 1.35%.
+The rule imposes a new quarterly deposit insurance surcharge assessment, with an annual rate of 4.5 basis points, on insured depository institutions with assets of $10 billion or more, including the Banks.
+On August 30, 2016, the FDIC provided notice that the DIF Reserve Ratio exceeded the 1.15% threshold level, which triggered two changes in the deposit insurance assessments of the Banks.
+First, the initial assessment rates for all insured depository institutions, including the Banks, declined.
+Second, the surcharge assessment was applied.
+The FDIC has estimated that the reserve ratio will reach 1.35% in 2018; however, under the final rule, if the reserve ratio does not reach 1.35% by December 31, 2018, the FDIC will impose a one-time shortfall assessment on March 31, 2019 on depository institutions subject to the surcharge, including the Banks.
+Source of Strength and Liability for Commonly Controlled Institutions
+Under regulations issued by the Federal Reserve, a BHC must serve as a source of financial and managerial strength to its subsidiary banks (the so-called “source of strength doctrine”).
+The Dodd-Frank Act codified this doctrine.
+Under the “cross-guarantee” provision of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (“FIRREA”), insured depository institutions such as the Banks may be liable to the FDIC with respect to any loss incurred, or reasonably anticipated to be incurred, by the FDIC in connection with the default of, or FDIC assistance to, any commonly controlled insured depository institution.
+The Banks are commonly controlled within the meaning of the FIRREA cross-guarantee provision.
+ 13Capital One Financial Corporation (COF)
+FDIC Orderly Liquidation Authority
+The Dodd-Frank Act provides the FDIC with liquidation authority that may be used to liquidate nonbank financial companies and BHCs if the Treasury Secretary, in consultation with the President and based on the recommendation of the Federal Reserve and another federal agency, determines that doing so is necessary, among other criteria, to mitigate serious adverse effects on United States financial stability.
+Upon such a determination, the FDIC would be appointed receiver and must liquidate the company in a way that mitigates significant risks to financial stability and minimizes moral hazard.
+The costs of a liquidation of a financial company would be borne by shareholders and unsecured creditors and then, if necessary, by risk-based assessments on large financial companies.
+The FDIC has issued rules implementing certain provisions of its liquidation authority and may issue additional rules in the future.
+Regulation of Businesses by Authorities Outside the United States
+COBNA is subject to regulation in foreign jurisdictions where it operates, currently in the United Kingdom and Canada.
+United Kingdom
+In the United Kingdom, COBNA operates through COEP, which was established in 2000 and is an authorized payment institution regulated by the Financial Conduct Authority (“FCA”) under the Payment Services Regulations 2009 and the Financial Services and Markets Act 2000.
+COEP’s indirect parent, Capital One Global Corporation, is wholly-owned by COBNA and is subject to regulation by the Federal Reserve as an “agreement corporation” under the Federal Reserve’s Regulation K.
+Regulatory focus on Payment Protection Insurance (“PPI”) complaint handling has continued and PPI continues to be a key driver of consumer complaints to the Financial Ombudsman Service (“FOS”).
+In March 2017, following a period of extensive consultation, FCA announced that new rules in relation to PPI complaint handling would come into force on August 29, 2017.
+The new rules introduced: a 2-year deadline for PPI complaints to be brought against firms under the FCA complaint handling rules; rules setting out how firms should handle unfair relationship complaints about the non-disclosure of commission on the sale of PPI (following the court decision in Plevin v. Paragon Personal Finance (“Plevin Complaints”)); a requirement that by November 29, 2017 firms write to previously rejected PPI complainants that fall within the unfair relationship timelines to tell them of their right to raise a Plevin Complaint; and an FCA led, multi-channel communications campaign to raise customer awareness of the deadline and new complaint handling rules.
+The new rules are now in force and COEP is handling complaints under the new rules.
+A number of claims management firms and law firms are threatening to pursue Plevin Complaints via the courts, rather than as complaints, to try and secure a higher level of redress.
+The FCA’s Credit Card Market Study continued throughout 2017 and will run into early 2018 before the FCA publishes final remedies and rules, with implementation expected to begin by the end of the second quarter of 2018 and through the course of the year.
+On January 13, 2018, the new Payment Services Regulations 2017 (so called “PSD2” or “PSRs”) came into force following a 2-year implementation period after PSD2 became law in the European Union (“EU”) in January 2016.
+The new legislation replaces the previous Payment Services Regulations in its entirety; however, the principal effect of PSD2 is to improve consumer protection against fraud, possible abuses and payment incidents through enhanced security requirements through new Regulated Technical Standards on secure authentication, promote competition/innovation through new players and the development of innovative mobile and internet payments in Europe, and require COEP to adopt specific procedures for responding to Payments Services complaints.
+In particular, PSD2 requires banks and financial service providers to open up their systems to Payment Initiation Services (“PISPs”) (software bridges between a merchant website and online banking platform or payer’s bank) and Account Information Services (“AISPs”) (online services to provide consolidated information on one or more payment account, or account aggregation services).
+The new data protection Regulation (so called “General Data Protection Regulation” or “GDPR”) on the protection of individuals’ personal data will come into force on May 25, 2018.
+GDPR brings heightened scrutiny of data processing activities and higher fines and sanctions for non-compliance with data protection legislation.
+In addition, the GDPR widens the territorial scope of EU privacy rules to organizations located outside the EU if they offer goods or services to or monitor EU citizen behaviors and introduces new compliance obligations, including financial penalties for noncompliance.
+The U.K. and the organizations in the U.K. are working to implement GDPR’s requirements with a view for the country to obtain “Adequacy” status from the EU, reflecting a view that the U.K. protects personal data at a substantially equivalent level to the EU.
+Adequacy status would allow the free movement of data between the European Economic Area and the U.K. after Brexit, as defined below.
+ 14Capital One Financial Corporation (COF)
+Following a public referendum in mid-2016, the U.K. will leave the EU (“Brexit”).
+The U.K.’s negotiation with the EU on the terms of its departure and the U.K.’s subsequent relationship with the EU will continue throughout 2018 with no final decisions being made on any terms of the negotiation until all elements of it have been concluded.
+It is widely expected that the U.K. will enter into a transitional relationship with the EU after leaving the EU (scheduled currently for March 2019) during which time all current regulations and laws would remain applicable.
+Canada
+In Canada, COBNA operates as an authorized foreign bank pursuant to the Bank Act (Canada) (“Bank Act”) and is permitted to conduct its credit card business in Canada through its Canadian branch, Capital One Bank (Canada Branch) (“Capital One Canada”).
+The primary regulator of Capital One Canada is the Office of the Superintendent of Financial Institutions Canada.
+Other regulators include the Financial Consumer Agency of Canada, the Office of the Privacy Commissioner of Canada, and the Financial Transactions and Reports Analysis Centre of Canada.
+Capital One Canada is subject to regulation under various Canadian federal laws, including the Bank Act and its regulations, the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Personal Information Protection and Electronic Documents Act.
+In April 2015, a voluntary agreement to reduce interchange fees among the Canadian federal government, MasterCard Canada and Visa Canada came into effect.
+The agreement contains a commitment to reduce interchange fees for consumer credit cards to an average of 1.5% and will remain in effect for 5 years.
+Although the Canadian federal government acknowledges independent audit findings that Visa and MasterCard have met their commitments to reduce interchange fees pursuant to the 5-year agreement terminating in 2020, the government is currently conducting a further assessment of interchange fees.
+EMPLOYEES
+A central part of our philosophy is to attract and retain highly capable staff.
+We had approximately 49,300 employees, whom we refer to as “associates,” as of December 31, 2017.
+None of our associates are covered under a collective bargaining agreement, and management considers our associate relations to be satisfactory.
+ADDITIONAL INFORMATION
+Technology/Systems
+We leverage information and technology to achieve our business objectives and to develop and deliver products and services that satisfy our customers’ needs.
+A key part of our strategic focus is the development and use of efficient, flexible computer and operational systems, such as cloud technology, to support complex marketing and account management strategies, the servicing of our customers, and the development of new and diversified products.
+We believe that the continued development and integration of these systems is an important part of our efforts to reduce costs, improve quality and provide faster, more flexible technology services.
+Consequently, we continuously review capabilities and develop or acquire systems, processes and competencies to meet our unique business requirements.
+As part of our continuous efforts to review and improve our technologies, we may either develop such capabilities internally or rely on third-party outsourcers who have the ability to deliver technology that is of higher quality, lower cost, or both.
+We continue to rely on third-party outsourcers to help us deliver systems and operational infrastructure.
+These relationships include (but are not limited to): Amazon Web Services, Inc. (“AWS”) for our cloud infrastructure, Total System Services, Inc. (“TSYS”) for processing services for our North American and U.K. portfolios of consumer, commercial and small business credit card accounts, Fidelity Information Services (“FIS”) for certain of our banking systems and International Business Machines Corporation (“IBM”) for mainframe managed services.
+We safeguard our information and technology to reduce risk, implement backup and recovery systems, and generally require the same of our third-party service providers.
+We take measures that mitigate against known attacks and use internal and external resources to scan for vulnerabilities in platforms, systems, and applications necessary for delivering Capital One products and services.
+Intellectual Property
+As part of our overall and ongoing strategy to protect and enhance our intellectual property, we rely on a variety of protections, including copyrights, trademarks, trade secrets, patents and certain restrictions on disclosure, solicitation and competition.
+We also undertake other measures to control access to, or distribution of, our other proprietary information.
+Despite these precautions, it may be possible for a third party to copy or otherwise obtain and use certain intellectual property or proprietary information without authorization.
+Our precautions may not prevent misappropriation or infringement of our intellectual property or proprietary information.
+In addition, our competitors and other third parties also file patent applications for innovations that are used in our industry.
+The ability of our competitors and other third parties to obtain such patents may adversely affect our ability to compete.
+Conversely, our ability to obtain such patents may increase our competitive advantage and/or preserve our freedom to operate certain technologies via cross-licenses or other arrangements with third parties.
+There can be no assurance that we will be successful in such efforts, or that the ability of our competitors to obtain such patents may not adversely impact our financial results.
+ 15Capital One Financial Corporation (COF)
+FORWARD-LOOKING STATEMENTS
+From time to time, we have made and will make forward-looking statements, including those that discuss, among other things, strategies, goals, outlook or other non-historical matters; projections, revenues, income, returns, expenses, capital measures, accruals for claims in litigation and for other claims against us; earnings per share or other financial measures for us; future financial and operating results; our plans, objectives, expectations and intentions; and the assumptions that underlie these matters.
+To the extent that any such information is forward-looking, it is intended to fit within the safe harbor for forward-looking information provided by the Private Securities Litigation Reform Act of 1995.
+Numerous factors could cause our actual results to differ materially from those described in such forward-looking statements, including, among other things:
+•general economic and business conditions in the U.S., the U.K., Canada or our local markets, including conditions affecting employment levels, interest rates, collateral values, consumer income, credit worthiness and confidence, spending and savings that may affect consumer bankruptcies, defaults, charge-offs and deposit activity;
+•an increase or decrease in credit losses, including increases due to a worsening of general economic conditions in the credit environment, and the impact of inaccurate estimates or inadequate reserves;
+•compliance with financial, legal, regulatory, tax or accounting changes or actions, including the impacts of the Tax Act, the Dodd-Frank Act, and other regulations governing bank capital and liquidity standards;
+•developments, changes or actions relating to any litigation, governmental investigation or regulatory enforcement action or matter involving us;
+•the inability to sustain revenue and earnings growth;
+•increases or decreases in interest rates;
+•our ability to access the capital markets at attractive rates and terms to capitalize and fund our operations and future growth;
+•increases or decreases in our aggregate loan balances or the number of customers and the growth rate and composition thereof, including increases or decreases resulting from factors such as shifting product mix, amount of actual marketing expenses we incur and attrition of loan balances;
+•the amount and rate of deposit growth;
+•our ability to execute on our strategic and operational plans;
+•our response to competitive pressures;
+•changes in retail distribution strategies and channels, including the emergence of new technologies and product delivery systems;
+•the success of our marketing efforts in attracting and retaining customers;
+•changes in the reputation of, or expectations regarding, the financial services industry or us with respect to practices, products or financial condition;
+•any significant disruption in our operations or in the technology platforms on which we rely, including cybersecurity, business continuity and related operational risks, as well as other security failures or breaches of our systems or those of our customers, partners, service providers or other third parties;
+•our ability to maintain a compliance and technology infrastructure suitable for the nature of our business;
+•our ability to develop and adapt to rapid changes in digital technology to address the needs of our customers and comply with applicable regulatory standards, including our increasing reliance on third party infrastructure and compliance with data protection and privacy standards;
+ 16Capital One Financial Corporation (COF)
+•the effectiveness of our risk management strategies;
+•our ability to control costs, including the amount of, and rate of growth in, our expenses as our business develops or changes or as it expands into new market areas;
+•the extensive use, reliability and accuracy of the models and data we rely on in our business;
+•our ability to recruit and retain talented and experienced personnel;
+•the impact from, and our ability to respond to, natural disasters and other catastrophic events, including hurricanes Harvey and Irma;
+•changes in the labor and employment markets;
+•fraud or misconduct by our customers, employees, business partners or third parties;
+•merchants’ increasing focus on the fees charged by credit card networks; and
+•other risk factors identified from time to time in our public disclosures, including in the reports that we file with the SEC.
+Forward-looking statements often use words such as “will,” “anticipate,” “target,” “expect,” “estimate,” “intend,” “plan,” “goal,” “believe” or other words of similar meaning.
+Any forward-looking statements made by us or on our behalf speak only as of the date they are made or as of the date indicated, and we do not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise.
+For additional information on factors that could materially influence forward-looking statements included in this Report, see the risk factors set forth under “Part I—Item 1A.
+Risk Factors” in this report.
+You should carefully consider the factors discussed above, and in our Risk Factors or other disclosure, in evaluating these forward-looking statements.
+ 17Capital One Financial Corporation (COF)
+Item 1A.
+Risk Factors

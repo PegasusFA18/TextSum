@@ -1,0 +1,6 @@
+Value at Risk (VAR)
+The Company utilizes a VAR model to estimate the maximum potential one-day loss in the fair value of its interest rate, foreign exchange, commodities and market sensitive equity financial instruments.
+Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes.
+ITEM 7A.
+These interrelationships were determined by observing interest rate, foreign currency, commodity and equity market changes over the preceding quarter for the calculation of VAR amounts at each fiscal quarter end.
+Financial Statements and Supplementary Data

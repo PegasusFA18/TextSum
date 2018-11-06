@@ -1,0 +1,16 @@
+ITEM 1A.
+RISK FACTORS
+In addition to the other information in this Quarterly Report on Form 10-Q, you should carefully consider the Risk Factors included in our Annual Report on Form 10-K filed with the Securities and Exchange Commission for the year ended December 31, 2017.
+The Company is supplementing those risk factors by adding the Risk Factor set forth below.
+During the first quarter of 2018, we discovered a data security issue related to our Connected Fitness business.
+During the first quarter of 2018, an unauthorized third party acquired data associated with our Connected Fitness users’ accounts for our MyFitnessPal application and website.
+Our investigation is ongoing, but indicates that approximately 150 million user accounts were affected by this issue.
+The investigation indicates that the affected information included usernames, email addresses, and hashed passwords - the majority with the hashing function called bcrypt used to secure passwords.
+In connection with this incident, a consumer class action lawsuit has been filed against, and we may face a number of legal claims by users of MyFitnessPal or investigations by government regulators and agencies.
+While we believe our insurance will cover the material costs of any such matters, our expenses or losses associated with this data incident may exceed our expectations which may negatively impact our financial results.
+In addition, we may be required to incur additional expense to further enhance our data security infrastructure.
+We continue to undertake efforts to prevent any further unauthorized access to our systems, however we cannot assure that further incidents will not occur.
+Furthermore, this data incident generated and may continue to generate negative publicity, and may negatively impact our brand image and reputation, particularly within our Connected Fitness business.
+This could cause the size of our Connected Fitness community to decline and could negatively impact the results of operations for our Connected Fitness segment.
+ITEM 6.
+EXHIBITS

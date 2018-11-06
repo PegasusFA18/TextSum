@@ -1,0 +1,70 @@
+Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10-K, particularly in Part I, Item 1A, "Risk Factors."
+34
+Trends in Our User Metrics
+The numbers for our key metrics, our DAUs, MAUs, and average revenue per user (ARPU), do not include Instagram, WhatsApp, or Oculus users unless they would otherwise qualify as such users, respectively, based on their other activities on Facebook.
+•Daily Active Users (DAUs).
+We define a daily active user as a registered Facebook user who logged in and visited Facebook through our website or a mobile device, or used our Messenger application (and is also a registered Facebook user), on a given day.
+Revenue from users who are not also Facebook or Messenger MAUs was not material.
+•Capital expenditures were $6.73 billion.
+Users in India, Indonesia, and Brazil represented key sources of growth in DAUs during December 2017, relative to the same period in 2016.
+Factors that influenced our advertising revenue growth in 2017 included (i) an increase in average price per ad, (ii) an increase in users and their engagement, and (iii) an increase in the number and frequency of ads displayed on mobile devices.
+The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill.
+Over this period, ARPU increased by 41% in Europe, 36% in United States & Canada, 33% in Rest of World, and 22% in Asia-Pacific.
+In addition to the recoverability assessment, we routinely review the remaining estimated useful lives of our finite-lived intangible assets.
+We calculate price per ad as total ad revenue divided by the number of ads delivered, representing the effective price paid per impression by a marketer regardless of their desired objective such as impression or action.
+Our actual results could differ materially from those discussed in the forward-looking statements.
+Marketing and sales.
+We generate substantially all of our revenue from advertising.
+This allocation differs from our revenue by geography disclosure in our consolidated financial statements where revenue is geographically apportioned based on the location of the marketer or developer.
+We expect to continue to accrue unrecognized tax benefits for certain recurring tax positions and anticipate that the amount for future quarters accrued will be similar to amounts accrued in 2017.
+A cumulative-effect adjustment will capture the write-off of income tax consequences deferred from past intra-entity transfers involving assets other than inventory, new deferred tax assets, and other liabilities for amounts not currently recognized under U.S. GAAP.
+We record a liability when we believe that it is both probable that a loss has been incurred and the amount can be reasonably estimated.
+Item 7.Management's Discussion and Analysis of Financial Condition and Results of Operations
+You should read the following discussion of our financial condition and results of operations in conjunction with our consolidated financial statements and the related notes included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K.
+We expect to complete our analysis within the measurement period in accordance with SAB 118.
+The majority of the increase was due to an increase in operational expenses related to our data centers and technical infrastructure and, to a lesser extent, higher costs associated with partnership agreements, including content acquisition costs, and ads payment processing.
+The magnitude of this impact will depend upon the specific type, size, and taxing jurisdictions of the intellectual property as well as the relative contribution to income in subsequent periods.
+Consequently, our provision for income taxes and our effective tax rate may initially increase in the period of an acquisition and integration.
+If we determine that a loss is reasonably possible and the loss or range of loss can be estimated, we disclose the possible loss in the accompanying notes to the consolidated financial statements.
+Significant judgment is required to determine both the probability and the estimated amount of loss.
+Foreign Exchange Impact on Revenue
+The general weakening of the U.S. dollar relative to certain foreign currencies in the full year 2017 compared to the same period in 2016 had a favorable impact on our revenue.
+Our marketing and sales expenses consist of salaries, share-based compensation, and benefits for our employees engaged in sales, sales support, marketing, business development, and customer service functions.
+The most important factor driving advertising revenue growth was an increase in revenue from ads in News Feed.
+In 2018, we plan to continue to increase general and administrative expenses to support overall company growth.
+If we had translated revenue for the full year 2016 using 2015 monthly exchange rates for our settlement currencies other than the U.S. dollar, our total revenue and advertising revenue would have been $27.91 billion and $27.15 billion, respectively.
+Research and development expenses in 2016 increased $1.10 billion, or 23%, compared to 2015.
+Cost of revenue
+2017 Compared to 2016.
+Based on transactions up to December 31, 2017, we do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+Effective Tax Rate Items.
+2016 Compared to 2015.
+In July 2016, we received a Statutory Notice of Deficiency (Notice) from the IRS related to transfer pricing with our foreign subsidiaries in conjunction with the examination of the 2010 tax year.
+Additionally, our marketing expenses increased $344 million in 2016, compared to 2015.
+The majority of the increase was due to an increase in payroll and benefits as a result of a 49% growth in employee headcount from December 31, 2016 to December 31, 2017 in engineering and other technical functions, partially offset by a $262 million decrease in share-based compensation related to the acquisitions completed in 2014.
+41
+Results of Operations
+The following tables set forth our consolidated statements of income data:
+Share-based compensation expense included in costs and expenses:
+The following tables set forth our consolidated statements of income data (as a percentage of revenue):
+42
+Share-based compensation expense included in costs and expenses (as a percentage of revenue):
+Revenue
+2017 Compared to 2016.
+For 2017, we estimate that mobile advertising revenue represented approximately 88% of total advertising revenue, as compared with approximately 83% in 2016.
+For comparison, in 2016, excess tax benefits recognized from share-based compensation decreased our provision for income taxes by $934 million and our effective tax rate by seven percentage points, as compared to the tax rate without such benefits.
+We will adopt the new standard effective January 1, 2018, on a prospective basis and do not expect the standard to have a material impact on our consolidated financial statements.
+Cash Provided by Operating Activities
+Cash flow from operating activities during 2017 mostly consisted of net income, adjusted for certain non-cash items, such as share-based compensation expense of $3.72 billion and total depreciation and amortization of $3.03 billion.
+We do not expect the adoption of this guidance to have a material impact on our consolidated financial statements.
+The results of historical periods are not necessarily indicative of the results of operations for any future period.
+Based upon the status of litigation described below and the current status of tax audits in various jurisdictions, we do not anticipate a significant impact to such amounts within the next 12 months.
+The increase in cash used in investing activities during 2017 compared to 2016 was due to increases in net purchases of marketable securities and capital expenditures.
+Cash Used in Investing Activities
+Cash used in investing activities during 2017 mostly resulted from $13.25 billion for net purchases of marketable securities and $6.73 billion for capital expenditures as we continued to invest in servers, data centers, office buildings, and network infrastructure.
+In November 2016, the FASB issued Accounting Standards Update No.
+2017-04, Intangibles - Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment (ASU 2017-04), which eliminates step two from the goodwill impairment test.
+This guidance will be effective for us in the first quarter of 2020 on a prospective basis, and early adoption is permitted.
+While we continue to evaluate the effect of adopting this guidance on our consolidated financial statements and related disclosures, we expect our operating leases, as disclosed in Note 9 — Commitments and Contingencies in the accompanying notes to the consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K, will be subject to the new standard.
+53
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk

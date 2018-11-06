@@ -1,0 +1,84 @@
+We were the third largest issuer of Visa (“Visa”) and MasterCard (“MasterCard”) credit cards in the U.S. based on the outstanding balance of credit card loans as of December 31, 2017.
+On September 25, 2017, we completed the acquisition from Synovus Bank of credit card assets and related liabilities of World’s Foremost Bank, a wholly-owned subsidiary of Cabela’s Incorporated (“Cabela’s acquisition”).
+Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”)—Executive Summary and Business Outlook,” “MD&A—Business Segment Financial Performance” and “Note 18—Business Segments” of this Report.
+•Consumer Banking: Consists of our branch-based lending and deposit gathering activities for consumers and small businesses, national deposit gathering, national auto lending and our consumer home loan portfolio and associated servicing activities.
+Our Consumer Banking and Commercial Banking businesses compete with national, state and direct banks for deposits, commercial and auto loans, as well as with savings and loan associations and credit unions for loans and deposits.
+Although we announced our decision to cease new originations of residential mortgage and home equity loan products within our Consumer Banking business, these rules could still impact pending mortgage loan applications and our servicing activities.
+Borrowers may also have a private right of action for certain violations.
+Our commercial and industrial customers typically include companies with annual revenues between $20 million and $2 billion.
+In addition, we compete against non-depository institutions that are able to offer these products and services.
+Broker-dealers are also subject to regulations covering their business operations, including sales and trading practices, public offerings, publication of research reports, use and safekeeping of client funds and securities, capital structure, record-keeping and the conduct of directors, officers and employees.
+Bank Secrecy Act and USA PATRIOT Act of 2001
+The Bank Secrecy Act and the USA PATRIOT Act of 2001 (“Patriot Act”) require financial institutions, among other things, to implement a risk-based program reasonably designed to prevent money laundering and to combat the financing of terrorism, including through suspicious activity and currency transaction reporting, compliance, record-keeping and customer due diligence.
+For a further discussion of the capital adequacy guidelines, see “MD&A—Capital Management,” “MD&A—Liquidity Risk Profile” and “Note 12—Regulatory and Capital Adequacy.”
+Basel III and United States Capital Rules
+In December 2010, the Basel Committee on Banking Supervision (“Basel Committee”) published a framework for additional capital and liquidity requirements (“Basel III”), which included detailed capital ratios and buffers, subject to transition periods.
+Capital One Securities, Inc. and Capital One Investing, LLC are registered broker-dealers regulated by the SEC and the Financial Industry Regulatory Authority.
+Market Risk Rule
+The “Market Risk Rule” supplements both the Basel III Standardized Approach and the Basel III Advanced Approaches by requiring institutions subject to the Market Risk Rule to adjust their risk-based capital ratios to reflect the market risk in their trading portfolios.
+We became subject to the predecessor of these rules at the end of 2012.
+We continue to rely on third-party outsourcers to help us deliver systems and operational infrastructure.
+A parallel run must last at least four quarters, but in practice United States banks have taken considerably longer to complete parallel runs.
+Nonbank Activities
+Certain of our nonbank subsidiaries are subject to supervision and regulation by various other federal and state authorities.
+These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.
+We are not a G-SIB based on the most recent available data and thus we are not subject to a G-SIB Surcharge.
+9Capital One Financial Corporation (COF)
+Additionally, in December 2017, the Basel Committee finalized certain modifications to the international Basel III capital standards, which would require rulemaking in the United States prior to becoming effective for United States banking organizations.
+The Heightened Standards Guidelines establish standards for the development and implementation by the Banks of a risk governance framework.
+Our Credit Card business competes with international, national, regional and local issuers of Visa and MasterCard credit cards, as well as with American Express, Discover Card, private-label card brands, and, to a certain extent, issuers of debit cards.
+11Capital One Financial Corporation (COF)
+Investment in the Company and the Banks
+Certain acquisitions of our capital stock may be subject to regulatory approval or notice under federal or state law.
+The rule requires the Company and each of the Banks to hold an amount of eligible high-quality, liquid assets that equals or exceeds 100% of their respective projected net cash outflows over a 30-day period, each as calculated in accordance with the LCR Rule.
+The new legislation replaces the previous Payment Services Regulations in its entirety; however, the principal effect of PSD2 is to improve consumer protection against fraud, possible abuses and payment incidents through enhanced security requirements through new Regulated Technical Standards on secure authentication, promote competition/innovation through new players and the development of innovative mobile and internet payments in Europe, and require COEP to adopt specific procedures for responding to Payments Services complaints.
+Our broker-dealer subsidiaries are subject, among other things, to net capital rules designed to measure the general financial condition and liquidity of a broker-dealer.
+The minimum requirement for the supplementary leverage ratio became effective on January 1, 2018.
+The Dodd-Frank Act also requires all swap market participants to keep certain swap transaction records and report pertinent information to swap data repositories on a real-time and on-going basis.
+On January 1, 2015, the minimum risk-based capital ratio requirements increased to 4.5% for the common equity Tier 1 capital ratio and to 6.0% for the Tier 1 risk-based capital ratio, and the minimum requirements for the total risk-based capital ratio and Tier 1 leverage capital ratio remained the same.
+The Banks are subject to comprehensive regulation and periodic examination by the Office of the Comptroller of the Currency (“OCC”), the FDIC and the Consumer Financial Protection Bureau (“CFPB”).
+For an insured depository institution to be well capitalized, it must maintain a total risk-based capital ratio of 10% or more; a Tier 1 capital ratio of 8% or more; a common equity Tier 1 capital ratio of 6.5% or more; and a leverage ratio of 5% or more.
+The FDIC has estimated that the reserve ratio will reach 1.35% in 2018; however, under the final rule, if the reserve ratio does not reach 1.35% by December 31, 2018, the FDIC will impose a one-time shortfall assessment on March 31, 2019 on depository institutions subject to the surcharge, including the Banks.
+There is uncertainty regarding how any of the proposed changes may impact the Basel III Standardized Approach and the Basel III Advanced Approaches.
+For a publicly traded BHC like us, a rebuttable presumption of control arises under the CIBC Act if a person or company acquires more than 10% of any class of our voting stock.
+In October 2017, the Federal Banking Agencies proposed certain limited changes to the Basel III Capital Rule.
+We also undertake other measures to control access to, or distribution of, our other proprietary information.
+The Federal Reserve is expected to provide its objection or non-objection to that capital plan the following June.
+See “MD&A—Market Risk Profile” below for additional information.
+The Dodd-Frank Act reformed the management of the DIF in several ways.
+Other regulators include the Financial Consumer Agency of Canada, the Office of the Privacy Commissioner of Canada, and the Financial Transactions and Reports Analysis Centre of Canada.
+As of December 31, 2017, the Company and CONA are subject to the Market Risk Rule.
+The Federal Reserve, OCC and FDIC (collectively, the “Federal Banking Agencies”) issued a final rule that implemented Basel III and certain Dodd-Frank Act and other capital provisions and updated the prompt corrective action (“PCA”) framework to reflect the new regulatory capital minimums (“Basel III Capital Rule”).
+We believe that the continued development and integration of these systems is an important part of our efforts to reduce costs, improve quality and provide faster, more flexible technology services.
+Second, the surcharge assessment was applied.
+The Federal Reserve’s objection or non-objection applies to planned capital actions from the third quarter of the year the capital plan is submitted through the end of the second quarter of the following year.
+Conversely, our ability to obtain such patents may increase our competitive advantage and/or preserve our freedom to operate certain technologies via cross-licenses or other arrangements with third parties.
+Numerous factors could cause our actual results to differ materially from those described in such forward-looking statements, including, among other things:
+•general economic and business conditions in the U.S., the U.K., Canada or our local markets, including conditions affecting employment levels, interest rates, collateral values, consumer income, credit worthiness and confidence, spending and savings that may affect consumer bankruptcies, defaults, charge-offs and deposit activity;
+•an increase or decrease in credit losses, including increases due to a worsening of general economic conditions in the credit environment, and the impact of inaccurate estimates or inadequate reserves;
+•compliance with financial, legal, regulatory, tax or accounting changes or actions, including the impacts of the Tax Act, the Dodd-Frank Act, and other regulations governing bank capital and liquidity standards;
+•developments, changes or actions relating to any litigation, governmental investigation or regulatory enforcement action or matter involving us;
+•the inability to sustain revenue and earnings growth;
+•increases or decreases in interest rates;
+•our ability to access the capital markets at attractive rates and terms to capitalize and fund our operations and future growth;
+•increases or decreases in our aggregate loan balances or the number of customers and the growth rate and composition thereof, including increases or decreases resulting from factors such as shifting product mix, amount of actual marketing expenses we incur and attrition of loan balances;
+•the amount and rate of deposit growth;
+•our ability to execute on our strategic and operational plans;
+•our response to competitive pressures;
+•changes in retail distribution strategies and channels, including the emergence of new technologies and product delivery systems;
+•the success of our marketing efforts in attracting and retaining customers;
+•changes in the reputation of, or expectations regarding, the financial services industry or us with respect to practices, products or financial condition;
+•any significant disruption in our operations or in the technology platforms on which we rely, including cybersecurity, business continuity and related operational risks, as well as other security failures or breaches of our systems or those of our customers, partners, service providers or other third parties;
+•our ability to maintain a compliance and technology infrastructure suitable for the nature of our business;
+•our ability to develop and adapt to rapid changes in digital technology to address the needs of our customers and comply with applicable regulatory standards, including our increasing reliance on third party infrastructure and compliance with data protection and privacy standards;
+ 16Capital One Financial Corporation (COF)
+•the effectiveness of our risk management strategies;
+•our ability to control costs, including the amount of, and rate of growth in, our expenses as our business develops or changes or as it expands into new market areas;
+•the extensive use, reliability and accuracy of the models and data we rely on in our business;
+•our ability to recruit and retain talented and experienced personnel;
+•the impact from, and our ability to respond to, natural disasters and other catastrophic events, including hurricanes Harvey and Irma;
+•changes in the labor and employment markets;
+•fraud or misconduct by our customers, employees, business partners or third parties;
+•merchants’ increasing focus on the fees charged by credit card networks; and
+•other risk factors identified from time to time in our public disclosures, including in the reports that we file with the SEC.
+Risk Factors

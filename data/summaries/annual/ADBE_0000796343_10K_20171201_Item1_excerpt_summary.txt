@@ -1,0 +1,67 @@
+We offer many of our products via a Software-as-a-Service (“SaaS”) model or a managed services model (both of which are referred to as hosted or cloud-based) as well as through term subscription and pay-per-use models.
+Adobe was originally incorporated in California in October 1983 and was reincorporated in Delaware in May 1997.
+We have operations in the Americas, Europe, Middle East and Africa (“EMEA”) and Asia-Pacific (“APAC”).
+We will continue to seek to deepen our relationship with existing users through meeting their needs holistically and delivering additional features and value.
+As part of our Creative Cloud strategy, we utilize our Experience Cloud solutions to drive customer awareness and licensing of our creative products and services through our website and across other channels.
+We believe there is a significant opportunity to address these challenges and help customers transform their businesses.
+We market our products and services directly to enterprise customers through our sales force and certain local field offices.
+Dimension integrates well with other Adobe apps.
+Our Adobe Sign services provide a green alternative to costly paper-based solutions, and are an easier way for customers to manage their contract workflows.
+Our comprehensive solutions extend more broadly than any other company in serving the needs of marketers and addressing this market opportunity; we integrate content and data, analytics, personalization, digital experience management, cross-channel campaign management, audience management, video delivery and monetization and social capabilities in our Experience Cloud.
+See “Results of Operations” within Part II, Item 7 titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Note 17 of our Notes to Consolidated Financial Statements for further segment information.
+We also intend to increase our focus on marketing and licensing Acrobat in targeted vertical markets such as education, financial services, telecommunications and government, as well as on expanding into emerging markets, while simultaneously enhancing and building out the delivery of cloud-based document services to our Acrobat and Adobe Acrobat Reader users.
+Our customers include marketers, advertisers, agencies, publishers,
+ 3
+merchandisers, web analysts, marketing executives, information management executives, product development executives, and sales and support executives.
+New image editing applications for mobile devices and tablets with features that compete with our professional tools are also emerging as adoption of these devices grows.
+Publishing
+Our Publishing segment contains legacy products and services that address diverse market opportunities including eLearning solutions, technical document publishing, web application development and high-end printing.
+The nature of traditional digital document creation, storage, and collaboration has been rapidly evolving as knowledge workers and consumers shift their behavior increasingly to non-desktop workflows.
+We offer many of the products included in Creative Cloud on a standalone basis, including subscriptions to the Creative Cloud version of certain point products.
+Adobe Analytics is available in four plans that contain various features and add-ons to meet the needs of our customers’ businesses.
+Adobe Analytics enables web, social, video, mobile, attribution, and predictive analytics across online and offline channels to continuously improve the performance of marketing activities.
+PRINCIPAL PRODUCTS AND SERVICES
+Digital Media Offerings
+Creative Cloud
+Adobe Creative Cloud is a cloud-based subscription offering that enables creative professionals and enthusiasts alike to express themselves with apps and services that connect across devices, platforms and geographies.
+Experience Cloud competes in a variety of areas, including: reporting and analytics; cross-channel marketing and optimization; online and social marketing; audience management; advertising and real-time bidding technology; video delivery and monetization; web experience management and others.
+We believe that through these programmatic services and support, our joint customers benefit greatly by the combination of Adobe technology and the deep customer context that our global partners represent.
+Through Creative Cloud, members can access online services to sync, store, and share files across users’ machines, access marketplace, social and community-based features within our Adobe Stock and Behance services, and create apps and websites, all at affordable subscription pricing for cost-sensitive customers.
+Adobe Scan can be used on mobile devices to provide scanning capabilities in the pocket of every person.
+These core offerings are complemented by our custom learning services, which support our largest enterprise customers and their unique requirements.
+We believe that our transition from perpetual-use software licenses to a subscription-based business model combined with the increased focus on cloud-based computing may improve our efforts to combat the pirating of our products.
+We also face competition from smartphone and tablet manufacturers that integrate imaging and video software into their devices to work with cameras that come as part of their smartphone and tablet offerings.
+We have also been focused on migrating some legacy LiveCycle customers to an updated offering with similar capabilities based on our Adobe Experience Manager solution.
+Tight integration with other Adobe offerings such as Photoshop, Illustrator, and Acrobat enables customers to work productively in print and digital workflows.
+Marketers can also integrate consumer data from across marketing channels to develop and deliver more relevant marketing experiences to their consumers.
+We have introduced new products, features and services to address emerging categories of content creation such as 3D, augmented reality, virtual reality and user experience design.
+Using our methodology, our professional services teams are able to accelerate customers’ time to value, and maximize the return customers earn on their investment in Adobe solutions.
+Customers can also subscribe to Photoshop or Lightroom CC as individual cloud-enabled subscription products, or through our Photography Plan, which is a cloud-enabled offering targeted at photographers and photo hobbyists and includes Lightroom CC, integrated cloud services, and Lightroom Classic.
+Our professional services team uses a comprehensive, customer-focused methodology that has been refined over years of capturing and analyzing best practices from numerous customer engagements across a diverse mix of solutions, industries, and customer segments.
+In fiscal 2017, we maintained a relatively consistent quarterly revenue run-rate with the mature products we market and license in our Publishing business.
+Adobe Media Optimizer DSP also provides users with the tools to create, manage, optimize and scale ads for Facebook and Instagram.
+We generate revenue by licensing our technology to OEMs that manufacture workflow software, printers and other output devices.
+Adobe Media Optimizer Dynamic Creative Optimization (DCO)
+Adobe Media Optimizer DCO enables advertisers to reach specific audiences with flexible creative content that’s personalized in real time based on site actions, customer and partner data, and third-party demographic data.
+Adobe Media Optimizer Search also enables customers to run models to determine the highest performing mix of advertising at varied spend levels across portfolios and then validate assumptions with reports based on models and data.
+Dimension is available to Creative Cloud subscribers, and customers can also subscribe to use it as an individual cloud-enabled subscription product.
+Adobe Spark
+Adobe Spark is our integrated web and mobile software for creating and sharing impactful visual stories.
+Other Products and Services
+We also offer a broad range of other enterprise and digital media products and services.
+We enter into these investments with the intent of securing financial returns as well as for strategic purposes, as they often increase our knowledge of emerging markets and technologies and expand our opportunities to provide Adobe products and services.
+Competition in this space is also emerging with drawing and illustration applications on tablet and smartphone platforms.
+Adobe Advertising is comprised of the Adobe Media Optimizer offerings described below.
+Adobe Analytics Cloud
+Adobe Analytics Cloud provides a core intelligence engine for enterprises that allow customers to put real-time insights into action.
+Adobe Campaign
+Adobe Campaign enables marketers to orchestrate personalized experiences determined by each consumer’s behaviors and preferences.
+•Adobe Analytics Cloud—enables businesses to move from insights to actions in real time by uniquely integrating audiences as the core system of intelligence for the enterprise; makes data available across all Adobe clouds through the capture, aggregation, rationalization and understanding of vast amounts of disparate data and then translating that data into singular customer profiles; includes Adobe Analytics and Adobe Audience Manager.
+In addition, other PDF creation solutions can be found at a low cost or for free on the web or via mobile applications.
+It helps advertisers plan campaigns holistically, across every screen, while providing more flexibility to shift spend and optimize reach and frequency.
+Digital Experience Strategy
+Our goal is to be the leading provider of solutions that enable our customers to provide exceptional digital experiences.
+The following is a brief description of the solutions that comprise the Adobe Marketing Cloud.
+Information about other products not referenced here can be found on our corporate website, www.adobe.com.
+As of fiscal year end 2017 and 2016, no single customer was responsible for over 10% of our trade receivables.
+RISK FACTORS

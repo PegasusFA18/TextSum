@@ -1,0 +1,9 @@
+When the forecasted transaction occurs, we reclassify the related gain or loss on the cash flow hedge to revenue.
+We also have long-term investment exposures consisting of the capitalization and retained earnings in our non-U.S. Dollar functional currency foreign subsidiaries.
+We hedge these exposures to reduce the risk that our earnings and cash flows will be adversely affected by changes in exchange rates.
+ITEM 7A.
+As of December 1, 2017 and December 2, 2016, this long-term investment exposure totaled an absolute notional equivalent of $190.5 million and $70.2 million, respectively.
+We do not use foreign exchange contracts for speculative trading purposes, nor do we hedge our foreign currency exposure in a manner that entirely offsets the effects of changes in foreign exchange rates.
+The following table separates these investments, based on stated maturities, to show the approximate exposure to interest rates (in millions):
+A sensitivity analysis was performed on our investment portfolio as of December 1, 2017.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA

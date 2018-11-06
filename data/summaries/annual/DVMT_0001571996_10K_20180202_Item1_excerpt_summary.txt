@@ -1,0 +1,53 @@
+Dell Technologies brings together the entire infrastructure from hardware to software to services.
+ISG includes Virtustream product and service offerings.
+VMware's end-user computing offerings (such as Workspace ONE) enable IT organizations to enhance enterprise security for corporate applications, data, and endpoints for their end users by leveraging VMware's software-defined data center solutions to extend the value of virtualization and management from data centers to devices.
+VMware Cloud on AWS enables customers to run applications across vSphere-based private, public, and hybrid cloud environments.
+No public market currently exists for Pivotal's Class A common stock.
+For further discussion regarding our current reportable segments, see "Part II — Item 7 —Management's Discussion and Analysis of Financial Condition and Results of Operations — Results of Operations — Business Unit Results."
+Dell Financial Services
+We also offer or arrange various financing options and services for our customers in North America, Europe, Australia, and New Zealand through Dell Financial Services and its affiliates ("DFS").
+We seek to accomplish this by executing two, related, high-level strategic initiatives: helping our customers transform their businesses through digital, IT, workforce, and security transformation, while extending our many leading market positions in client solutions and IT infrastructure.
+Although we use our patented inventions and also license them to others, we are not substantially dependent on any single patent or group of related patents.
+Our quality management system is maintained through the testing of components, sub-assemblies, software, and systems at various stages in the manufacturing process.
+We sell products and services directly to customers and through other sales channels, such as value-added resellers, system integrators, distributors, and retailers.
+The networking portfolio helps our business customers transform and modernize their infrastructure, mobilize and enrich end-user experiences, and accelerate business applications and processes.
+These investments reflect our commitment to R&D activities that ultimately support our mission: to help our customers build their digital future and to transform IT.
+•SecureWorks (NASDAQ: SCWX) is a leading global provider of intelligence-driven information security solutions singularly focused on protecting its clients from cyber attacks.
+This system is certified to the ISO 9001 International Standard that includes most of our global sites that design, manufacture, and service our products.
+For information about the amount of net revenue we generated from our operations outside of the United States during the last three fiscal years, see Note 22 of the Notes to the Consolidated Financial Statements included in this report.
+These internationally-recognized endorsements of ongoing quality and environmental management are among the highest levels of certifications available.
+The Fiscal 2017 Corporate Social Responsibility Report is available at www.dell.com/crreport, and the Fiscal 2018 report is expected to be available in June 2018.
+See "Item 2 — Properties" for information about our manufacturing and distribution facilities.
+Corporate Information
+We are a holding company that conducts our operations through subsidiaries.
+In particular, we focus on helping customers harness the power of technology to deliver better social and environmental outcomes.
+During Fiscal 2018, VMware entered into a strategic alliance with Amazon Web Services ("AWS") to offer an integrated hybrid offering, VMware Cloud on AWS.
+We also hold licenses to use numerous third-party patents.
+From time to time, other companies and individuals assert exclusive patent, copyright, trademark, or other intellectual property rights to technologies or marks that are alleged to be relevant to the technology industry or our business.
+Unless otherwise noted, trademarks appearing in this report are owned by us.
+All of our suppliers must agree to our global supplier principles and accept the Electronic Industry Citizenship Coalition Code of Conduct.
+Further, Dell is committed to maintaining the vitality of our oceans with our work concerning ocean-bound plastics used in our supply chain.
+Employees
+At the end of Fiscal 2018, we had approximately 145,000 total full-time employees, approximately 22,000 of whom were employees of VMware, Inc.
+As of February 2, 2018, we owned registrations for 336 of our other trademarks in the United States and had pending applications for registration of 64 other trademarks.
+Product backlog at any point in time may not result in the generation of any predictable amount of net revenue in any subsequent period.
+From May 2007 to January 2014, Mr. Sweet served in a variety of finance leadership roles for Dell, including as Vice President of Corporate Finance, Controller, and Chief Accounting Officer with responsibility for global accounting, tax, treasury, and investor relations, as well as for global finance services.
+From November 2001 to January 2003, Mr. Clarke served as Vice President and General Manager, Relationship Product Group.
+Our telephone number is 1-800-289-3355.
+Marius Haas — Mr. Haas serves as President and Chief Commercial Officer of Dell Technologies, responsible for the global go-to-market organization, delivering innovative and practical solutions to commercial customers.
+The DHI Group Common Stock consists of four classes of common stock, referred to as Class A Common Stock, Class B Common Stock, Class C Common Stock, and Class D Common Stock.
+Michael S. Dell — Mr. Dell serves as Chairman of the Board and Chief Executive Officer of Dell Technologies.
+Mr. Price previously served as Dell's Senior Vice President, Human
+13
+Resources from June 2010 to September 2016.
+Mr. Price also is the executive sponsor for the Slack Employee Resource Group at Dell Technologies.
+Prior to joining EMC, Mr. Elias served in various capacities at Hewlett-Packard Company, a provider of information technology products, services, and solutions for enterprise customers, most recently as Senior Vice President of Business Management and Operations for the Enterprise Systems Group.
+He serves as a member of the Technology CEO Council and is a member of the U.S. Business Council and the Business Roundtable.
+He also serves on the governing board of the Indian School of Business in Hyderabad, India, and is a board member of Catalyst, Inc., a non-profit organization that promotes inclusive workplaces for women.
+In this role, in which he has served since September 2017, Mr. Scannell leads the Dell EMC sales teams to deliver technology solutions to large enterprises and public institutions worldwide.
+Mr. Clarke joined Dell in 1987 as a quality engineer and has served in a variety of other engineering and management roles.
+Mr. Rothberg returned to the United States in 2010 to serve as Vice President of Legal for the North America and Latin America regions.
+Ms. Quintos came to Dell from Citigroup, Inc., an investment banking and financial services company, where she served as Vice President of Global Operations and Technology.
+Prior to his service in those roles, Mr. Sweet served in a variety of finance leadership positions, including as Vice President responsible for overall finance activities within the corporate business, education, government, and healthcare business units of Dell.
+15
+ITEM 1A — RISK FACTORS

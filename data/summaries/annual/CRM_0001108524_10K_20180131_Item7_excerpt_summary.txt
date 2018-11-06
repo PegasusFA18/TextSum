@@ -1,0 +1,94 @@
+We define a “customer” as a separate and distinct buying entity (e.g., a company, a distinct business unit of a large corporation, a partnership, etc.)
+Depending on a customer’s actual and projected business requirements, more than one core service offering may satisfy the customer’s current and future needs.
+Our typical contract length is between 12 and 36 months.
+The sequential quarterly changes in accounts receivable and the related deferred revenue and operating cash flow during the first quarter of our fiscal year are not necessarily indicative of the billing activity that occurs for the following quarters as displayed below (in thousands, except unbilled deferred revenue):
+36
+(1)Operating cash flow represents net cash provided by operating activities for the three months ended in the periods stated above.
+Our core mission is to empower our customers to connect with their customers in entirely new ways through cloud, mobile, social, Internet of Things (“IoT”) and artificial intelligence technologies.
+Professional Services and Other Revenues
+Our professional services contracts are either on a time and materials, fixed-fee or subscription basis.
+We expect this stock compensation balance to be amortized as follows: $855.4 million during fiscal 2019; $582.7 million during fiscal 2020; $318.1 million during fiscal 2021; $59.5 million during fiscal 2022; $17.2 million during fiscal 2023 and $8.0 million thereafter.
+We expect this expense to fluctuate as we acquire more businesses and intangible assets become fully amortized.
+We expect that in the future, research and development expenses will increase in absolute dollars and may increase as a percentage of total revenues as we invest in adding employees and building the necessary system infrastructure required to support the development of new, and improve existing, technologies and the integration of acquired businesses, technologies and all of our service offerings.
+Examples of critical estimates in valuing certain of the intangible assets and goodwill we have acquired include but are not limited to:
+•future expected cash flows from subscription and support contracts, professional services contracts, other customer contracts and acquired developed technologies and patents;
+•the acquired company’s trade name, trademark and existing customer relationship, as well as assumptions about the period of time the acquired trade name and trademark will continue to be used in our offerings;
+•uncertain tax positions and tax related valuation allowances assumed; and
+•discount rates.
+The deferred revenue balance does not represent the total contract value of annual or multi-year, non-cancelable subscription agreements.
+We commence revenue recognition when all of the following conditions are satisfied:
+•there is persuasive evidence of an arrangement;
+•the service has been or is being provided to the customer;
+38
+•the collection of the fees is reasonably assured; and
+•the amount of fees to be paid by the customer is fixed or determinable.
+Amortization of Purchased Intangibles from Business Combinations and the Purchase of 50 Fremont
+Our cost of revenues, operating expenses and other expenses include amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company’s developed technology, trade names and trademarks, customer lists, acquired leases and customer relationships.
+Due to the timing of the Tax Act and additional guidance and interpretations that may be issued by the U.S. Treasury Department, IRS and other standard-setting bodies in the future, we have not completed our analysis of the income tax effects of the Tax Act.
+The commissions are deferred and amortized to sales expense over the non-cancelable terms of the related subscription contracts with our customers, which are typically 12 to 36 months.
+Fiscal Year Ended January 31, 2018 and 2017
+Revenues.
+The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the consolidated statements of operations in the period that includes the enactment date.
+We generally invoice our customers for our subscription and services contracts in advance in annual installments.
+Our actual results may differ from these estimates under different assumptions or conditions.
+The cost of providing professional services is higher as a percentage of the related revenue than for our enterprise cloud computing subscription service due to the direct labor costs and costs of subcontractors.
+Our proprietary, scalable and secure multi-tenant architecture enables us to provide all of our customers with a service based on a single version of our application.
+Costs related to preliminary project activities and post implementation activities are expensed as incurred.
+As such, our first quarter is our largest collections and operating cash flow quarter.
+If the deliverables have standalone value at contract inception, we account for each deliverable separately.
+We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription fees from customers accessing our enterprise cloud computing services and from customers purchasing additional support beyond the standard support that is included in the basic subscription fee; and (2) related professional services such as process mapping, project management, implementation services and other revenue.
+If the fair value of an investment is below our cost, we determine whether the investment is other-than-temporarily impaired based on our qualitative and quantitative analysis, which includes the severity and duration of the impairment.
+Deferred Revenue.
+Revenue Recognition.
+During fiscal 2017, we deferred $462.0 million of commission expenditures and we amortized $371.5 million to sales expense.
+We intend to continue to invest additional resources in our enterprise cloud computing services.
+The Company was in compliance with the Term Loan Credit Agreement’s covenants as of January 31, 2018.
+“Other revenue” consists primarily of training fees.
+Research and Development
+Research and development expenses consist primarily of salaries and related expenses, including stock-based expenses, the costs of our development and test data center and allocated overhead.
+We recognize interest accrued and penalties related to unrecognized tax benefits in our income tax provision.
+As our go-to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes in relative selling prices, including both VSOE and BESP.
+Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse.
+Critical Accounting Policies and Estimates
+Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States.
+We typically issue renewal invoices in advance of the renewal service period, and depending on timing, the initial invoice for the subscription and services contract and the subsequent renewal invoice may occur in different quarters.
+The year on year compounding effect of this seasonality in both billing patterns and overall business causes both the value of invoices that we generate in the fourth quarter and cash collections in the first quarter to increase as a proportion of our total annual billings.
+In December 2017, the Tax Cuts and Jobs Act ("Tax Act") was enacted into law, significantly changing income tax law that affects U.S corporations.
+We expect that research and development expenses will increase in absolute dollars and may increase as a percentage of revenues in future periods as we continue to invest in additional employees and technology to support the development of new, and improve existing, technologies and the integration of acquired technologies.
+This was offset by a reduction in subscription revenues of approximately $20.0 million as a result of one less day in fiscal 2018 compared to fiscal 2017.
+The net deferred tax liability from the acquisition of Demandware provided a source of additional income to support the realizability of our preexisting deferred tax assets and, as a result, we released a portion of our valuation allowance.
+Such invoice amounts are initially reflected in accounts receivable and deferred revenue, which is reflected on the balance sheets, and as the contract renewal approaches, the corresponding deferred revenue decreases to zero.
+Cost of Revenues.
+Subscription and support revenues consisted of the following (in millions):
+Subscription and support revenues from the Community Cloud, Quip and our Industry Offerings were not significant in fiscal 2018.
+The difference between the fair value of the shares as of the date of the acquisition and the carrying value of the strategic investment is recorded as a gain or loss and disclosed separately within the statements of operations.
+We reported a tax benefit of $154.2 million on a pretax income of $25.4 million, which resulted in a negative effective tax rate of 608 percent for fiscal 2017.
+The tax benefit associated with the release of the valuation allowance was partially offset by income taxes in profitable jurisdictions outside of the United States.
+Subscription and support revenues were $9.7 billion, or 93 percent of total revenues, for fiscal 2018, compared to $7.8 billion, or 92 percent of total revenues, during the same period a year ago, an increase of $2.0 billion, or 25 percent.
+Changes in our pricing have not been a significant driver of revenue growth for the periods presented.
+Other income (expense) primarily consists of non-operating transactions such as strategic investment realized gains and losses and other-than-temporary impairments, gains and losses from foreign exchange rate fluctuations and real estate transactions.
+We had a tax provision in profitable jurisdictions outside the United States and current tax
+expense in the United States.
+The cost of professional services and other revenues was $740.1 million during fiscal 2018 resulting in positive gross margin of $29.4 million.
+We increased our research and development headcount by 35 percent in fiscal 2017 in order to improve and extend our service offerings and develop new technologies as a result of our fiscal 2017 acquisitions.
+The increase in absolute dollars was primarily due to an increase of $173.2 million in employee-related costs, an increase of $58.1 million in stock-based expense, an increase of $28.1 million in development and test data center expense, and an increase in allocated overhead.
+Research and development expenses were $1.2 billion, or 14 percent of total revenues, for fiscal 2017, compared to $946.3 million, or 14 percent of total revenues, for fiscal 2016, an increase of $261.8 million.
+The increase was due to higher interest income across our portfolio.
+Quip revenue is included with Salesforce Platform and Other in the table above.
+Our general and administrative headcount increased by 22 percent in fiscal 2017 as we added personnel to support our growth.
+Other income and expense.
+The increase in headcount was primarily attributable to hiring additional sales personnel to focus on adding new customers and increasing penetration within our existing customer base.
+Gains from acquisitions of strategic investments represents gains on sales of strategic investments when we acquire an entity in which we previously held a strategic investment.
+Benefit from (provision for) income taxes.
+In July 2017, we entered into an agreement with a third-party to obtain the exclusive naming rights for the Salesforce Transit Center project in San Francisco for a period of 25 years.
+As of January 31, 2018, the noncurrent outstanding principal portion of the Term Loan was $500.0 million.
+Interest expense consists of interest on our convertible senior notes, capital leases, financing obligation related to 350 Mission, the loan assumed on 50 Fremont, revolving credit facility and the $500.0 million term loan that was entered into in connection with our acquisition of Demandware.
+Net cash provided by operating activities was $2.7 billion during fiscal 2018 and $2.2 billion during the same period a year ago.
+The net cash used in investing activities during fiscal 2017 primarily related to business combinations with the largest being the acquisition of Demandware in July 2016, purchases of marketable securities of approximately $1.1 billion, new office build-outs and strategic and capital investments, which were offset by the cash inflows for the period from sales and maturities of marketable securities of $2.0 billion.
+Net cash provided by operating activities was $2.2 billion during fiscal 2017 and $1.7 billion during fiscal 2016.
+Net cash provided by financing activities during fiscal 2017 consisted primarily of $748.8 million proceeds from borrowings under our revolving credit facility, $495.6 million of proceeds from the Term Loan, net of loan fees, $401.5 million from proceeds from equity plans offset by $98.2 million of principal payments on capital leases and $550.0 million payment of our revolving credit facility.
+In July 2016, we entered into a credit agreement (“Revolving Loan Credit Agreement”), which provides for a $1.0 billion unsecured revolving credit facility (“Credit Facility”) that matures in July 2021.
+Our future operating lease obligations would change if we exercised these options and if we entered into additional operating lease agreements as we expand our operations.
+The agreement further provides that we will pay an additional $108.0 million in fiscal 2019 and $126.0 million in fiscal 2020.
+52
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK

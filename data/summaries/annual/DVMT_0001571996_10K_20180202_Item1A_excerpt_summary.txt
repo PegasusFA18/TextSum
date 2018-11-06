@@ -1,0 +1,90 @@
+The risks described below are not the only risks facing us.
+There also is a risk that Dell Technologies' product portfolios may quickly become outdated or that Dell Technologies' market share may quickly erode.
+A delay in the supply of a critical single- or limited-source product or component may prevent the timely shipment of the related product in desired quantities or configurations.
+In addition, significant portions of Dell Technologies' products are assembled by contract manufacturers, primarily in various locations in Asia.
+Adverse economic conditions may negatively affect customer demand for Dell Technologies' products and services.
+Further, Dell Technologies relies in certain limited capacities on third-party data management providers and other vendors whose possible security problems and security vulnerabilities may have similar effects on Dell Technologies.
+The increasing reliance on vendors subjects Dell Technologies to a greater risk of shortages and reduced control over delivery schedules of components and products, as well as a greater risk of increases in product and component costs.
+Dell Technologies depends on its information technology and manufacturing infrastructure to achieve its business objectives.
+The process of designing, implementing, and testing internal control over financial reporting is time-consuming, costly, and complicated.
+Dell Technologies relies on third-party value-added resellers, system integrators, distributors, retailers, and other sales channels to complement its direct sales organization in order to reach more end-users globally.
+There is a risk that Dell Technologies' competitors may provide products that are less costly, perform better or include additional features that are not available with Dell Technologies' products.
+Deterioration in Dell Technologies' business performance, a credit rating downgrade, volatility in the securitization markets, changes in financial services regulation, or adverse changes in the economy could lead to reductions in the availability of debt financing.
+In addition, if Dell Technologies violates legal or regulatory requirements, the applicable government could suspend or disbar Dell Technologies as a contractor, which would unfavorably affect Dell Technologies' net revenue and profitability.
+Any such effects could have a negative impact on Dell Technologies' net revenue and profitability.
+If Dell Technologies is unable to meet these challenges, its results of operations could be adversely affected.
+In addition, Dell Technologies' provision for income taxes could be affected by changes in the valuation of deferred tax assets.
+Dell Technologies could lose existing or potential customers for outsourcing services or other information technology solutions in connection with any actual or perceived security vulnerabilities in Dell Technologies' products.
+Infrastructure disruptions could harm Dell Technologies' business.
+The costs and timing of costs under environmental and safety laws are difficult to predict, but could have an adverse impact on Dell Technologies' business.
+Dell Technologies' pension plan assets are subject to market volatility.
+Dell Technologies' financial services activities are negatively affected by adverse economic conditions that contribute to loan delinquencies and defaults.
+Violations of the Foreign Corrupt Practices Act or other anti-corruption laws or export control, customs, or economic sanctions laws may
+23
+result in severe criminal or civil sanctions and penalties, and Dell Technologies and its subsidiaries may be subject to other liabilities which could have a material adverse effect on their business, results of operations, and financial condition.
+As market conditions permit, Dell Technologies expects to continue to shift the asset allocation to lower the percentage of investments in equities and increase the percentage of investments in long-duration fixed-income securities.
+Further, if Dell Technologies is unable to satisfy its obligations as a public company, the Class V Common Stock could be subject to delisting from the NYSE and Dell Technologies could be subject to fines, sanctions, and other regulatory action and potentially civil litigation.
+Dell Technologies sells components to these contract manufacturers and generates large non-trade accounts receivables, an arrangement that would present a risk of uncollectibility if the financial condition of a contract manufacturer should deteriorate.
+Dell Technologies' earnings performance could suffer from any impairment of its investments.
+Any failure to maintain internal control over financial reporting could severely inhibit Dell Technologies' ability to issue accurate reports of its financial condition or results of operations.
+Dell Technologies also could incur significant expense in repairing system damage and taking other remedial measures.
+The plan's assets are invested in common stocks, bonds, and cash.
+Any such allocation or reallocation may be made without the approval of any of Dell Technologies' stockholders in accordance with the Dell Technologies tracking stock policy and the Dell Technologies certificate of incorporation.
+Dell Technologies also is incurring costs associated with the Sarbanes-Oxley Act of 2002 and related rules implemented by the SEC and the New York Stock Exchange ("NYSE"), on which its Class V Common Stock is listed.
+Dell Technologies is highly dependent on the services of Michael S. Dell, its Chief Executive Officer and largest stockholder.
+Dell Technologies is subject to laws, rules, and regulations in the United States and other countries relating to the collection, use, and security of user and other data.
+Dell Technologies is utilizing these exemptions.
+Armed hostilities, terrorism, natural disasters, or public health issues, whether in the United States or abroad, could cause damage or disruption to Dell Technologies or Dell Technologies' suppliers and customers, or could create political or economic instability, any of which could harm Dell Technologies' business.
+Certain provisions of the Dell Technologies certificate of incorporation and the Dell Technologies bylaws may discourage, delay, or prevent a change in control of Dell Technologies that a stockholder may consider favorable.
+These policies also set forth the initial allocation of Dell Technologies' businesses, assets, and liabilities between the groups.
+The Dell Technologies board of directors may not reallocate assets and liabilities between the DHI Group and the Class V Group without the approval of the Capital Stock Committee, which currently consists solely of independent directors, but any such reallocation of assets and liabilities may make it difficult to assess the future prospects of either group based on its past performance.
+Among other matters, the executive committee has been delegated the board's power and authority, subject to specified limits, to review and approve, with respect to Dell Technologies and its subsidiaries, acquisitions and dispositions, the annual budget and business plan, the incurrence of indebtedness, entry into material commercial agreements, joint ventures and strategic alliances, and the commencement and settlement of material litigation.
+As of February 2, 2018, Dell Technologies and its subsidiaries had approximately $51.9 billion of short-term and long-term indebtedness.
+As a result, Dell Technologies' officers and directors owe fiduciary duties to Dell Technologies as a whole and all of Dell Technologies' stockholders as opposed to only holders of a particular group.
+The DHI Group generally refers to the direct and indirect interest of Dell Technologies in all of Dell Technologies' business, assets, properties, liabilities, and preferred stock other than those attributable to the Class V Group, as well as the DHI Group's retained interest in the Class V Group equal to approximately 39% of Dell Technologies' economic interest in the Class V Group as of February 2, 2018.
+Because these policies relate to matters concerning the day-to-day management of Dell Technologies as opposed to significant corporate actions, such as a merger involving Dell Technologies or a sale of substantially all of Dell Technologies' assets, no stockholder approval is required with respect to their adoption or amendment.
+Further, hardware and operating system software and applications that Dell Technologies produces or procures from third parties may contain defects in design or manufacture, including "bugs" and other problems that could unexpectedly interfere with the operation of such systems.
+By reason of their ownership of all of the Class B Common Stock, investment funds affiliated with Silver Lake Partners (the "SLP stockholders") have the ability to elect all of the Group III Directors, who have an aggregate of 3 of the 13 total votes on the Dell Technologies board of directors.
+Dell Technologies is a "controlled company" within the meaning of NYSE rules.
+The market price of Class V Common Stock may be materially affected by, among other factors:
+•actual or anticipated fluctuations in VMware, Inc.'s operating results or in the operating results of any other businesses attributable to the Class V Group from time to time;
+•potential acquisition activity by Dell Technologies or the companies in which Dell Technologies invests;
+•adverse changes in the credit rating or credit quality of Dell Technologies and its subsidiaries;
+•issuances of additional debt or equity securities to raise capital by Dell Technologies or the companies in which Dell Technologies invests and the manner in which that debt or the proceeds of an equity issuance are attributed to each of the groups;
+•changes in financial estimates by securities analysts regarding Class V Common Stock or the companies attributable to either of Dell Technologies' groups;
+•changes in market valuations of other companies engaged in similar lines of business;
+•the complex nature and the potential difficulties investors may have in understanding the terms of the Class V Common Stock, as well as concerns regarding the possible effect of certain of those terms on an investment in Dell Technologies' stock; and
+•general market conditions.
+The Dell Technologies certificate of incorporation designates a state court of the State of Delaware or the federal district court for the District of Delaware as the sole and exclusive forum for certain types of actions and proceedings that may be initiated by Dell Technologies' stockholders, which could limit the ability of the holders of Class V Common Stock to obtain a favorable judicial forum for disputes with Dell Technologies or with directors, officers, or the controlling stockholders of Dell Technologies.
+Dell Technologies may dispose of assets of the Class V Group without the approval of holders of the Class V Common Stock.
+The market price of the Class V Common Stock may not reflect the performance of Dell Technologies' interest in VMware, Inc. and any other businesses, assets, and liabilities that may be attributed to the Class V Group at any time.
+The listing standards of the NYSE provide that the Class V Common Stock could be delisted from the NYSE if:
+•the Class A common stock of VMware, Inc. ceases to be listed on the NYSE;
+•Dell Technologies ceases to own, directly or indirectly, at least 50% of either the economic interest or the voting power of all of the outstanding classes of common equity of VMware, Inc.; or
+•the Class V Common Stock ceases to track the performance of the Class A common stock of VMware, Inc.
+Risk Factors Relating to Ownership of Dell Technologies
+The MD stockholders and the SLP stockholders have the ability to elect all of the directors of Dell Technologies, and such stockholders' interests may differ from the interests of the holders of Class V Common Stock.
+The Dell Technologies board of directors has formed an executive committee of the board consisting entirely of Group II Directors and Group III Directors (none of whom are independent directors under NYSE rules), and has delegated a substantial portion of the power and authority of the Dell Technologies board of directors to the executive committee.
+Laws and regulations affecting public company directors and executive officers could make it more difficult for Dell Technologies to attract and retain qualified persons to serve on its board of directors or its board committees or as its executive officers.
+The listing standards of the NYSE include certain requirements to maintain the listing of an Equity Investment Tracking Stock, and if the Class V Common Stock were delisted because of the failure to meet any of such requirements, the liquidity and value of the Class V Common Stock would be materially adversely affected.
+The Dell Technologies board of directors may not allocate or reallocate assets and liabilities to one group or the other without the approval of the Capital Stock Committee, which must consist of a majority of independent directors and currently consists solely of independent directors.
+Principles of Delaware law and the provisions of the Dell Technologies certificate of incorporation may protect decisions of the Dell Technologies board of directors that have a disparate impact upon holders of shares of stock relating to a particular group.
+Dell Technologies' tracking stock capital structure could create conflicts of interest, and the Dell Technologies board of directors might make decisions that could adversely affect only some holders of Dell Technologies' common stock.
+As of February 2, 2018, the number of votes to which holders of Class V Common Stock are entitled represent approximately 4% of the total number of votes to which all holders of Dell Technologies common stock are entitled, the number of votes to which holders of Class A Common Stock are entitled represent approximately 72% of the total number of votes to which all holders of Dell Technologies common stock are entitled, the number of votes to which holders of Class B Common Stock are entitled represent approximately 24% of the total number of votes to which all holders of Dell Technologies common stock are entitled, and the number of votes to which holders of Class C Common Stock are entitled represent less than 1% of the total number of votes to which all holders of Dell Technologies common stock are entitled.
+Decisions deemed to be in the best interest of Dell Technologies and all of Dell Technologies' stockholders may not be in the best interest of a particular group when considered independently, such as:
+•decisions as to the terms of any business relationships that may be created between the DHI Group and the Class V Group or the terms of any reallocations of assets between the groups;
+•decisions as to the allocation of corporate opportunities between the groups, especially where the opportunities might meet the strategic business objectives of both groups;
+•decisions as to operational and financial matters that could be considered detrimental to one group but beneficial to the other;
+•decisions as to the conversion of Class V Common Stock into Class C Common Stock, which the Dell Technologies board of directors may make in its sole discretion, so long as the Class C Common Stock is then traded on a U.S. securities exchange;
+•decisions regarding the increase or decrease of the inter-group interest that the DHI Group may own in the Class V Group from time to time;
+•decisions as to the internal or external financing attributable to businesses or assets attributed to either of Dell Technologies' groups;
+•decisions as to the dispositions of assets of either of Dell Technologies' groups; and
+31
+•decisions as to the payment of dividends on the stock relating to either of Dell Technologies' groups.
+Any allocation or reallocation of assets and liabilities to one group or the other that results in the Class V Common Stock ceasing to track the performance of the Class A common stock of VMware, Inc. could result in the delisting of the Class V Common Stock from the NYSE, as discussed below, which would materially adversely affect the liquidity and value of the Class V Common Stock.
+Holders of Class V Common Stock may not benefit from any potential premiums paid to the public holders of VMware, Inc. Class A common stock.
+Each share of Class V Common Stock and Class C Common Stock has one vote per share.
+35
+ITEM 1B — UNRESOLVED STAFF COMMENTS
+None.
+ITEM 2 — PROPERTIES

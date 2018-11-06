@@ -1,0 +1,1568 @@
+Item 1A: Risk Factors in JPMorgan Chase’s 2017 Annual Report on Form 10-K for the year ended December 31, 2017.
+Any forward-looking statements made by or on behalf of the Firm speak only as of the date they are made, and JPMorgan Chase does not undertake to update any forward-looking statements.
+The reader should, however, consult any further disclosures of a forward-looking nature the Firm may make in any subsequent Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, or Current Reports on Form 8-K.
+83
+JPMorgan Chase & Co.
+Consolidated statements of income (unaudited)
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+The Notes to Consolidated Financial Statements (unaudited) are an integral part of these statements.
+84
+JPMorgan Chase & Co.
+Consolidated statements of comprehensive income (unaudited)
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+For additional information, refer to Note 1.
+The Notes to Consolidated Financial Statements (unaudited) are an integral part of these statements.
+85
+JPMorgan Chase & Co.
+Consolidated balance sheets (unaudited)
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+The Notes to Consolidated Financial Statements (unaudited) are an integral part of these statements.
+86
+JPMorgan Chase & Co.
+Consolidated statements of changes in stockholders’ equity (unaudited)
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+For additional information, refer to Note 1.
+The Notes to Consolidated Financial Statements (unaudited) are an integral part of these statements.
+87
+JPMorgan Chase & Co.
+Consolidated statements of cash flows (unaudited)
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+The Notes to Consolidated Financial Statements (unaudited) are an integral part of these statements.
+88
+Refer to the Glossary of Terms and Acronyms on pages 172–176 for definitions of terms and acronyms used throughout the Notes to Consolidated Financial Statements.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (unaudited)
+Note 1 – Basis of presentation
+JPMorgan Chase & Co. (“JPMorgan Chase” or “the Firm”), a financial holding company incorporated under Delaware law in 1968, is a leading global financial services firm and one of the largest banking institutions in the U.S., with operations worldwide.
+The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.
+For a further discussion of the Firm’s business segments, refer to Note 23.
+The accounting and financial reporting policies of JPMorgan Chase and its subsidiaries conform to U.S. GAAP.
+Additionally, where applicable, the policies conform to the accounting and reporting guidelines prescribed by regulatory authorities.
+The unaudited Consolidated Financial Statements prepared in conformity with U.S. GAAP require management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expense, and the disclosures of contingent assets and liabilities.
+Actual results could be different from these estimates.
+In the opinion of management, all normal, recurring adjustments have been included such that this interim financial information is fairly presented.
+These unaudited Consolidated Financial Statements should be read in conjunction with the audited Consolidated Financial Statements, and related notes thereto, included in JPMorgan Chase’s 2017 Annual Report.
+Certain amounts reported in prior periods have been reclassified to conform with the current presentation.
+Consolidation
+The Consolidated Financial Statements include the accounts of JPMorgan Chase and other entities in which the Firm has a controlling financial interest.
+All material intercompany balances and transactions have been eliminated.
+Assets held for clients in an agency or fiduciary capacity by the Firm are not assets of JPMorgan Chase and are not included on the Consolidated balance sheets.
+The Firm determines whether it has a controlling financial interest in an entity by first evaluating whether the entity is a voting interest entity or a variable interest entity.
+For a further description of JPMorgan Chase’s accounting policies regarding consolidation, refer to Notes 1 and 14 of JPMorgan Chase’s 2017 Annual Report.
+Offsetting assets and liabilities
+U.S. GAAP permits entities to present derivative receivables and derivative payables with the same counterparty and the related cash collateral receivables and payables on a net basis on the Consolidated balance sheets when a legally enforceable master netting agreement exists.
+U.S. GAAP also permits securities financing activities to be presented on a net basis when specified conditions are met, including the existence of a legally enforceable master netting agreement.
+The Firm has elected to net such balances when the specified conditions are met.
+For further information on offsetting assets and liabilities, refer to Note 1 of JPMorgan Chase’s 2017 Annual Report.
+Application of U.S. GAAP related to the Tax Cuts and Jobs Act (“TCJA”) SEC Staff Accounting Bulletin No.
+118
+On December 22, 2017, the TCJA was signed into law and the Firm recorded the estimated impact of the deemed repatriation of the Firm’s unremitted non-U.S. earnings and the remeasurement of deferred taxes under the TCJA.
+These provisional amounts represent estimates under SEC guidance, which provides a one-year measurement period in which to refine the estimates based on new information or the issuance of interpretative guidance.
+Based on legislative clarifications published during the second quarter of 2018, which were specific to the deemed repatriation tax on non-U.S. earnings, the Firm recorded a tax benefit of $189 million.
+The Firm has made and continues to anticipate refinements to both calculations as a result of the issuance of additional legislative and accounting guidance as well as those in the normal course of business, including true-ups to the tax liability on the tax return as filed and the resolution of tax audits.
+The Firm considers any legislative or accounting guidance issued as of the balance sheet date when evaluating potential refinements to these estimates.
+89
+Accounting standards adopted January 1, 2018
+The following table identifies the standards adopted, and the note where further information on the impact of the new guidance can be found:
+Certain of the new accounting standards were applied retrospectively and prior period amounts were revised accordingly.
+The most significant of the new standards was revenue recognition, which requires gross presentation of certain costs that were previously offset against revenue.
+This change resulted in noninterest revenue and noninterest expense each increasing by $261 million and $525 million for the three and six months ended June 30, 2017, respectively, with no impact to net income.
+Upon adoption of the restricted cash guidance, to align the Consolidated balance sheets with the Consolidated statements of cash flows, the Firm reclassified restricted cash into cash and due from banks or deposits with banks.
+In addition, for the Firm’s Consolidated statements of cash flows, cash is defined as those amounts included in cash and due from banks and deposits with banks.
+This guidance was applied retrospectively and, accordingly, prior period amounts have been revised, resulting in cash and due from banks and deposits with banks increasing by $71 million and $1.1 billion, respectively, and other assets decreasing by $1.2 billion at December 31, 2017.
+90
+Note 2 – Fair value measurement
+For a discussion of the Firm’s valuation methodologies for assets, liabilities and lending-related commitments measured at fair value and the fair value hierarchy, refer to Note 2 of JPMorgan Chase’s 2017 Annual Report.
+91
+The following table presents the assets and liabilities reported at fair value as of June 30, 2018, and December 31, 2017, by major product category and fair value hierarchy.
+92
+(c)Physical commodities inventories are generally accounted for at the lower of cost or net realizable value.
+“Net realizable value” is a term defined in U.S. GAAP as not exceeding fair value less costs to sell (“transaction costs”).
+Transaction costs for the Firm’s physical commodities inventories are either not applicable or immaterial to the value of the inventory.
+Therefore, net realizable value approximates fair value for the Firm’s physical commodities inventories.
+When fair value hedging has been applied (or when net realizable value is below cost), the carrying
+93
+value of physical commodities approximates fair value, because under fair value hedge accounting, the cost basis is adjusted for changes in fair value.
+For a further discussion of the Firm’s hedge accounting relationships, refer to Note 4.
+To provide consistent fair value disclosure information, all physical commodities inventories have been included in each period presented.
+(d)Balances reflect the reduction of securities owned (long positions) by the amount of identical securities sold but not yet purchased (short positions).
+(e)As permitted under U.S. GAAP, the Firm has elected to net derivative receivables and derivative payables and the related cash collateral received and paid when a legally enforceable master netting agreement exists.
+For purposes of the tables above, the Firm does not reduce derivative receivables and derivative payables balances for this netting adjustment, either within or across the levels of the fair value hierarchy, as such netting is not relevant to a presentation based on the transparency of inputs to the valuation of an asset or liability.
+The level 3 balances would be reduced if netting were applied, including the netting benefit associated with cash collateral.
+(g)Effective January 1, 2018, the Firm adopted the recognition and measurement guidance.
+Equity securities that were previously reported as AFS securities were reclassified to other assets upon adoption.
+Transfers between levels for instruments carried at fair
+value on a recurring basis
+For the three and six months ended June 30, 2018 and 2017 there were no individually significant transfers.
+All transfers are based on changes in the observability of the valuation inputs and are assumed to occur at the beginning of the quarterly reporting period in which they occur.
+Level 3 valuations
+For further information on the Firm’s valuation process and a detailed discussion of the determination of fair value for individual financial instruments, refer to Note 2 of JPMorgan Chase’s 2017 Annual Report.
+The following table presents the Firm’s primary level 3 financial instruments, the valuation techniques used to measure the fair value of those financial instruments, the significant unobservable inputs, the range of values for those inputs and, for certain instruments, the weighted averages of such inputs.
+While the determination to classify an instrument within level 3 is based on the significance of the unobservable inputs to the overall fair value measurement, level 3 financial instruments typically include observable components (that is, components that are actively quoted and can be validated to external sources) in addition to the unobservable components.
+The level 1 and/or level 2 inputs are not included in the table.
+In addition, the Firm manages the risk of the observable components of level 3 financial instruments using securities and derivative positions that are classified within levels 1 or 2 of the fair value hierarchy.
+The range of values presented in the table is representative of the highest and lowest level input used to value the significant groups of instruments within a product/instrument classification.
+Where provided, the weighted averages of the input values presented in the table are calculated based on the fair value of the instruments that the input is being used to value.
+In the Firm’s view, the input range and the weighted average value do not reflect the degree of input uncertainty or an assessment of the reasonableness of the Firm’s estimates and assumptions.
+Rather, they reflect the characteristics of the various instruments held by the Firm and the relative distribution of instruments within the range of characteristics.
+For example, two option contracts may have similar levels of market risk exposure and valuation uncertainty, but may have significantly different implied volatility levels because the option contracts have different underlyings, tenors, or strike prices.
+The input range and weighted average values will therefore vary from period-to-period and parameter-to-parameter based on the characteristics of the instruments held by the Firm at each balance sheet date.
+For the Firm’s derivatives and structured notes positions classified within level 3 at June 30, 2018, interest rate correlation inputs used in estimating fair value were concentrated towards the upper end of the range; equity correlation, equity-FX, and equity-IR correlation inputs were concentrated in the middle of the range; commodity correlation inputs were concentrated in the middle of the range; credit correlation inputs were concentrated towards the lower end of the range; and the interest rate-foreign exchange (“IR-FX”) correlation inputs were distributed across the range.
+In addition, the interest rate spread volatility inputs used in estimating fair value were distributed across the range; equity volatilities and commodity volatilities were concentrated towards the lower end of the range; and forward commodity prices used in estimating the fair value of commodity derivatives were concentrated towards the lower end of the range.
+Prepayment speed inputs used in estimating fair value of interest rate derivatives were concentrated towards the lower end of the range.
+Recovery rate, yield and prepayment speed inputs used in estimating fair value of credit derivatives were distributed across the range; credit spreads and conditional default rates were concentrated towards the lower end of the range; loss severity and price inputs were concentrated towards the upper end of the range.
+94
+(a)The categories presented in the table have been aggregated based upon the product type, which may differ from their classification on the Consolidated balance sheets.
+Furthermore, the inputs presented for each valuation technique in the table are, in some cases, not applicable to every instrument valued using the technique as the characteristics of the instruments can differ.
+(d)Comprises trading loans.
+(e)Long-term debt, short-term borrowings and deposits include structured notes issued by the Firm that are predominantly financial instruments containing embedded derivatives.
+The estimation of the fair value of structured notes includes the derivative features embedded within the instrument.
+The significant unobservable inputs are broadly consistent with those presented for derivative receivables.
+(f)Includes level 3 assets and liabilities that are insignificant both individually and in aggregate.
+(g)Price is a significant unobservable input for certain instruments.
+When quoted market prices are not readily available, reliance is generally placed on price-based internal valuation techniques.
+The price input is expressed assuming a par value of $100.
+95
+Changes in and ranges of unobservable inputs
+For a discussion of the impact on fair value of changes in unobservable inputs and the relationships between unobservable inputs as well as a description of attributes of the underlying instruments and external market factors that affect the range of inputs used in the valuation of the Firm’s positions refer to Note 2 of JPMorgan Chase’s 2017 Annual Report.
+Changes in level 3 recurring fair value measurements
+The following tables include a rollforward of the Consolidated balance sheets amounts (including changes in fair value) for financial instruments classified by the Firm within level 3 of the fair value hierarchy for the three and six months ended June 30, 2018 and 2017.
+When a determination is made to classify a financial instrument within level 3, the determination is based on the significance of the unobservable parameters to the overall
+fair value measurement.
+However, level 3 financial instruments typically include, in addition to the unobservable or level 3 components, observable components (that is, components that are actively quoted and can be validated to external sources); accordingly, the gains and losses in the table below include changes in fair value due in part to observable factors that are part of the valuation methodology.
+Also, the Firm risk-manages the observable components of level 3 financial instruments using securities and derivative positions that are classified within level 1 or 2 of the fair value hierarchy; as these level 1 and level 2 risk management instruments are not included below, the gains or losses in the following tables do not reflect the effect of the Firm’s risk management activities related to such level 3 instruments.
+96
+97
+98
+99
+(a)All level 3 derivatives are presented on a net basis, irrespective of the underlying counterparty.
+(c)Predominantly reported in principal transactions revenue, except for changes in fair value for CCB mortgage loans and lending-related commitments originated with the intent to sell, and mortgage loan purchase commitments, which are reported in mortgage fees and related income.
+(d)Realized gains/(losses) on AFS securities, as well as other-than-temporary impairment (“OTTI”) losses that are recorded in earnings, are reported in investment securities losses.
+Unrealized gains/(losses) are reported in OCI.
+There were no realized gains/(losses) or foreign exchange hedge accounting adjustments recorded in income on AFS
+100
+securities for the three and six months ended June 30, 2018 and 2017, respectively.
+Unrealized gains/(losses) recorded on AFS securities in OCI were zero and $2 million for the three months ended June 30, 2018 and 2017, respectively and $1 million and $12 million for the six months ended June 30, 2018 and 2017, respectively.
+(e)Changes in fair value for CCB MSRs are reported in mortgage fees and related income.
+(f)Loan originations are included in purchases.
+(g)Includes financial assets and liabilities that have matured, been partially or fully repaid, impacts of modifications, deconsolidation associated with beneficial interests in VIEs and other items.
+(h)All transfers into and/or out of level 3 are based on changes in the observability of the valuation inputs and are assumed to occur at the beginning of the quarterly reporting period in which they occur.
+(j)The prior period amounts have been revised to conform with the current period presentation.
+Level 3 analysis
+Consolidated balance sheets changes
+Level 3 assets (including assets measured at fair value on a nonrecurring basis) were 0.8% of total Firm assets at June 30, 2018.
+The following describes significant changes to level 3 assets since December 31, 2017, for those items measured at fair value on a recurring basis.
+For further information on changes impacting items measured at fair value on a nonrecurring basis, refer to Assets and liabilities measured at fair value on a nonrecurring basis on page 102.
+Three months ended June 30, 2018
+Level 3 assets were $19.3 billion at June 30, 2018, reflecting a decrease of $180 million from March 31, 2018 with no movements that were individually significant.
+Six months ended June 30, 2018
+Level 3 assets at June 30, 2018 increased by $87 million from December 31, 2017 with no movements that were individually significant.
+Gains and losses
+The following describes significant components of total realized/unrealized gains/(losses) for instruments measured at fair value on a recurring basis for the periods indicated.
+For further information on these instruments, refer to Changes in level 3 recurring fair value measurements rollforward tables on pages 96–101.
+Three months ended June 30, 2018
+•$278 million of net gains on assets and $504 million of net gains on liabilities, none of which were individually significant.
+Three months ended June 30, 2017
+•$176 million of net gains on assets and $145 million of net losses on liabilities, none of which were individually significant.
+Six months ended June 30, 2018
+•$1.7 billion of net gains on assets predominantly driven by market movements in derivative receivables, in particular equity derivative receivables.
+•$822 million of net gains on liabilities, none of which were individually significant.
+Six months ended June 30, 2017
+•$506 million of of net gains on assets and $654 million of net losses on liabilities, none of which were individually significant.
+Credit and funding adjustments — derivatives
+The following table provides the impact of credit and funding adjustments on principal transactions revenue in the respective periods, excluding the effect of any associated hedging activities.
+The FVA presented below includes the impact of the Firm’s own credit quality on the inception value of liabilities as well as the impact of changes in the Firm’s own credit quality over time.
+For further information about both credit and funding adjustments, as well as information about valuation adjustments on fair value option elected liabilities, refer to Note 2 of JPMorgan Chase’s 2017 Annual Report.
+101
+Assets and liabilities measured at fair value on a nonrecurring basis
+The following tables present the assets still held as of June 30, 2018 and 2017, respectively, for which a nonrecurring fair value adjustment was recorded during the six months ended June 30, 2018 and 2017, respectively, by major product category and fair value hierarchy.
+(b)Primarily includes equity securities without readily determinable fair values that were adjusted based on observable price changes in orderly transactions from an identical or similar investment of the same issuer (measurement alternative) as a result of the adoption of the recognition and measurement guidance.
+Of the $823 million in level 3 assets measured at fair value on a nonrecurring basis as of June 30, 2018, $641 million related to such equity securities.
+These equity securities are classified as level 3 due to the infrequency of the observable prices and/or the restrictions on the shares.
+There were no material liabilities measured at fair value on a nonrecurring basis at June 30, 2018 and 2017.
+Nonrecurring fair value changes
+The following table presents the total change in value of assets and liabilities for which a fair value adjustment has been recognized for the three and six months ended June 30, 2018 and 2017, related to financial instruments held at those dates.
+For further information about the measurement of impaired collateral-dependent loans, and other loans where the carrying value is based on the fair value of the underlying collateral (e.g., residential mortgage loans charged off in accordance with regulatory guidance), refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+102
+Additional disclosures about the fair value of financial instruments that are not carried on the Consolidated balance sheets at fair value
+The following table presents by fair value hierarchy classification the carrying values and estimated fair values at June 30, 2018, and December 31, 2017, of financial assets and liabilities, excluding financial instruments that are carried at fair value on a recurring basis, and their classification within the fair value hierarchy.
+For additional information regarding the financial instruments within the scope of this disclosure, and the methods and significant assumptions used to estimate their fair value, refer to Note 2 of JPMorgan Chase’s 2017 Annual Report.
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+(b)The prior period amounts have been revised to conform with the current period presentation.
+The majority of the Firm’s lending-related commitments are not carried at fair value on a recurring basis on the Consolidated balance sheets.
+The carrying value of the wholesale allowance for lending-related commitments and the estimated fair value of these wholesale lending-related commitments were as follows for the periods indicated.
+(a)Excludes the current carrying values of the guarantee liability and the offsetting asset, each of which is recognized at fair value at the inception of the guarantees.
+103
+The Firm does not estimate the fair value of consumer lending-related commitments.
+In many cases, the Firm can reduce or cancel these commitments by providing the borrower notice or, in some cases as permitted by law, without notice.
+For a further discussion of the valuation of lending-related commitments, refer to page 157 of JPMorgan Chase’s 2017 Annual Report.
+Equity securities without readily determinable fair values
+As a result of the adoption of the recognition and measurement guidance and the election of the measurement alternative in the first quarter of 2018, the Firm measures equity securities without readily determinable fair values at cost less impairment (if any), plus or minus observable price changes from an identical or similar investment of the same issuer, with such changes recognized in earnings.
+In its determination of the new carrying values upon observable price changes, the Firm may adjust the prices if deemed necessary to arrive at the Firm’s estimated fair values.
+Such adjustments may include adjustments to reflect the different rights and obligations of similar securities, and other adjustments that are consistent with the Firm’s valuation techniques for private equity direct investments.
+The following table presents the carrying value of equity securities without readily determinable fair values still held as of June 30, 2018, that are measured under the measurement alternative and the related adjustments recorded during the periods presented for those securities with observable price changes.
+These securities are included in the nonrecurring fair value tables when applicable price changes are observable.
+Included in other assets above is the Firm’s interest in approximately 40 million Visa Class B shares, recorded at a nominal carrying value.
+These shares are subject to certain transfer restrictions currently and will be converted into Visa Class A shares upon final resolution of certain litigation matters involving Visa.
+The conversion rate of Visa Class B shares into Visa Class A shares is 1.6298 at June 30, 2018, and may be adjusted by Visa depending on developments related to the litigation matters.
+104
+Note 3 – Fair value option
+For a discussion of the primary financial instruments for which the fair value option was elected, including the basis for those elections and the determination of instrument-specific credit risk, where relevant, refer to Note 3 of JPMorgan Chase’s 2017 Annual Report.
+Changes in fair value under the fair value option election
+The following table presents the changes in fair value included in the Consolidated statements of income for the three months ended June 30, 2018 and 2017, for items for which the fair value option was elected.
+The profit and loss information presented below only includes the financial instruments that were elected to be measured at fair value; related risk management instruments, which are required to be measured at fair value, are not included in the table.
+105
+(b)Long-term debt measured at fair value predominantly relates to structured notes.
+Although the risk associated with the structured notes is actively managed, the gains/(losses) reported in this table do not include the income statement impact of the risk management instruments used to manage such risk.
+(c)Reported in mortgage fees and related income.
+(d)Reported in other income.
+(e)Changes in fair value exclude contractual interest, which is included in interest income and interest expense for all instruments other than hybrid financial instruments.
+For further information regarding interest income and interest expense, refer to Note 6.
+106
+Difference between aggregate fair value and aggregate remaining contractual principal balance outstanding
+The following table reflects the difference between the aggregate fair value and the aggregate remaining contractual principal balance outstanding as of June 30, 2018, and December 31, 2017, for loans, long-term debt and long-term beneficial interests for which the fair value option has been elected.
+(b)Remaining contractual principal is not applicable to nonprincipal-protected notes.
+Unlike principal-protected structured notes, for which the Firm is obligated to return a stated amount of principal at the maturity of the note, nonprincipal-protected structured notes do not obligate the Firm to return a stated amount of principal at maturity, but to return an amount based on the performance of an underlying variable or derivative feature embedded in the note.
+However, investors are exposed to the credit risk of the Firm as issuer for both nonprincipal-protected and principal protected notes.
+(c)Where the Firm issues principal-protected zero-coupon or discount notes, the balance reflects the contractual principal payment at maturity or, if applicable, the contractual principal payment at the Firm’s next call date.
+At June 30, 2018, and December 31, 2017, the contractual amount of lending-related commitments for which the fair value option was elected was $10.9 billion and $7.4 billion, respectively, with a corresponding fair value of $(225) million and $(76) million, respectively.
+For further information regarding off-balance sheet lending-related financial instruments, refer to Note 27 of JPMorgan Chase’s 2017 Annual Report, and Note 20 of this Form 10-Q.
+Structured note products by balance sheet classification and risk component
+The following table presents the fair value of the structured notes issued by the Firm, by balance sheet classification and the primary risk type.
+107
+Note 4 – Derivative instruments
+JPMorgan Chase makes markets in derivatives for clients and also uses derivatives to hedge or manage its own risk exposures.
+For a further discussion of the Firm’s use of and accounting policies regarding derivative instruments, refer to Note 5 of JPMorgan Chase’s 2017 Annual Report.
+The Firm’s disclosures are based on the accounting treatment and purpose of these derivatives.
+A limited number of the Firm’s derivatives are designated in hedge accounting relationships and are disclosed according to the type of hedge (fair value hedge, cash flow hedge, or net investment hedge).
+Derivatives not designated in hedge accounting relationships include certain derivatives that are used to manage certain risks associated with specified assets or liabilities (“specified risk management” positions) as well as derivatives used in the Firm’s market-making businesses or for other purposes.
+Derivatives designated as hedges
+The adoption of the new hedge accounting guidance in the first quarter of 2018 better aligns hedge accounting with the economics of the Firm’s risk management activities.
+For additional information, refer to Note 17.
+To qualify for hedge accounting, a derivative must be highly effective at reducing the risk associated with the exposure being hedged.
+In addition, for a derivative to be designated as a hedge, the risk management objective and strategy must be documented.
+Hedge documentation must identify the derivative hedging instrument, the asset or liability or forecasted transaction and type of risk to be hedged, and how the effectiveness of the derivative is assessed prospectively and retrospectively.
+To assess effectiveness, the Firm uses statistical methods such as regression analysis, nonstatistical methods such as dollar-value comparisons of the change in the fair value of the derivative to the change in the fair value or cash flows of the hedged item, and qualitative comparisons of critical terms and the evaluation of any changes in those terms.
+The extent to which a derivative has been, and is expected to continue to be, highly effective at offsetting changes in the fair value or
+cash flows of the hedged item must be assessed and documented at least quarterly.
+If it is determined that a derivative is not highly effective at hedging the designated exposure, hedge accounting is discontinued.
+For qualifying fair value hedges, changes in the fair value of the derivative, and in the value of the hedged item for the risk being hedged, are recognized in earnings.
+Certain amounts excluded from the assessment of effectiveness are recorded in OCI and recognized in earnings through an amortization approach over the life of the derivative.
+If the hedge relationship is terminated, then the adjustment to the hedged item continues to be reported as part of the basis of the hedged item, and for benchmark interest rate hedges, is amortized to earnings as a yield adjustment.
+Derivative amounts affecting earnings are recognized consistent with the classification of the hedged item - primarily net interest income and principal transactions revenue.
+For qualifying cash flow hedges, changes in the fair value of the derivative are recorded in OCI and recognized in earnings as the hedged item affects earnings.
+Derivative amounts affecting earnings are recognized consistent with the classification of the hedged item - primarily interest income, interest expense, noninterest revenue and compensation expense.
+If the hedge relationship is terminated, then the change in value of the derivative recorded in AOCI is recognized in earnings when the cash flows that were hedged affect earnings.
+For hedge relationships that are discontinued because a forecasted transaction is not expected to occur according to the original hedge forecast, any related derivative values recorded in AOCI are immediately recognized in earnings.
+For qualifying net investment hedges, changes in the fair value of the derivatives due to changes in spot foreign exchange rates are recorded in OCI as translation adjustments.
+Amounts excluded from the assessment of effectiveness are recorded directly in earnings.
+108
+The following table outlines the Firm’s primary uses of derivatives and the related hedge accounting designation or disclosure category.
+109
+Notional amount of derivative contracts
+The following table summarizes the notional amount of derivative contracts outstanding as of June 30, 2018, and December 31, 2017.
+(a)For more information on volumes and types of credit derivative contracts, refer to the Credit derivatives discussion on page 119.
+(b)Represents the sum of gross long and gross short third-party notional derivative contracts.
+While the notional amounts disclosed above give an indication of the volume of the Firm’s derivatives activity, the notional amounts significantly exceed, in the Firm’s view, the possible losses that could arise from such transactions.
+For most derivative transactions, the notional amount is not exchanged; it is used simply as a reference to calculate payments.
+110
+Impact of derivatives on the Consolidated balance sheets
+The following table summarizes information on derivative receivables and payables (before and after netting adjustments) that are reflected on the Firm’s Consolidated balance sheets as of June 30, 2018, and December 31, 2017, by accounting designation (e.g., whether the derivatives were designated in qualifying hedge accounting relationships or not) and contract type.
+(a)Balances exclude structured notes for which the fair value option has been elected.
+Refer to Note 3 for further information.
+(b)As permitted under U.S. GAAP, the Firm has elected to net derivative receivables and derivative payables and the related cash collateral receivables and payables when a legally enforceable master netting agreement exists.
+(c)The prior period amounts have been revised to conform with the current period presentation.
+111
+Derivatives netting
+The following tables present, as of June 30, 2018, and December 31, 2017, gross and net derivative receivables and payables by contract and settlement type.
+Derivative receivables and payables, as well as the related cash collateral from the same counterparty have been netted on the Consolidated balance sheets where the Firm has obtained an appropriate legal opinion with respect to the master netting agreement.
+Where such a legal opinion has not been either sought or obtained, amounts are not eligible for netting on the Consolidated balance sheets, and those derivative receivables and payables are shown separately in the tables below.
+In addition to the cash collateral received and transferred that is presented on a net basis with derivative receivables and payables, the Firm receives and transfers additional collateral (financial instruments and cash).
+These amounts mitigate counterparty credit risk associated with the Firm’s derivative instruments, but are not eligible for net presentation:
+•collateral that consists of non-cash financial instruments (generally U.S. government and agency securities and other G7 government securities) and cash collateral held at third party custodians, which are shown separately as “Collateral not nettable on the Consolidated balance sheets” in the tables below, up to the fair value exposure amount.
+•the amount of collateral held or transferred that exceeds the fair value exposure at the individual counterparty level, as of the date presented, which is excluded from the tables below; and
+•collateral held or transferred that relates to derivative receivables or payables where an appropriate legal opinion has not been either sought or obtained with respect to the master netting agreement, which is excluded from the tables below.
+112
+(a)Exchange-traded derivative balances that relate to futures contracts are settled daily.
+(c)Represents liquid security collateral as well as cash collateral held at third party custodians related to derivative instruments where an appropriate legal opinion has been obtained.
+For some counterparties, the collateral amounts of financial instruments may exceed the derivative receivables and derivative payables balances.
+Where this is the case, the total amount reported is limited to the net derivative receivables and net derivative payables balances with that counterparty.
+(d)Derivative collateral relates only to OTC and OTC-cleared derivative instruments.
+113
+Liquidity risk and credit-related contingent features
+For a more detailed discussion of liquidity risk and credit-related contingent features related to the Firm’s derivative contracts, refer to Note 5 of JPMorgan Chase’s 2017 Annual Report.
+The following table shows the aggregate fair value of net derivative payables related to OTC and OTC-cleared derivatives that contain contingent collateral or termination features that may be triggered upon a ratings downgrade, and the associated collateral the Firm has posted in the normal course of business, at June 30, 2018, and
+December 31, 2017.
+The following table shows the impact of a single-notch and two-notch downgrade of the long-term issuer ratings of JPMorgan Chase & Co. and its subsidiaries, predominantly JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”),
+at June 30, 2018, and December 31, 2017, related to OTC and OTC-cleared derivative contracts with contingent collateral or termination features that may be triggered upon a ratings downgrade.
+Derivatives contracts generally require additional collateral to be posted or terminations to be triggered when the predefined threshold rating is breached.
+A downgrade by a single rating agency that does not result in a rating lower than a preexisting corresponding rating provided by another major rating agency will generally not result in additional collateral, (except in certain instances in which additional initial margin may be required upon a ratings downgrade), nor in termination payments requirements.
+The liquidity impact in the table is calculated based upon a downgrade below the lowest current rating of the rating agencies referred to in the derivative contract.
+(a)Includes the additional collateral to be posted for initial margin.
+(b)Amounts represent fair values of derivative payables, and do not reflect collateral posted.
+Derivatives executed in contemplation of a sale of the underlying financial asset
+In certain instances the Firm enters into transactions in which it transfers financial assets but maintains the economic exposure to the transferred assets by entering into a derivative with the same counterparty in contemplation of the initial transfer.
+The Firm generally accounts for such transfers as collateralized financing transactions as described in Note 10, but in limited circumstances they may qualify to be accounted for as a sale and a derivative under U.S. GAAP.
+The amount of such transfers accounted for as a sale where the associated derivative was outstanding at June 30, 2018 was not material, and there were no such transfers at December 31, 2017.
+114
+Impact of derivatives on the Consolidated statements of income
+The following tables provide information related to gains and losses recorded on derivatives based on their hedge accounting designation or purpose.
+Fair value hedge gains and losses
+The following tables present derivative instruments, by contract type, used in fair value hedge accounting relationships, as well as pre-tax gains/(losses) recorded on such derivatives and the related hedged items for the three and six months ended June 30, 2018 and 2017, respectively.
+The Firm includes gains/(losses) on the hedging derivative in the same line item in the Consolidated statements of income as the related hedged item.
+(a)Primarily consists of hedges of the benchmark (e.g., London Interbank Offered Rate (“LIBOR”)) interest rate risk of fixed-rate long-term debt and AFS securities.
+Gains and losses were recorded in net interest income.
+(b)Excludes the amortization expense associated with the inception hedge accounting adjustment applied to the hedged item.
+This expense is recorded in net interest income and substantially offsets the income statement impact of the excluded components.
+Also excludes the accrual of interest on interest rate swaps and the related hedged items.
+(c)Primarily consists of hedges of the foreign currency risk of long-term debt and AFS securities for changes in spot foreign currency rates.
+Gains and losses related to the derivatives and the hedged items due to changes in foreign currency rates and the income statement impact of excluded components were recorded primarily in principal transactions revenue and net interest income.
+(d)Consists of overall fair value hedges of physical commodities inventories that are generally carried at the lower of cost or net realizable value (net realizable value approximates fair value).
+Gains and losses were recorded in principal transactions revenue.
+(e)Hedge ineffectiveness is the amount by which the gain or loss on the designated derivative instrument does not exactly offset the gain or loss on the hedged item attributable to the hedged risk.
+(f)The assessment of hedge effectiveness excludes certain components of the changes in fair values of the derivatives and hedged items such as forward points on foreign exchange forward contracts, time values and cross-currency basis spreads.
+Under the new hedge accounting guidance, the initial amount of the excluded components may be amortized into income over the life of the derivative, or changes in fair value may be recognized in current period earnings.
+(g)Represents the change in value of amounts excluded from the assessment of effectiveness under the amortization approach, predominantly cross-currency basis spreads.
+The amount excluded at inception of the hedge is recognized in earnings over the life of the derivative.
+115
+As of June 30, 2018, the following amounts were recorded on the Consolidated balance sheets related to certain cumulative fair value hedge basis adjustments that are expected to impact the income statement in future periods (e.g., as adjustments to yield or to securities gains/losses).
+(a)Excludes physical commodities with a carrying value of $6.2 billion to which the Firm applies fair value hedge accounting.
+As a result of the application of hedge accounting, these inventories are carried at fair value, thus recognizing unrealized gains and losses in current periods.
+Given the Firm exits these positions at fair value, there is no incremental impact to net income in future periods.
+(c)Carrying amount represents the amortized cost.
+(d)Represents hedged items no longer designated in qualifying fair value hedging relationships for which an associated basis adjustment exists at the balance sheet date.
+116
+Cash flow hedge gains and losses
+The following tables present derivative instruments, by contract type, used in cash flow hedge accounting relationships, and the pre-tax gains/(losses) recorded on such derivatives, for the three and six months ended June 30, 2018 and 2017, respectively.
+The Firm includes the gain/(loss) on the hedging derivative in the same line item in the Consolidated statements of income as the change in cash flows on the related hedged item.
+(a)Primarily consists of benchmark interest rate hedges of LIBOR-indexed floating-rate assets and floating-rate liabilities.
+Gains and losses were recorded in net interest income.
+(b)Primarily consists of hedges of the foreign currency risk of non-U.S. dollar-denominated revenue and expense.
+The income statement classification of gains and losses follows the hedged item – primarily noninterest revenue and compensation expense.
+(c)Represents the effective portion of changes in value of the related hedging derivative.
+Hedge ineffectiveness is the amount by which the cumulative gain or loss on the designated derivative instrument exceeds the present value of the cumulative expected change in cash flows on the hedged item attributable to the hedged risk.
+The Firm did not recognize any ineffectiveness on cash flow hedges during the three and six months ended June 30, 2017.
+The Firm did not experience any forecasted transactions that failed to occur for the three and six months ended June 30, 2018 and 2017.
+Over the next 12 months, the Firm expects that approximately $(54) million (after-tax) of net losses recorded in AOCI at June 30, 2018, related to cash flow hedges will be recognized in income.
+For terminated cash flow hedges, the maximum length of time over which
+forecasted transactions are remaining is approximately five years.
+For open cash flow hedges, the maximum length of time over which forecasted transactions are hedged is approximately seven years.
+The Firm’s longer-dated forecasted transactions relate to core lending and borrowing activities.
+117
+Net investment hedge gains and losses
+The following table presents hedging instruments, by contract type, that were used in net investment hedge accounting relationships, and the pre-tax gains/(losses) recorded on such instruments for the three and six months ended June 30, 2018 and 2017.
+(a)Certain components of hedging derivatives are permitted to be excluded from the assessment of hedge effectiveness, such as forward points on foreign exchange forward contracts.
+The Firm elects to record changes in fair value of these amounts directly in other income.
+(b)Represents the effective portion of changes in value of the related hedging derivative.
+The Firm did not recognize any ineffectiveness on net investment hedges directly in income during the three and six months ended June 30, 2017.
+(c)Excludes amounts reclassified from AOCI to income on the sale or liquidation of hedged entities.
+For additional information, refer to Note 17.
+Gains and losses on derivatives used for specified risk management purposes
+The following table presents pre-tax gains/(losses) recorded on a limited number of derivatives, not designated in hedge accounting relationships, that are used to manage risks associated with certain specified assets and liabilities, including certain risks arising from the mortgage pipeline, warehouse loans, MSRs, wholesale lending exposures, and foreign currency-denominated assets and liabilities.
+(a)Primarily represents interest rate derivatives used to hedge the interest rate risk inherent in the mortgage pipeline, warehouse loans and MSRs, as well as written commitments to originate warehouse loans.
+Gains and losses were recorded predominantly in mortgage fees and related income.
+(b)Relates to credit derivatives used to mitigate credit risk associated with lending exposures in the Firm’s wholesale businesses.
+These derivatives do not include credit derivatives used to mitigate counterparty credit risk arising from derivative receivables, which is included in gains and losses on derivatives related to market-making activities and other derivatives.
+Gains and losses were recorded in principal transactions revenue.
+(c)Primarily relates to derivatives used to mitigate foreign exchange risk of specified foreign currency-denominated assets and liabilities.
+Gains and losses were recorded in principal transactions revenue.
+Gains and losses on derivatives related to market-making activities and other derivatives
+The Firm makes markets in derivatives in order to meet the needs of customers and uses derivatives to manage certain risks associated with net open risk positions from its market-making activities, including the counterparty credit risk arising from derivative receivables.
+All derivatives not included in the hedge accounting or specified risk management categories above are included in this category.
+Gains and losses on these derivatives are primarily recorded in principal transactions revenue.
+Refer to Note 5 for information on principal transactions revenue.
+118
+Credit derivatives
+For a more detailed discussion of credit derivatives, refer to Note 5 of JPMorgan Chase’s 2017 Annual Report.
+The Firm does not use notional amounts of credit derivatives as the primary measure of risk management for such derivatives, because the notional amount does not take into account the probability of the occurrence of a credit event, the recovery value of the reference obligation, or related cash instruments and economic hedges, each of which reduces, in the Firm’s view, the risks associated with such derivatives.
+Total credit derivatives and credit-related notes
+(a)Other credit derivatives largely consists of credit swap options.
+(b)Represents the total notional amount of protection purchased where the underlying reference instrument is identical to the reference instrument on protection sold; the notional amount of protection purchased for each individual identical underlying reference instrument may be greater or lower than the notional amount of protection sold.
+(c)Does not take into account the fair value of the reference obligation at the time of settlement, which would generally reduce the amount the seller of protection pays to the buyer of protection in determining settlement value.
+(d)Represents protection purchased by the Firm on referenced instruments (single-name, portfolio or index) where the Firm has not sold any protection on the identical reference instrument.
+The following tables summarize the notional amounts by the ratings, maturity profile, and total fair value, of credit derivatives and credit-related notes as of June 30, 2018, and December 31, 2017, where JPMorgan Chase is the seller of protection.
+The maturity profile is based on the remaining contractual maturity of the credit derivative contracts.
+The ratings profile is based on the rating of the reference entity on which the credit derivative contract is based.
+The ratings and maturity profile of credit derivatives and credit-related notes where JPMorgan Chase is the purchaser of protection are comparable to the profile reflected below.
+(a)The ratings scale is primarily based on external credit ratings defined by S&P and Moody’s.
+(b)Amounts are shown on a gross basis, before the benefit of legally enforceable master netting agreements and cash collateral received by the Firm.
+119
+Note 5 – Noninterest revenue and noninterest
+expense
+Noninterest revenue
+For a discussion of the components of and accounting policies for the Firm’s noninterest revenue, refer to Note 6 of JPMorgan Chase’s 2017 Annual Report.
+The adoption of the revenue recognition guidance in the first quarter of 2018, requires gross presentation of certain costs previously offset against revenue, predominantly associated with certain distribution costs (previously offset against asset management, administration and commissions), with the remainder associated with certain underwriting costs (previously offset against investment banking fees).
+Adoption of the guidance did not result in any material changes in the timing of revenue recognition.
+This guidance was adopted retrospectively and, accordingly, prior period amounts were revised, which resulted in an increase in both noninterest revenue and noninterest expense.
+For additional information, refer to Note 1.
+Investment banking fees
+The following table presents the components of investment banking fees.
+Principal transactions
+The following table presents all realized and unrealized gains and losses recorded in principal transactions revenue.
+This table excludes interest income and interest expense on trading assets and liabilities, which are an integral part of the overall performance of the Firm’s client-driven market-making activities.
+Refer to Note 6 for further information on interest income and interest expense.
+Trading revenue is presented primarily by instrument type.
+The Firm’s client-driven market-making businesses generally utilize a variety of instrument types in connection with their market-making and related risk-management activities; accordingly, the trading revenue presented in the table below is not representative of the total revenue of any individual line of business.
+Lending- and deposit-related fees
+The following table presents the components of lending- and deposit-related fees.
+Asset management, administration and commissions
+The following table presents the components of Firmwide asset management, administration and commissions.
+(a)Represents fees earned from managing assets on behalf of the Firm’s clients, including investors in Firm-sponsored funds and owners of separately managed investment accounts.
+(b)Represents fees for services that are ancillary to investment management services, such as commissions earned on the sales or distribution of mutual funds to clients.
+(c)Predominantly includes fees for custody, securities lending, funds services and securities clearance.
+120
+Card income
+The following table presents the components of card income:
+(a)Includes an adjustment to the credit card rewards liability of approximately $330 million.
+(b)Predominantly represents annual fees and new account origination costs, which are deferred and recognized on a straight-line basis over a 12-month period.
+Other income
+Other income on the Firm’s Consolidated statements of income included the following:
+Noninterest expense
+Other expense
+Other expense on the Firm’s Consolidated statements of income included the following:
+Note 6 – Interest income and Interest expense
+For a description of JPMorgan Chase’s accounting policies regarding interest income and interest expense, refer to Note 7 of JPMorgan Chase’s 2017 Annual Report.
+The following table presents the components of interest income and interest expense.
+(a)Includes the amortization/accretion of unearned income (e.g., purchase premiums/discounts, net deferred fees/costs, etc.
+).
+(b)Represents securities which are tax-exempt for U.S. federal income tax purposes.
+(c)Negative interest income is related to client-driven demand for certain securities combined with the impact of low interest rates.
+This is matched book activity and the negative interest expense on the corresponding securities loaned is recognized in interest expense.
+(d)Includes held-for-investment margin loans, which are classified in accrued interest and accounts receivable, and all other interest-earning assets included in other assets on the Consolidated balance sheets.
+(e)Includes commercial paper.
+(f)Other interest-bearing liabilities include brokerage customer payables.
+121
+Note 7 – Pension and other postretirement employee benefit plans
+For a discussion of JPMorgan Chase’s pension and OPEB plans, refer to Note 8 of JPMorgan Chase’s 2017 Annual Report.
+The following table presents the components of net periodic benefit costs reported in the Consolidated statements of income for the Firm’s U.S. and non-U.S. defined benefit pension, defined contribution and OPEB plans.
+(a)Effective January 1, 2018, benefits earned during the period are reported in compensation expense; all other components of net periodic defined benefit costs are reported within other expense in the Consolidated statements of income.
+(b)Includes various defined benefit pension plans which are individually immaterial.
+The following table presents the fair values of plan assets for the U.S. defined benefit pension and OPEB plans and for the material non-U.S. defined benefit pension plans.
+There are no expected contributions to the U.S. defined benefit pension plan for 2018.
+122
+Note 8 – Employee share-based incentives
+For a discussion of the accounting policies and other information relating to employee share-based incentives, refer to Note 9 of JPMorgan Chase’s 2017 Annual Report.
+The Firm recognized the following noncash compensation expense related to its various employee share-based incentive plans in its Consolidated statements of income.
+In the first quarter of 2018, in connection with its annual incentive grant for the 2017 performance year, the Firm granted 17 million RSUs and 516 thousand PSUs with weighted-average grant date fair values of $111.17 per RSU and $110.46 per PSU.
+123
+Note 9 – Investment securities
+Investment securities consist of debt securities that are classified as AFS or HTM.
+Debt securities classified as trading assets are discussed in Note 2.
+Predominantly all of the Firm’s AFS and HTM securities are held by Treasury and CIO in connection with its asset-liability management activities.
+At June 30, 2018, the investment securities portfolio consisted of debt securities with an average credit rating of AA+ (based upon external ratings where available, and where not available, based primarily upon internal ratings which correspond to ratings as defined by S&P and Moody’s).
+For additional information regarding the investment securities portfolio, refer to Note 10 of JPMorgan Chase’s 2017 Annual Report.
+As a result of the adoption of the premium amortization accounting guidance in the first quarter of 2018, premiums
+on purchased callable debt securities must be amortized to the earliest call date for debt securities with call features that are explicit, noncontingent and callable at fixed prices and on preset dates.
+The guidance primarily impacts obligations of U.S. states and municipalities held in the Firm’s investment securities portfolio.
+For additional information, refer to Note 17.
+As permitted by the new hedge accounting guidance, the Firm also elected to transfer U.S. government agency MBS, commercial MBS, and obligations of U.S. states and municipalities with a carrying value of $22.4 billion from HTM to AFS in the first quarter of 2018.
+This transfer was a non-cash transaction.
+For additional information, refer to Note 17.
+The amortized costs and estimated fair values of the investment securities portfolio were as follows for the dates indicated.
+(b)Effective January 1, 2018, the Firm adopted the recognition and measurement guidance.
+Equity securities that were previously reported as AFS securities were reclassified to other assets upon adoption.
+124
+Investment securities impairment
+The following tables present the fair value and gross unrealized losses for investment securities by aging category at June 30, 2018, and December 31, 2017.
+125
+Gross unrealized losses
+The Firm has recognized unrealized losses on investment securities that it intends to sell as OTTI.
+The Firm does not intend to sell any of the remaining investment securities with an unrealized loss in AOCI as of June 30, 2018, and it is not likely that the Firm will be required to sell these securities before recovery of their amortized cost basis.
+Except for the securities for which credit losses have been recognized in income, the Firm believes that the investment securities with an unrealized loss in AOCI as of June 30, 2018, are not other-than-temporarily impaired.
+For additional information on other-than-temporary impairment, refer to Note 10 of the JPMorgan Chase’s 2017 Annual Report.
+Investment securities gains and losses
+The following table presents realized gains and losses and OTTI from AFS securities that were recognized in income.
+Changes in the credit loss component of credit-impaired debt securities
+The cumulative credit loss component, including any changes therein, of OTTI losses that have been recognized in income related to AFS securities that the Firm does not intend to sell was not material as of and during the six month periods ended June 30, 2018 and 2017.
+126
+Contractual maturities and yields
+The following table presents the amortized cost and estimated fair value at June 30, 2018, of JPMorgan Chase’s investment securities portfolio by contractual maturity.
+(b)Average yield is computed using the effective yield of each security owned at the end of the period, weighted based on the amortized cost of each security.
+The effective yield considers the contractual coupon, amortization of premiums and accretion of discounts, and the effect of related hedging derivatives.
+Taxable-equivalent amounts are used where applicable.
+The effective yield excludes unscheduled principal prepayments; and accordingly, actual maturities of securities may differ from their contractual or expected maturities as certain securities may be prepaid.
+127
+Note 10 – Securities financing activities
+For a discussion of accounting policies relating to securities financing activities, refer to Note 11 of JPMorgan Chase’s 2017 Annual Report.
+For further information regarding securities borrowed and securities lending agreements for which the fair value option has been elected, refer to Note 3.
+For further information regarding assets pledged and collateral received in securities financing agreements, refer to Note 21.
+The table below summarizes the gross and net amounts of the Firm’s securities financing agreements as of June 30, 2018 and December 31, 2017.
+When the Firm has obtained an appropriate legal opinion with respect to the master netting agreement with a counterparty and where other relevant netting criteria under U.S. GAAP are met, the Firm nets, on the Consolidated balance sheets, the balances
+outstanding under its securities financing agreements with the same counterparty.
+In addition, the Firm exchanges securities and/or cash collateral with its counterparties; this collateral also reduces the economic exposure with the counterparty.
+Such collateral, along with securities financing balances that do not meet all these relevant netting criteria under U.S. GAAP, is presented as “Amounts not nettable on the Consolidated balance sheets,” and reduces the “Net amounts” presented below, if the Firm has an appropriate legal opinion with respect to the master netting agreement with the counterparty.
+Where a legal opinion has not been either sought or obtained, the securities financing balances are presented gross in the “Net amounts” below, and related collateral does not reduce the amounts presented.
+(c)In some cases, collateral exchanged with a counterparty exceeds the net asset or liability balance with that counterparty.
+In such cases, the amounts reported in this column are limited to the related asset or liability with that counterparty.
+128
+The tables below present as of June 30, 2018, and December 31, 2017 the types of financial assets pledged in securities financing agreements and the remaining contractual maturity of the securities financing agreements.
+Transfers not qualifying for sale accounting
+At June 30, 2018, and December 31, 2017, the Firm held $1.4 billion and $1.5 billion respectively, of financial assets for which the rights have been transferred to third parties; however, the transfers did not qualify as a sale in accordance with U.S. GAAP.
+These transfers have been recognized as collateralized financing transactions.
+The transferred assets are recorded in trading assets and loans, and the corresponding liabilities are recorded predominantly in short-term borrowings on the Consolidated balance sheets.
+129
+Note 11 – Loans
+Loan accounting framework
+The accounting for a loan depends on management’s strategy for the loan, and on whether the loan was credit-impaired at the date of acquisition.
+The Firm accounts for loans based on the following categories:
+•Originated or purchased loans held-for-investment (i.e., “retained”), other than PCI loans
+•Loans held-for-sale
+•Loans at fair value
+•PCI loans held-for-investment
+For a detailed discussion of loans, including accounting policies, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+Refer to Note 3 of this Form 10-Q for further information on the Firm’s elections of fair value accounting under the fair value option.
+Refer to Note 2 of this Form 10-Q for information on loans carried at fair value and classified as trading assets.
+Loan portfolio
+The Firm’s loan portfolio is divided into three portfolio segments, which are the same segments used by the Firm to determine the allowance for loan losses: Consumer, excluding credit card; Credit card; and Wholesale.
+Within each portfolio segment the Firm monitors and assesses the credit risk in the following classes of loans, based on the risk characteristics of each loan class.
+(b)Predominantly includes prime (including option ARMs) and subprime loans.
+(c)Includes senior and junior lien home equity loans.
+(d)Includes certain business banking and auto dealer risk-rated loans that apply the wholesale methodology for determining the allowance for loan losses; these loans are managed by CCB, and therefore, for consistency in presentation, are included with the other consumer loan classes.
+(e)Predominantly includes Business Banking loans.
+(f)Includes loans held in CIB, CB, AWM and Corporate.
+Excludes prime mortgage and home equity loans held in AWM and prime mortgage loans held in Corporate.
+Classes are internally defined and may not align with regulatory definitions.
+The following tables summarize the Firm’s loan balances by portfolio segment.
+(a)Includes accrued interest and fees net of an allowance for the uncollectible portion of accrued interest and fee income.
+130
+The following tables provide information about the carrying value of retained loans purchased, sold and reclassified to held-for-sale during the periods indicated.
+Reclassifications of loans to held-for sale are non-cash transactions.
+The Firm manages its exposure to credit risk on an ongoing basis.
+Selling loans is one way that the Firm reduces its credit exposures.
+Loans that were reclassified to held-for-sale and sold in a subsequent period are excluded from the sales line of this table.
+(a)Purchases predominantly represent the Firm’s voluntary repurchase of certain delinquent loans from loan pools as permitted by Government National Mortgage Association (“Ginnie Mae”) guidelines.
+(c)Includes the Firm’s student loan portfolio which was sold in 2017.
+Gains and losses on sales of loans
+Gains and losses on sales of loans (including adjustments to record loans held-for-sale at the lower of cost or fair value) recognized in other income were not material to the Firm for the three and six months ended June 30, 2018 and 2017.
+In addition, the sale of loans may result in write downs, recoveries or changes in the allowance recognized in the provision for credit losses.
+Consumer, excluding credit card loan portfolio
+Consumer loans, excluding credit card loans, consist primarily of residential mortgages, home equity loans and lines of credit, auto loans and consumer and business banking loans, with a focus on serving the prime consumer credit market.
+The portfolio also includes home equity loans secured by junior liens, prime mortgage loans with an interest-only payment period, and certain payment-option loans that may result in negative amortization.
+The following table provides information about retained consumer loans, excluding credit card, by class.
+In 2017, the Firm sold its student loan portfolio.
+For further information on consumer credit quality indicators, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+131
+Residential real estate – excluding PCI loans
+The following table provides information by class for residential real estate – excluding retained PCI loans.
+(d)Represents the aggregate unpaid principal balance of loans divided by the estimated current property value.
+Current property values are estimated, at a minimum, quarterly, based on home valuation models using nationally recognized home price index valuation estimates incorporating actual data to the extent available and forecasted data where actual data is not available.
+These property values do not represent actual appraised loan level collateral values; as such, the resulting ratios are necessarily imprecise and should be viewed as estimates.
+Current estimated combined LTV for junior lien home equity loans considers all available lien positions, as well as unused lines, related to the property.
+(e)Refreshed FICO scores represent each borrower’s most recent credit score, which is obtained by the Firm on at least a quarterly basis.
+132
+Approximately 37% of the home equity portfolio are senior lien loans; the remaining balance are junior lien HELOANs or HELOCs.
+The following table represents the Firm’s delinquency statistics for junior lien home equity loans and lines of credit as of June 30, 2018, and December 31, 2017.
+(b) The Firm manages the risk of HELOCs during their revolving period by closing or reducing the undrawn line to the extent permitted by law when borrowers are experiencing financial difficulty.
+HELOCs beyond the revolving period and HELOANs have higher delinquency rates than HELOCs within the revolving period.
+That is primarily because the fully-amortizing payment that is generally required for those products is higher than the minimum payment options available for HELOCs within the revolving period.
+The higher delinquency rates associated with amortizing HELOCs and HELOANs are factored into the Firm’s allowance for loan losses.
+Impaired loans
+The table below sets forth information about the Firm’s residential real estate impaired loans, excluding PCI loans.
+These loans are considered to be impaired as they have been modified in a TDR.
+All impaired loans are evaluated for an asset-specific allowance as described in Note 13 of JPMorgan Chase’s 2017 Annual Report.
+133
+The following tables present average impaired loans and the related interest income reported by the Firm.
+(a)Generally, interest income on loans modified in TDRs is recognized on a cash basis until the borrower has made a minimum of six payments under the new terms, unless the loan is deemed to be collateral-dependent.
+Loan modifications
+Modifications of residential real estate loans, excluding PCI loans, are generally accounted for and reported as TDRs.
+There were no additional commitments to lend to borrowers whose residential real estate loans, excluding PCI loans, have been modified in TDRs.
+The following table presents new TDRs reported by the Firm.
+134
+Nature and extent of modifications
+The U.S. Treasury’s Making Home Affordable programs, as well as the Firm’s proprietary modification programs, generally provide various concessions to financially troubled borrowers including, but not limited to, interest rate reductions, term or payment extensions and deferral of principal and/or interest payments that would otherwise have been required under the terms of the original agreement.
+The following tables provide information about how residential real estate loans, excluding PCI loans, were modified under the Firm’s loss mitigation programs described above during the periods presented.
+These tables exclude Chapter 7 loans where the sole concession granted is the discharge of debt.
+(a)Represents concessions granted in permanent modifications as a percentage of the number of loans permanently modified.
+The sum of the percentages exceeds 100% because predominantly all of the modifications include more than one type of concession.
+Concessions offered on trial modifications are generally consistent with those granted on permanent modifications.
+(b)Includes variable interest rate to fixed interest rate modifications for the three and six months ended June 30, 2018 and 2017.
+Also includes forbearances that meet the definition of a TDR for the three and six months ended June 30, 2018.
+Forbearances suspend or reduce monthly payments for a specific period of time to address a temporary hardship.
+135
+Financial effects of modifications and redefaults
+The following tables provide information about the financial effects of the various concessions granted in modifications of residential real estate loans, excluding PCI loans, under the loss mitigation programs described above and about redefaults of certain loans modified in TDRs for the periods presented.
+The following tables present only the financial effects of permanent modifications and does not include temporary concessions offered through trial modifications.
+These tables also exclude Chapter 7 loans where the sole concession granted is the discharge of debt.
+(a)Represents loans permanently modified in TDRs that experienced a payment default in the periods presented, and for which the payment default occurred within one year of the modification.
+The dollar amounts presented represent the balance of such loans at the end of the reporting period in which such loans defaulted.
+For residential real estate loans modified in TDRs, payment default is deemed to occur when the loan becomes two contractual payments past due.
+In the event that a modified loan redefaults, it is probable that the loan will ultimately be liquidated through foreclosure or another similar type of liquidation transaction.
+Redefaults of loans modified within the last 12 months may not be representative of ultimate redefault levels.
+At June 30, 2018, the weighted-average estimated remaining lives of residential real estate loans, excluding PCI loans, permanently modified in TDRs were 9 years for residential mortgage and 8 years for home equity.
+The estimated remaining lives of these loans reflect estimated prepayments, both voluntary and involuntary (i.e., foreclosures and other forced liquidations).
+Active and suspended foreclosure
+At June 30, 2018, and December 31, 2017, the Firm had non-PCI residential real estate loans, excluding those insured by U.S. government agencies, with a carrying value of $763 million and $787 million, respectively, that were not included in REO, but were in the process of active or suspended foreclosure.
+136
+Other consumer loans
+The table below provides information for other consumer retained loan classes, including auto and business banking loans.
+(b)For risk-rated business banking and auto loans, the primary credit quality indicator is the risk rating of the loan, including whether the loans are considered to be criticized and/or nonaccrual.
+137
+Other consumer impaired loans and loan
+modifications
+The table below sets forth information about the Firm’s other consumer impaired loans, including risk-rated business banking and auto loans that have been placed on nonaccrual status, and loans that have been modified in TDRs.
+(a)When discounted cash flows, collateral value or market price equals or exceeds the recorded investment in the loan, the loan does not require an allowance.
+This typically occurs when the impaired loans have been partially charged off and/or there have been interest payments received and applied to the loan balance.
+Loan modifications
+Certain other consumer loan modifications are considered to be TDRs as they provide various concessions to borrowers who are experiencing financial difficulty.
+All of these TDRs are reported as impaired loans.
+Refer to Note 12 of JPMorgan Chase’s 2017 Annual Report for further information on other consumer loans modified in TDRs.
+At June 30, 2018 and December 31, 2017 other consumer loans modified in TDRs were $91 million and $102 million, respectively.
+New TDRs, as well as the impact of these modifications were not material to the Firm for the three and six months ended June 30, 2018 and 2017.
+Additional commitments to lend to borrowers whose loans have been modified in TDRs as of June 30, 2018 and December 31, 2017 were not material.
+TDRs on nonaccrual status were $66 million and $72 million at June 30, 2018 and December 31, 2017, respectively.
+138
+Purchased credit-impaired loans
+For a detailed discussion of PCI loans, including the related accounting policies, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+Residential real estate – PCI loans
+The table below sets forth information about the Firm’s consumer, excluding credit card, PCI loans.
+(a)Carrying value includes the effect of fair value adjustments that were applied to the consumer PCI portfolio at the date of acquisition.
+(b)Represents the aggregate unpaid principal balance of loans divided by the estimated current property value.
+Current property values are estimated, at a minimum, quarterly, based on home valuation models using nationally recognized home price index valuation estimates incorporating actual data to the extent available and forecasted data where actual data is not available.
+These property values do not represent actual appraised loan level collateral values; as such, the resulting ratios are necessarily imprecise and should be viewed as estimates.
+Current estimated combined LTV for junior lien home equity loans considers all available lien positions, as well as unused lines, related to the property.
+(c)Refreshed FICO scores represent each borrower’s most recent credit score, which is obtained by the Firm on at least a quarterly basis.
+139
+Approximately 25% of the PCI home equity portfolio are senior lien loans; the remaining balance are junior lien HELOANs or HELOCs.
+The following table represents the Firm’s delinquency statistics for PCI junior lien home equity loans and lines of credit based on the unpaid principal balance as of June 30, 2018, and December 31, 2017.
+(a)In general, these HELOCs are revolving loans for a 10-year period, after which time the HELOC converts to an interest-only loan with a balloon payment at the end of the loan’s term.
+(b)Substantially all undrawn HELOCs within the revolving period have been closed.
+(c)Includes loans modified into fixed rate amortizing loans.
+The table below sets forth the accretable yield activity for the Firm’s PCI consumer loans for the three and six months ended June 30, 2018 and 2017, and represents the Firm’s estimate of gross interest income expected to be earned over the remaining life of the PCI loan portfolios.
+The table excludes the cost to fund the PCI portfolios, and therefore the accretable yield does not represent net interest income expected to be earned on these portfolios.
+(a)Other changes in expected cash flows may vary from period to period as the Firm continues to refine its cash flow model, for example cash flows expected to be collected due to the impact of modifications and changes in prepayment assumptions.
+Active and suspended foreclosure
+At June 30, 2018, and December 31, 2017, the Firm had PCI residential real estate loans with an unpaid principal balance of $1.2 billion and 1.3 billion, respectively, that were not included in REO, but were in the process of active or suspended foreclosure.
+Credit card loan portfolio
+For further information on the credit card loan portfolio, including credit quality indicators, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+The table below sets forth information about the Firm’s credit card loans.
+140
+Credit card impaired loans and loan modifications
+For a detailed discussion of impaired credit card loans, including credit card loan modifications, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+The table below sets forth information about the Firm’s impaired credit card loans.
+All of these loans are considered to be impaired as they have been modified in TDRs.
+(a)The carrying value and the unpaid principal balance are the same for credit card impaired loans.
+(b)There were no impaired loans without an allowance.
+(c)Represents credit card loans outstanding to borrowers enrolled in a credit card modification program as of the date presented.
+(d)Represents credit card loans that were modified in TDRs but that have subsequently reverted back to the loans’ pre-modification payment terms.
+At June 30, 2018, and December 31, 2017, $29 million and $43 million, respectively, of loans have reverted back to the pre-modification payment terms of the loans due to noncompliance with the terms of the modified loans.
+The remaining $32 million and $37 million at June 30, 2018, and December 31, 2017, respectively, of these loans are to borrowers who have successfully completed a short-term modification program.
+The Firm continues to report these loans as TDRs since the borrowers’ credit lines remain closed.
+(e)Predominantly all impaired credit card loans are in the U.S.
+The following table presents average balances of impaired credit card loans and interest income recognized on those loans.
+Loan modifications
+The Firm may offer one of a number of loan modification programs to credit card borrowers who are experiencing financial difficulty.
+Most of these loans have been modified under long-term programs for borrowers who are experiencing financial difficulties.
+Modifications under long-term programs involve placing the customer on a fixed payment plan, generally for 60 months.
+Substantially all modifications are considered to be TDRs.
+New enrollments in these loan modification programs were $202 million and $176 million for the three months ended June 30, 2018 and 2017, respectively, and $425 million and $361 million for the six months ended June 30, 2018 and 2017, respectively.
+For additional information about credit card loan modifications, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+Financial effects of modifications and redefaults
+The following table provides information about the financial effects of the concessions granted on credit card loans modified in TDRs and redefaults for the periods presented.
+(a)Represents loans modified in TDRs that experienced a payment default in the periods presented, and for which the payment default occurred within one year of the modification.
+The amounts presented represent the balance of such loans as of the end of the quarter in which they defaulted.
+For credit card loans modified in TDRs, payment default is deemed to have occurred when the borrower misses two consecutive contractual payments.
+A substantial portion of these loans are expected to be charged-off in accordance with the Firm’s standard charge-off policy.
+Based on historical experience, the estimated weighted-average default rate for modified credit card loans was expected to be 32.10% and 31.54% as of June 30, 2018, and December 31, 2017, respectively.
+141
+Wholesale loan portfolio
+Wholesale loans include loans made to a variety of clients, ranging from large corporate and institutional clients to high-net-worth individuals.
+The primary credit quality indicator for wholesale loans is the risk rating assigned to
+each loan.
+For further information on these risk ratings, refer to Note 12 and Note 13 of JPMorgan Chase’s 2017 Annual Report.
+The table below provides information by class of receivable for the retained loans in the Wholesale portfolio segment.
+(a)The U.S. and non-U.S. distribution is determined based predominantly on the domicile of the borrower.
+(c)Represents loans that are considered well-collateralized and therefore still accruing interest.
+142
+The following table presents additional information on the real estate class of loans within the Wholesale portfolio for the periods indicated.
+For further information on real estate loans, refer to Note 12 of JPMorgan Chase’s 2017 Annual Report.
+Wholesale impaired retained loans and loan modifications
+Wholesale impaired retained loans consist of loans that have been placed on nonaccrual status and/or that have been modified in a TDR.
+All impaired loans are evaluated for an asset-specific allowance as described in Note 13 of JPMorgan Chase’s 2017 Annual Report.
+The table below sets forth information about the Firm’s wholesale impaired loans.
+(a)When the discounted cash flows, collateral value or market price equals or exceeds the recorded investment in the loan, the loan does not require an allowance.
+This typically occurs when the impaired loans have been partially charged-off and/or there have been interest payments received and applied to the loan balance.
+(c)Based upon the domicile of the borrower, largely consists of loans in the U.S.
+The following table presents the Firm’s average impaired loans for the periods indicated.
+(b)The prior period amounts have been revised to conform with the current period presentation.
+Certain loan modifications are considered to be TDRs as they provide various concessions to borrowers who are experiencing financial difficulty.
+All TDRs are reported as impaired loans in the tables above.
+TDRs were $865 million and $614 million as of June 30, 2018, and December 31, 2017, respectively.
+143
+Note 12 – Allowance for credit losses
+For a detailed discussion of the allowance for credit losses and the related accounting policies, refer to Note 13 of JPMorgan Chase’s 2017 Annual Report.
+Allowance for credit losses and related information
+The table below summarizes information about the allowances for loan losses and lending-related commitments, and includes a breakdown of loans and lending-related commitments by impairment methodology.
+(a)Write-offs of PCI loans are recorded against the allowance for loan losses when actual losses for a pool exceed estimated losses that were recorded as purchase accounting adjustments at the time of acquisition.
+A write-off of a PCI loan is recognized when the underlying loan is removed from a pool.
+(b)Includes risk-rated loans that have been placed on nonaccrual status and loans that have been modified in a TDR.
+(c)The asset-specific credit card allowance for loan losses is related to loans that have been modified in a TDR; such allowance is calculated based on the loans’ original contractual interest rates and does not consider any incremental penalty rates.
+(d)The prior period amounts have been revised to conform with the current period presentation.
+144
+Note 13 – Variable interest entities
+For a further description of JPMorgan Chase’s accounting policies regarding consolidation of VIEs, refer to Note 1 of JPMorgan Chase’s 2017 Annual Report.
+The following table summarizes the most significant types of Firm-sponsored VIEs by business segment.
+The Firm also invests in and provides financing and other services to VIEs sponsored by third parties.
+Refer to page 148 of this Note for more information on the VIEs sponsored by third parties.
+Significant Firm-sponsored VIEs
+Credit card securitizations
+For a more detailed discussion of JPMorgan Chase’s involvement with credit card securitizations, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+As a result of the Firm’s continuing involvement, the Firm is considered to be the primary beneficiary of its Firm-sponsored credit card securitization trusts, including its primary vehicle, the Chase Issuance Trust.
+Refer to the table on page 148 of this Note for further information on consolidated VIE assets and liabilities.
+Firm-sponsored mortgage and other securitization trusts
+The Firm securitizes (or has securitized) originated and purchased residential mortgages, commercial mortgages and other consumer loans primarily in its CCB and CIB businesses.
+Depending on the particular transaction, as well as the respective business involved, the Firm may act as the servicer of the loans and/or retain certain beneficial interests in the securitization trusts.
+For a detailed discussion of the Firm’s involvement with Firm-sponsored mortgage and other securitization trusts, as well as the accounting treatment relating to such trusts, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+145
+The following table presents the total unpaid principal amount of assets held in Firm-sponsored private-label securitization entities, including those in which the Firm has continuing involvement, and those that are consolidated by the Firm.
+Continuing involvement includes servicing the loans, holding senior interests or subordinated interests (including amounts required to be held pursuant to credit risk retention rules), recourse or guarantee arrangements, and derivative transactions.
+In certain instances, the Firm’s only continuing involvement is servicing the loans.
+Refer to Securitization activity on page 149 of this Note for further information regarding the Firm’s cash flows associated with and interests retained in nonconsolidated VIEs, and page 149 of this Note for information on the Firm’s loan sales to U.S. government agencies.
+(a)Excludes U.S. government agency securitizations and re-securitizations, which are not Firm-sponsored.
+Refer to page 149 of this Note for information on the Firm’s loan sales to U.S. government agencies.
+(b)Consists of securities backed by commercial loans (predominantly real estate) and non-mortgage-related consumer receivables purchased from third parties.
+(d)Includes interests held in re-securitization transactions.
+146
+Residential mortgage
+The Firm securitizes residential mortgage loans originated by CCB, as well as residential mortgage loans purchased from third parties by either CCB or CIB.
+For a more detailed description of the Firm’s involvement with residential mortgage securitizations, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+Refer to the table on page 148 of this Note for more information on the consolidated residential mortgage securitizations, and the table on the previous page of this Note for further information on interests held in nonconsolidated residential mortgage securitizations.
+Commercial mortgages and other consumer securitizations
+CIB originates and securitizes commercial mortgage loans, and engages in underwriting and trading activities involving the securities issued by securitization trusts.
+For a more detailed description of the Firm’s involvement with commercial mortgage and other consumer securitizations, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+Refer to the table on page 148 of this Note for more information on the consolidated commercial mortgage securitizations, and the table on the previous page of this Note for further information on interests held in nonconsolidated securitizations.
+Re-securitizations
+For a more detailed description of JPMorgan Chase’s participation in certain re-securitization transactions, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+The following table presents the principal amount of securities transferred to re-securitization VIEs.
+The following table presents information on nonconsolidated re-securitization VIEs.
+(a)represents the principal amount and includes the notional amount of interest-only securities.
+As of June 30, 2018, and December 31, 2017, the Firm did not consolidate any agency re-securitization VIEs or any Firm-sponsored private-label re-securitization VIEs.
+Multi-seller conduits
+For a more detailed description of JPMorgan Chase’s principal involvement with Firm-administered multi-seller conduits, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+In the normal course of business, JPMorgan Chase makes markets in and invests in commercial paper issued by the Firm-administered multi-seller conduits.
+The Firm held $20.5 billion and $20.4 billion of the commercial paper issued by the Firm-administered multi-seller conduits at June 30, 2018, and December 31, 2017, respectively, which have been eliminated in consolidation.
+The Firm’s investments reflect the Firm’s funding needs and capacity and were not driven by market illiquidity.
+Other than the amounts required to be held pursuant to credit risk retention rules, the Firm is not obligated under any agreement to purchase the commercial paper issued by the Firm-administered multi-seller conduits.
+Deal-specific liquidity facilities, program-wide liquidity and credit enhancement provided by the Firm have been eliminated in consolidation.
+The Firm or the Firm-administered multi-seller conduits provide lending-related commitments to certain clients of the Firm-administered multi-seller conduits.
+The unfunded commitments were $9.7 billion and $8.8 billion at June 30, 2018, and December 31, 2017, respectively, and are reported as off-balance sheet lending-related commitments.
+For more information on off-balance sheet lending-related commitments, refer to Note 20.
+Municipal bond vehicles
+Municipal bond vehicles or tender option bond (“TOB”) trusts allow institutions to finance their municipal bond investments at short-term rates.
+TOB transactions are known as Customer TOB trusts and Non-Customer TOB trusts.
+Customer TOB trusts are sponsored by a third party; refer to page 148 of this Note for further information.
+The Firm serves as sponsor for all Non-Customer TOB transactions.
+For a more detailed description of JPMorgan Chase’s Municipal bond vehicles, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+The Firm had no exposure to nonconsolidated Firm-sponsored municipal bond vehicles at June 30, 2018 and December 31, 2017, respectively.
+Refer to page 148 of this Note for further information on consolidated municipal bond vehicles.
+147
+Consolidated VIE assets and liabilities
+The following table presents information on assets and liabilities related to VIEs consolidated by the Firm as of June 30, 2018, and December 31, 2017.
+(a)Includes residential and commercial mortgage securitizations.
+(b)Includes assets classified as cash and other assets on the Consolidated balance sheets.
+(c)The assets of the consolidated VIEs included in the program types above are used to settle the liabilities of those entities.
+The assets and liabilities include third-party assets and liabilities of consolidated VIEs and exclude intercompany balances that eliminate in consolidation.
+(e)Includes liabilities classified as accounts payable and other liabilities on the Consolidated balance sheets.
+VIEs sponsored by third parties
+The Firm enters into transactions with VIEs structured by other parties.
+These include, for example, acting as a derivative counterparty, liquidity provider, investor, underwriter, placement agent, remarketing agent, trustee or custodian.
+These transactions are conducted at arm’s-length, and individual credit decisions are based on the analysis of the specific VIE, taking into consideration the quality of the underlying assets.
+Where the Firm does not have the power to direct the activities of the VIE that most significantly impact the VIE’s economic performance, or a variable interest that could potentially be significant, the Firm generally does not consolidate the VIE, but it records and reports these positions on its Consolidated balance sheets in the same manner it would record and report positions in respect of any other third-party transaction.
+Tax credit vehicles
+The Firm holds investments in unconsolidated tax credit vehicles, which are limited partnerships and similar entities that construct, own and operate affordable housing, wind, solar and other alternative energy projects.
+These entities are primarily considered VIEs.
+A third party is typically the
+general partner or managing member and has control over the significant activities of the tax credit vehicles, and accordingly the Firm does not consolidate tax credit vehicles.
+The Firm generally invests in these partnerships as a limited partner and earns a return primarily through the receipt of tax credits allocated to the projects.
+The maximum loss exposure, represented by equity investments and funding commitments, was $13.4 billion as of June 30, 2018 and December 31, 2017, of which $2.9 billion and $3.2 billion was unfunded, respectively.
+In order to reduce the risk of loss, the Firm assesses each project and withholds varying amounts of its capital investment until qualification of the project for tax credits.
+For further information on affordable housing tax credits, refer to Note 24 of JPMorgan Chase’s 2017 Annual Report.
+For more information on off-balance sheet lending-related commitments, refer to Note 20 of this Form 10-Q.
+Customer municipal bond vehicles (TOB trusts)
+The Firm may provide various services to Customer TOB trusts, including remarketing agent, liquidity or tender option provider.
+In certain Customer TOB transactions, the
+148
+Firm, as liquidity provider, has entered into a reimbursement agreement with the Residual holder.
+In those transactions, upon the termination of the vehicle, the Firm has recourse to the third party Residual holders for any shortfall.
+The Firm does not have any intent to protect Residual holders from potential losses on any of the underlying municipal bonds.
+The Firm does not consolidate Customer TOB trusts, since the Firm does not have the power to make decisions that significantly impact the economic performance of the municipal bond vehicle.
+The Firm’s maximum exposure as a liquidity provider to Customer TOB trusts at June 30, 2018 and December 31,
+2017 was $5.2 billion and $5.3 billion, respectively.
+The fair value of assets held by such VIEs at June 30, 2018 and December 31, 2017, was $8.6 billion and $9.2 million, respectively.
+For more information on off-balance sheet lending-related commitments, refer to Note 20.
+Loan securitizations
+The Firm has securitized and sold a variety of loans, including residential mortgage, credit card, and commercial mortgage.
+For a further description of the Firm’s accounting policies regarding securitizations, refer to Note 14 of JPMorgan Chase’s 2017 Annual Report.
+Securitization activity
+The following table provides information related to the Firm’s securitization activities for the three and six months ended June 30, 2018 and 2017, related to assets held in Firm-sponsored securitization entities that were not consolidated by the Firm, and where sale accounting was achieved at the time of the securitization.
+(a)Excludes re-securitization transactions.
+(b)Predominantly includes Level 2 assets.
+(c)The prior period amounts have been revised to conform with the current period presentation.
+(d)Includes cash paid by the Firm to reacquire assets from off–balance sheet, nonconsolidated entities – for example, loan repurchases due to representation and warranties and servicer “clean-up” calls.
+(e)Includes prime, Alt-A, subprime, and option ARMs.
+Excludes loan securitization transactions entered into with Ginnie Mae, Fannie Mae and Freddie Mac.
+(f)Includes commercial mortgage and other consumer loans.
+Loans and excess MSRs sold to U.S. government-sponsored
+enterprises, loans in securitization transactions pursuant to
+Ginnie Mae guidelines, and other third-party-sponsored
+securitization entities
+In addition to the amounts reported in the securitization activity tables above, the Firm, in the normal course of business, sells originated and purchased mortgage loans and certain originated excess MSRs on a nonrecourse basis, predominantly to U.S. government-sponsored enterprises (“U.S.
+GSEs”).
+These loans and excess MSRs are sold primarily for the purpose of securitization by the U.S. GSEs, who provide certain guarantee provisions (e.g., credit enhancement of the loans).
+The Firm also sells loans into securitization transactions pursuant to Ginnie Mae guidelines; these loans are typically insured or guaranteed by another U.S. government agency.
+The Firm does not consolidate the securitization vehicles underlying these
+transactions as it is not the primary beneficiary.
+For a limited number of loan sales, the Firm is obligated to share a portion of the credit risk associated with the sold loans with the purchaser.
+Refer to Note 20 of this Form 10-Q, and Note 27 of JPMorgan Chase’s 2017 Annual Report for additional information about the Firm’s loan sales- and securitization-related indemnifications.
+Refer to Note 14 for additional information about the impact of the Firm’s sale of certain excess MSRs.
+The following table summarizes the activities related to loans sold to the U.S. GSEs, loans in securitization transactions pursuant to Ginnie Mae guidelines, and other third-party-sponsored securitization entities.
+149
+(a)Predominantly includes securities from U.S. GSEs and Ginnie Mae that are generally sold shortly after receipt.
+(b)Excludes the value of MSRs retained upon the sale of loans.
+(c)Gains on loan sales include the value of MSRs.
+(d)The carrying value of the loans accounted for at fair value approximated the proceeds received upon loan sale.
+Options to repurchase delinquent loans
+In addition to the Firm’s obligation to repurchase certain loans due to material breaches of representations and warranties as discussed in Note 20, the Firm also has the option to repurchase delinquent loans that it services for Ginnie Mae loan pools, as well as for other U.S. government agencies under certain arrangements.
+The Firm typically elects to repurchase delinquent loans from Ginnie Mae loan
+pools as it continues to service them and/or manage the foreclosure process in accordance with the applicable requirements, and such loans continue to be insured or guaranteed.
+When the Firm’s repurchase option becomes exercisable, such loans must be reported on the Consolidated balance sheets as a loan with a corresponding liability.
+For additional information, refer to Note 11.
+The following table presents loans the Firm repurchased or had an option to repurchase, real estate owned, and foreclosed government-guaranteed residential mortgage loans recognized on the Firm’s Consolidated balance sheets as of June 30, 2018 and December 31, 2017.
+Substantially all of these loans and real estate are insured or guaranteed by U.S. government agencies.
+(a)Predominantly all of these amounts relate to loans that have been repurchased from Ginnie Mae loan pools.
+(b)Relates to voluntary repurchases of loans, which are included in accrued interest and accounts receivable.
+Loan delinquencies and liquidation losses
+The table below includes information about components of nonconsolidated securitized financial assets held in Firm-sponsored private-label securitization entities, in which the Firm has continuing involvement, and delinquencies as of June 30, 2018, and December 31, 2017.
+(a)Includes liquidation gains as a result of private label mortgage settlement payments during the first quarter of 2018, which were reflected as asset recoveries by trustees.
+150
+Note 14 – Goodwill and Mortgage servicing rights
+For a discussion of the accounting policies related to goodwill and mortgage servicing rights, refer to Note 15 of JPMorgan Chase’s 2017 Annual Report.
+Goodwill
+The following table presents goodwill attributed to the business segments.
+The following table presents changes in the carrying amount of goodwill.
+(a)Includes foreign currency remeasurement.
+Goodwill Impairment testing
+For a further description of the Firm’s goodwill impairment testing, including the primary method used to estimate the fair value of the reporting units, and the assumptions used in the goodwill impairment test, refer to Impairment testing on pages 244–245 of JPMorgan Chase’s 2017 Annual Report.
+Goodwill was not impaired at June 30, 2018, or December 31, 2017, nor was goodwill written off due to impairment during the six months ended June 30, 2018 or 2017.
+Declines in business performance, increases in credit losses, increases in equity capital requirements, as well as deterioration in economic or market conditions, adverse regulatory or legislative changes or increases in the estimated market cost of equity, could cause the estimated fair values of the Firm’s reporting units or their associated goodwill to decline in the future, which could result in a material impairment charge to earnings in a future period related to some portion of the associated goodwill.
+151
+Mortgage servicing rights
+MSRs represent the fair value of expected future cash flows for performing servicing activities for others.
+The fair value considers estimated future servicing fees and ancillary revenue, offset by estimated costs to service the loans, and generally declines over time as net servicing cash flows are received, effectively amortizing the MSR asset against contractual servicing and ancillary fee income.
+MSRs are either purchased from third parties or recognized upon sale or securitization of mortgage loans if servicing is retained.
+For a further description of the MSR asset, interest rate risk management, and the valuation of MSRs, refer to Notes 2 and 15 of JPMorgan Chase’s 2017 Annual Report.
+The following table summarizes MSR activity for the three and six months ended June 30, 2018 and 2017.
+(a)Includes excess MSRs transferred to agency-sponsored trusts in exchange for stripped mortgage backed securities (“SMBS”).
+In each transaction, a portion of the SMBS was acquired by third parties at the transaction date; the Firm acquired the remaining balance of those SMBS as trading securities.
+(b)Represents both the impact of changes in estimated future prepayments due to changes in market interest rates, and the difference between actual and expected prepayments.
+(c)Represents changes in prepayments other than those attributable to changes in market interest rates.
+(d)Represents amounts the Firm pays as the servicer (e.g., scheduled principal and interest, taxes and insurance), which will generally be reimbursed within a short period of time after the advance from future cash flows from the trust or the underlying loans.
+The Firm’s credit risk associated with these servicer advances is minimal because reimbursement of the advances is typically senior to all cash payments to investors.
+In addition, the Firm maintains the right to stop payment to investors if the collateral is insufficient to cover the advance.
+However, certain of these servicer advances may not be recoverable if they were not made in accordance with applicable rules and agreements.
+152
+The following table presents the components of mortgage fees and related income (including the impact of MSR risk management activities) for the three and six months ended June 30, 2018 and 2017.
+(a)Represents both the impact of changes in estimated future prepayments due to changes in market interest rates, and the difference between actual and expected prepayments.
+(b)Represents the aggregate impact of changes in model inputs and assumptions such as projected cash flows (e.g., cost to service), discount rates and changes in prepayments other than those attributable to changes in market interest rates (e.g., changes in prepayments due to changes in home prices).
+The table below outlines the key economic assumptions used to determine the fair value of the Firm’s MSRs at June 30, 2018, and December 31, 2017, and outlines hypothetical sensitivities of those fair values to immediate adverse changes in those assumptions, as defined below.
+CPR: Constant prepayment rate.
+Changes in fair value based on variation in assumptions generally cannot be easily extrapolated, because the relationship of the change in the assumptions to the change in fair value are often highly interrelated and may not be linear.
+In this table, the effect that a change in a particular assumption may have on the fair value is calculated without changing any other assumption.
+In reality, changes in one factor may result in changes in another, which would either magnify or counteract the impact of the initial change.
+153
+Note 15 – Deposits
+For further information on deposits, refer to Note 17 of JPMorgan Chase’s 2017 Annual Report.
+At June 30, 2018, and December 31, 2017, noninterest-bearing and interest-bearing deposits were as follows.
+Note 16 – Earnings per share
+For a discussion of the computation of basic and diluted earnings per share (“EPS”), refer to Note 22 of JPMorgan Chase’s 2017 Annual Report.
+The following table presents the calculation of basic and diluted EPS for the three and six months ended June 30, 2018 and 2017.
+154
+Note 17 – Accumulated other comprehensive income/(loss)
+AOCI includes the after-tax change in unrealized gains and losses on investment securities, foreign currency translation adjustments (including the impact of related derivatives), fair value changes of excluded components on fair value hedges, cash flow hedging activities, net loss and prior service costs/(credit) related to the Firm’s defined benefit pension and OPEB plans.
+(a)Represents the adjustment to AOCI as a result of the new accounting standards adopted in the first quarter of 2018.
+(b)Represents changes in fair value of cross-currency swaps attributable to changes in cross-currency basis spreads, which are excluded from the assessment of hedge effectiveness and recorded in other comprehensive income.
+The initial cost of cross-currency basis spreads is recognized in earnings as part of the accrual of interest on the cross currency swap.
+155
+The following table presents the pre-tax and after-tax changes in the components of OCI.-
+(a)The pre-tax amount is reported in investment securities losses in the Consolidated statements of income.
+(c)Represents changes in fair value of cross-currency swaps attributable to changes in cross-currency basis spreads, which are excluded from the assessment of hedge effectiveness and recorded in other comprehensive income.
+The initial cost of cross-currency basis spreads is recognized in earnings as part of the accrual of interest on the cross currency swap.
+(d)The pre-tax amounts are predominantly recorded in noninterest revenue, net interest income and compensation expense in the Consolidated statements of income.
+(e)The pre-tax amount is reported in other expense in the Consolidated statements of income.
+156
+Note 18 – Restricted cash and other restricted
+assets
+For a detailed discussion of the Firm’s restricted cash and other restricted assets, refer to Note 25 of JPMorgan Chase’s 2017 Annual Report.
+As a result of the adoption of the restricted cash accounting guidance in the first quarter of 2018, restricted cash is included with unrestricted cash when reconciling the beginning and ending cash balances on the Consolidated statements of cash flows.
+The following table presents the components of the Firm’s restricted cash:
+Note 19 – Regulatory capital
+For a detailed discussion on regulatory capital, refer to Note 26 of JPMorgan Chase’s 2017 Annual Report.
+The Federal Reserve establishes capital requirements, including well-capitalized standards, for the consolidated financial holding company.
+The Office of the Comptroller of the Currency (“OCC”) establishes similar minimum capital requirements and standards for the Firm’s insured depository institutions (“IDI”), including JPMorgan Chase Bank, N.A.
+and Chase Bank USA, N.A.
+Under the risk-based capital guidelines of the Federal Reserve, JPMorgan Chase is required to maintain minimum ratios for CET1, Tier 1, Total, Tier 1 leverage and the SLR.
+Failure to meet these minimum requirements could cause the Federal Reserve to take action.
+IDI subsidiaries are also subject to these capital requirements by their respective primary regulators.
+The following table represents the minimum and well-capitalized ratios to which the Firm and its IDI subsidiaries were subject as of June 30, 2018.
+Note: The table above is as defined by the regulations issued by the Federal Reserve, OCC and FDIC and to which the Firm and its IDI subsidiaries are subject.
+(c)Represents requirements for bank holding companies pursuant to regulations issued by the Federal Reserve.
+(d)Represents requirements for IDI subsidiaries pursuant to regulations issued under the FDIC Improvement Act.
+157
+The following tables present the risk-based and leverage-based capital metrics for JPMorgan Chase and its significant IDI subsidiaries under both the Basel III Standardized and Basel III Advanced Approaches.
+As of June 30, 2018, and December 31, 2017, JPMorgan Chase and all of its IDI subsidiaries were well-capitalized and met all capital requirements to which each was subject.
+(a)Adjusted average assets, for purposes of calculating the Tier 1 leverage ratio, includes total quarterly average assets adjusted for on-balance sheet assets that are subject to deduction from Tier 1 capital, predominantly goodwill and other intangible assets.
+(b)For each of the risk-based capital ratios, the capital adequacy of the Firm and its IDI subsidiaries is evaluated against the lower of the two ratios as calculated under Basel III approaches (Standardized or Advanced) as required by the Collins Amendment of the Dodd-Frank Act (the “Collins Floor”).
+(c)The Tier 1 leverage ratio is not a risk-based measure of capital.
+(d)The prior period amounts have been revised to conform with the current period presentation.
+(a)Effective January 1, 2018, the SLR was fully phased-in under Basel III.
+The December 31, 2017, amounts were calculated under the Basel III Transitional rules.
+158
+Note 20 – Off–balance sheet lending-related
+financial instruments, guarantees, and other
+commitments
+JPMorgan Chase provides lending-related financial instruments (e.g., commitments and guarantees) to address the financing needs of its customers and clients.
+The contractual amount of these financial instruments represents the maximum possible credit risk to the Firm should the customer or client draw upon the commitment or the Firm be required to fulfill its obligation under the guarantee, and should the customer or client subsequently fail to perform according to the terms of the contract.
+Most of these commitments and guarantees are refinanced, extended, cancelled, or expire without being drawn or a default occurring.
+As a result, the total contractual amount of these instruments is not, in the Firm’s view, representative of its expected future credit exposure or funding requirements.
+For a further discussion of lending-related commitments and guarantees, and the Firm’s related accounting policies, refer to Note 27 of JPMorgan Chase’s 2017 Annual Report.
+To provide for probable credit losses inherent in wholesale and certain consumer lending-related commitments, an allowance for credit losses on lending-related commitments is maintained.
+Refer to Note 12 for further information regarding the allowance for credit losses on lending-related commitments.
+The following table summarizes the contractual amounts and carrying values of off-balance sheet lending-related financial instruments, guarantees and other commitments at June 30, 2018, and December 31, 2017.
+The amounts in the table below for credit card and home equity lending-related commitments represent the total available credit for these products.
+The Firm has not experienced, and does not anticipate, that all available lines of credit for these products will be utilized at the same time.
+The Firm can reduce or cancel credit card lines of credit by providing the borrower notice or, in some cases as permitted by law, without notice.
+In addition, the Firm typically closes credit card lines when the borrower is 60 days or more past due.
+The Firm may reduce or close HELOCs when there are significant decreases in the value of the underlying property, or when there has been a demonstrable decline in the creditworthiness of the borrower.
+159
+(a)Includes certain commitments to purchase loans from correspondents.
+(g)For lending-related products, the carrying value represents the allowance for lending-related commitments and the guarantee liability; for derivative-related products, the carrying value represents the fair value.
+160
+Other unfunded commitments to extend credit
+Other unfunded commitments to extend credit generally consist of commitments for working capital and general corporate purposes, extensions of credit to support commercial paper facilities and bond financings in the event that those obligations cannot be remarketed to new investors, as well as committed liquidity facilities to clearing organizations.
+The Firm also issues commitments under multipurpose facilities which could be drawn upon in several forms, including the issuance of a standby letter of credit.
+The Firm acts as a settlement and custody bank in the U.S. tri-party repurchase transaction market.
+In its role as settlement and custody bank, the Firm in part is exposed to the intra-day credit risk of its cash borrower clients, usually broker-dealers.
+This exposure arises under secured
+clearance advance facilities that the Firm extended to its clients (i.e., cash borrowers); these facilities contractually limit the Firm’s intra-day credit risk to the facility amount
+and must be repaid by the end of the day.
+As of December 31, 2017 the secured clearance advance facility maximum outstanding commitment amount was $1.5 billion.
+As of June 30, 2018 the Firm no longer offers such arrangements to its clients.
+Standby letters of credit and other financial guarantees
+Standby letters of credit and other financial guarantees are conditional lending commitments issued by the Firm to guarantee the performance of a client or customer to a third party under certain arrangements, such as commercial paper facilities, bond financings, acquisition financings, trade and similar transactions.
+The following table summarizes the standby letters of credit and other letters of credit arrangements as of June 30, 2018, and December 31, 2017.
+Standby letters of credit, other financial guarantees and other letters of credit
+(a)The ratings scale is based on the Firm’s internal ratings which generally correspond to ratings as defined by S&P and Moody’s.
+Derivatives qualifying as guarantees
+The Firm transacts certain derivative contracts that have the characteristics of a guarantee under U.S. GAAP.
+For further information on these derivatives, refer to Note 27 of JPMorgan Chase’s 2017 Annual Report.
+The following table summarizes the derivatives qualifying as guarantees as of June 30, 2018, and December 31, 2017.
+In addition to derivative contracts that meet the characteristics of a guarantee, the Firm is both a purchaser and seller of credit protection in the credit derivatives market.
+For a further discussion of credit derivatives, refer to Note 4.
+Loan sales- and securitization-related indemnifications
+In connection with the Firm’s mortgage loan sale and securitization activities with GSEs and in certain private label transactions, the Firm has made representations and warranties that the loans sold meet certain requirements, and that may require the Firm to repurchase mortgage loans and/or indemnify the loan purchaser if such representations and warranties are breached by the Firm.
+Further, although the Firm’s securitizations are predominantly nonrecourse, the Firm does provide recourse servicing in certain limited cases where it agrees to share credit risk with the owner of the mortgage loans.
+For additional information, refer to Note 27 of JPMorgan Chase’s 2017 Annual Report.
+161
+The liability related to repurchase demands associated with private label securitizations is separately evaluated by the Firm in establishing its litigation reserves.
+For additional information regarding litigation, refer to Note 22 of this Form 10-Q and Note 29 of JPMorgan Chase’s 2017 Annual Report.
+Guarantees of subsidiary
+The Parent Company has guaranteed certain long-term debt and structured notes of its subsidiaries, including JPMorgan Chase Financial Company LLC (“JPMFC”), a 100%-owned finance subsidiary.
+All securities issued by JPMFC are fully and unconditionally guaranteed by the Parent Company, and these guarantees rank on a parity with the Firm’s unsecured and unsubordinated indebtedness.
+Note 21 – Pledged assets and collateral
+For a discussion of the Firm’s pledged assets and collateral, refer to Note 28 of JPMorgan Chase’s 2017 Annual Report.
+Pledged assets
+The Firm may pledge financial assets that it owns to maintain potential borrowing capacity with central banks and for other purposes, including to secure borrowings and public deposits, collateralize repurchase and other securities financing agreements, and cover customer short sales.
+Certain of these pledged assets may be sold or repledged or otherwise used by the secured parties and are parenthetically identified on the Consolidated balance sheets as assets pledged.
+The following table presents the Firm’s pledged assets.
+Total assets pledged do not include assets of consolidated VIEs; these assets are used to settle the liabilities of those entities.
+Refer to Note 13 for additional information on assets and liabilities of consolidated VIEs.
+For additional information on the Firm’s securities financing activities, refer to Note 10.
+For additional information on the Firm’s long-term debt, refer to Note 19 of JPMorgan Chase’s 2017 Annual Report.
+Collateral
+The Firm accepts financial assets as collateral that it is permitted to sell or repledge, deliver or otherwise use.
+This collateral is generally obtained under resale agreements, securities borrowing agreements, customer margin loans and derivative agreements.
+Collateral is generally used under repurchase agreements, securities lending agreements or to cover customer short sales and to collateralize deposits and derivative agreements.
+The following table presents the fair value of collateral accepted.
+Certain prior period amounts for both collateral and pledged assets (including the corresponding pledged assets parenthetical disclosure for trading assets and other assets on the Consolidated balance sheets) have been revised to conform with the current period presentation.
+162
+Note 22 – Litigation
+Contingencies
+As of June 30, 2018, the Firm and its subsidiaries and affiliates are defendants or putative defendants in numerous legal proceedings, including private, civil litigations and regulatory/government investigations.
+The litigations range from individual actions involving a single plaintiff to class action lawsuits with potentially millions of class members.
+Investigations involve both formal and informal proceedings, by both governmental agencies and self-regulatory organizations.
+These legal proceedings are at varying stages of adjudication, arbitration or investigation, and involve each of the Firm’s lines of business and geographies and a wide variety of claims (including common law tort and contract claims and statutory antitrust, securities and consumer protection claims), some of which present novel legal theories.
+The Firm believes the estimate of the aggregate range of reasonably possible losses, in excess of reserves established, for its legal proceedings is from $0 to approximately $1.7 billion at June 30, 2018.
+This estimated aggregate range of reasonably possible losses was based upon currently available information for those proceedings in which the Firm believes that an estimate of reasonably possible loss can be made.
+For certain matters, the Firm does not believe that such an estimate can be made, as of that date.
+The Firm’s estimate of the aggregate range of reasonably possible losses involves significant judgment, given:
+•the number, variety and varying stages of the proceedings, including the fact that many are in preliminary stages,
+•the existence in many such proceedings of multiple defendants, including the Firm, whose share of liability (if any) has yet to be determined,
+•the numerous yet-unresolved issues in many of the proceedings, including issues regarding class certification and the scope of many of the claims, and
+•the attendant uncertainty of the various potential outcomes of such proceedings, including where the Firm has made assumptions concerning future rulings by the court or other adjudicator, or about the behavior or incentives of adverse parties or regulatory authorities, and those assumptions prove to be incorrect.
+In addition, the outcome of a particular proceeding may be a result which the Firm did not take into account in its estimate because the Firm had deemed the likelihood of that outcome to be remote.
+Accordingly, the Firm’s estimate of the aggregate range of reasonably possible losses will change from time to time, and actual losses may vary significantly.
+Set forth below are descriptions of the Firm’s material legal proceedings.
+American Depositary Receipts Pre-Release Inquiry.
+The Staff of the U.S. Securities and Exchange Commission’s Enforcement Division has been investigating depositary banks and broker-dealers, including the Firm, in connection with activity relating to pre-released American Depositary Receipts.
+The Staff’s investigation focuses on the period of 2011 to 2015.
+The Firm has been cooperating with this investigation.
+Foreign Exchange Investigations and Litigation.
+The Firm previously reported settlements with certain government authorities relating to its foreign exchange (“FX”) sales and trading activities and controls related to those activities.
+FX-related investigations and inquiries by government authorities, including competition authorities, are ongoing, and the Firm is cooperating with and working to resolve those matters.
+In May 2015, the Firm pleaded guilty to a single violation of federal antitrust law.
+In January 2017, the Firm was sentenced, with judgment entered thereafter and a term of probation ending in January 2020.
+The Department of Labor has granted the Firm a five-year exemption of disqualification that allows the Firm and its affiliates to continue to rely on the Qualified Professional Asset Manager exemption under the Employee Retirement Income Security Act (“ERISA”) until January 2023.
+The Firm will need to reapply in due course for a further exemption to cover the remainder of the ten-year disqualification period.
+Separately, in February 2017 the South Africa Competition Commission referred its FX investigation of the Firm and other banks to the South Africa Competition Tribunal, which is conducting civil proceedings concerning that matter.
+The Firm is also one of a number of foreign exchange dealers defending a class action filed in the United States District Court for the Southern District of New York by U.S.-based plaintiffs, principally alleging violations of federal antitrust laws based on an alleged conspiracy to manipulate foreign exchange rates (the “U.S.
+class action”).
+In January 2015, the Firm entered into a settlement agreement in the U.S. class action.
+Following this settlement, a number of additional putative class actions were filed seeking damages for persons who transacted FX futures and options on futures (the “exchanged-based actions”), consumers who purchased foreign currencies at allegedly inflated rates (the “consumer action”), participants or beneficiaries of qualified ERISA plans (the “ERISA actions”), and purported indirect purchasers of FX instruments (the “indirect purchaser action”).
+Since then, the Firm has entered into a revised settlement agreement to resolve the consolidated U.S. class action, including the exchange-based actions.
+The Court granted final approval of that settlement agreement in May 2018.
+Certain members of the settlement class have filed requests to the Court to be excluded from the class.
+163
+The District Court has dismissed one of the ERISA actions, and the United States Court of Appeals for the Second Circuit affirmed that dismissal in July 2018.
+The District Court has also dismissed the indirect purchaser action, and the plaintiffs have sought leave to replead their complaint.
+The consumer action and a second ERISA action remain pending in the District Court.
+General Motors Litigation.
+JPMorgan Chase Bank, N.A.
+participated in, and was the Administrative Agent on behalf of a syndicate of lenders on, a $1.5 billion syndicated Term Loan facility (“Term Loan”) for General Motors Corporation (“GM”).
+In July 2009, in connection with the GM bankruptcy proceedings, the Official Committee of Unsecured Creditors of Motors Liquidation Company (“Creditors Committee”) filed a lawsuit against JPMorgan Chase Bank, N.A., in its individual capacity and as Administrative Agent for other lenders on the Term Loan, seeking to hold the underlying lien invalid based on the filing of a UCC-3 termination statement relating to the Term Loan.
+In January 2015, following several court proceedings, the United States Court of Appeals for the Second Circuit reversed the Bankruptcy Court’s dismissal of the Creditors Committee’s claim and remanded the case to the Bankruptcy Court with instructions to enter partial summary judgment for the Creditors Committee as to the termination statement.
+The proceedings in the Bankruptcy Court continue with respect to, among other things, additional defenses asserted by JPMorgan Chase Bank, N.A.
+and the value of additional collateral on the Term Loan that was unaffected by the filing of the termination statement at issue.
+In connection with that additional collateral, a trial in the Bankruptcy Court regarding the value of certain representative assets concluded in May 2017, and a ruling was issued in September 2017.
+The Bankruptcy Court found that 33 of the 40 representative assets are fixtures and that these fixtures generally should be valued on a “going concern” basis.
+The Creditors Committee is seeking leave to appeal the Bankruptcy Court’s ruling that the fixtures should be valued on a “going concern” basis rather than on a liquidation basis.
+In addition, certain Term Loan lenders filed cross-claims in the Bankruptcy Court against JPMorgan Chase Bank, N.A.
+seeking indemnification and asserting various claims.
+The parties have engaged in mediation concerning, among other things, the characterization and value of the remaining additional collateral, in light of the Bankruptcy Court’s ruling regarding the representative assets, as well as other issues, including the cross-claims.
+In July 2018, the parties informed the Bankruptcy Court that, at this time, they do not believe that they will be able to reach a global settlement of the adversary proceeding through mediation, and that they intend to present the Bankruptcy Court with a proposed schedule for ongoing litigation.
+The parties will continue to mediate specific disputes involving certain issues, principally relating to whether certain of the additional collateral should be characterized as fixtures.
+Interchange Litigation.
+A group of merchants and retail associations filed a series of class action complaints alleging that Visa and MasterCard, as well as certain banks, conspired to set the price of credit and debit card interchange fees and enacted respective rules in violation of antitrust laws.
+The parties settled the cases for a cash payment, a temporary reduction of credit card interchange, and modifications to certain credit card network rules.
+In December 2013, the District Court granted final approval of the settlement.
+A number of merchants appealed the settlement to the United States Court of Appeals for the Second Circuit, which, in June 2016, vacated the District Court’s certification of the class action and reversed the approval of the class settlement.
+In March 2017, the U.S. Supreme Court declined petitions seeking review of the decision of the Court of Appeals.
+The case was remanded to the District Court for further proceedings consistent with the appellate decision.
+The original class action was divided into two separate actions, one seeking primarily monetary relief and the other seeking primarily injunctive relief.
+The parties to the class action seeking monetary relief have reached a settlement agreement in principle, subject to documentation and court approval, and are engaged in ongoing negotiations.
+In addition, certain merchants have filed individual actions raising similar allegations against Visa and MasterCard, as well as against the Firm and other banks, and those actions are proceeding.
+LIBOR and Other Benchmark Rate Investigations and Litigation.
+JPMorgan Chase has received subpoenas and requests for documents and, in some cases, interviews, from federal and state agencies and entities, including the U.S. Commodity Futures Trading Commission (“CFTC”) and various state attorneys general, as well as the European Commission (“EC”), the Swiss Competition Commission (“ComCo”) and other regulatory authorities and banking associations around the world relating primarily to the process by which interest rates were submitted to the British Bankers Association (“BBA”) in connection with the setting of the BBA’s London Interbank Offered Rate (“LIBOR”) for various currencies, principally in 2007 and 2008.
+Some of the inquiries also relate to similar processes by which information on rates was submitted to the European Banking Federation (“EBF”) in connection with the setting of the EBF’s Euro Interbank Offered Rates (“EURIBOR”) and to the Japanese Bankers’ Association for the setting of Tokyo Interbank Offered Rates (“TIBOR”) during similar time periods, as well as processes for the setting of U.S. dollar ISDAFIX rates and other reference rates in various parts of the world during similar time periods, including through 2012.
+The Firm continues to cooperate with these investigations to the extent that they are ongoing.
+The Firm has recently reached a resolution with the CFTC concerning the CFTC’s U.S. dollar ISDAFIX-related investigation.
+As previously reported, the Firm has resolved EC inquiries relating to Yen LIBOR and Swiss Franc
+164
+LIBOR.
+In December 2016, the Firm resolved ComCo inquiries relating to these same rates.
+ComCo’s investigation relating to EURIBOR, to which the Firm and other banks are subject, continues.
+In December 2016, the EC issued a decision against the Firm and other banks finding an infringement of European antitrust rules relating to EURIBOR.
+The Firm has filed an appeal of that decision with the European General Court, and that appeal is pending.
+In addition, the Firm has been named as a defendant along with other banks in a series of individual and putative class actions filed in various United States District Courts.
+These actions have been filed, or consolidated for pre-trial purposes, in the United States District Court for the Southern District of New York.
+In these actions, plaintiffs make varying allegations that in various periods, starting in 2000 or later, defendants either individually or collectively manipulated various benchmark rates by submitting rates that were artificially low or high.
+Plaintiffs allege that they transacted in loans, derivatives or other financial instruments whose values are affected by changes in these rates and assert a variety of claims including antitrust claims seeking treble damages.
+These matters are in various stages of litigation.
+The Firm has agreed to settle putative class actions related to exchange-traded Eurodollar futures contracts, Swiss franc LIBOR, the Singapore Interbank Offered Rate, the Singapore Swap Offer Rate and the Australian Bank Bill Swap Reference Rate.
+Those settlements are all subject to further documentation and court approval.
+In an action related to EURIBOR, the District Court dismissed all claims except a single antitrust claim and two common law claims, and dismissed all defendants except the Firm and Citibank.
+In actions related to U.S. dollar LIBOR, the District Court dismissed certain claims, including antitrust claims brought by some plaintiffs whom the District Court found did not have standing to assert such claims, and permitted antitrust claims, claims under the Commodity Exchange Act and common law claims to proceed.
+The plaintiffs whose antitrust claims were dismissed for lack of standing have filed an appeal.
+In February 2018, the District Court (i) granted class certification with respect to certain antitrust claims related to bonds and interest rate swaps sold directly by the defendants, (ii) denied class certification with respect to state common law claims brought by the holders of those bonds and swaps and (iii) denied class certification with respect to two other putative class actions related to exchange-traded Eurodollar futures contracts and LIBOR-based loans held by plaintiff lending institutions.
+The Firm and another defendant have petitioned for leave to appeal the class certification of the antitrust claims related to bonds and swaps, and plaintiffs have petitioned for leave to appeal the denial of class certification as to exchange-traded Eurodollar futures contracts.
+In July 2018, the United States Court of Appeals for the Second Circuit denied
+the plaintiff lending institutions’ petition for leave to appeal the denial of their motion for class certification.
+In an action related to the Singapore Interbank Offered Rate and the Singapore Swap Offer Rate, the District Court dismissed without prejudice all claims except a single antitrust claim, and dismissed without prejudice all defendants except the Firm, Bank of America and Citibank.
+The plaintiffs filed an amended complaint in September 2017, which the Firm and other defendants have moved to dismiss.
+The Firm is one of the defendants in a number of putative class actions alleging that defendant banks and ICAP conspired to manipulate the U.S. dollar ISDAFIX rates.
+In April 2016, the Firm settled this litigation, along with certain other banks.
+Those settlements have been preliminarily approved by the Court.
+Municipal Derivatives Litigation.
+Several civil actions were commenced in New York and Alabama courts against the Firm relating to certain Jefferson County, Alabama (the “County”) warrant underwritings and swap transactions.
+The claims in the civil actions generally alleged that the Firm made payments to certain third parties in exchange for being chosen to underwrite more than $3.0 billion in warrants issued by the County and to act as the counterparty for certain swaps executed by the County.
+The County filed for bankruptcy in November 2011.
+In June 2013, the County filed a Chapter 9 Plan of Adjustment, as amended (the “Plan of Adjustment”), which provided that all the above-described actions against the Firm would be released and dismissed with prejudice.
+In November 2013, the Bankruptcy Court confirmed the Plan of Adjustment, and in December 2013, certain sewer rate payers filed an appeal challenging the confirmation of the Plan of Adjustment.
+All conditions to the Plan of Adjustment’s effectiveness, including the dismissal of the actions against the Firm, were satisfied or waived and the transactions contemplated by the Plan of Adjustment occurred in December 2013.
+Accordingly, all the above-described actions against the Firm have been dismissed pursuant to the terms of the Plan of Adjustment.
+The appeal of the Bankruptcy Court’s order confirming the Plan of Adjustment remains pending.
+Petters Bankruptcy and Related Matters.
+JPMorgan Chase and certain of its affiliates, including One Equity Partners (“OEP”), were named as defendants in several actions filed in connection with the receivership and bankruptcy proceedings pertaining to Thomas J. Petters and certain affiliated entities (collectively, “Petters”) and the Polaroid Corporation.
+The principal actions against JPMorgan Chase and its affiliates were brought by a court-appointed receiver for Petters and the trustees in bankruptcy proceedings for three Petters entities.
+These actions generally sought to avoid certain putative transfers in connection with (i) the 2005 acquisition by Petters of Polaroid, which at the time was majority-owned by OEP; (ii) two credit facilities that JPMorgan Chase and other financial institutions entered
+165
+into with Polaroid; and (iii) a credit line and investment accounts held by Petters.
+In January 2017, the Court substantially denied the defendants’ motion to dismiss an amended complaint filed by the plaintiffs.
+In October 2017, JPMorgan Chase and its affiliates reached an agreement to settle the litigation brought by the Petters bankruptcy trustees, or their successors, and the receiver for Thomas J. Petters.
+The settlement has received Court approval.
+Wendel.
+Since 2012, the French criminal authorities have been investigating a series of transactions entered into by senior managers of Wendel Investissement (“Wendel”) during the period from 2004 through 2007 to restructure their shareholdings in Wendel.
+JPMorgan Chase Bank, N.A., Paris branch provided financing for the transactions to a number of managers of Wendel in 2007.
+JPMorgan Chase has cooperated with the investigation.
+The investigating judges issued an ordonnance de renvoi in November 2016, referring JPMorgan Chase Bank, N.A.
+to the French tribunal correctionnel for alleged complicity in tax fraud.
+No date for trial has been set by the court.
+The Firm has been successful in legal challenges made to the Court of Cassation, France’s highest court, with respect to the criminal proceedings.
+In January 2018, the Paris Court of Appeal issued a decision cancelling the mise en examen of JPMorgan Chase Bank, N.A.
+The Firm is requesting clarification from the Court of Cassation concerning the Court of Appeal’s decision before seeking direction on next steps in the criminal proceedings.
+In addition, a number of the managers have commenced civil proceedings against JPMorgan Chase Bank, N.A.
+The claims are separate, involve different allegations and are at various stages of proceedings.
+* * *
+In addition to the various legal proceedings discussed above, JPMorgan Chase and its subsidiaries are named as defendants or are otherwise involved in a substantial number of other legal proceedings.
+The Firm believes it has meritorious defenses to the claims asserted against it in its currently outstanding legal proceedings and it intends to defend itself vigorously.
+Additional legal proceedings may be initiated from time to time in the future.
+The Firm has established reserves for several hundred of its currently outstanding legal proceedings.
+In accordance with the provisions of U.S. GAAP for contingencies, the Firm accrues for a litigation-related liability when it is probable that such a liability has been incurred and the amount of the loss can be reasonably estimated.
+The Firm evaluates its outstanding legal proceedings each quarter to assess its litigation reserves, and makes adjustments in such reserves, upwards or downward, as appropriate, based on management’s best judgment after consultation with counsel.
+The Firm’s legal expense for litigation and investigations was $0 million and $61 million for the three months ended June 30, 2018 and 2017, respectively.
+There is no assurance that the Firm’s litigation reserves will not need to be adjusted in the future.
+In view of the inherent difficulty of predicting the outcome of legal proceedings, particularly where the claimants seek very large or indeterminate damages, or where the matters present novel legal theories, involve a large number of parties or are in early stages of discovery, the Firm cannot state with confidence what will be the eventual outcomes of the currently pending matters, the timing of their ultimate resolution or the eventual losses, fines, penalties or consequences related to those matters.
+JPMorgan Chase believes, based upon its current knowledge and after consultation with counsel, consideration of the material legal proceedings described above and after taking into account its current litigation reserves and its estimated aggregate range of possible losses, that the other legal proceedings currently pending against it should not have a material adverse effect on the Firm’s consolidated financial condition.
+The Firm notes, however, that in light of the uncertainties involved in such proceedings, there is no assurance that the ultimate resolution of these matters will not significantly exceed the reserves it has currently accrued or that a matter will not have material reputational consequences.
+As a result, the outcome of a particular matter may be material to JPMorgan Chase’s operating results for a particular period, depending on, among other factors, the size of the loss or liability imposed and the level of JPMorgan Chase’s income for that period.
+166
+Note 23 – Business segments
+The Firm is managed on a line of business basis.
+There are four major reportable business segments - Consumer & Community Banking, Corporate & Investment Bank, Commercial Banking and Asset & Wealth Management.
+In addition, there is a Corporate segment.
+The business segments are determined based on the products and services provided, or the type of customer served, and they reflect the manner in which financial information is currently evaluated by management.
+Results of these lines of business are presented on a managed basis.
+For a further discussion concerning JPMorgan Chase’s business segments, refer to Segment results below, and Note 31 of JPMorgan Chase’s 2017 Annual Report.
+Segment results
+The following table provides a summary of the Firm’s segment results as of or for the three and six months ended June 30, 2018 and 2017, on a managed basis.
+The Firm’s definition of managed basis starts with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm (and each of the
+reportable business segments) on an FTE basis.
+Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities.
+This allows management to assess the comparability of revenue from year-to-year arising from both taxable and tax-exempt sources.
+The corresponding income tax impact related to tax-exempt items is recorded within income tax expense.
+These adjustments have no impact on net income as reported by the Firm as a whole or by the lines of business.
+Business segment capital allocation
+The amount of capital assigned to each business is referred to as equity.
+On at least an annual basis, the Firm assesses the level of capital required for each line of business as well as the assumptions and methodologies used to allocate capital.
+For additional information on business segment capital allocation, refer to Line of business equity on pages 88-89 of JPMorgan Chase’s 2017 Annual Report.
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+Net income in 2018 for the business segments reflects the favorable impact of the reduction in the U.S. federal statutory income tax rate as a result of the TCJA.
+(a)Segment managed results reflect revenue on an FTE basis with the corresponding income tax impact recorded within income tax expense/(benefit).
+These adjustments are eliminated in reconciling items to arrive at the Firm’s reported U.S. GAAP results.
+167
+(a)Segment managed results reflect revenue on an FTE basis with the corresponding income tax impact recorded within income tax expense/(benefit).
+These adjustments are eliminated in reconciling items to arrive at the Firm’s reported U.S. GAAP results.
+168
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of JPMorgan Chase & Co.:
+Results of Review of Financial Statements
+We have reviewed the accompanying consolidated balance sheet of JPMorgan Chase & Co. and its subsidiaries (the “Firm”) as of June 30, 2018, and the related consolidated statements of income and comprehensive income for the three-month and six-month periods ended June 30, 2018 and 2017 and the consolidated statements of changes in stockholders’ equity and cash flows for the six-month periods ended June 30, 2018 and 2017, including the related notes (collectively referred to as the “interim financial statements”).
+Based on our reviews, we are not aware of any material modifications that should be made to the accompanying interim financial statements for them to be in conformity with accounting principles generally accepted in the United States of America.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the consolidated balance sheet of the Firm as of December 31, 2017, and the related consolidated statements of income, comprehensive income, changes in stockholders’ equity and cash flows for the year then ended (not presented herein), and in our report dated February 27, 2018, we expressed an unqualified opinion on those consolidated financial statements.
+In our opinion, the information set forth in the accompanying consolidated balance sheet information as of December 31, 2017, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived.
+Basis for Review Results
+These interim financial statements are the responsibility of the Firm’s management.
+We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Firm in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our review in accordance with the standards of the PCAOB.
+A review of interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters.
+It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole.
+Accordingly, we do not express such an opinion.
+August 1, 2018
+PricewaterhouseCoopers LLP, 300 Madison Avenue, New York, NY 10017
+169
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+(a) Represents securities which are tax-exempt for U.S. federal income tax purposes.
+(b) Includes held-for-investment margin loans, which are classified in accrued interest and accounts receivable, and all other interest-earning assets, which are classified in other assets on the Consolidated balance sheets.
+(c) Includes commercial paper.
+(d) Other interest-bearing liabilities include brokerage customer payables.
+(e) The combined balance of trading liabilities – debt and equity instruments were $111.0 billion and $90.5 billion for the three months ended June 30, 2018 and 2017, respectively.
+(f) Interest includes the effect of certain related hedging derivatives.
+Taxable-equivalent amounts are used where applicable.
+(g) For the three months ended June 30, 2018 and 2017, the annualized rates for securities, based on amortized cost, were 3.27% and 3.15%, respectively; this does not give effect to changes in fair value that are reflected in AOCI.
+(h) Negative interest income and yield is related to client-driven demand for certain securities combined with the impact of low interest rates; this is matched book activity and the negative interest expense on the corresponding securities loaned is recognized in interest expense and reported within trading liabilities – debt and other interest-bearing liabilities
+170
+Effective January 1, 2018, the Firm adopted several new accounting standards.
+Certain of the new accounting standards were applied retrospectively and, accordingly, prior period amounts were revised.
+For additional information, refer to Note 1.
+(a) Represents securities which are tax-exempt for U.S. federal income tax purposes.
+(b) Includes held-for-investment margin loans, which are classified in accrued interest and accounts receivable, and all other interest-earning assets included in other assets on the Consolidated balance sheets.
+(c) Includes commercial paper.
+(d) Other interest-bearing liabilities include brokerage customer payables.
+(e) The combined balance of trading liabilities – debt and equity instruments were $104.5 billion and $92.3 billion for the six months ended June 30, 2018 and 2017, respectively.
+(f) Interest includes the effect of certain related hedging derivatives.
+Taxable-equivalent amounts are used where applicable.
+(g) For the six months ended June 30, 2018 and 2017, the annualized rates for securities, based on amortized cost, were 3.19% and 3.09%, respectively; this does not give effect to changes in fair value that are reflected in AOCI.
+(h) Negative interest income and yield is related to client-driven demand for certain securities combined with the impact of low interest rates; this is matched book activity and the negative interest expense on the corresponding securities loaned is recognized in interest expense and reported within trading liabilities – debt and other interest-bearing liabilities
+171
+GLOSSARY OF TERMS AND ACRONYMS
+2017 Annual Report or 2017 Form 10-K: Annual report on Form 10-K for year ended December 31, 2017, filed with the U.S. Securities and Exchange Commission.
+ABS: Asset-backed securities
+Active foreclosures: Loans referred to foreclosure where formal foreclosure proceedings are ongoing.
+Includes both judicial and non-judicial states.
+AFS: Available-for-sale
+Allowance for loan losses to total loans: represents period-end allowance for loan losses divided by retained loans.
+AOCI: Accumulated other comprehensive income/(loss)
+ARM(s): Adjustable rate mortgage(s)
+AWM: Asset & Wealth Management
+Beneficial interests issued by consolidated VIEs: represents the interest of third-party holders of debt, equity securities, or other obligations, issued by VIEs that JPMorgan Chase consolidates.
+Benefit obligation: refers to the projected benefit obligation for pension plans and the accumulated postretirement benefit obligation for OPEB plans.
+BHC: Bank holding company
+CB: Commercial Banking
+CBB: Consumer & Business Banking
+CCAR: Comprehensive Capital Analysis and Review
+CCB: Consumer & Community Banking
+CCP: “Central counterparty” is a clearing house that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer and thereby ensuring the future performance of open contracts.
+A CCP becomes counterparty to trades with market participants through novation, an open offer system, or another legally binding arrangement.
+CDS: Credit default swaps
+CEO: Chief Executive Officer
+CET1 Capital: Common equity Tier 1 Capital
+CFTC: Commodity Futures Trading Commission
+CFO: Chief Financial Officer
+Chase Bank USA, N.A.
+: Chase Bank USA, National Association
+CIB: Corporate & Investment Bank
+CIO: Chief Investment Office
+Client deposits and other third party liabilities: Deposits, as well as deposits that are swept to on-balance sheet liabilities (e.g., commercial paper, federal funds purchased and securities loaned or sold under repurchase agreements) as part of client cash management programs.
+CLO: Collateralized loan obligations
+CLTV: Combined loan-to-value
+Collateral-dependent: A loan is considered to be collateral-dependent when repayment of the loan is expected to be provided solely by the underlying collateral, rather than by cash flows from the borrower’s operations, income or other resources.
+Commercial Card: provides a wide range of payment services to corporate and public sector clients worldwide through the commercial card products.
+Services include procurement, corporate travel and entertainment, expense management services, and business-to-business payment solutions.
+Core loans: represents loans considered central to the Firm’s ongoing businesses; core loans exclude loans classified as trading assets, runoff portfolios, discontinued portfolios and portfolios the Firm has an intent to exit.
+Credit derivatives: Financial instruments whose value is derived from the credit risk associated with the debt of a third party issuer (the reference entity) which allow one party (the protection purchaser) to transfer that risk to another party (the protection seller).
+Upon the occurrence of a credit event by the reference entity, which may include, among other events, the bankruptcy or failure to pay its obligations, or certain restructurings of the debt of the reference entity, neither party has recourse to the reference entity.
+The protection purchaser has recourse to the protection seller for the difference between the face value of the CDS contract and the fair value at the time of settling the credit derivative contract.
+The determination as to whether a credit event has occurred is generally made by the relevant International Swaps and Derivatives Association (“ISDA”) Determinations Committee.
+Criticized: Criticized loans, lending-related commitments and derivative receivables that are classified as special mention, substandard and doubtful categories for regulatory purposes and are generally consistent with a rating of CCC+/Caa1 and below, as defined by S&P and Moody’s.
+CRO: Chief Risk Officer
+CVA: Credit valuation adjustments
+DFAST: Dodd-Frank Act Stress Test
+Dodd-Frank Act: Wall Street Reform and Consumer Protection Act
+DOJ: U.S. Department of Justice
+DOL: U.S. Department of Labor
+DVA: Debit valuation adjustment
+EC: European Commission
+Eligible LTD: Long-term debt satisfying certain eligibility criteria
+Embedded derivatives: are implicit or explicit terms or features of a financial instrument that affect some or all of the cash flows or the value of the instrument in a manner similar to a derivative.
+An instrument containing such terms or features is referred to as a “hybrid.” The component of the hybrid that is the non-derivative instrument is referred
+172
+to as the “host.” For example, callable debt is a hybrid instrument that contains a plain vanilla debt instrument (i.e., the host) and an embedded option that allows the issuer to redeem the debt issue at a specified date for a specified amount (i.e., the embedded derivative).
+However, a floating rate instrument is not a hybrid composed of a fixed-rate instrument and an interest rate swap.
+ERISA: Employee Retirement Income Security Act of 1974
+EPS: Earnings per share
+Exchange-traded derivatives: Derivative contracts that are executed on an exchange and settled via a central clearing house.
+Fannie Mae: Federal National Mortgage Association
+FASB: Financial Accounting Standards Board
+FCA: Financial Conduct Authority
+FCC: Firmwide Control Committee
+FDIA: Federal Depository Insurance Act
+FDIC: Federal Deposit Insurance Corporation
+Federal Reserve: The Board of the Governors of the Federal Reserve System
+Fee share: Proportion of fee revenue based on estimates of investment banking fees generated across the industry from investment banking transactions in M&A, equity and debt underwriting, and loan syndications.
+Source: Dealogic, a third party provider of investment banking fee competitive analysis and volume-based league tables for the above noted industry products.
+FFELP: Federal Family Education Loan Program
+FFIEC: Federal Financial Institutions Examination Council
+FHA: Federal Housing Administration
+FHLB: Federal Home Loan Bank
+FICO score: A measure of consumer credit risk based on information in consumer credit reports produced by Fair Isaac Corporation.
+Because certain aged data is excluded from credit reports based on rules in the Fair Credit Reporting Act, FICO scores may not reflect all historical information about a consumer.
+Firm: JPMorgan Chase & Co.
+Forward points: represents the interest rate differential between two currencies, which is either added to or subtracted from the current exchange rate (i.e., “spot rate”) to determine the forward exchange rate.
+Freddie Mac: Federal Home Loan Mortgage Corporation
+Free-standing derivatives: is a derivative contract entered into either separate and apart from any of the Firm’s other financial instruments or equity transactions.
+Or, in conjunction with some other transaction and is legally detachable and separately exercisable.
+FSB: Financial Stability Board
+FTE: Fully taxable-equivalent
+FVA: Funding valuation adjustment
+FX: Foreign exchange
+G7: “Group of Seven nations”: Countries in the G7 are Canada, France, Germany, Italy, Japan, the U.K. and the U.S.
+G7 government securities: Securities issued by the government of one of the G7 nations.
+Ginnie Mae: Government National Mortgage Association
+GSE: Fannie Mae and Freddie Mac
+GSIB: Global systemically important banks
+HAMP: Home affordable modification program
+Headcount-related expense: Includes salary and benefits (excluding performance-based incentives), and other noncompensation costs related to employees.
+HELOAN: Home equity loan
+HELOC: Home equity line of credit
+Home equity – senior lien: represents loans and commitments where JPMorgan Chase holds the first security interest on the property.
+Home equity – junior lien: represents loans and commitments where JPMorgan Chase holds a security interest that is subordinate in rank to other liens.
+HQLA: High quality liquid assets
+HTM: Held-to-maturity
+IDI: Insured depository institutions
+IHC: JPMorgan Chase Holdings LLC, an intermediate holding company
+Impaired loan: Impaired loans are loans measured at amortized cost, for which it is probable that the Firm will be unable to collect all amounts due, including principal and interest, according to the contractual terms of the agreement.
+Impaired loans include the following:
+•All wholesale nonaccrual loans
+•All TDRs (both wholesale and consumer), including ones that have returned to accrual status
+Investment-grade: An indication of credit quality based on JPMorgan Chase’s internal risk assessment system.
+“Investment grade” generally represents a risk profile similar to a rating of a “BBB-”/“Baa3” or better, as defined by independent rating agencies.
+IR: Interest rate
+ISDA: International Swaps and Derivatives Association
+JPMorgan Chase: JPMorgan Chase & Co.
+JPMorgan Chase Bank, N.A.
+: JPMorgan Chase Bank, National Association
+J.P. Morgan Securities: J.P. Morgan Securities LLC
+LCR: Liquidity coverage ratio
+LGD: Loss given default
+LIBOR: London Interbank Offered Rate
+LLC: Limited Liability Company
+LOB: Line of business
+Loss emergence period: represents the time period between the date at which the loss is estimated to have been incurred and the ultimate realization of that loss.
+173
+LTIP: Long-term incentive plan
+LTV: “Loan-to-value ratio”: For residential real estate loans, the relationship, expressed as a percentage, between the principal amount of a loan and the appraised value of the collateral (i.e., residential real estate) securing the loan.
+Origination date LTV ratio
+The LTV ratio at the origination date of the loan.
+Origination date LTV ratios are calculated based on the actual appraised values of collateral (i.e., loan-level data) at the origination date.
+Current estimated LTV ratio
+An estimate of the LTV as of a certain date.
+The current estimated LTV ratios are calculated using estimated collateral values derived from a nationally recognized home price index measured at the metropolitan statistical area (“MSA”) level.
+These MSA-level home price indices consist of actual data to the extent available and forecasted data where actual data is not available.
+As a result, the estimated collateral values used to calculate these ratios do not represent actual appraised loan-level collateral values; as such, the resulting LTV ratios are necessarily imprecise and should therefore be viewed as estimates.
+Combined LTV ratio
+The LTV ratio considering all available lien positions, as well as unused lines, related to the property.
+Combined LTV ratios are used for junior lien home equity products.
+Master netting agreement: A single agreement with a counterparty that permits multiple transactions governed by that agreement to be terminated or accelerated and settled through a single payment in a single currency in the event of a default (e.g., bankruptcy, failure to make a required payment or securities transfer or deliver collateral or margin when due).
+Measurement alternative: Measures equity securities without readily determinable fair values at cost less impairment (if any), plus or minus observable price changes from an identical or similar investment of the same issuer.
+MBS: Mortgage-backed securities
+MD&A: Management’s discussion and analysis
+Moody’s: Moody’s Investor Services
+Mortgage product types:
+Alt-A
+Alt-A loans are generally higher in credit quality than subprime loans but have characteristics that would disqualify the borrower from a traditional prime loan.
+Alt-A lending characteristics may include one or more of the following: (i) limited documentation; (ii) a high CLTV ratio; (iii) loans secured by non-owner occupied properties; or (iv) a debt-to-income ratio above normal limits.
+A substantial proportion of the Firm’s Alt-A loans are those where a borrower does not provide complete documentation of his or her assets or the amount or source of his or her income.
+Option ARMs
+The option ARM real estate loan product is an adjustable-rate mortgage loan that provides the borrower with the option each month to make a fully amortizing, interest-only or minimum payment.
+The minimum payment on an option ARM loan is based on the interest rate charged during the introductory period.
+This introductory rate is usually significantly below the fully indexed rate.
+The fully indexed rate is calculated using an index rate plus a margin.
+Once the introductory period ends, the contractual interest rate charged on the loan increases to the fully indexed rate and adjusts monthly to reflect movements in the index.
+The minimum payment is typically insufficient to cover interest accrued in the prior month, and any unpaid interest is deferred and added to the principal balance of the loan.
+Option ARM loans are subject to payment recast, which converts the loan to a variable-rate fully amortizing loan upon meeting specified loan balance and anniversary date triggers.
+Prime
+Prime mortgage loans are made to borrowers with good credit records who meet specific underwriting requirements, including prescriptive requirements related to income and overall debt levels.
+New prime mortgage borrowers provide full documentation and generally have reliable payment histories.
+Subprime
+Subprime loans are loans that, prior to mid-2008, were offered to certain customers with one or more high risk characteristics, including but not limited to: (i) unreliable or poor payment histories; (ii) a high LTV ratio of greater than 80% (without borrower-paid mortgage insurance); (iii) a high debt-to-income ratio; (iv) an occupancy type for the loan is other than the borrower’s primary residence; or (v) a history of delinquencies or late payments on the loan.
+MSA: Metropolitan statistical areas
+MSR: Mortgage servicing rights
+NA: Data is not applicable or available for the period presented.
+Net Capital Rule: Rule 15c3-1 under the Securities Exchange Act of 1934.
+Net charge-off/(recovery) rate: represents net charge-offs/(recoveries) (annualized) divided by average retained loans for the reporting period.
+Net interchange income includes the following components:
+•Interchange income: A fee paid to a credit card issuer in the clearing and settlement of a sales or cash advance transaction.
+•Rewards costs: The cost to the Firm for points earned by cardholders enrolled in credit card rewards programs.
+•Partner payments: Payments to co-brand credit card partners based on the cost of loyalty program rewards earned by cardholders on credit card transactions.
+174
+Net yield on interest-earning assets: The average rate for interest-earning assets less the average rate paid for all sources of funds.
+NM: Not meaningful
+NOL: Net operating loss
+Nonaccrual loans: Loans for which interest income is not recognized on an accrual basis.
+Loans (other than credit card loans and certain consumer loans insured by U.S. government agencies) are placed on nonaccrual status when full payment of principal and interest is not expected, regardless of delinquency status, or when principal and interest has been in default for a period of 90 days or more unless the loan is both well-secured and in the process of collection.
+Collateral-dependent loans are typically maintained on nonaccrual status.
+Nonperforming assets: Nonperforming assets include nonaccrual loans, nonperforming derivatives and certain assets acquired in loan satisfactions, predominantly real estate owned and other commercial and personal property.
+OCC: Office of the Comptroller of the Currency
+OCI: Other comprehensive income/(loss)
+OEP: One Equity Partners
+OIS: Overnight index swap
+OPEB: Other postretirement employee benefit
+OTC: “Over-the-counter derivatives”: Derivative contracts that are negotiated, executed and settled bilaterally between two derivative counterparties, where one or both counterparties is a derivatives dealer.
+OTC cleared: “Over-the-counter cleared derivatives”: Derivative contracts that are negotiated and executed bilaterally, but subsequently settled via a central clearing house, such that each derivative counterparty is only exposed to the default of that clearing house.
+OTTI: Other-than-temporary impairment
+Overhead ratio: Noninterest expense as a percentage of total net revenue.
+Parent Company: JPMorgan Chase & Co.
+Participating securities: represents unvested share-based compensation awards containing nonforfeitable rights to dividends or dividend equivalents (collectively, “dividends”), which are included in the earnings per share calculation using the two-class method.
+JPMorgan Chase grants restricted stock and RSUs to certain employees under its share-based compensation programs, which entitle the recipients to receive nonforfeitable dividends during the vesting period on a basis equivalent to the dividends paid to holders of common stock.
+These unvested awards meet the definition of participating securities.
+Under the two-class method, all earnings (distributed and undistributed) are allocated to each class of common stock and participating securities, based on their respective rights to receive dividends.
+PCA: Prompt corrective action
+PCI: “Purchased credit-impaired” loans represents certain loans that were acquired and deemed to be credit-impaired on the acquisition date in accordance with the guidance of
+the FASB.
+The guidance allows purchasers to aggregate credit-impaired loans acquired in the same fiscal quarter into one or more pools, provided that the loans have common risk characteristics (e.g., product type, LTV ratios, FICO scores, past due status, geographic location).
+A pool is then accounted for as a single asset with a single composite interest rate and an aggregate expectation of cash flows.
+PD: Probability of default
+PRA: Prudential Regulatory Authority
+Pre-provision profit/(loss): represents total net revenue less noninterest expense.
+The Firm believes that this financial measure is useful in assessing the ability of a lending institution to generate income in excess of its provision for credit losses.
+Principal transactions revenue: Principal transactions revenue is driven by many factors, including the bid-offer spread, which is the difference between the price at which the Firm is willing to buy a financial or other instrument and the price at which the Firm is willing to sell that instrument.
+It also consists of realized (as a result of closing out or termination of transactions, or interim cash payments) and unrealized (as a result of changes in valuation) gains and losses on financial and other instruments (including those accounted for under the fair value option) primarily used in client-driven market-making activities and on private equity investments.
+In connection with its client-driven market-making activities, the Firm transacts in debt and equity instruments, derivatives and commodities (including physical commodities inventories and financial instruments that reference commodities).
+Principal transactions revenue also includes certain realized and unrealized gains and losses related to hedge accounting and specified risk-management activities, including: (a) certain derivatives designated in qualifying hedge accounting relationships (primarily fair value hedges of commodity and foreign exchange risk), (b) certain derivatives used for specific risk management purposes, primarily to mitigate credit risk and foreign exchange risk, and (c) other derivatives.
+PSU(s): Performance share units
+Receivables from customers: primarily represents margin loans to brokerage customers that are collateralized through assets maintained in the clients’ brokerage accounts, as such no allowance is held against these receivables.
+These receivables are reported within accrued interest and accounts receivable on the Firm’s Consolidated balance sheets.
+Regulatory VaR: Daily aggregated VaR calculated in accordance with regulatory rules.
+REO: Real estate owned
+Reported basis: Financial statements prepared under U.S. GAAP, which excludes the impact of taxable-equivalent adjustments.
+Retained loans: Loans that are held-for-investment (i.e.
+excludes loans held-for-sale and loans at fair value).
+Revenue wallet: Total fee revenue based on estimates of investment banking fees generated across the industry (i.e., the revenue wallet) from investment banking transactions in M&A, equity and debt underwriting, and loan
+175
+syndications.
+Source: Dealogic, a third-party provider of investment banking competitive analysis and volume based league tables for the above noted industry products.
+RHS: Rural Housing Service of the U.S. Department of Agriculture
+ROE: Return on equity
+ROTCE: Return on tangible common equity
+RSU(s): Restricted stock units
+RWA: “Risk-weighted assets”: Basel III establishes two comprehensive approaches for calculating RWA (a Standardized approach and an Advanced approach) which include capital requirements for credit risk, market risk, and in the case of Basel III Advanced, also operational risk.
+Key differences in the calculation of credit risk RWA between the Standardized and Advanced approaches are that for Basel III Advanced, credit risk RWA is based on risk-sensitive approaches which largely rely on the use of internal credit models and parameters, whereas for Basel III Standardized, credit risk RWA is generally based on supervisory risk-weightings which vary primarily by counterparty type and asset class.
+Market risk RWA is calculated on a generally consistent basis between Basel III Standardized and Basel III Advanced.
+S&P: Standard and Poor’s 500 Index
+SAR(s): Stock appreciation rights
+SCCL: Single-counterparty credit limits
+Scored portfolio: The scored portfolio predominantly includes residential real estate loans, credit card loans and certain auto and business banking loans where credit loss estimates are based on statistical analysis of credit losses over discrete periods of time.
+The statistical analysis uses portfolio modeling, credit scoring and decision-support tools.
+SEC: U.S. Securities and Exchange Commission
+Seed capital: Initial JPMorgan capital invested in products, such as mutual funds, with the intention of ensuring the fund is of sufficient size to represent a viable offering to clients, enabling pricing of its shares, and allowing the manager to develop a track record.
+After these goals are achieved, the intent is to remove the Firm’s capital from the investment.
+Single-name: Single reference-entities
+SLR: Supplementary leverage ratio
+SMBS: Stripped mortgage-backed securities
+SPEs: Special purpose entities
+Structural interest rate risk: represents interest rate risk of the non-trading assets and liabilities of the Firm.
+Structured notes: Structured notes are predominantly financial instruments containing embedded derivatives.
+Where present, the embedded derivative is the primary driver of risk.
+Suspended foreclosures: Loans referred to foreclosure where formal foreclosure proceedings have started but are currently on hold, which could be due to bankruptcy or loss mitigation.
+Includes both judicial and non-judicial states.
+Taxable-equivalent basis: In presenting managed results, the total net revenue for each of the business segments and the Firm is presented on a tax-equivalent basis.
+Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities; the corresponding income tax impact related to tax-exempt items is recorded within income tax expense.
+TBVPS: Tangible book value per share
+TCE: Tangible common equity
+TDR: “Troubled debt restructuring” is deemed to occur when the Firm modifies the original terms of a loan agreement by granting a concession to a borrower that is experiencing financial difficulty.
+TLAC: Total Loss Absorbing Capacity
+U.K.: United Kingdom
+Unaudited: Financial statements and information that have not been subjected to auditing procedures sufficient to permit an independent certified public accountant to express an opinion.
+U.S.: United States of America
+U.S. GAAP: Accounting principles generally accepted in the United States of America.
+U.S. GSE(s): “U.S.
+government-sponsored enterprises”: In the U.S., GSEs are quasi-governmental, privately-held entities established by Congress to improve the flow of credit to specific sectors of the economy and provide certain essential services to the public.
+U.S. GSEs include Fannie Mae and Freddie Mac, but do not include Ginnie Mae, which is directly owned by the U.S. Department of Housing and Urban Development.
+U.S. GSE obligations are not explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. government.
+U.S. Treasury: U.S. Department of the Treasury
+VA: U.S. Department of Veterans Affairs
+VaR: “Value-at-risk” is a measure of the dollar amount of potential loss from adverse market moves in an ordinary market environment.
+VIEs: Variable interest entities
+Warehouse loans: consist of prime mortgages originated with the intent to sell that are accounted for at fair value and classified as trading assets.
+Washington Mutual transaction: On September 25, 2008, JPMorgan Chase acquired certain of the assets of the banking operations of Washington Mutual Bank (“Washington Mutual”) from the FDIC.
+176
+LINE OF BUSINESS METRICS
+CONSUMER & COMMUNITY BANKING (“CCB”)
+Debit and credit card sales volume: Dollar amount of cardmember purchases, net of returns.
+Deposit margin/deposit spread: represents net interest income expressed as a percentage of average deposits.
+Home Lending Production and Home Lending Servicing revenue comprises the following:
+Net production revenue: includes net gains or losses on originations and sales of mortgage loans, other production-related fees and losses related to the repurchase of previously-sold loans.
+Net mortgage servicing revenue: includes the following components:
+a) Operating revenue predominantly represents the return on Home Lending Servicing’s MSR asset and includes:
+•Actual gross income earned from servicing third-party mortgage loans, such as contractually specified servicing fees and ancillary income; and
+•The change in the fair value of the MSR asset due to the collection or realization of expected cash flows.
+b) Risk management represents the components of Home Lending Servicing’s MSR asset that are subject to ongoing risk management activities, together with derivatives and other instruments used in those risk management activities.
+Mortgage origination channels comprise the following:
+Retail: Borrowers who buy or refinance a home through direct contact with a mortgage banker employed by the Firm using a branch office, the Internet or by phone.
+Borrowers are frequently referred to a mortgage banker by a banker in a Chase branch, real estate brokers, home builders or other third parties.
+Correspondent: Banks, thrifts, other mortgage banks and other financial institutions that sell closed loans to the Firm.
+Card Services: includes the Card and Merchant Services businesses.
+Card: is a business that primarily issues credit cards to consumers and small businesses.
+Merchant Services: is a business that primarily processes transactions for merchants.
+Net revenue rate: represents Card Services net revenue (annualized) expressed as a percentage of average loans for the period.
+Auto loan and lease origination volume: Dollar amount of auto loans and leases originated.
+CORPORATE & INVESTMENT BANK (“CIB”)
+Definition of selected CIB revenue:
+Investment Banking: incorporates all revenue associated with investment banking activities, and is reported net of investment banking revenue shared with other lines of business.
+Treasury Services: offers a broad range of products and services that enable clients to manage payments and receipts, as well as invest and manage funds.
+Products include U.S. dollar and multi-currency clearing, ACH, lockbox, disbursement and reconciliation services, check deposits, and currency-related services.
+Lending: includes net interest income, fees, gains or losses on loan sale activity, gains or losses on securities received as part of a loan restructuring, and the risk management results related to the credit portfolio.
+Lending also includes Trade Finance, which includes loans tied directly to goods crossing borders, export/import loans, commercial letters of credit, standby letters of credit, and supply chain finance.
+Fixed Income Markets: primarily includes revenue related to market-making across global fixed income markets, including foreign exchange, interest rate, credit and commodities markets.
+Equity Markets: primarily includes revenue related to market-making across global equity products, including cash instruments, derivatives, convertibles and prime brokerage.
+Securities Services: primarily includes custody, fund accounting and administration, and securities lending products sold principally to asset managers, insurance companies and public and private investment funds.
+Also includes clearance, collateral management and depositary receipts business which provides broker-dealer clearing and custody services, including tri-party repo transactions, collateral management products, and depositary bank services for American and global depositary receipt programs.
+Description of certain business metrics:
+Assets under custody (“AUC”): represents activities associated with the safekeeping and servicing of assets on which Securities Services earns fees.
+Investment banking fees: represents advisory, equity underwriting, bond underwriting and loan syndication fees.
+177
+COMMERCIAL BANKING (“CB”)
+CB is divided into four primary client segments: Middle Market Banking, Corporate Client Banking, Commercial Term Lending, and Real Estate Banking.
+Middle Market Banking: covers corporate, municipal and nonprofit clients, with annual revenue generally ranging between $20 million and $500 million.
+Corporate Client Banking: covers clients with annual revenue generally ranging between $500 million and $2 billion and focuses on clients that have broader investment banking needs.
+Commercial Term Lending: primarily provides term financing to real estate investors/owners for multifamily properties as well as office, retail and industrial properties.
+Real Estate Banking: provides full-service banking to investors and developers of institutional-grade real estate investment properties.
+Other: primarily includes lending and investment-related activities within the Community Development Banking business.
+CB product revenue comprises the following:
+Lending: includes a variety of financing alternatives, which are primarily provided on a secured basis; collateral includes receivables, inventory, equipment, real estate or other assets.
+Products include term loans, revolving lines of credit, bridge financing, asset-based structures, leases, and standby letters of credit.
+Treasury services: includes revenue from a broad range of products and services that enable CB clients to manage payments and receipts, as well as invest and manage funds.
+Investment banking: includes revenue from a range of products providing CB clients with sophisticated capital-raising alternatives, as well as balance sheet and risk management tools through advisory, equity underwriting, and loan syndications.
+Revenue from fixed income and equity market products used by CB clients is also included.
+Other: product revenue primarily includes tax-equivalent adjustments generated from Community Development Banking activity and certain income derived from principal transactions.
+ASSET & WEALTH MANAGEMENT (“AWM”)
+Assets under management (“AUM”): represent assets managed by AWM on behalf of its Private Banking, Institutional and Retail clients.
+Client assets: represent assets under management, as well as custody, brokerage, administration and deposit accounts.
+Multi-asset: Any fund or account that allocates assets under management to more than one asset class.
+Alternative assets: The following types of assets constitute alternative investments – hedge funds, currency, real estate, private equity and other investment funds designed to focus on nontraditional strategies.
+AWM’s lines of business consist of the following:
+Asset Management: provides comprehensive global investment services - including asset management, pension analytics, asset-liability management and active risk-budgeting strategies.
+Wealth Management: offers investment advice and wealth management, including investment management, capital markets and risk management, tax and estate planning, banking, lending and specialty-wealth advisory services.
+AWM’s client segments consist of the following:
+Private Banking: clients include high- and ultra-high-net-worth individuals, families, money managers, business owners and small corporations worldwide.
+Institutional: clients include both corporate and public institutions, endowments, foundations, nonprofit organizations and governments worldwide.
+Retail: clients include financial intermediaries and individual investors.
+178
+Asset Management has two high-level measures of its overall fund performance:
+Percentage of mutual fund assets under management in funds rated 4- or 5-star: Mutual fund rating services rank funds based on their risk-adjusted performance over various periods.
+A 5-star rating is the best rating and represents the top 10% of industry-wide ranked funds.
+A 4-star rating represents the next 22.5% of industry-wide ranked funds.
+A 3-star rating represents the next 35% of industry-wide ranked funds.
+A 2-star rating represents the next 22.5% of industry-wide ranked funds.
+A 1-star rating is the worst rating and represents the bottom 10% of industry-wide ranked funds.
+The “overall Morningstar rating” is derived from a weighted average of the performance associated with a fund’s three-, five- and ten-year (if applicable) Morningstar Rating metrics.
+For U.S. domiciled funds, separate star ratings are given at the individual share class level.
+The Nomura “star rating” is based on three-year risk-adjusted performance only.
+Funds with fewer than three years of history are not rated and hence excluded from this analysis.
+All ratings, the assigned peer categories and the asset values used to derive this analysis are sourced from these fund rating providers.
+The data providers re-denominate the asset values into U.S. dollars.
+This % of AUM is based on star ratings at the share class level for U.S. domiciled funds, and at a “primary share class” level to represent the star rating of all other funds except for Japan where Nomura provides ratings at the fund level.
+The “primary share class”, as defined by Morningstar, denotes the share class recommended as being the best proxy for the portfolio and in most cases will be the most retail version (based upon annual management charge, minimum investment, currency and other factors).
+The performance data could have been different if all funds/accounts would have been included.
+Past performance is not indicative of future results.
+Percentage of mutual fund assets under management in funds ranked in the 1st or 2nd quartile (one, three, and five years): All quartile rankings, the assigned peer categories and the asset values used to derive this analysis are sourced from the fund ranking providers.
+Quartile rankings are done on the net-of-fee absolute return of each fund.
+The data providers re-denominate the asset values into U.S. dollars.
+This % of AUM is based on fund performance and associated peer rankings at the share class level for U.S. domiciled funds, at a “primary share class” level to represent the quartile ranking of the U.K., Luxembourg and Hong Kong funds and at the fund level for all other funds.
+The “primary share class”, as defined by Morningstar, denotes the share class recommended as being the best proxy for the portfolio and in most cases will be the most retail version (based upon annual management charge, minimum investment, currency and other factors).
+Where peer group rankings given for a fund are in more than one “primary share class” territory both rankings are included to reflect local market competitiveness (applies to “Offshore Territories” and “HK SFC Authorized” funds only).
+The performance data could have been different if all funds/accounts would have been included.
+Past performance is not indicative of future results.
+179
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+For a discussion of the quantitative and qualitative disclosures about market risk, refer to the Market Risk Management section of Management’s discussion and analysis and pages 121-128 of JPMorgan Chase’s 2017 Annual Report.
+Item 4.
+Controls and Procedures.
+As of the end of the period covered by this report, an evaluation was carried out under the supervision and with the participation of the Firm’s management, including its Chairman and Chief Executive Officer and its Chief Financial Officer, of the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934).
+Based on that evaluation, the Chairman and Chief Executive Officer and the Chief Financial Officer concluded that these disclosure controls and procedures were effective.
+Refer to Exhibits 31.1 and 31.2 for the Certification statements issued by the Chairman and Chief Executive Officer and Chief Financial Officer.
+The Firm is committed to maintaining high standards of internal control over financial reporting.
+Nevertheless, because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.
+In addition, in a firm as large and complex as JPMorgan Chase, lapses or deficiencies in internal controls do occur from time to time, and there can be no assurance that any such deficiencies will not result in significant deficiencies or material weaknesses in internal controls in the future.
+For further information, refer to “Management’s report on internal control over financial reporting” on page 146 of JPMorgan Chase’s 2017 Annual Report.
+There was no change in the Firm’s internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities Exchange Act of 1934) that occurred during the three months ended June 30, 2018, that has materially affected, or is reasonably likely to materially affect, the Firm’s internal control over financial reporting.
+Part II – Other Information
+Item 1.
+Legal Proceedings.
+For information that updates the disclosures set forth under Part I, Item 3: Legal Proceedings, in JPMorgan Chase’s 2017 Annual Report on Form 10-K, refer to the discussion of the Firm’s material legal proceedings in Note 22 of this Form 10-Q.
+Item 1A.
+Risk Factors.
+For a discussion of certain risk factors affecting the Firm, refer to Part I, Item 1A: Risk Factors on pages 8–26 of JPMorgan Chase’s 2017 Annual Report on Form 10-K and Forward-Looking Statements on page 83 of this Form 10-Q.
+Supervision and regulation
+For information on Supervision and Regulation, refer to Recent regulatory developments on page 44 of this Form 10-Q and the Supervision and regulation section on pages 1–8 of JPMorgan Chase’s 2017 Form 10-K.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.

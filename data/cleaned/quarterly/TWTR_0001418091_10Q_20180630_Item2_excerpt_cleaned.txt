@@ -1,0 +1,319 @@
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and related notes thereto included in Item 1 “Financial Statements” in this Quarterly Report on Form 10-Q.
+This discussion contains forward-looking statements that involve risks and uncertainties.
+Our actual results could differ materially from those discussed below.
+Factors that could cause or contribute to such differences include, but are not limited to, those identified below and those discussed in the section titled “Risk Factors” included elsewhere in this Quarterly Report on Form 10-Q.
+Overview and Highlights of Quarterly Results
+Revenue in the second quarter of 2018 totaled $710.5 million, an increase of 24% compared to $573.9 million in the second quarter of 2017.
+•Advertising revenue totaled $601.1 million, an increase of 23% year-over-year.
+•Data licensing and other revenue totaled $109.5 million, an increase of 29% year-over-year.
+•U.S.
+revenue totaled $366.7 million, an increase of 10% year-over-year.
+•International revenue totaled $343.9 million, an increase of 44% year-over-year.
+•Total ad engagements increased 81% year-over-year.
+•Cost per ad engagement decreased 32% year-over-year.
+Net income was $100.1 million, compared to net loss of $116.5 million for the three months ended June 30, 2017.
+Non-GAAP net income was $134.0 million, an increase of 138% year-over-year.
+Adjusted EBITDA was $264.8 million, an increase of 49% year-over-year.
+Cash, cash equivalents and short-term investments in marketable securities totaled $5.66 billion as of June 30, 2018.
+Average monthly active users were 335 million for the three months ended June 30, 2018, an increase of 3% year-over-year and compared to 336 million for the three months ended March 31, 2018.
+Average daily active usage for the three months ended June 30, 2018 grew 11% year-over-year.
+32
+Key Metrics
+We review a number of metrics, including the following key metrics, to evaluate our business, measure our performance, identify trends affecting our business, formulate business plans and make strategic decisions.
+Monthly Active Users (MAUs).
+We define MAUs as Twitter users who logged in or were otherwise authenticated and accessed Twitter through our website, mobile website, desktop or mobile applications, SMS or registered third-party applications or websites in the 30-day period ending on the date of measurement.
+Average MAUs for a period represent the average of the MAUs at the end of each month during the period.
+MAUs are a measure of the size of our logged in or otherwise authenticated active user base.
+In the three months ended June 30, 2018, we had 335 million average MAUs, which represents a 9 million increase from the three months ended June 30, 2017 and 1 million decrease from the three months ended March 31, 2018.
+The year-over-year increase in average MAUs was driven by a combination of organic growth, marketing, and product improvements.
+The quarter-over-quarter decrease in average MAUs reflected the impact from decisions we have made to prioritize the health of the platform, to not move to paid SMS carrier relationships in certain markets and, to a lesser extent, GDPR.
+In the three months ended June 30, 2018, we had 68 million average MAUs in the United States and 267 million average MAUs in the rest of the world, which represent an increase of 1% and 3%, respectively, from the three months ended June 30, 2017.
+For additional information on how we calculate MAUs and factors that can affect this metric, see the section titled “Note Regarding Key Metrics.”
+(1) In the three months ended March 31, 2018, we discovered that a software change made in the second quarter of 2017 resulted in a non-material overstatement of our historical MAU in 2017.
+The differences were between 30,000 and 400,000 in each period presented for total MAU.
+After rounding, the only impact to our prior disclosures was to reduce international MAU from 261 million to 260 million in the third quarter of 2017 due to a change of approximately 175,000 international MAUs.
+33
+Changes in Daily Active Users/Daily Active Usage (DAU).
+We define daily active users or daily active usage as Twitter users who logged in or were otherwise authenticated and accessed Twitter through our website, mobile website or mobile applications on any given day.
+Average DAU for a period represents the number of DAUs on each day of such period divided by the number of days for such period.
+Changes in DAU are a measure of changes in the size of our daily logged in or otherwise authenticated active user base.
+To calculate the year-over-year change in DAUs, we subtract the average DAU for the three months ended in the previous year from the average DAU for the same three months ended in the current year and divide the result by the average DAU for the three months ended in the previous year.
+Prior to reporting results for the third quarter of 2016, we had discussed DAUs and the ratio of MAUs to DAUs.
+In those instances, for comparability and consistency with MAUs, DAUs also included users who accessed Twitter through our desktop applications and third-party properties.
+For additional information on how we calculate changes in DAUs and factors that can affect this metric, see the section titled “Note Regarding Key Metrics.”
+DAU grew faster than MAU in the second quarter of 2018 as we continued to benefit from organic growth, product and marketing investments made in this quarter and in prior periods.
+Our DAU to MAU ratio remains well below 50%.
+We have a significant opportunity to grow DAU, not just from our existing MAU base, but also from new users who come to Twitter every day.
+Changes in Ad Engagements and Cost per Ad Engagement.
+We define an ad engagement as a user interaction with one of our pay-for-performance advertising products.
+Ad engagements with our advertising products are based on a user completing an objective set out by an advertiser such as expanding, retweeting, liking or replying to a Promoted Tweet, viewing an embedded video, downloading or engaging with a promoted mobile application, clicking on a website link, signing up for marketing emails from advertisers, following the account that tweets a Promoted Tweet, or completing a transaction on an external website.
+We believe changes in ad engagements is one way to measure user engagement with our advertising products.
+We believe changes in cost per ad engagement is one way to measure demand.
+In the three months ended June 30, 2018, ad engagements increased 81% from the three months ended June 30, 2017.
+The increase was driven by increased demand (including broad-based advertiser demand around the World Cup), a continuing mix shift toward video ad impressions and improved click-through rates.
+In the three months ended June 30, 2018, average cost per ad engagement decreased 32% from the three months ended June 30, 2017.
+The decrease in cost per ad engagement was driven by the ongoing mix shift to video ad engagements (which have overall lower cost per ad engagement compared to other ad formats) and lower cost per ad engagement across the majority of ad formats compared to the second quarter of 2017.
+34
+Non-GAAP Financial Measures
+To supplement our consolidated financial statements presented in accordance with generally accepted accounting principles in the United States, or GAAP, we consider certain financial measures that are not prepared in accordance with GAAP, including Adjusted EBITDA, non-GAAP income before income taxes, non-GAAP provision for income taxes as it relates to the calculation of non-GAAP net income, non-GAAP net income, revenue excluding foreign exchange effect and advertising revenue excluding foreign exchange effect.
+These non-GAAP financial measures are not based on any standardized methodology prescribed by GAAP and are not necessarily comparable to similarly-titled measures presented by other companies.
+Revenue Measures Excluding the Impact of Changes in Foreign Exchange Rates (Constant Currency)
+In order to present revenue and advertising revenue excluding the impact of changes in foreign exchange rates for the quarter ended June 30, 2018, we translated the applicable measure using the prior year's monthly exchange rates for our settlement currencies other than the U.S. dollar, which is also referred to as constant currency.
+Adjusted EBITDA
+We define Adjusted EBITDA as net income (loss) adjusted to exclude stock-based compensation expense, depreciation and amortization expense, interest and other expenses, net, provision (benefit) for income taxes, restructuring charges and one-time nonrecurring gain, if any.
+The following table presents a reconciliation of net income (loss) to Adjusted EBITDA for each of the periods indicated (in thousands):
+35
+Non-GAAP Net Income
+We define non-GAAP net income as net income (loss) adjusted to exclude stock-based compensation expense, amortization of acquired intangible assets, non-cash interest expense related to convertible notes, non-cash expense related to acquisitions, impairment of investments in privately-held companies, restructuring charges and one-time nonrecurring gain, and adjustment to income tax expense based on the non-GAAP measure of profitability using our blended U.S. federal and state statutory tax rate, which was 24% for the current periods presented and 37% for the historical periods presented as a result of the 2017 Tax Cuts and Jobs Act.
+Non-GAAP Income before Income Taxes.
+We define non-GAAP income before income taxes as income (loss) before income taxes adjusted to exclude stock-based compensation expense, amortization of acquired intangible assets, non-cash interest expense related to convertible notes, non-cash expense related to acquisitions, impairment of investments in privately-held companies, and restructuring charges and one-time nonrecurring gain.
+Non-GAAP Provision for Income Taxes.
+We define non-GAAP provision for income taxes as the current and deferred income tax expense commensurate with the non-GAAP measure of profitability using our blended U.S. federal and state statutory tax rate.
+The following table presents a reconciliation of net income (loss) to non-GAAP net income for each of the periods indicated (in thousands):
+We use non-GAAP financial measures of revenue excluding foreign exchange effect, advertising revenue excluding foreign exchange effect, Adjusted EBITDA, non-GAAP income before income taxes, non-GAAP provision for income taxes, and non-GAAP net income in evaluating our operating results and for financial and operational decision-making purposes.
+We believe that Adjusted EBITDA, non-GAAP income before income taxes and non-GAAP net income help identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude in Adjusted EBITDA, non-GAAP income before income taxes and non-GAAP net income.
+We believe that revenue excluding foreign exchange effect, advertising revenue excluding foreign exchange effect, Adjusted EBITDA, non-GAAP income before income taxes and non-GAAP net income provide useful information about our operating results, enhance the overall understanding of our past performance and future prospects and allow for greater transparency with respect to key metrics used by our management in its financial and operational decision-making.
+We also use these measures to establish budgets and operational goals for managing our business and evaluating our performance.
+36
+These non-GAAP financial measures should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP.
+There are a number of limitations related to the use of these non-GAAP financial measures rather than net income (loss), which is the nearest GAAP equivalent of these financial measures.
+Some of these limitations are:
+•
+These non-GAAP financial measures exclude restructuring charges, one-time nonrecurring gain and certain recurring, non-cash charges such as stock-based compensation expense, amortization of acquired intangible assets, non-cash interest expense related to convertible notes and impairment of investments in privately-held companies;
+•
+Stock-based compensation expense has been, and will continue to be for the foreseeable future, a significant recurring expense in our business and an important part of our compensation strategy;
+•
+Adjusted EBITDA and non-GAAP income before income taxes do not reflect tax payments that reduce cash available to us;
+•
+Non-GAAP net income reflects an estimate of taxes calculated in accordance with the SEC’s Non-GAAP Financial Measures Compliance and Disclosure Interpretation, not actual taxes due or payable;
+•
+Adjusted EBITDA excludes depreciation and amortization expense and although these are non-cash charges, the property and equipment being depreciated and amortized may have to be replaced in the future; and
+•
+The expenses that we exclude in our calculation of these non-GAAP financial measures may differ from the expenses, if any, that our peer companies may exclude from similarly-titled non-GAAP measures when they report their results of operations.
+Results of Operations
+The following tables set forth our consolidated statement of operations data for each of the periods presented (in thousands):
+(1)
+Costs and expenses include stock-based compensation expense as follows (in thousands):
+37
+The following table sets forth our consolidated statement of operations data for each of the periods presented as a percentage of revenue:
+Revenue
+We generate the substantial majority of our revenue from the sale of advertising services.
+We also generate revenue by licensing our data to third parties and providing mobile advertising exchange services.
+Advertising Services
+We generate most of our advertising revenue by selling our Promoted Products.
+Currently, our Promoted Products consist of the following:
+•
+Promoted Tweets.
+Promoted Tweets, which are labeled as “promoted,” appear within a user’s timeline, search results or profile pages just like an ordinary Tweet regardless of device, whether it be desktop or mobile.
+Using our proprietary algorithms and understanding of the interests of each user, we can deliver Promoted Tweets that are intended to be relevant to a particular user.
+We enable our advertisers to target an audience based on our users’ Interest Graphs.
+Our Promoted Tweets are pay-for-performance or pay-for-impression delivered advertising that are priced through an auction.
+Our Promoted Tweets include objective-based features that allow advertisers to pay only for the types of engagement selected by the advertisers, such as Tweet engagements (e.g., retweets, replies and likes), website clicks, mobile application installs or engagements, obtaining new followers, or video views.
+•
+Promoted Accounts.
+Promoted Accounts, which are labeled as “promoted,” provide a way for our advertisers to grow a community of users who are interested in their business, products or services.
+Our Promoted Accounts are pay-for-performance advertising that is priced through an auction.
+•
+Promoted Trends.
+Promoted Trends, which are labeled as “promoted,” appear at the top of the list of trending topics or timeline for an entire day in a particular country or on a global basis.
+We sell our Promoted Trends on a fixed-fee-per-day basis.
+While the majority of the Promoted Products we sell to our advertisers are placed on Twitter, we also generate advertising revenue by placing advertising products that we sell to advertisers on third-party publishers’ websites, applications or other offerings.
+38
+Data Licensing and Other
+We generate data licensing and other revenue by (i) offering data products and data licenses that allow our data partners to access, search and analyze historical and real-time data on our platform (which consists of public Tweets and their content), and (ii) providing mobile advertising exchange services through our MoPub exchange.
+Our data partners generally purchase licenses to access all or a portion of our data for a fixed period.
+We recognize data licensing revenue over time as we grant customers a right to access our data for a defined period.
+In addition, we operate a mobile ad exchange and receive service fees from transactions completed on the exchange.
+Our mobile ad exchange enables buyers and sellers to purchase and sell advertising inventory and matches buyers and sellers.
+We have determined we are not the principal in the purchase and sale of advertising inventory in transactions between third-party buyers and sellers on the exchange.
+Therefore we report revenue related to our ad exchange services on a net basis.
+Revenue in the three and six months ended June 30, 2018 increased by $136.7 million and $253.3 million, respectively, compared to the three and six months ended June 30, 2017.
+On a constant currency basis, revenue in the three and six months ended June 30, 2018 would have increased by $129.3 million or 23% and $232.3 million or 21% compared to the three and six months ended June 30, 2017, respectively.
+In the three and six months ended June 30, 2018, advertising revenue increased by 23% and 22%, respectively, compared to the three and six months ended June 30, 2017.
+On a constant currency basis, advertising revenue in the three and six months ended June 30, 2018 would have increased by $104.5 million or 21% and $192.3 million or 20% compared to the three and six months ended June 30, 2017, respectively.
+The substantial majority of our advertising revenue was generated from our owned and operated platform.
+Advertising revenue generated from the sale of our advertising products on our owned and operated platform in the three and six months ended June 30, 2018 was $564.0 million and $1.10 billion, respectively, as compared to $435.9 million and $851.2 million in the three and six months ended June 30, 2017, respectively.
+Advertising revenue generated from the sale of our advertising products placed on third-party publishers’ websites, applications and other offerings in the three and six months ended June 30, 2018 was $37.1 million and $79.1 million, respectively, as compared to $53.2 million and $111.7 million in the three and six months ended June 30, 2017, respectively.
+The decrease in advertising revenue from the sale of our advertising products placed on third-party publishers’ websites, applications and other offerings in the three and six months ended June 30, 2018 was mainly driven by the lack of contribution from TellApart (which was fully deprecated in 2017).
+TellApart revenue was $14.1 million and $37.0 million in the three and six months ended June 30, 2017, respectively, and no revenue was generated from TellApart in the three and six months ended June 30, 2018.
+The overall increase in advertising revenue was primarily attributable to a 81% and 75% increase in the number of ad engagements in the three and six months ended June 30, 2018, respectively, offset by a 32% and 30% decrease in average cost per ad engagement in the three and six months ended June 30, 2018, respectively, compared to the same periods in 2017.
+The increase in ad engagements was driven by increased demand (including broad-based advertiser demand around the World Cup), a continuing mix shift toward video ad impressions and improved click-through rates.
+The decrease in average cost per ad engagement was driven by the ongoing mix shift to video ad engagements (which have overall lower cost per ad engagement compared to other ad formats) and lower cost per ad engagement across the majority of ad formats compared to the second quarter of 2017.
+Advertising revenue was driven by broad-based growth across all major products and geographies.
+As we continue to improve our sales execution, drive ad relevance, and grow our user base and the level of engagement of our users, we believe the potential to increase our revenue grows.
+In the three and six months ended June 30, 2018, data licensing and other revenue increased by 29% and 25%, respectively, compared to the three months and six months ended June 30, 2017.
+The increase was mainly attributable to data licensing fees from the offering of data products, but also reflects the performance of MoPub.
+We expect to continue to increase revenue in MoPub while also growing our data revenue through our product and channel segmented go-to-market approach.
+39
+Cost of Revenue
+Cost of revenue includes infrastructure costs, other direct costs including content costs, amortization of acquired intangible assets and amortization of capitalized labor costs for internally developed software, allocated facilities costs, as well as traffic acquisition costs, or TAC.
+Infrastructure costs consist primarily of data center costs related to our co-located facilities, which include lease and hosting costs, related support and maintenance costs and energy and bandwidth costs; as well as depreciation of servers and networking equipment; and personnel-related costs, including salaries, benefits and stock-based compensation, for our operations teams.
+TAC consists of costs we incur with third parties in connection with the sale to advertisers of our advertising products that we place on third-party publishers’ websites, applications or other offerings collectively resulting from acquisitions, and from our organically-built advertising network, Twitter Audience Platform.
+Many of the elements of our cost of revenue are fixed, and cannot be reduced in the near term.
+In the three months ended June 30, 2018, cost of revenue increased by $17.3 million compared to the three months ended June 30, 2017.
+The increase was attributable to a $19.4 million increase in content costs, an $8.3 million increase in depreciation and amortization expense primarily related to additional internally developed software, server and networking equipment, and a $6.2 million increase in other direct costs.
+These increases were offset by a $10.3 million decrease in TAC substantially due to the decrease in advertising revenue generated from TellApart, which we fully deprecated in 2017, a $4.7 million decrease in infrastructure costs, and a $1.6 million decrease in personnel-related costs.
+In the six months ended June 30, 2018, cost of revenue increased by $19.8 million compared to the six months ended June 30, 2017.
+The increase was attributable to a $38.0 million increase in content costs, an $11.4 million increase in depreciation and amortization expense primarily related to additional internally developed software, server and networking equipment, and a $6.9 million increase in other direct costs.
+These increases were offset by a $24.8 million decrease in TAC substantially due to the decrease in advertising revenue generated from TellApart, which we fully deprecated in 2017, a $10.6 million decrease in infrastructure costs, and a $1.1 million decrease in personnel-related costs.
+We plan to continue to scale the capacity and enhance the capability and reliability of our infrastructure to support user growth and increased activity on our platform.
+We expect that cost of revenue in absolute dollars will increase in the near term but will vary from period to period as a percentage of revenue.
+Research and Development
+Research and development expenses consist primarily of personnel-related costs, including salaries, benefits and stock-based compensation, for our engineers and other employees engaged in the research and development of our products and services.
+In addition, research and development expenses include amortization of acquired intangible assets, allocated facilities and other supporting overhead costs.
+In the three months ended June 30, 2018, research and development expenses decreased by $4.6 million compared to the three months ended June 30, 2017.
+The decrease was attributable to a $5.7 million decrease in personnel-related costs, mainly driven by a decrease in stock-based compensation expense offset by an increase in average employee headcount, and a $2.2 million increase in the capitalization of costs associated with developing software for internal use.
+The decrease was offset by a $3.3 million increase in allocated facilities and other supporting overhead expenses.
+40
+In the six months ended June 30, 2018, research and development expenses decreased by $10.0 million compared to the six months ended June 30, 2017.
+The decrease was attributable to a $28.3 million decrease in personnel-related costs, mainly driven by a decrease in stock-based compensation expense offset by an increase in average employee headcount.
+The decrease was offset by the absence of an $11.1 million one-time nonrecurring gain on sale of assets that occurred in the six months ended June 30, 2017, net of restructuring charges, a $4.4 million increase in allocated facilities and other supporting overhead expenses, and a $2.8 million decrease in the capitalization of costs associated with developing software for internal use.
+We plan to continue to invest in key areas of our business to ensure that we have the right level of engineering, product management and design personnel and related resources to support our research and development efforts.
+We expect that research and development costs will vary in absolute dollar amounts for the foreseeable future and vary in the near term from period to period as a percentage of revenue.
+Sales and Marketing
+Sales and marketing expenses consist primarily of personnel-related costs, including salaries, commissions, benefits and stock-based compensation for our employees engaged in sales, sales support, business development and media, marketing, corporate communications and customer service functions.
+In addition, marketing and sales-related expenses also include advertising costs, market research, tradeshows, branding, marketing, public relations costs, amortization of acquired intangible assets, as well as allocated facilities and other supporting overhead costs.
+In the three months ended June 30, 2018, sales and marketing expenses increased by $2.7 million compared to the three months ended June 30, 2017.
+The increase was attributable to a $10.3 million increase in allocated facilities and other supporting overhead expenses, and a $6.0 million increase in personnel-related costs driven by an increase in average employee headcount.
+These increases were offset by a $9.0 million decrease in marketing and sales-related expenses, and a $4.6 million decrease in amortization of acquired intangible assets.
+In the six months ended June 30, 2018, sales and marketing expenses increased by $11.2 million compared to the six months ended June 30, 2017.
+The increase was attributable to a $16.8 million increase in allocated facilities and other supporting overhead expenses, and a $9.1 million increase in personnel-related costs driven by an increase in average employee headcount.
+These increases were offset by a $13.6 million decrease in amortization of acquired intangible assets, and a $1.1 million decrease in restructuring charges and other expenses.
+We continue to evaluate key areas in our business to ensure we have the right level of sales and marketing to execute on our key priorities and objectives.
+We expect that sales and marketing costs will vary in absolute dollar amounts for the foreseeable future and vary in the near term from period to period as a percentage of revenue.
+General and Administrative
+General and administrative expenses consist primarily of personnel-related costs, including salaries, benefits and stock-based compensation, for our executive, finance, legal, information technology, human resources and other administrative employees.
+In addition, general and administrative expenses include fees and costs for professional services, including consulting, third-party legal and accounting services and facilities and other supporting overhead costs that are not allocated to other departments.
+41
+In the three months ended June 30, 2018, general and administrative expense increased by $3.3 million compared to the three months ended June 30, 2017.
+The increase was attributable to a $7.7 million increase in professional service fees.
+The increase was offset by a $3.7 million decrease in allocated facilities and other supporting overhead expenses, and a $0.7 million decrease in other expenses.
+In the six months ended June 30, 2018, general and administrative expense decreased by $0.9 million compared to the six months ended June 30, 2017.
+The decrease was attributable to a $5.8 million decrease in personnel-related costs, mainly driven by a decrease in stock-based compensation expense, a $2.8 million decrease in allocated facilities and other supporting overhead expenses, and a $1.2 million decrease in other expenses.
+These decreases were offset by an $8.9 million increase in professional service fees.
+ We plan to continue to invest in key areas of our business and ensure that we have the right level of general and administrative support on our key priorities and objectives.
+We expect that general and administrative expenses will vary in absolute dollar amounts for the foreseeable future and vary in the near term from period to period as a percentage of revenue.
+Interest Expense
+Interest expense consists primarily of interest expense incurred in connection with the $935.0 million principal amount of 0.25% convertible senior notes due 2019, or the 2019 Notes, the $954.0 million principal amount of 1.00% convertible senior notes due 2021, or the 2021 Notes, and the $1.15 billion principal amount of 0.25% convertible senior notes due 2024, or the 2024 Notes, and together with the 2019 Notes and 2021 Notes, the Notes, and interest expense related to capital leases and other financing facilities.
+In the three and six months ended June 30, 2018, interest expense increased by $3.6 million and $5.2 million, respectively, compared to the three and six months ended June 30, 2017.
+The increase was primarily attributable to our Notes, including the offering of our 2024 Notes in June 2018.
+Interest expense in the three and six months ended June 30, 2018 was comprised of $28.6 million and $54.2 million, respectively, of total interest expense related to the Notes as well as the credit facility, and $1.4 million and $2.8 million, respectively, related to capital leases of equipment.
+Interest Income
+Interest income is generated from our cash equivalents and short-term investments net of the related amortization of premium paid on such investments.
+Interest income increased by $11.5 million and $19.1 million in the three and six months ended June 30, 2018, respectively, compared to the three and six months ended June 30, 2017.
+The increase was primarily attributable to higher invested cash balances and higher interest rates.
+42
+Other Income (Expense), Net
+Other income (expense), net, consists primarily of unrealized foreign exchange gains and losses due to re-measurement of monetary assets and liabilities denominated in non-functional currencies and realized foreign exchange gains and losses on foreign exchange transactions.
+We expect our foreign exchange gains and losses will vary depending upon movements in the underlying exchange rates.
+Other expense, net, decreased by $53.1 million and $54.1 million in the three and six months ended June 30, 2018, respectively, compared to the three and six months ended June 30, 2017.
+The decrease was primarily attributable to a $3.0 million other-than-temporary impairment charge on our investment in a privately-held company during the three months ended June 30, 2018, compared to a $55.0 million impairment charge during the three month ended June 30, 2017, and the more favorable foreign currency exchange impacts from foreign currency-denominated assets and liabilities as well as derivative financial instruments.
+Provision (Benefit) for Income Taxes
+Provision (benefit) for income taxes consists of federal and state income taxes in the United States and income taxes in certain foreign jurisdictions.
+We released our valuation allowance for Brazil, which resulted in a net tax benefit.
+The tax benefit was reduced by income tax expenses for certain foreign jurisdictions and state income taxes in the United States, which are expected to fluctuate based on the pre-tax results within and outside of the United States and will also be impacted by our allocation of centrally incurred costs to foreign jurisdictions.
+Our future effective tax rate will also be affected by the changes in tax rates and tax regulations, the impact of tax examinations, the impact of business combinations, and changes in valuation allowance.
+In addition, the provision is impacted by deferred income taxes and changes in the related valuation allowance reflecting the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+In December 2017, the Tax Cuts and Jobs Act (the “Tax Act”), was signed into law.
+Among other provisions, the Tax Act reduces the U.S. federal statutory corporate income tax rate from 35% to 21%.
+Due to the magnitude of the changes enacted by the Tax Act, along with the pending status of the laws and guidance from the U.S. and state regulatory and standard-setting bodies, the completion of the accounting for the tax impact has been reported as provisional and may be subject to material change.
+There may be significant changes to our future effective tax rate, which may result in a material adverse effect on our business as a result of the Tax Act.
+We are in the process of assessing the impact of the international tax provisions provided for in the Tax Act that applies to calendar years 2018 onwards.
+We are not, however, subject to the one-time mandatory transition tax.
+The tax impacts of the Tax Act are still provisional and we expect to complete our analysis within the measurement period in accordance with SAB 118.
+Our benefit for income taxes in the three and six months ended June 30, 2018 changed by $37.7 million and $38.0 million, respectively, compared to provision of $3.4 million and $6.6 million in the three and six months ended June 30, 2017, respectively.
+The change was primarily due to a $41.7 million net tax benefit resulting from the release of our valuation allowance in Brazil, partially offset by increased foreign income taxes.
+During the three months ended June 30, 2018, we released the valuation allowance in Brazil, based upon the preponderance of positive evidence over negative evidence that it was more likely than not that the deferred tax assets in Brazil would be realizable.
+43
+As of June 30, 2018, we had a valuation allowance for all of the U.S. and state deferred tax assets with the exception of $2.5 million of these deferred tax assets.
+As of June 30, 2018, we completed our reassessment of the realizability of these assets and have concluded that a valuation allowance is still required based on the weighting of positive and negative evidence.
+Evaluating the need for and the amount of a valuation allowance for deferred tax assets often requires significant judgment and extensive analysis of all available evidence to determine whether it is more likely than not (a probability level of more than 50%) that these assets will be realized.
+In completing this assessment management must consider both objective and subjective factors in its assessment.
+These factors include, but are not limited to:
+•
+Future reversal of existing temporary differences
+•
+Tax-planning strategies
+•
+Future taxable income exclusive of reversing temporary differences and loss carryforwards
+As we continue to make significant strides in optimizing operations resulting in improved financial results, our assessment is likely to result in the determination that a U.S. valuation allowance will no longer be required by year end.
+We expect to have an additional net income tax benefit due to valuation allowance releases for the U.S. in the third quarter of 2018.
+This would result in a significant reversal of the valuation allowance and a corresponding material non-cash income tax benefit and the recording of additional deferred tax assets on our balance sheet in such future financial reporting period.
+Based on recent earnings in certain jurisdictions, sufficient positive evidence is likely to exist within the 2018 calendar year such that we may release a significant portion of our valuation allowance.
+Liquidity and Capital Resources
+Our principal sources of liquidity are our cash, cash equivalents, and short-term investments in marketable securities.
+Our cash equivalents and marketable securities are invested primarily in short-term fixed income securities, including government and investment-grade debt securities and money market funds.
+In June 2018, we also received net proceeds of approximately $1.14 billion from the issuance of 2024 Notes, after deducting the debt issuance costs.
+Concurrently with the sales of the 2024 Notes, we entered into privately-negotiated convertible note hedge transactions with respect to our common stock for which we paid approximately $268.0 million and sold warrants for which we received approximately $186.8 million.
+We expect that we will incur additional cash interest expense for the term of the 2024 Notes.
+In addition, we have access to funds under our credit facility (as described below) and have accessed the capital markets.
+As of June 30, 2018, we had $5.66 billion of cash, cash equivalents and short-term investments in marketable securities, of which $312.4 million was held by our foreign subsidiaries.
+Under the current tax laws, if these funds are needed for our operations in the U.S., we would be required to accrue and pay additional taxes to repatriate certain of these funds.
+However, our intent is to indefinitely reinvest these funds outside of the U.S. and our current plans do not demonstrate a need to repatriate them to fund our U.S. operations.
+In addition, we have a revolving unsecured credit facility (described below) available to borrow up to $1.0 billion.
+We believe that our existing cash, cash equivalents and short-term investment balance, and our credit facility, together with cash generated from operations will be sufficient to meet our working capital and capital expenditure requirements for at least the next 12 months.
+The Tax Act is not expected to have a material impact on our liquidity and capital resources going forward.
+44
+Credit Facility
+In October 2013, we entered into a revolving credit agreement with certain lenders which provides for a $1.0 billion revolving unsecured credit facility maturing on October 22, 2018.
+We are obligated to pay interest on loans under the credit facility and other customary fees for a credit facility of this size and type, including an upfront fee and an unused commitment fee.
+Our obligations under the credit facility are guaranteed by one of our wholly-owned subsidiaries.
+In addition, the credit facility contains restrictions on payments including cash payment of dividends.
+As of June 30, 2018, no amounts had been drawn under the credit facility.
+The revolving credit agreement was amended in June 2018 to increase the amount of indebtedness that the Company may incur from $3.0 billion to $4.5 billion, and to increase the amount of restricted payments that the Company may make from $500.0 million to $1.0 billion as long as the Company’s total leverage ratio is less than 2.0.
+As of June 30, 2018, no amounts had been drawn under the credit facility.
+Operating Activities
+Cash provided by operating activities consists of net income (loss) adjusted for certain non-cash items including depreciation and amortization, stock-based compensation, amortization of discount on our Notes, deferred income taxes, valuation allowance release, impairment of investments in privately-held companies, non-cash restructuring charges, as well as the effect of changes in working capital and other activities.
+We expect that cash provided by operating activities will fluctuate in future periods as a result of a number of factors, including fluctuations in our revenue, increases in operating expenses and costs related to acquisitions.
+For additional discussion, see “Part II—Other Information, Item 1A.
+Risk Factors.”
+Cash provided by operating activities in the six months ended June 30, 2018 was $563.8 million, an increase in cash inflow of $170.7 million compared to the six months ended June 30, 2017.
+Cash provided by operating activities was driven by net income of $161.1 million, as adjusted for the exclusion of non-cash expenses and other adjustments totaling $357.3 million, of which $202.8 million was related to depreciation and amortization expense, and $152.7 million was related to stock-based compensation expense, and the effect of changes in working capital and other carrying balances that resulted in cash inflows of $45.4 million.
+Cash provided by operating activities in the six months ended June 30, 2017 was $393.2 million.
+Cash provided by operating activities was driven by a net loss of $178.0 million, as adjusted for the exclusion of non-cash expenses totaling $526.3 million, of which $230.4 million was related to stock-based compensation expense and $55.0 million was related to other-than-temporary impairment on an investment in a privately-held company, and the effect of changes in working capital and other carrying balances that resulted in cash inflows of $44.9 million.
+Investing Activities
+Our primary investing activities consist of purchases of property and equipment, particularly purchases of servers and networking equipment, leasehold improvements for our facilities, purchases and disposal of marketable securities, strategic investments in privately-held companies, acquisitions of businesses and other activities.
+Cash used in investing activities in the six months ended June 30, 2018 was $672.5 million, an increase in cash outflow of $606.2 million compared to the six months ended June 30, 2017.
+The change was primarily due to a $412.8 million increase in the purchases of marketable securities, a $205.0 million increase in purchases of property and equipment, a $35.0 million decrease in proceeds from sale of long-lived assets, and a net increase of $32.5 million in cash used in business combinations, offset by a $67.6 million increase in proceeds from sales and maturities of marketable securities, an $8.3 million decrease in expenditures on other investing activities and $3.2 million increase in proceeds from sales of property and equipment.
+We anticipate making capital expenditures in 2018 of approximately $450 million to $500 million, as we invest in our infrastructure equipment.
+Financing Activities
+Our primary financing activities consist of issuances of securities, including common stock issued under our employee stock purchase plan, capital lease financing and stock option exercises by employees and other service providers.
+45
+Cash provided by financing activities in the six months ended June 30, 2018 was $1.02 billion, compared to $38.8 million cash used in financing activities in the six months ended June 30, 2017.
+The change was due to net proceeds of $1.14 billion from the issuance of convertible notes net of issuance costs, reduced by the net cash outflow of $81.2 million from the purchase of convertible note hedges and sale of warrants closed in connection with the issuance of convertible notes, a $7.8 million decrease in payments of capital lease obligations, a $2.3 million increase in proceeds from the issuance of shares of stock from the ESPP, offset by a $4.3 million increase in tax payments related to net share settlements of equity awards and a $4.2 million decrease in proceeds from option exercises.
+Off Balance Sheet Arrangements
+We do not have any off-balance sheet arrangements and did not have any such arrangements as of June 30, 2018.
+Contractual Obligations
+Our principal commitments consist of obligations under the Notes (including principal and coupon interest), capital and operating leases for equipment, office space and co-located data center facilities, as well as non-cancellable contractual commitments.
+Refer to Note 13 – Commitments and Contingencies for more details.
+Critical Accounting Policies and Estimates
+We prepare our consolidated financial statements in accordance with GAAP.
+In doing so, we make estimates and assumptions that affect our reported amounts of assets, liabilities, revenue and expenses, as well as related disclosure of contingent assets and liabilities.
+To the extent that there are material differences between these estimates and actual results, our financial condition or operating results would be affected.
+We base our estimates on past experience and other assumptions that we believe are reasonable under the circumstances, and we evaluate these estimates on an ongoing basis.
+We refer to accounting estimates of this type as critical accounting policies and estimates.
+Income Taxes
+We recognize deferred tax assets and liabilities for both the expected impact of differences between the financial statement amount and the tax basis of assets and liabilities and for the expected future tax benefit to be derived from tax losses and tax credit carryforwards.
+We record a valuation allowance against deferred tax assets when it is considered more likely than not that all or a portion of our deferred tax assets will not be realized.
+In making this determination, we are required to give significant weight to evidence that can be objectively verified.
+It is generally difficult to conclude that a valuation allowance is not needed when there is significant negative evidence, such as cumulative losses in recent years.
+Forecasts of future taxable income are considered to be less objective than past results, particularly in light of the previous years’ economic environment.
+Therefore, cumulative losses weigh heavily in the overall assessment.
+In addition to considering forecasts of future taxable income, we are also required to evaluate and quantify other possible sources of taxable income in order to assess the realization of our deferred tax assets, namely the reversal of existing deferred tax liabilities, the carryback of losses and credits as allowed under current tax law, and the implementation of tax planning strategies.
+Evaluating and quantifying these amounts involves significant judgments.
+Each source of income must be evaluated based on all positive and negative evidence; this evaluation involves assumptions about future activity.
+Certain taxable temporary differences that are not expected to reverse during the carryforward periods permitted by tax law cannot be considered as a source of future taxable income that may be available to realize the benefit of deferred tax assets.
+In order for us to realize our deferred tax assets, we must be able to generate sufficient taxable income in those jurisdictions where the deferred tax assets are located.
+We consider anticipated future growth, forecasted earnings, anticipated future taxable income, the mix of earnings in the jurisdictions in which we operate, historical earnings, taxable income in prior years, if carryback is permitted under the law and prudent and feasible tax planning strategies in determining the need for a valuation allowance.
+In the event we were to determine that we would not be able to realize all or part of our net deferred tax assets in the future, an adjustment to the deferred tax assets valuation allowance would be charged to earnings in the period in which we make such a determination.
+If we later determine that it is more likely than not that the net deferred tax assets would be realized, we would reverse the applicable portion of the previously provided valuation allowance as an adjustment to earnings at such time.
+Please refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” contained in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended December 31, 2017 for a more complete discussion of our critical accounting policies and estimates.
+46
+There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and estimates described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017, except as described in regards to our accounting policy related to revenue in Note 2 of Part I, Item 1, and above, of this Quarterly Report on Form 10-Q.
+Recent Accounting Pronouncements
+For information with respect to recent accounting pronouncements and the impact of these pronouncements on our consolidated financial statements, see Note 1 – “Description of Business and Summary of Significant Accounting Policies” in the notes to the consolidated financial statements included in Part I of this Quarterly Report on Form 10-Q.
+47
+Item 3.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
