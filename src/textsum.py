@@ -2,15 +2,24 @@ import gensim
 import argparse
 import os
 from clean_data import clean_data_directories, load_raw_reports
-from sklearn.cluster import MiniBatchKMeans
+from sklearn.cluster import KMeans
 from word2vec import word2vec_model_dir
 import numpy as np
 from lexrank import STOPWORDS, LexRank
 from itertools import chain
+import logging
+from time import time
 
+### IMPORTANT CONSTANTS
 summary_directories = ['../summaries/annual/', '../summaries/quarterly/']
 google_word2vec_dir = '../models/pretrained_word2vec/GoogleNews-vectors-negative300.bin'
 google_word2vec_load_limit = 800000
+logging.basicConfig(level=logging.DEBUG)
+LEXRANK_SUMMARY_SIZE = 10
+WORD2VEC_NUM_CLUSTERS = 10
+SUMMARIZE_LOG_EVERY_N = 1
+WORD2VEC_MIN_SENTENCE_LENGTH = 4
+###
 
 def load_model():
     # Based on command line args, returns model and type 
@@ -23,7 +32,7 @@ def load_model():
             model = gensim.models.Word2Vec.load(word2vec_model_dir + args.model_name)
             return model, 'word2vec'
         else:
-            print("Using Google's pretrained model")
+            logging.info("Using Google's pretrained model")
             model = gensim.models.KeyedVectors.load_word2vec_format(google_word2vec_dir,
                                                                     binary=True,
                                                                     limit=google_word2vec_load_limit)
@@ -40,40 +49,44 @@ def summarize_report_lexrank(report, model):
     summary = model.get_summary(sentences, summary_size=10)
     return '\n'.join([sentence.capitalize() for sentence in summary])
 
-
-def summarize_report(report, model, model_type):
-    summary_methods = {
-        "word2vec": summarize_report_word2vec, 
-        "lexrank": summarize_report_lexrank
-    }
-    return summary_methods[model_type](report, model)
-
-
-def summarize_report_word2vec(report, model):
+def generate_sentence_vectors_word2vec(report, model):
+    # Given a report, returns sentence_vectors and vectorizable_report
+    # (Vectorizable_report != num of sentences in report,
+    # because if none of the words in a sentence have a representation in the vocab,
+    # we do not use it in the summary)
+    sentences = report.split('\n')
     sentence_vectors = []
-    report = report.split('\n')
     vectorizable_report = []
     words_in_vocab = 0
     total_words = 0
-    for sentence in report:
+    for sentence in sentences:
         words = sentence.split()
+        if len(words) < WORD2VEC_MIN_SENTENCE_LENGTH:
+            continue
         word_vectors = [model.wv[word] for word in words if word in model.wv.vocab]
-        words_in_vocab += len(word_vectors)
-        total_words += len(words)
         if len(word_vectors) == 0:
-            print("DEBUG: ", sentence)
+            logging.debug(sentence)
             continue
         sent_vec = np.average(np.stack(word_vectors), axis=0)
         sentence_vectors.append(sent_vec)
         vectorizable_report.append(sentence)
-    print("Number of total words in report :", total_words)
-    print("Number of words found in vocab : ", words_in_vocab)
+        words_in_vocab += len(word_vectors)
+        total_words += len(words)
+    logging.info("Number of total words in report : %d"%(total_words))
+    logging.info("Number of words found in vocab : %d "%(words_in_vocab))
+    logging.info("Number of sentences that could not be vectorized : %d "%(
+        len(sentences) - len(vectorizable_report)))
+    return sentence_vectors, vectorizable_report
+
+def cluster_and_summarize(sentence_vectors, vectorizable_report):
+    # Given a list of sentence vectors and a list of corresponding sentences,
+    # generates a summary using K-Means
     X = np.array(sentence_vectors)
-    if len(sentence_vectors) < 20:
+    if len(sentence_vectors) < WORD2VEC_NUM_CLUSTERS:
         num_clusters = 1
     else:
-        num_clusters = 20
-    means = MiniBatchKMeans(n_clusters=num_clusters,batch_size=6,max_iter=10).fit(X)
+        num_clusters = WORD2VEC_NUM_CLUSTERS
+    means = KMeans(n_clusters=num_clusters).fit(X)
     summary = []
     summary_sent_idx = []
     for center in means.cluster_centers_:
@@ -89,6 +102,17 @@ def summarize_report_word2vec(report, model):
     sorted_summary = [x for _,x in sorted(zip(summary_sent_idx,summary))]
     return '\n'.join(sorted_summary)
 
+def summarize_report_word2vec(report, model):
+    sentence_vectors, vectorizable_report = generate_sentence_vectors_word2vec(report, model)
+    return cluster_and_summarize(sentence_vectors, vectorizable_report)
+
+
+def summarize_report(report, model, model_type):
+    summary_methods = {
+        "word2vec": summarize_report_word2vec,
+        "lexrank": summarize_report_lexrank
+    }
+    return summary_methods[model_type](report, model)
 
 def main():
     model, model_type = load_model()
@@ -96,7 +120,15 @@ def main():
         return
     for clean_dir, summary_dir in zip(clean_data_directories, summary_directories):
         reports, names = load_raw_reports(clean_dir)
-        summaries = [summarize_report(report, model, model_type) for report in reports]
+        summaries = []
+        start_time = time()
+        for i in range(len(reports)):
+            summary = summarize_report(reports[i], model, model_type)
+            if i % SUMMARIZE_LOG_EVERY_N == 0:
+                curr_time = time()
+                logging.info("Iteration %d : took %d seconds"%(i, curr_time - start_time))
+                start_time = curr_time
+            summaries.append(summary)
         summary_dir = summary_dir + model_type + "/"
         os.makedirs(os.path.dirname(summary_dir+"test.txt"), exist_ok=True)
         for summary, name in zip(summaries, names):
