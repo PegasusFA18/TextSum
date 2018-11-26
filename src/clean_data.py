@@ -9,8 +9,10 @@ raw_data_directories = ['../data/raw/annual/', '../data/raw/quarterly/']
 clean_data_directories = ['../data/cleaned/annual/', '../data/cleaned/quarterly/']
 
 def filter_sentence(sentence):
+    """
     if len(sentence.split()) < 3:
         return False
+    """
     for phrase in undesired_phrases:
         if phrase in sentence:
             return False
@@ -20,20 +22,23 @@ def clean_sentence(sentence):
     ret = sentence
     for char in undesired_characters:
         ret = ret.replace(char, '')
-    return ret.lower()
+    return ret
 
-def sentencify_report(report):
-    paragraphs = report.split('\n')
-    sentences = []
-    for paragraph in paragraphs:
+def paragraphify_report(report):
+    curr_paragraphs = report.split('\n')
+    paragraphs = []
+    for paragraph in curr_paragraphs:
         paragraph_sentences = sent_tokenize(paragraph)
         filtered_sentences = [clean_sentence(sentence) for sentence in paragraph_sentences if filter_sentence(sentence)]
-        sentences.extend(filtered_sentences)
-    return sentences
+        new_paragraph = ' '.join(filtered_sentences)
+        if new_paragraph != '':
+            paragraphs.append(new_paragraph)
+        # paragraphs.append(''.join(filtered_sentences))
+    return paragraphs
 
 def clean_data(reports):
-    sentencified_reports = [sentencify_report(report) for report in reports]
-    return ['\n'.join(sentences) for sentences in sentencified_reports]
+    paragraphified_reports = [paragraphify_report(report) for report in reports]
+    return ['\n'.join(paragraphs) for paragraphs in paragraphified_reports]
 
 def load_raw_reports(raw_dir):
     reports = []
