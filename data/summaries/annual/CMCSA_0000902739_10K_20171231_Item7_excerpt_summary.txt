@@ -1,103 +1,487 @@
-Substantially all of our business customers are initially under minimum-term contracts, which typically range from 2 to 5 years.
-As a result, revenue tends to be seasonal, with increases experienced each year during the summer months and around the holiday season.
-Minor differences may exist due to rounding.
-The revenue and operating costs and expenses associated with our broadcast of the 2015 Super Bowl were reported in our Broadcast Television segment.
-We primarily offer our enterprise service offerings to Fortune 1000 companies and other large enterprises with multiple locations both within and outside of our cable distribution footprint where we have agreements with other companies to use their networks to provide coverage outside of our service areas.
-Our Cable Networks segment generates revenue primarily from the distribution and licensing of its programming and from the sale of advertising on its networks and digital properties.
-High-Speed Internet
-We offer high-speed Internet services with downstream speeds that range up to 1 gigabit per second (“Gbps”) and fiber-based speeds that range up to 2 Gbps.
-The increases in revenue in both years were primarily due to rate adjustments and increases in the number of residential customers subscribing to additional services such as premium channels and advanced services, which accounted for substantially all of the increases in both 2017 and 2016.
-Voice
-We offer voice services that provide local and long-distance calling and other related features.
-The primary drivers of the changes in operating costs and expenses were as follows:
-2017
-•An increase in programming expenses in our Cable Communications segment
-•An increase in programming and production expenses in our Filmed Entertainment segment, partially offset by expenses in 2016 associated with our broadcast of the 2016 Rio Olympics
-•An increase in Corporate and Other activities driven by the launch of our wireless phone service
-2016
-•An increase in programming expenses in our Cable Communications segment
-•Our broadcast of the 2016 Rio Olympics, which was reported in our NBCUniversal segments
-Operating costs and expenses for our segments is discussed separately below under the heading “Segment Operating Results.” Operating costs and expenses for our corporate operations, other businesses and business development initiatives is discussed separately below under the heading “Corporate and Other Results of Operations.”
-Consolidated depreciation and amortization expense increased in 2017 and 2016 primarily due to increases in capital expenditures, as well as expenditures for software, in our Cable Communications segment in recent years.
-Excluding $298 million of revenue associated with our broadcast of the 2016 Rio Olympics, distribution revenue increased 6.8% and 5.8% in 2017 and 2016, respectively.
-Release dates are determined by several factors, including the timing of the exhibition of a film in movie theaters, holiday periods and the timing of competitive releases.
-Video revenue increased 3.5% and 3.9% in 2017 and 2016, respectively.
-2017 Consolidated Operating Results by Segment(a)
-  Revenue Adjusted EBITDA
-(a)Charts exclude the results of NBCUniversal Headquarters and Other, Corporate and Other, and eliminations.
-Cable franchise and other regulatory fees represent the fees we are required to pay to federal, state and local authorities that we pass through to our customers.
-Content Licensing
-Content licensing revenue is generated from the licensing of our owned programming in the United States and internationally to various distribution platforms, including to cable and broadcast networks, and to subscription video on demand services.
-Advertising revenue is primarily based on the price we charge for each advertising unit, which is generally based on audience ratings, the value of our viewer demographics to advertisers and the number of advertising units we can place in our cable networks’ programming schedules.
-These amounts are eliminated in our consolidated financial statements but are included in the amounts presented above.
-In addition, we generate revenue from the sale of advertising online and on our On Demand service.
-As of December 31, 2017, 45.2% of the homes and businesses in the areas we serve subscribed to our high-speed Internet services, compared to 43.8% and 41.9% as of December 31, 2016 and 2015, respectively.
-We continue to invest to increase our network capacity and in customer premise equipment, primarily for our X1 platform, cloud DVR technology and wireless gateways.
-Other
-Other investing activities in 2017 were primarily related to proceeds of $482 million received by NBCUniversal in the FCC auction for the relinquishment of spectrum rights (see Note 5 to Comcast’s consolidated financial statements and Note 4 to NBCUniversal’s consolidated financial statements).
-From time to time we may exclude from Adjusted EBITDA the impact of events, gains, losses or other charges (such as significant legal settlements) that affect the period-to-period comparability of our operating performance.
-Excluding $1.0 billion of revenue associated with our broadcast of the 2016 Rio Olympics, advertising revenue decreased 2.3% in 2017 as the impact of continued declines in audience ratings were partially offset by higher prices for advertising units sold.
-The increase in 2017 was partially offset by a decrease in spending on customer premise equipment and support capital.
-Advertising revenue is affected by the strength of the national and local advertising markets, general economic conditions, cyclicality related to political campaigns and issue-oriented advertising, and the success and ratings of our programming.
-Customers with minimum-term contracts may only discontinue service in accordance with the terms of their contracts.
-Advertising, marketing and promotion expenses decreased in 2016 primarily due to increased spending in 2015 for marketing of our NBC primetime lineup.
-Cable Networks Segment Results of Operations
-Cable Networks Segment – Revenue
-Distribution
-Distribution revenue is generated from the distribution of our cable network programming to traditional and virtual multichannel video providers and is affected by the number of subscribers receiving our cable networks and the fees we charge per subscriber.
-Cable Networks Segment – Operating Costs and Expenses
-Programming and Production Costs
-Programming and production costs include the amortization of owned and acquired programming, sports rights, direct production costs, residual and participation payments, production overhead, costs associated with the distribution of our programming to third-party networks and other distribution platforms, and on-air talent costs.
-These expenses increased in 2017 and 2016 primarily due to increases in employee-related costs.
-Distribution and other revenue increased in 2016 primarily due to an increase in fees recognized under our retransmission consent agreements, as well as revenue associated with our broadcast of the 2016 Rio Olympics.
-Corporate and Other
-Our other business interests consist primarily of the operations of Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania and operates arena management-related businesses.
-Pro forma information does not include adjustments for transaction-related costs, costs related to integration activities, or cost savings or synergies that have been or may be achieved by the combined businesses.
-The strengthening of the Japanese yen accounted for approximately one-third of the increase in revenue for 2016.
-Programming and production costs decreased in 2017 primarily due to costs associated with our broadcast of the 2016 Rio Olympics, which were partially offset by an increase in other sports programming rights costs and higher studio production costs in 2017.
-Other
-Other revenue primarily includes revenue related to cable franchise and other regulatory fees.
-Customer service expenses increased in 2016 primarily due to increased support for improving the customer experience and increases in total labor costs, which reflected sales and support activities associated with the deployment of our X1 platform and wireless gateways, and growth in business services and security and automation services.
-Equity in Net Income (Losses) of Investees, Net
-The changes in equity in net income (losses) of investees, net in 2017 and 2016 were primarily due to our equity method investments in Atairos Group, Inc. and Hulu, LLC.
-Advertising revenue decreased 8.8% in 2017 primarily due to a decrease in political advertising revenue.
-We currently serve approximately 6,400 franchise areas in the United States.
-We use Adjusted EBITDA as the measure of profit or loss for our operating segments.
-The costs associated with marketing films have generally increased in recent years and may continue to increase in the future.
-Advertising revenue decreased in 2017 and increased in 2016 primarily due to revenue associated with our broadcast of the 2016 Rio Olympics.
-Home entertainment revenue decreased in 2016 primarily due to the strong performance of our releases in 2015, including Minions and Jurassic World.
-Guest spending includes in-park spending on food, beverages and merchandise.
-As of December 31, 2017, Universal Studios Japan was in compliance with all of these covenants.
-Other Operating and Administrative Costs and Expenses
-Other operating and administrative costs and expenses include salaries, employee benefits, rent and other overhead expenses.
-We continue to develop a Universal theme park in Beijing, China.
-Competition is intense, both from traditional multichannel video providers and from new technologies and distribution platforms for viewing content.
-Content licensing revenue increased in 2017 and 2016 primarily due to the timing of content provided under our licensing agreements.
-(a)Adjusted EBITDA is a non-GAAP performance measure.
-Off-Balance Sheet Arrangements
-As of December 31, 2017, we did not have any material off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
-Theme Parks segment revenue increased in 2016 compared to the pro forma combined revenue in 2015 primarily due to increases in guest spending and higher guest attendance driven by the successful opening of The Wizarding World of Harry Potter attraction in Hollywood, as well as the positive impact of foreign currency translation due to the strengthening of the Japanese yen.
-Additionally, in 2017, we prospectively adopted certain provisions of the new accounting guidance related to share-based compensation which resulted in an increase in income tax benefit of $297 million (see Note 3 to Comcast’s consolidated financial statements).
-The income tax benefit in 2017 was primarily driven by the enactment of new federal tax reform legislation in December 2017 (“2017 Tax Act”), partially offset by higher taxable income from operations.
-Comcast 2017 Annual Report on Form 10-K
-53
-Share Repurchases Under Share Repurchase Program Authorization and Dividends Paid
-(in billions)
-Contractual Obligations
-Refer to Note 10 and Note 16 to Comcast’s consolidated financial statements.
-The success of a film in movie theaters is a significant factor in determining the revenue a film is likely to generate in succeeding distribution platforms.
-The pro forma amounts are primarily based on historical results of operations, adjusted for the allocation of purchase price, and are not necessarily indicative of what our results would have been had we operated Universal Studios Japan since January 1, 2014, nor of our future results.
-In January 2018, our Board of Directors approved a 21% increase in our dividend to $0.76 per share on an annualized basis.
-Certain of these assets in our Cable Communications segment have relatively short estimated useful lives, which increased depreciation expense in 2017 and 2016 and will continue to increase depreciation expense in 2018.
-Net cash used in investing activities in 2016 consisted primarily of cash paid for capital expenditures, acquisitions, deposits, purchases of investments and intangible assets.
-Purchases of Investments
-Purchases of investments in 2017 were primarily related to additional capital contributions to Atairos, our investment in Snap Inc. and NBCUniversal’s additional capital contributions to Hulu.
-We recorded expenses of $333 million that represented NBCUniversal’s proportionate share of The Weather Channel impairment charge.
-We could record impairment charges in the future if there are changes in long-term market conditions, in expected future operating results, or in federal or state regulations that prevent us from recovering the carrying value of these cable franchise rights.
-A contractual obligation with a carrying value of $1.1 billion is not included in the table above because it is uncertain if the arrangement will be settled.
-We believe our judgments and related estimates associated with the valuation and impairment testing of our cable franchise rights and the accounting for film and television costs are critical in the preparation of our consolidated financial statements.
-Actual results may differ from these estimates under different assumptions or conditions.
-Our contractual obligations do not include certain expenditures related to the construction and development of the Universal Studios theme park in Beijing, China, as these commitments were not executed as of December 31, 2017.
-Capitalized film and television costs are subject to impairment testing when certain triggering events are identified.
-56Comcast 2017 Annual Report on Form 10-K
-Item 7A: Quantitative and Qualitative Disclosures About Market Risk
+Item 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+We are a global media and technology company with two primary businesses, Comcast Cable and NBCUniversal. 
+
+The following provides an overview of our businesses. 
+
+Consolidated Revenue, Net Income Attributable to Comcast Corporation and Adjusted EBITDA(a) 
+
+(a)Adjusted EBITDA is a performance measure that is not defined by generally accepted accounting principles in the United States (“GAAP”). 
+
+2017 Consolidated Operating Results by Segment(a) 
+
+(a)Charts exclude the results of NBCUniversal Headquarters and Other, Corporate and Other, and eliminations. 
+
+ 32Comcast 2017 Annual Report on Form 10-K 
+
+Comcast Cable is one of the nation’s largest providers of video, high-speed Internet, voice, and security and automation services (“cable services”) to residential customers under the Xfinity brand; we also provide these and other services to business customers and sell advertising. 
+
+A portion of our residential customers are subject to minimum-term contracts for their cable services, which are typically 2 years in length. Customers with minimum-term contracts may only discontinue service in accordance with the terms of their contracts. 
+
+NBCUniversal is one of the world’s leading media and entertainment companies that develops, produces and distributes entertainment, news and information, sports, and other content for global audiences, and owns and operates theme parks worldwide. 
+
+Our Cable Networks segment consists primarily of a diversified portfolio of cable television networks. 
+
+Our Cable Networks segment generates revenue primarily from the distribution and licensing of its programming and from the sale of advertising on its networks and digital properties. 
+
+Our Broadcast Television segment consists primarily of the NBC and Telemundo broadcast television networks, our NBC and Telemundo owned local broadcast television stations, the NBC Universo national cable network, our broadcast television studio production operations, and our various digital properties. 
+
+Our Broadcast Television segment generates revenue primarily from the sale of advertising on its networks and digital properties, from the licensing of its programming, and from the fees received under retransmission consent agreements and associated fees received from NBC-affiliated local broadcast television stations. 
+
+Our Filmed Entertainment segment primarily produces, acquires, markets and distributes filmed entertainment worldwide. 
+
+Our Filmed Entertainment segment generates revenue primarily from the worldwide distribution of films we produce or acquire for exhibition in movie theaters and from the licensing and sale of produced and acquired films. 
+
+In addition, along with a consortium of Chinese state-owned companies, we are developing a theme park in China. 
+
+Our Theme Parks segment generates revenue primarily from ticket sales and guest spending at our Universal theme parks. 
+
+Our other business interests consist primarily of the operations of Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania and operates arena management-related businesses. 
+
+We are also pursuing other business development initiatives, such as our wireless phone service that we launched in the second quarter of 2017 using our virtual network operator rights to provide the service over Verizon’s wireless network and our existing network of in-home and outdoor Wi-Fi hotspots. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+The following are the more significant developments in our businesses during 2017: 
+
+•increased investments in scalable infrastructure to increase network capacity; 
+
+•increased investments in line extensions, primarily for the expansion of our business services; and 
+
+•decreased spending on customer premise equipment 
+
+•The acquisition of the remaining interests in Universal Studios Japan that we did not already own for $2.3 billion 
+
+•The launch of our wireless phone service in the second quarter of 2017 to our residential cable customers 
+
+•The acquisition of rights to $1.7 billion of spectrum, as well as the receipt of proceeds of $482 million related to NBCUniversal’s relinquishment of spectrum rights 
+
+•Cash capital contributions to Atairos totaling $994 million, which brought our investment in Atairos to $2.4 billion as of December 31, 2017 
+
+•The enactment of new federal tax reform legislation in December 2017 which, among other things, reduced the federal corporate tax rate to 21% from 35%, effective January 1, 2018, resulting in a $12.7 billion net income tax benefit recorded in the fourth quarter of 2017 primarily due to a reduction of our net deferred tax liability 
+
+Technological changes are further intensifying and complicating the competitive landscape and challenging existing business models. In particular, consumers are increasingly turning to online sources for viewing and purchasing content, which has and likely will continue to reduce the number of our video customers and subscribers to our cable networks even as it makes our high-speed Internet services more valuable to consumers. 
+
+Within the Business section, refer to the “Competition” discussion, and within the Risk Factors section, refer to the risk factors entitled “Our businesses currently face a wide range of competition, and our businesses and results of operations could be adversely affected if we do not compete effectively” and “Changes in consumer behavior driven by online distribution platforms for viewing content could adversely affect our businesses and challenge existing business models.” 
+
+ 34Comcast 2017 Annual Report on Form 10-K 
+
+In our Cable Communications segment, our results are impacted by the seasonal nature of residential customers receiving our cable services in college and vacation markets. 
+
+Revenue in our Cable Communications, Cable Networks and Broadcast Television segments is subject to cyclical advertising patterns and changes in viewership levels. Advertising revenue in the U.S. is also cyclical, with a benefit in even-numbered years due to advertising related to candidates running for political office and issue-oriented advertising. 
+
+In particular, our advertising revenue increases due to increased demand for advertising time and our distribution revenue increases in the period of these broadcasts. 
+
+Release dates are determined by several factors, including competition and the timing of vacation and holiday periods. Revenue in our Filmed Entertainment segment fluctuates due to the timing, nature and number of films released in movie theaters, on standard-definition digital video discs and Blu-ray discs (together, “DVDs”), and through various other distribution platforms. 
+
+Revenue in our Theme Parks segment fluctuates with changes in theme park attendance that result from the seasonal nature of vacation travel and weather variations, local entertainment offerings and the opening of new attractions as well as with changes in currency exchange rates. 
+
+Minor differences may exist due to rounding. 
+
+Percentage changes that are considered not meaningful are denoted with NM. 
+
+(a)Adjusted EBITDA is a non-GAAP performance measure. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+The following graph illustrates the contributions to the increases in consolidated revenue made by our Cable Communications and NBCUniversal segments, as well as by Corporate and Other activities including eliminations. 
+
+The primary drivers of the changes in revenue were as follows: 
+
+•Growth in our Cable Communications segment driven by revenue from residential high-speed Internet and video services and business services 
+
+•Growth in our NBCUniversal segments driven by Filmed Entertainment and Theme Parks, partially offset by revenue in 2016 associated with our broadcast of the 2016 Rio Olympics 
+
+•Growth in our Cable Communications segment driven by revenue from residential high-speed Internet and video services and business services 
+
+•Our broadcast of the 2016 Rio Olympics, which was reported in our NBCUniversal segments 
+
+Revenue for our segments is discussed separately below under the heading “Segment Operating Results.” Revenue for our other businesses and business development initiatives is discussed separately under the heading “Corporate and Other Results of Operations.” 
+
+ 36Comcast 2017 Annual Report on Form 10-K 
+
+The following graph illustrates the contributions to the increases in consolidated operating costs and expenses made by our Cable Communications and NBCUniversal segments, as well as by Corporate and Other activities including eliminations. 
+
+The primary drivers of the changes in operating costs and expenses were as follows: 
+
+•An increase in programming expenses in our Cable Communications segment 
+
+•An increase in programming and production expenses in our Filmed Entertainment segment, partially offset by expenses in 2016 associated with our broadcast of the 2016 Rio Olympics 
+
+•An increase in Corporate and Other activities driven by the launch of our wireless phone service 
+
+•An increase in programming expenses in our Cable Communications segment 
+
+•Our broadcast of the 2016 Rio Olympics, which was reported in our NBCUniversal segments 
+
+Operating costs and expenses for our segments is discussed separately below under the heading “Segment Operating Results.” Operating costs and expenses for our corporate operations, other businesses and business development initiatives is discussed separately below under the heading “Corporate and Other Results of Operations.” 
+
+Consolidated depreciation and amortization expense increased in 2017 and 2016 primarily due to increases in capital expenditures, as well as expenditures for software, in our Cable Communications segment in recent years. We continue to invest to increase our network capacity and in customer premise equipment, primarily for our X1 platform, cloud DVR technology and wireless gateways. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Consolidated other operating gains for 2017 included $337 million related to NBCUniversal’s relinquishment of spectrum rights (see Note 5 to Comcast’s consolidated financial statements and Note 4 to NBCUniversal’s consolidated financial statements) and $105 million related to the sale of a business in Corporate and Other (see Note 7 to Comcast’s consolidated financial statements). 
+
+We use Adjusted EBITDA as the measure of profit or loss for our operating segments. Adjusted EBITDA is defined as net income attributable to Comcast Corporation before net (income) loss attributable to noncontrolling interests and redeemable subsidiary preferred stock, income tax benefit (expense), total other income (expense), depreciation and amortization expense, and other operating gains, and excluding impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets, if any. We reconcile the aggregate amount of Adjusted EBITDA for our reportable business segments to consolidated income before income taxes in the notes to our consolidated financial statements (see Note 17 to Comcast’s consolidated financial statements and Note 15 to NBCUniversal’s consolidated financial statements). 
+
+To be consistent with our current management reporting presentation, certain 2016 and 2015 operating results were reclassified within the Cable Communications segment. 
+
+The revenue and operating costs and expenses associated with our broadcast of the 2016 Rio Olympics were reported in our Cable Networks and Broadcast Television segments. 
+
+Cable Communications Segment Results of Operations 
+
+Revenue and Adjusted EBITDA Residential Customer Relationships 
+
+ 38Comcast 2017 Annual Report on Form 10-K 
+
+Minor differences may exist due to rounding. Customer metrics are presented based on actual amounts. Single product, double product, and triple and quad product customers represent residential customers that subscribe to one, two, or three and four of our cable services, respectively. Beginning in 2017, we include customers subscribing to our security and automation services in customer relationship information. All periods presented have been adjusted for the inclusion of security and automation customers. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Our Cable Communications segment offers a broad variety of video services packages that may include premium networks, pay-per-view services and our On Demand service. 
+
+The increases in revenue in both years were primarily due to rate adjustments and increases in the number of residential customers subscribing to additional services such as premium channels and advanced services, which accounted for substantially all of the increases in both 2017 and 2016. Video revenue increased 3.5% and 3.9% in 2017 and 2016, respectively. 
+
+Competition is intense, both from traditional multichannel video providers and from new technologies and distribution platforms for viewing content. We are responding to this competition, and have attempted to mitigate industry-wide declines in residential video customers at traditional multichannel video providers, through our X1 platform and sales and marketing programs, such as promotions, bundled service offerings and service offerings targeted at specific market segments. 
+
+We offer high-speed Internet services with downstream speeds that range up to 1 gigabit per second (“Gbps”) and fiber-based speeds that range up to 2 Gbps. Throughout our footprint, we continue to deploy wireless gateways that combine a customer’s wireless router, cable modem and voice adapter to improve the performance of multiple IP-enabled devices used at the same time within the home, provide faster Internet speeds and create an in-home Wi-Fi network. 
+
+Increases in the number of residential customers receiving our high-speed Internet services accounted for increases in revenue of 5.1% and 5.8% in 2017 and 2016, respectively. 
+
+We believe our customer base will continue to grow as consumers choose our high-speed Internet service and seek higher-speed offerings. 
+
+We offer voice services that provide local and long-distance calling and other related features. 
+
+Voice revenue decreased 4.2% and 1.9% in 2017 and 2016, respectively. The decreases were primarily due to the allocation of voice revenue for our customers who receive bundled services. 
+
+As of December 31, 2017, 20.2% of the homes and businesses in the areas we serve subscribed to our voice services, compared to 20.7% and 20.6% as of December 31, 2016 and 2015, respectively. 
+
+Our small business services offerings primarily include high-speed Internet services, as well as voice and video services, similar to those that we provide to our residential customers, and also include cloud-based solutions that provide file sharing, online backup and web conferencing, among other features. We also offer Ethernet network services that connect multiple locations and provide higher downstream and upstream speed options to medium-sized customers and larger enterprises, as well as advanced voice services. 
+
+ 40Comcast 2017 Annual Report on Form 10-K 
+
+We primarily offer our enterprise service offerings to Fortune 1000 companies and other large enterprises with multiple locations both within and outside of our cable distribution footprint where we have agreements with other companies to use their networks to provide coverage outside of our service areas. 
+
+Business services revenue increased 12.7% and 16.1% in 2017 and 2016, respectively. The increases in 2017 and 2016 were primarily due to increases in the number of customers receiving our small business services offerings, as well as our medium-sized business services offerings. 
+
+In some cases, we work with representation firms as an extension of our sales force to sell a portion of the advertising units allocated to us. We also represent the advertising sales efforts of other multichannel video providers in some markets. Advertising revenue is affected by the strength of the advertising market, general economic conditions, and cyclicality related to political campaigns and issue-oriented advertising. 
+
+Advertising revenue increased 11.1% in 2016 primarily due to an increase in political advertising revenue. 
+
+In 2017, 5% of our Cable Communications segment advertising revenue was generated from our NBCUniversal segments, compared to 5% and 6% in 2016 and 2015, respectively. 
+
+Other revenue primarily includes revenue related to cable franchise and other regulatory fees. Under the terms of our cable franchise agreements, we are generally required to pay to the cable franchising authority an amount based on our gross video revenue. 
+
+Other revenue increased 4.8% and 12.2% in 2017 and 2016, respectively, primarily due to increases in cable franchise and other regulatory fees, revenue from our security and automation services, and our X1 licensing agreements. 
+
+Cable Communications Segment – Operating Costs and Expenses 
+
+Programming expenses, which represent our most significant operating expense, are the fees we incur to provide content to our video customers. 
+
+We anticipate that our programming expenses will continue to increase as the fees we pay increase, including retransmission consent fees and sports programming costs; as we provide additional content to our video customers; and as we deliver this content through an increasing number of platforms, including On Demand, online and through our mobile apps. 
+
+Technical and product support expenses increased in 2017 and 2016 primarily due to expenses related to the development, deployment and support of our X1 platform, cloud DVR technology and wireless gateways, and continued growth in business services and security and automation services. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Customer service expenses increased in 2016 primarily due to increased support for improving the customer experience and increases in total labor costs, which reflected sales and support activities associated with the deployment of our X1 platform and wireless gateways, and growth in business services and security and automation services. 
+
+Advertising, marketing and promotion expenses in 2016 included an increase in advertising expenses associated with the 2016 Rio Olympics. 
+
+Cable franchise and other regulatory fees represent the fees we are required to pay to federal, state and local authorities under the terms of our cable franchise agreements. 
+
+Other operating costs and expenses increased in 2016 primarily due to an increase in costs to support our advertising sales business, as well as an increase in other administrative costs. 
+
+Cable Communications Segment – Operating Margin 
+
+The most significant operating costs and expenses for our Cable Communications segment are the programming expenses we incur to provide content to our video customers, which increased 11.5% and 10.1% in 2017 and 2016, respectively. 
+
+Our Cable Communications segment operating margin was 40.3%, 40.2% and 40.6% in 2017, 2016 and 2015, respectively. 
+
+See Note 3 to Comcast’s consolidated financial statements for information on the impact of the adoption, effective January 1, 2018, of the new revenue recognition accounting guidance on our Cable Communication segment revenue and operating margin. 
+
+ (a) Charts exclude the results of NBCUniversal Headquarters, Other, and eliminations. 
+
+ 42Comcast 2017 Annual Report on Form 10-K 
+
+The pro forma amounts are primarily based on historical results of operations, adjusted for the allocation of purchase price, and are not necessarily indicative of what our results would have been had we operated Universal Studios Japan since January 1, 2014, nor of our future results. 
+
+Cable Networks Segment Results of Operations 
+
+Distribution revenue is generated from the distribution of our cable network programming to traditional and virtual multichannel video providers and is affected by the number of subscribers receiving our cable networks and the fees we charge per subscriber. 
+
+Distribution revenue increased in 2016 primarily due to increases in the contractual rates charged under distribution agreements and contract renewals, as well as revenue associated with our broadcast of the 2016 Rio Olympics, which were partially offset by a decline in the number of subscribers of multichannel video providers at our cable networks. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Advertising revenue is affected by the audience ratings of our programming, the strength of the national advertising market and general economic conditions. 
+
+Advertising revenue decreased in 2017 and increased in 2016 primarily due to revenue associated with our broadcast of the 2016 Rio Olympics. 
+
+In addition, our cable television studio production operations generate revenue from programming the studio produces for third-party networks and for subscription video on demand services. 
+
+Content licensing and other revenue increased in 2017 and 2016 primarily due to the timing of content provided under our licensing agreements. 
+
+In 2017, 2016 and 2015, 15%, 14% and 13%, respectively, of our Cable Networks segment revenue was generated from our Cable Communications segment. 
+
+Cable Networks Segment – Operating Costs and Expenses 
+
+Programming and production costs include the amortization of owned and acquired programming, sports rights, direct production costs, residual and participation payments, production overhead, costs associated with the distribution of our programming to third-party networks and other distribution platforms, and on-air talent costs. 
+
+Programming and production costs decreased in 2017 primarily due to costs associated with our broadcast of the 2016 Rio Olympics, which were partially offset by an increase in other sports programming rights costs and higher studio production costs in 2017. 
+
+Other Operating and Administrative Costs and Expenses 
+
+These expenses increased in 2017 and 2016 primarily due to increases in employee-related costs. 
+
+Advertising, marketing and promotion expenses decreased in 2016 primarily due to increased spending on marketing in 2015 related to the launch of new programming on our cable networks. 
+
+ 44Comcast 2017 Annual Report on Form 10-K 
+
+Broadcast Television Segment Results of Operations 
+
+Advertising revenue is primarily based on the price we charge for each advertising unit, which is generally based on audience ratings and the value of our viewer demographics to advertisers, and the number of advertising units we can place in our broadcast networks’ and owned local television stations’ programming schedules. 
+
+Excluding $1.0 billion of revenue associated with our broadcast of the 2016 Rio Olympics, advertising revenue decreased 2.3% in 2017 as the impact of continued declines in audience ratings were partially offset by higher prices for advertising units sold. 
+
+Content licensing revenue is generated from the licensing of our owned programming in the United States and internationally to various distribution platforms, including to cable and broadcast networks, and to subscription video on demand services. 
+
+Content licensing revenue increased in 2017 and 2016 primarily due to the timing of content provided under our licensing agreements. 
+
+Distribution and other revenue also includes distribution revenue associated with our periodic broadcasts of the Olympic Games. 
+
+Distribution and other revenue increased in 2017 primarily due to an increase in fees recognized under our retransmission consent agreements, which was partially offset by $140 million of revenue associated with our broadcast of the 2016 Rio Olympics. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Broadcast Television Segment – Operating Costs and Expenses 
+
+These costs include the amortization of owned and acquired programming costs, sports rights, direct production costs, residual and participation payments, production overhead, costs associated with the distribution of our programming to third-party networks and other distribution platforms, and on-air talent costs. 
+
+Programming and production costs decreased in 2017 primarily due to costs associated with our broadcast of the 2016 Rio Olympics, which were partially offset by higher studio production costs, our continued investment in original programming and increases in other sports programming rights costs in 2017. 
+
+Other Operating and Administrative Costs and Expenses 
+
+These costs increased in 2016 primarily due to an increase in employee-related costs. 
+
+Advertising, marketing and promotion expenses decreased in 2016 primarily due to increased spending in 2015 for marketing of our NBC primetime lineup. 
+
+Filmed Entertainment Segment Results of Operations 
+
+Theatrical revenue is generated from the worldwide theatrical release of our produced and acquired films for exhibition in movie theaters and is significantly affected by the timing of each release and the number of films we distribute, as well as their acceptance by audiences. 
+
+Theatrical revenue decreased in 2016 primarily due to the strong performance of our larger 2015 film slate, including Furious 7, Jurassic World and Minions, partially offset by the strong performance of The Secret Life of Pets and Sing in 2016. 
+
+ 46Comcast 2017 Annual Report on Form 10-K 
+
+Content licensing revenue is generated primarily from the licensing of our produced and acquired films to cable, broadcast and premium networks, and to subscription video on demand services. 
+
+Content licensing revenue increased in 2017 primarily due to the timing of when content was made available under licensing agreements, including content from DreamWorks Animation. 
+
+Home entertainment revenue is significantly affected by the timing and number of our releases and their acceptance by consumers. The overall DVD market continues to experience declines due to the maturation of the DVD format from increasing shifts in consumer behavior toward digital distribution services and subscription rental services, both of which generate less revenue per transaction than DVD sales, as well as due to piracy. 
+
+Home entertainment revenue decreased in 2016 primarily due to the strong performance of our releases in 2015, including Minions and Jurassic World. 
+
+We also generate revenue from Fandango, our movie ticketing and entertainment business, the sale of consumer products, the production and licensing of live stage plays, and the distribution of filmed entertainment produced by third parties. 
+
+Other revenue increased in 2016 primarily due to an increase in revenue from Fandango. 
+
+Filmed Entertainment Segment – Operating Costs and Expenses 
+
+Participation payments are primarily based on film performance and represent contingent consideration payable to creative talent, third parties that have entered into cofinancing agreements with us and other parties involved in the production of a film. The costs associated with producing films have generally increased in recent years and may continue to increase in the future. 
+
+Programming and production costs increased in 2017 due to higher amortization of film production costs for our 2017 releases, as well as the inclusion of costs associated with DreamWorks Animation. 
+
+Other Operating and Administrative Costs and Expenses 
+
+Other operating and administrative costs and expenses include salaries, employee benefits, rent and other overhead expenses. 
+
+Other operating and administrative expenses increased in 2017 primarily due to increases in employee-related costs, as well as the inclusion of a full year of expenses associated with DreamWorks Animation. 
+
+Advertising, marketing and promotion expenses consist primarily of expenses associated with advertising for our theatrical releases and the marketing of our films on DVDs and in digital formats. The costs associated with marketing films have generally increased in recent years and may continue to increase in the future. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Advertising, marketing and promotion expenses decreased in 2016 primarily due to higher promotional costs associated with our larger 2015 film slate. 
+
+Theme Parks Segment Actual and Pro Forma Results of Operations 
+
+The pro forma amounts are primarily based on historical results of operations, adjusted for the allocation of purchase price, and are not necessarily indicative of what our results would have been had we operated Universal Studios Japan since January 1, 2014, nor of our future results. 
+
+Guest attendance at our theme parks and guest spending depend heavily on the general environment for travel and tourism, including consumer spending on travel and other recreational activities. 
+
+Theme Parks segment revenue increased in 2016 compared to the pro forma combined revenue in 2015 primarily due to increases in guest spending and higher guest attendance driven by the successful opening of The Wizarding World of Harry Potter attraction in Hollywood, as well as the positive impact of foreign currency translation due to the strengthening of the Japanese yen. 
+
+Theme Parks Segment – Operating Costs and Expenses 
+
+Our Theme Parks segment operating costs and expenses consist primarily of theme park operations, including repairs and maintenance and related administrative expenses; food, beverage and merchandise costs; labor costs; and sales and marketing costs. 
+
+Theme Parks segment operating costs and expenses increased in 2017 primarily due to higher operating costs related to higher guest attendance and new attractions, as well as additional marketing costs associated with our domestic theme parks. 
+
+Theme Parks segment operating costs and expenses increased in 2016 compared to the pro forma combined operating costs and expenses in 2015 primarily due to additional costs associated with newer attractions, such as The Wizarding World of Harry Potter attraction in Hollywood and Skull Island: Reign of Kong attraction in Orlando, as well as the impact of foreign currency translation due to the strengthening of the Japanese yen. 
+
+The strengthening of the Japanese yen accounted for approximately one-third of the increase in Adjusted EBITDA in 2016. 
+
+Headquarters and Other operating costs and expenses incurred by our NBCUniversal businesses include overhead, personnel costs and costs associated with corporate initiatives. 
+
+ 48Comcast 2017 Annual Report on Form 10-K 
+
+Corporate and Other Results of Operations 
+
+Other revenue primarily includes revenue from Comcast Spectacor, which owns the Philadelphia Flyers and the Wells Fargo Center arena in Philadelphia, Pennsylvania and operates arena management-related businesses, as well as revenue from other business development initiatives, such as our wireless phone service that we launched in 2017. 
+
+Corporate and Other – Operating Costs and Expenses 
+
+Corporate and Other operating costs and expenses primarily include overhead and personnel costs, the costs of other business development initiatives, including our new wireless phone service, and the operations of Comcast Spectacor. 
+
+Corporate and Other operating costs and expenses increased in 2017 primarily due to expenses associated with our new wireless phone service and $171 million related to a one-time special cash bonus for eligible employees. 
+
+Interest expense increased in 2017 primarily due to higher levels of debt outstanding. 
+
+The change in investment income (loss), net in 2016 was primarily due to an increase in income of certain investments and gains recorded on the sale of certain investments. 
+
+Equity in Net Income (Losses) of Investees, Net 
+
+The changes in equity in net income (losses) of investees, net in 2017 and 2016 were primarily due to our equity method investments in Atairos Group, Inc. and Hulu, LLC. The losses at Hulu were driven by its higher programming and marketing costs. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+The change in equity in net income (losses) of investees, net in 2016 was also due to an impairment charge related to goodwill recorded by The Weather Channel in 2015. 
+
+Other income (expense), net for 2017 was not significant. 
+
+Other income (expense), net for 2016 included $225 million recognized in connection with the settlement of amounts owed to us under an agency agreement that had provided for, among other things, Verizon Wireless’ sale of our cable services and $108 million related to the sale of our investment in The Weather Channel’s product and technology business to IBM. 
+
+Other income (expense), net for 2015 included gains of $335 million on the sales of a business and an investment, $240 million recorded on the settlement of a contingent consideration liability with The General Electric Company related to our acquisition of NBCUniversal, and $43 million related to an equity method investment. 
+
+Income tax benefit (expense) reflects federal and state income taxes and adjustments associated with uncertain tax positions. Our effective income tax rate in 2016 and 2015 was an expense of 37.0% and 37.1%, respectively. The 2017 Tax Act, among other things, reduces the federal corporate income tax rate to 21% from 35%, effective January 1, 2018, resulting in a net income tax benefit of $12.7 billion in 2017 primarily related to a reduction of our net deferred tax liability (see Note 14 to Comcast’s consolidated financial statements). 
+
+Our income tax benefit also increased $121 million due to the impact of an internal legal reorganization in the third quarter of 2017, which was partially offset by a decrease of $53 million due to changes in state tax laws. 
+
+We expect our 2018 annual effective tax rate to be significantly lower than our current year effective tax rate, excluding the impacts of the new federal tax reform legislation, as a result of the reduction of the federal corporate income tax rate in the 2017 Tax Act. 
+
+Consolidated Net (Income) Loss Attributable to Noncontrolling Interests and Redeemable Subsidiary Preferred Stock 
+
+The decrease in net income attributable to noncontrolling interests and redeemable subsidiary preferred stock in 2017 was primarily due to our acquisition of the remaining interests in Universal Studios Japan that we did not already own in April 2017. 
+
+Consolidated Adjusted EBITDA is a non-GAAP financial measure of performance and is defined as net income attributable to Comcast Corporation before net (income) loss attributable to noncontrolling interests and redeemable subsidiary preferred stock, income tax benefit (expense), total other income (expense), depreciation and amortization expense, and other operating gains, and excluding impairment charges related to fixed and intangible assets and gains or losses on the sale of long-lived assets, if any. It is also a significant performance measure in our annual incentive compensation programs. We believe that this measure is useful to investors because it is one of the bases for comparing our operating performance with that of other companies in our industries, although our measure may not be directly comparable to similar measures used by other companies. 
+
+ 50Comcast 2017 Annual Report on Form 10-K 
+
+EBITDA to net income attributable to Comcast Corporation. 
+
+We anticipate that we will continue to use a substantial portion of our cash flows in repaying our debt obligations, funding our capital expenditures, investing in business opportunities and returning capital to shareholders. 
+
+Our commercial paper programs provide a lower-cost source of borrowing to fund our short-term working capital requirements. As of December 31, 2017, amounts available under our consolidated revolving credit facilities, net of amounts outstanding under our commercial paper programs and outstanding letters of credit, totaled $7.4 billion, which included $1.5 billion available under the NBCUniversal Enterprise revolving credit facility. 
+
+We, NBCUniversal and Comcast Cable Communications, LLC are subject to the covenants and restrictions set forth in the indentures governing our public debt securities and in the credit agreements governing the Comcast revolving credit facility. We test for compliance with this financial covenant on an ongoing basis. As of December 31, 2017, we met this financial covenant by a significant margin. 
+
+The variance in changes in operating assets and liabilities in 2017 compared to 2016 was primarily due to the timing of film and television production spending and related costs, net of amortization; the recognition of deferred revenue associated with our broadcast of the 2016 Rio Olympics; the payment in 2016 of a tax receivable agreement that DreamWorks Animation entered into with one of its former stockholders; and the launch in 2017 of our wireless phone service offering. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+operating assets and liabilities in 2016 compared to 2015 was primarily due to the timing of film and television production spending and related costs, net of amortization, including certain sports programming obligations; the recognition of deferred revenue associated with the broadcast of the 2016 Rio Olympics; an increase in certain benefit payments; and the payment in 2016 of a tax receivable agreement that DreamWorks Animation entered into with one of its former stockholders prior to our acquisition. 
+
+The increases in interest payments in 2017 and 2016 were primarily due to higher levels of debt outstanding. 
+
+The increase in income tax payments in 2017 was primarily due to higher taxable income from operations and payments associated with tax disputes, offset by tax deductions resulting from our senior notes exchange (see Note 10 to Comcast’s consolidated financial statements) and additional depreciation deductions allowed under the 2017 Tax Act (see Note 14 to Comcast’s consolidated financial statements). 
+
+Net cash used in investing activities in 2015 consisted primarily of cash paid for capital expenditures, acquisitions, intangible assets and purchases of investments. 
+
+Our most significant recurring investing activity has been capital expenditures in our Cable Communications segment, and we expect that this will continue in the future. 
+
+Cable Communications capital expenditures increased 4.7% and 7.9% in 2017 and 2016, respectively, primarily due to continued investment in scalable infrastructure to increase network capacity and increased investment in line extensions primarily for the expansion of business services. 
+
+Capital expenditures in our NBCUniversal segments increased 4.8% to $1.5 billion in 2016 primarily due to continued investment at our Theme Parks segment. 
+
+Capital expenditures for subsequent years will depend on numerous factors, including acquisitions, competition, changes in technology, regulatory changes, the timing and rate of deployment of new services, the capacity required for existing services, and the timing of new attractions at our theme parks. In addition, we expect to continue to invest in existing and new attractions at our Universal theme parks. 
+
+In 2017, 2016 and 2015, cash paid for intangible assets consisted primarily of expenditures for software in our Cable Communications segment. 
+
+Acquisitions and Construction of Real Estate Properties 
+
+Acquisitions and construction of real estate properties in 2017, 2016 and 2015 primarily included the construction of the Comcast Technology Center in Philadelphia, Pennsylvania. 
+
+ 52Comcast 2017 Annual Report on Form 10-K 
+
+In August 2016, we acquired all of the outstanding stock of DreamWorks Animation. 
+
+Proceeds from Sales of Businesses and Investments 
+
+Proceeds from sales of businesses and investments in 2015 were primarily related to the sale of our investment in TV One, LLC and the sale of a business, CTI Towers Assets I, LLC. 
+
+Purchases of investments in 2016 were primarily related to capital contributions to Atairos and NBCUniversal’s additional investment in BuzzFeed, Inc. 
+
+In connection with the auction, we acquired the rights to $1.7 billion of spectrum. 
+
+Other investing activities in 2017 were primarily related to proceeds of $482 million received by NBCUniversal in the FCC auction for the relinquishment of spectrum rights (see Note 5 to Comcast’s consolidated financial statements and Note 4 to NBCUniversal’s consolidated financial statements). 
+
+Proceeds from borrowings fluctuate from year to year based on the amounts paid to fund acquisitions and debt repayments. Net cash used in financing activities in 2016 also included our purchase of the remaining noncontrolling interest in Comcast Spectacor. 
+
+We have made, and may from time to time in the future make, optional repayments on our debt obligations, which may include repurchases or exchanges of our outstanding public notes and debentures, depending on various factors, such as market conditions. 
+
+Effective January 1, 2017, our Board of Directors increased our share repurchase program authorization to a total of $12 billion, which does not have an expiration date. We expect to repurchase at least $5 billion of our Class A common stock during 2018, although the actual repurchase amount may differ depending on market and other conditions. 
+
+Our Board of Directors declared quarterly dividends totaling $3.0 billion in 2017. In January 2018, our Board of Directors approved a 21% increase in our dividend to $0.76 per share on an annualized basis. 
+
+In addition, we paid $435 million, $352 million and $425 million in 2017, 2016 and 2015, respectively, related to employee taxes associated with the administration of our share-based compensation plans. 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+Share Repurchases Under Share Repurchase Program Authorization and Dividends Paid 
+
+Refer to Note 10 and Note 16 to Comcast’s consolidated financial statements. 
+
+Our purchase obligations related to our Cable Communications segment and other business development initiatives include programming contracts with cable networks and local broadcast television stations; contracts with customer premise equipment manufacturers; contracts with communications vendors and multichannel video providers for which we provide advertising sales representation; contracts to acquire handsets and other equipment; and other contracts entered into in the normal course of business. Purchase obligations do not include contracts with immaterial future commitments. 
+
+(c)Other long-term liabilities reflected on the balance sheet consist primarily of subsidiary preferred shares; deferred compensation obligations; and postretirement, pension and postemployment benefit obligations. The arrangement provides the counterparty with the right to periodic payments associated with current period revenue and, beginning in June 2017, the option to require NBCUniversal to purchase the interest for cash in an amount based on a contractual formula. A contractual obligation with a carrying value of $1.1 billion is not included in the table above because it is uncertain if the arrangement will be settled. See Note 16 to Comcast’s consolidated financial statements for additional information related to this arrangement. 
+
+(d)Our contractual obligations do not include our commitment to invest up to $4 billion at any one time as an investor in Atairos due to our inability to estimate the timing of this funding. 
+
+ 54Comcast 2017 Annual Report on Form 10-K 
+
+Our contractual obligations do not include certain expenditures related to the construction and development of the Universal Studios theme park in Beijing, China, as these commitments were not executed as of December 31, 2017. 
+
+(e)Total contractual obligations are made up of the following components. 
+
+As of December 31, 2017, we did not have any material off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources. 
+
+See Note 3 to each of Comcast’s and NBCUniversal’s consolidated financial statements for additional information related to recent accounting pronouncements, including the impact of the adoption of the updated accounting guidance related to revenue recognition. 
+
+We base our judgments on our historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making estimates about the carrying value of assets and liabilities that are not readily apparent from other sources. 
+
+We believe our judgments and related estimates associated with the valuation and impairment testing of our cable franchise rights and the accounting for film and television costs are critical in the preparation of our consolidated financial statements. 
+
+Valuation and Impairment Testing of Cable Franchise Rights 
+
+The value of a franchise is derived from the economic benefits we receive from the right to solicit new customers and to market additional services, such as advanced video services and high-speed Internet and voice services, in a particular service area. The amounts we record for cable franchise rights are primarily a result of cable system acquisitions. We currently serve approximately 6,400 franchise areas in the United States. 
+
+We have concluded that our cable franchise rights have an indefinite useful life since there are no legal, regulatory, contractual, competitive, economic or other factors which limit the period over which these rights will contribute to our cash flows. 
+
+For the purpose of our impairment testing, we have grouped the recorded values of our various cable franchise rights into our three Cable Communications divisions or units of account. 
+
+The annual impairment test for indefinite-lived intangible assets allows for the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of the asset is less than its carrying amount. When performing a quantitative assessment, we estimate the fair value of our cable franchise rights primarily based on a discounted cash flow analysis that involves significant 
+
+Comcast 2017 Annual Report on Form 10-K 
+
+When analyzing the fair values indicated under the discounted cash flow models, we also consider multiples of Adjusted EBITDA generated by the underlying assets, current market transactions and profitability information. 
+
+At the time of our previous quantitative assessment in 2014, the estimated fair values of our franchise rights exceeded the carrying value in our three Cable Communications divisions by 26%, 42% and 50%, respectively. In 2017, we performed a qualitative assessment of our cable franchise rights. 
+
+Since the adoption of the accounting guidance related to goodwill and intangible assets in 2002, we have not recorded any significant impairment charges to cable franchise rights. 
+
+We could record impairment charges in the future if there are changes in long-term market conditions, in expected future operating results, or in federal or state regulations that prevent us from recovering the carrying value of these cable franchise rights. 
+
+We amortize capitalized film and television production costs, including acquired libraries, and accrue costs associated with participation and residual payments to programming and production expenses. We generally record the amortization and the accrued costs using the individual film forecast computation method, which amortizes the costs using the ratio of the current period’s revenue to estimated total remaining revenue from all sources (“ultimate revenue”). 
+
+The most sensitive factor affecting our estimate of ultimate revenue for a film intended for theatrical release is the film’s theatrical performance, as subsequent revenue from the licensing and sale of a film has historically exhibited a high correlation to its theatrical performance. Upon a film’s release, our estimates of revenue from succeeding markets, including from content licensing across multiple platforms and home entertainment sales, are revised based on historical relationships and an analysis of current market trends. 
+
+Initial estimates of ultimate revenue are limited to the amount of revenue contracted for each episode under the initial license. Revenue estimates for produced episodes include revenue expected to be earned within 10 years of delivery of the initial episode or, if still in production, 5 years from the delivery of the most recent episode, if later. 
+
+We generally amortize multiyear, live-event sports programming rights using the ratio of the current period revenue to the estimated ultimate revenue or under the terms of the contract. 
+
+Adjustments to capitalized film production costs were not material in any of the periods presented. If the fair value of a production were to fall below its unamortized cost, we would record an adjustment for the amount by which the unamortized capitalized costs exceed the production’s fair value. 
+
+ 56Comcast 2017 Annual Report on Form 10-K 
+
+Item 7A: Quantitative and Qualitative Disclosures About Market Risk 

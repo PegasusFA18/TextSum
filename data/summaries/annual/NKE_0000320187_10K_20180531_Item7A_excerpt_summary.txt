@@ -1,0 +1,23 @@
+Quantitative and Qualitative Disclosures about Market Risk 
+
+In the normal course of business and consistent with established policies and procedures, we employ a variety of financial instruments to manage exposure to fluctuations in the value of foreign currencies and interest rates. 
+
+We are exposed to foreign currency fluctuations, primarily as a result of our international sales, product sourcing and funding activities. Our foreign exchange risk management program is intended to lessen both the positive and negative effects of currency fluctuations on our consolidated results of operations, financial position and cash flows. 
+
+The timing for hedging exposures, as well as the type and duration of the hedge instruments employed, are guided by our hedging policies and determined based upon the nature of the exposure and prevailing market conditions. Dollar, British Pound/Euro and Japanese Yen/U.S. 
+
+Our earnings are also exposed to movements in short- and long-term market interest rates. 
+
+Our market-sensitive derivative and other financial instruments are foreign currency forward contracts, foreign currency option contracts, interest rate swaps, intercompany loans denominated in non-functional currencies, fixed interest rate U.S. Dollar denominated debt and fixed interest rate Japanese Yen denominated debt. 
+
+The VaR determines the maximum potential one-day loss in the fair value of these foreign exchange rate-sensitive financial instruments. Our computations are based on interrelationships between currencies and interest rates (a “variance/co-variance” technique). The value of foreign currency options does not change on a one-to-one basis with changes in the underlying currency rate. This calculation reflects the impact of foreign currency rate fluctuations on the derivative instruments only and does not include the impact of such rate fluctuations on non-functional currency transactions (such as anticipated transactions, firm commitments, cash balances and accounts and loans receivable and payable), including those which are hedged by these instruments. 
+
+The VaR model is a risk analysis tool and does not purport to represent actual losses in fair value we will incur nor does it consider the potential effect of favorable changes in market rates. 
+
+The average monthly change in the fair values of foreign currency forward and foreign currency option derivative instruments was $260 million and $161 million during fiscal 2018 and fiscal 2017, respectively. Such a hypothetical loss in the fair value of our derivatives would be offset by increases in the value of the underlying transactions being hedged. 
+
+Intercompany loans and related interest amounts are eliminated in consolidation. Furthermore, our non-functional currency intercompany loans are substantially hedged against foreign exchange risk through the use of forward contracts, which are included in the VaR calculation above. 
+
+The table presents principal cash flows and related weighted average interest rates by expected maturity dates. 
+
+Accordingly, the monthly translation of these instruments, which varies due to changes in foreign exchange rates, is recognized in Accumulated other comprehensive income upon consolidation of this subsidiary. 

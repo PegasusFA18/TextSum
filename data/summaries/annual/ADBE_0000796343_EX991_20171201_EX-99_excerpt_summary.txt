@@ -1,9 +1,59 @@
-"With ready access to our offshore cash, we will continue to evaluate investment opportunities to grow our business and we are actively expanding our campuses in the Bay Area and Utah to accommodate the growth of our employee base."
-During fiscal year 2018, Adobe expects quarterly revenue, earnings per share and Digital Media ARR results to follow similar seasonality as was achieved in fiscal year 2017.
-The following table shows Adobe's first quarter fiscal year 2018 earnings per share and tax rate targets reconciled to non-GAAP targets included in this document.
-Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, restructuring and other charges, amortization of purchased intangibles and certain activity in connection with technology license arrangements, investment gains and losses, the related tax impact of all of these items, income tax adjustments, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes.
-###
-© 2018 Adobe Systems Incorporated.
-All other trademarks are the property of their respective owners.
-Further, the percentages above are provisional and based on estimates that may change as we continue to evaluate the impact of the Tax Act on our financial results and as we consider any new guidance the Financial Accounting Standards Board is expected to issue with regard to the accounting treatment for various new tax provisions.
-Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes.
+Adobe Updates Q1 and Fiscal Year 2018 Financial Targets 
+
+Impact of New U.S. Tax Law Results in Higher Fiscal Year 2018 Earnings Per Share Targets 
+
+SAN JOSE, Calif. — Jan. 22, 2018 — Adobe (Nasdaq:ADBE) today announced it is updating its financial targets to include expected financial impacts of the Tax Cuts and Jobs Act (the Tax Act), which was enacted into law during its first quarter of fiscal year 2018. 
+
+Given Adobe’s fiscal year 2018 began Dec. 2, 2017, the company will have a partial-year impact due to these changes. 
+
+Adobe expects its fiscal year 2018 GAAP and non-GAAP effective tax rates will decline substantially from rates in fiscal year 2017, as shown in the table below. 
+
+"The new Tax Act is lowering Adobe’s effective tax rates, driving a significant increase in our earnings per share targets," said Mark Garrett, executive vice president and CFO, Adobe. 
+
+This amount, plus the amount the company expects to incur for remeasuring deferred tax assets, will result in a tax charge of approximately $85 million in Adobe’s first quarter fiscal year 2018 results and is factored into the GAAP effective tax rates provided in the table below. 
+
+Adobe’s updated non-GAAP effective tax rate targets exclude a one-time financial impact of the tax law, consistent with the company’s long-standing practice of excluding large one-time items in its non-GAAP results. 
+
+Adobe Updates Q1 and Fiscal Year 2018 Financial Targets 
+
+As part of today’s update, Adobe reaffirmed its financial targets including revenue, annualized recurring revenue (“ARR”) and bookings targets as applicable for both the first quarter and for fiscal year 2018. 
+
+•In fiscal year 2018, Adobe expects to achieve diluted earnings per share of approximately $4.72 on a GAAP-basis, and $6.20 on a non-GAAP basis. 
+
+•In the first quarter of fiscal year 2018, Adobe expects to achieve diluted earnings per share of approximately $1.05 on a GAAP- basis, and $1.43 on a non-GAAP basis. 
+
+The company’s updated financial targets are summarized in tables below, and replace targets provided in December 2017. 
+
+During fiscal year 2018, Adobe expects quarterly revenue, earnings per share and Digital Media ARR results to follow similar seasonality as was achieved in fiscal year 2017. 
+
+A reconciliation between GAAP and non-GAAP targets is provided at the end of this press release. 
+
+Adobe Updates Q1 and Fiscal Year 2018 Financial Targets 
+
+The final impact of the Tax Act may differ from these estimates, possibly materially, due to, among other things, changes in interpretations and assumptions made, additional guidance that may be issued, unexpected negative changes in business and market conditions that could reduce certain tax benefits, and actions taken by Adobe as a result of the Tax Act. Many of the tax provisions noted above that become effective in our fiscal year 2019 will likely increase our effective tax rates. Additionally, other risks and uncertainties could cause actual results to differ materially. We anticipate providing additional information during our earnings call, including the impact to our earnings per share, when we announce our first quarter of fiscal year 2018 earnings. 
+
+Adobe assumes no obligation to, and does not currently intend to, update these forward-looking statements. 
+
+Adobe is changing the world through digital experiences. 
+
+All other trademarks are the property of their respective owners. 
+
+Adobe Updates Q1 and Fiscal Year 2018 Financial Targets 
+
+Reconciliation of GAAP to Non-GAAP Financial Targets 
+
+(In millions, except per share data) 
+
+The following table shows Adobe's annual fiscal year 2018 earnings per share target reconciled to the non-GAAP target included in this document. 
+
+The following table shows Adobe's first quarter fiscal year 2018 earnings per share and tax rate targets reconciled to non-GAAP targets included in this document. 
+
+Adobe Updates Q1 and Fiscal Year 2018 Financial Targets 
+
+The following table shows Adobe's second to fourth quarter fiscal year 2018 tax rate targets reconciled to non-GAAP targets included in this document. 
+
+Adobe uses non-GAAP financial information to evaluate its ongoing operations and for internal planning and forecasting purposes. Adobe's management does not itself, nor does it suggest that investors should, consider such non-GAAP financial measures in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. This allows institutional investors, the analyst community and others to better understand and evaluate our operating results and future prospects in the same manner as management. 
+
+Adobe's management believes it is useful for itself and investors to review, as applicable, both GAAP information as well as non-GAAP measures, which may exclude items such as stock-based and deferred compensation expenses, restructuring and other charges, amortization of purchased intangibles and certain activity in connection with technology license arrangements, investment gains and losses, the related tax impact of all of these items, income tax adjustments, and the income tax effect of the non-GAAP pre-tax adjustments from the provision for income taxes. Investors are encouraged to review the related GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable GAAP financial measure as detailed above. 
+
+Note: ARR targets and results are adjusted for constant currency based on exchange rates in December each year. 

@@ -1,6 +1,17 @@
-Accordingly, Dell Technologies utilizes foreign currency option contracts and forward contracts to hedge its exposure on forecasted transactions and firm commitments for certain currencies.
-Interest Rate Risk
-Dell Technologies is primarily exposed to interest rate risk related to its variable-rate debt and investment portfolio.
-Based on this variable-rate debt outstanding as of February 2, 2018, a 100 basis point increase in interest rates would have resulted in an increase of approximately $140 million in annual interest expense.
-76
-ITEM 8 — FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ITEM 7A — QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Dell Technologies is exposed to a variety of market risks, including risks associated with foreign currency exchange rate fluctuations, interest rate changes affecting its variable-rate debt, and changes in the market value of investments. 
+
+During Fiscal 2018 and Fiscal 2017, the principal foreign currencies in which Dell Technologies transacted business were the Euro, Chinese Renminbi, Japanese Yen, British Pound, and Canadian Dollar. Accordingly, Dell Technologies utilizes foreign currency option contracts and forward contracts to hedge its exposure on forecasted transactions and firm commitments for certain currencies. 
+
+Based on the outstanding foreign currency hedge instruments of Dell Technologies, which include designated and non-designated instruments, there was a maximum potential one-day loss in fair value at a 95% confidence level of approximately $17 million as of February 2, 2018 and $25 million as of February 3, 2017 using a Value-at-Risk ("VAR") model. Additionally, as Dell Technologies utilizes foreign currency instruments for hedging forecasted and firmly committed transactions, a loss in fair value for those instruments is generally offset by increases in the value of the underlying exposure. 
+
+Dell Technologies is primarily exposed to interest rate risk related to its variable-rate debt and investment portfolio. 
+
+Amounts outstanding under these facilities generally bear interest at variable rates equal to applicable margins plus specified base rates or LIBOR-based rates. Based on this variable-rate debt outstanding as of February 2, 2018, a 100 basis point increase in interest rates would have resulted in an increase of approximately $140 million in annual interest expense. For more information about our debt, see Note 8 of the Notes to the Consolidated Financial Statements included in this report. 
+
+By comparison, as of February 3, 2017, Dell Technologies had $11.6 billion of outstanding borrowings under its Senior Secured Credit Facilities and $4.0 billion of outstanding borrowings under its Margin Bridge Facility and VMware Note Bridge Facility. 
+
+The investments are classified as available-for-sale and are all denominated in U.S. dollars. Investment Portfolio — We maintain an investment portfolio consisting of debt and equity securities of various types and maturities which is exposed to interest rate risk. Dell Technologies mitigates the risks related to its investment portfolio by investing primarily in high-quality credit securities, limiting the amount that can be invested in any single issuer, and investing in short-to-intermediate-term investments. 
+
+ITEM 8 — FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 

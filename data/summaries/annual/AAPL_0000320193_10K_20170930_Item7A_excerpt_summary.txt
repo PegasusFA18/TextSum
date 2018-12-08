@@ -1,6 +1,21 @@
-Actual future gains and losses associated with the Company’s investment portfolio and derivative positions may differ materially from the sensitivity analyses performed as of September 30, 2017 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.
-The Company uses a combination of internal and external management to execute its investment strategy and achieve its investment objectives.
-Item 7A.
-The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates.
-Based on investment positions as of September 30, 2017 and September 24, 2016, a hypothetical 100 basis point increase in interest rates across all maturities would result in a $6.0 billion and $4.9 billion incremental decline in the fair market value of the portfolio, respectively.
-Financial Statements and Supplementary Data
+Quantitative and Qualitative Disclosures About Market Risk 
+
+Interest Rate and Foreign Currency Risk Management 
+
+Given the effective horizons of the Company’s risk management activities and the anticipatory nature of the exposures, there can be no assurance these positions will offset more than a portion of the financial impact resulting from movements in either foreign exchange or interest rates. 
+
+The Company’s exposure to changes in interest rates relates primarily to the Company’s investment portfolio and outstanding debt. 
+
+The Company typically invests in highly-rated securities, and its investment policy generally limits the amount of credit exposure to any one issuer. Based on investment positions as of September 30, 2017 and September 24, 2016, a hypothetical 100 basis point increase in interest rates across all maturities would result in a $6.0 billion and $4.9 billion incremental decline in the fair market value of the portfolio, respectively. Such losses would only be realized if the Company sold the investments prior to maturity. 
+
+A 100 basis point increase in market interest rates would cause interest expense on the Company’s debt as of September 30, 2017 and September 24, 2016 to increase by $376 million and $271 million on an annualized basis, respectively. Interest rate swaps allow the Company to effectively convert fixed-rate payments into floating-rate payments or floating-rate payments into fixed-rate payments. 
+
+Further details regarding the Company’s debt is provided in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 6, “Debt.” 
+
+Accordingly, changes in exchange rates, and in particular a strengthening of the U.S. dollar, will negatively affect the Company’s net sales and gross margins as expressed in U.S. dollars. 
+
+The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future cash flows and net investments in foreign subsidiaries. The Company typically hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months. 
+
+The VAR model consisted of using a Monte Carlo simulation to generate thousands of random market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. Forecasted transactions, firm commitments and assets and liabilities denominated in foreign currencies were excluded from the model. 
+
+Actual future gains and losses associated with the Company’s investment portfolio and derivative positions may differ materially from the sensitivity analyses performed as of September 30, 2017 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions. 

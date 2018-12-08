@@ -1,0 +1,85 @@
+Twitter is the best place to see what’s happening and what people are talking about. Our primary service can be accessed on a variety of mobile devices, at twitter.com and via SMS. 
+
+Our disciplined execution against our priorities led to steady recovery in revenue and margin improvement as the year progressed, putting us in a stronger position as we head into 2018. 
+
+We are committed to making Twitter safer, and we are clarifying our policies, improving our enforcement, and communicating more clearly. 
+
+Our primary service, Twitter, is a global platform for public self-expression and conversation in real time. 
+
+These outlets and partners also add value to our user experience by contributing content to our platform. Many of the world’s most trusted media outlets, including the BBC, CNN, Bloomberg and the Associated Press, regularly use Twitter as a platform for content distribution. 
+
+Periscope is a mobile application that lets anyone broadcast and watch video live with others. 
+
+Our Promoted Products enable our advertisers to promote their brands, products and services, amplify their visibility and reach, and extend the conversation around their advertising campaigns. We enable our advertisers to target an audience based on a variety of factors, including a user’s Interest Graph. 
+
+Currently, our Promoted Products (all of which are labeled “promoted” within Twitter) consist of: 
+
+Using our proprietary algorithm and understanding of each user’s Interest Graph, we can deliver Promoted Tweets that are intended to be relevant to a particular user. As a result, we have added product features to Promoted Tweets based on advertiser objectives, which may include Tweet engagements (e.g., retweets, replies and likes), website clicks or conversions, mobile application installs or engagements, obtaining new followers, or video views. 
+
+Promoted Accounts provide a way for our advertisers to grow a community of users who are interested in their business, products or services. 
+
+Promoted Trends appear at the top of the list of trending topics or timeline for an entire day in a particular country or on a global basis. 
+
+Our technology dynamically inserts those advertisers' ads into the relevant videos and delivers the ads to the audience targeted by those advertisers. 
+
+We plan to continue to focus our investment in features that differentiate Twitter and capitalize on our unique value proposition for advertisers, including video and more organic ad formats. 
+
+Our technology platform and information database enable us to provide targeting capabilities based on audience attributes like geography, interests, keyword, television conversation, content, event and devices that make it possible for advertisers to promote their brands, products and services, amplify their visibility and reach, and complement and extend the conversation around their advertising campaigns. 
+
+We enable advertisers to extend their reach beyond Twitter through: 
+
+MoPub, our mobile-focused advertising exchange, which combines ad serving, ad network mediation and a real-time bidding exchange into one comprehensive monetization platform. 
+
+Twitter Audience Platform, an advertising offering that enables advertisers to extend their advertising campaigns with Twitter Promoted Products to audiences off Twitter while retaining access to Twitter’s measurement, targeting and creative tools. 
+
+Many applications have been registered by developers to enable them to integrate with our platform, and leverage Twitter content to enhance and extend their applications in new and creative ways. The goal of our platform product development is to make it easy for developers to integrate seamlessly with Twitter. 
+
+We believe this approach will position both Twitter and our key channel partners for greater growth and monetization, and we are investing in deeper partnerships with a few select solution providers to help brands realize greater value from our data and platform. Our data products and services offer more sophisticated data sets and better data enrichments to allow developers and businesses to utilize our public content to derive business insights and build products using the unique content that is shared on Twitter. 
+
+We also compete to attract and retain employees, especially software engineers, designers, and product managers. We have seen escalating competition for digital ad spending and expect this trend to continue. 
+
+We compete with the following companies for users’ attention and for advertisers’ budgets: 
+
+Increasingly, we face competition for live premium video content rights from other digital distributors and traditional television providers, which may limit our ability to secure such content on economic and other terms that are acceptable to us in the future. 
+
+Companies that develop applications, particularly mobile applications, that create, syndicate and distribute content across internet properties. 
+
+Traditional, online, and mobile businesses that enable users to consume content or marketers to reach their audiences and/or develop tools and systems for managing and optimizing advertising campaigns. 
+
+As we introduce new products, as our existing products evolve, or as other companies introduce new products and services, we may become subject to additional competition. 
+
+Our industry is evolving rapidly and is becoming increasingly competitive. 
+
+Twitter is composed of a set of core, scalable and distributed services that are built from proprietary and open source technologies. 
+
+We have a global sales force and sales support staff that is focused on attracting and retaining advertisers while certain advertisers use our self-serve advertising platform to launch and manage their advertising campaigns. 
+
+Beginning in 2015, we complemented that organic growth with targeted campaigns to drive new user acquisition. We set out to clearly define who we are and express the uniqueness and power of our brand through marketing campaigns to drive awareness of Twitter’s unique positioning around “What’s Happening Now”. 
+
+We generally enter into confidentiality and invention assignment agreements with our employees and contractors, and confidentiality agreements with other third parties, in order to limit access to, and disclosure and use of, our confidential information and proprietary technology. 
+
+The IPA can limit our ability to prevent infringement of our patents. In May 2013, we implemented our Innovator’s Patent Agreement, or IPA, which we enter into with our employees and consultants, including our founders. 
+
+These laws and regulations may involve privacy, rights of publicity, data protection, content regulation, intellectual property, competition, protection of minors, consumer protection, taxation or other subjects. Many of these laws and regulations are still evolving and being tested in courts and could be interpreted in ways that could harm our business. 
+
+For example, the General Data Protection Regulation, or the GDPR, has been adopted and will go into effect in May 2018. There are also a number of legislative proposals pending before the U.S. Congress, various state legislative bodies and foreign governments concerning content regulation and data protection that could affect us. 
+
+The FTC investigation was the result of two separate incidents in which unauthorized intruders obtained administrative passwords of certain Twitter employees. In March 2011, to resolve an investigation into various incidents, we entered into a settlement agreement with the Federal Trade Commission, or FTC, that, among other things, requires us to establish an information security program designed to protect non-public consumer information and also requires that we obtain biennial independent security assessments. 
+
+For example, Twitter is not directly accessible in China and has been blocked in the past in Turkey. It is possible that other governments may seek to restrict access to or block our website or mobile applications, censor content available through our products or impose other restrictions that may affect the accessibility or usability of Twitter for an extended period of time or indefinitely. 
+
+For additional information, see the section titled “Risk Factors—Our business is subject to complex and evolving U.S. and foreign laws and regulations. 
+
+Historically, this seasonality in advertising spending has affected our quarterly results, with higher sequential advertising revenue growth from the third quarter to the fourth quarter compared to sequential advertising revenue growth from the fourth quarter to the subsequent first quarter. 
+
+Information about Segment and Geographic Revenue 
+
+Information about segment and geographic revenue is set forth in Note 17 of the Notes to Consolidated Financial Statements under Item 8 of this Annual Report on Form 10-K. 
+
+As of December 31, 2017, we had 3,372 full-time employees. 
+
+We completed our initial public offering in November 2013 and our common stock is listed on the New York Stock Exchange under the symbol “TWTR.” Unless the context requires otherwise, the words “Twitter,” “we,” “Company,” “us” and “our” refer to Twitter, Inc. and our wholly owned subsidiaries. 
+
+Our website is located at www.twitter.com, and our investor relations website is located at http://investor.twitterinc.com/. Copies of our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available, free of charge, on our investor relations website as soon as reasonably practicable after we file such material electronically with or furnish it to the Securities and Exchange Commission, or the SEC. The SEC also maintains a website that contains our SEC filings. 
+
+We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs as part of our investor relations website. 

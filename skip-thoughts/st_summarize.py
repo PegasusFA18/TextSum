@@ -6,16 +6,15 @@ import sys
 import io
 import os
 
-def summarize(file):
+def summarize(data):
 	from skipthoughts import encoder
-	data = read_report(file)
 	sentences = sent_tokenize(data)
 	#model = skipthoughts.load_model()
 	#encoder = skipthoughts.Encoder(model)
 	vectors = encoder.encode(sentences, verbose=False)
-	n = int(len(vectors)**0.5)
+	n = max(len(vectors)/2, 1)
 	print('N:', n)
-	print('Sentences:', len(vectors))
+	print('Number of sentences:', len(vectors))
 	print('Vector size:', len(vectors[0]))
 	kmeans = KMeans(n_clusters=n).fit(vectors)
 	centroids = kmeans.cluster_centers_
@@ -37,12 +36,11 @@ def summarize(file):
 	print('Cluster Order', order)
 	summary = ''
 	for i in order:
-		summary += sentences[min_dist[i]] + '\n'
+		summary += sentences[min_dist[i]] + ' '
 	rand_summ = ''
 	for i in order:
-		rand_summ += sentences[clusters[i][np.random.randint(0, len(clusters[i]))]] + '\n'
-	print('Random summary: ' + rand_summ)
-	write_summary(file, summary)
+		rand_summ += sentences[clusters[i][np.random.randint(0, len(clusters[i]))]] + ' '
+	#print('Random summary: ' + rand_summ)
 	return summary
 
 def write_summary(filename, summary):
@@ -56,13 +54,18 @@ def read_report(filename):
 		data = file.read()
 	return data
 
+def summarize_report(filename):
+	report = read_report(filename)
+	paragraphs = report.split('\n\n')
+	summaries = [summarize(paragraph) for paragraph in paragraphs]
+	write_summary(filename, '\n\n'.join(summaries))
+
 if __name__ == '__main__':
 	arg = sys.argv[1]
 	if arg.endswith('.txt'):
-		summarize(arg)
-	elif False:
+		summarize_report(arg)
+	elif True:
 		for root, dirs, files in os.walk('../data/cleaned/'):
 			for file in files:
 				if '.txt' in file:
-					summary = summarize(read_report(root+'/'+file))
-					write_summary(root+'/'+file, summary)
+					summarize_report(root+'/'+file)

@@ -1,7 +1,23 @@
-Investment Risk
-As of December 31, 2017, our recorded value in equity and equity warrant investments in public and private companies was $737 million.
-Item 7A.Quantitative and Qualitative Disclosures About Market Risk
-We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our investments.
-Valuations of private companies are inherently more complex due to the lack of readily available market data.
-34
-Item 8.Financial Statements and Supplementary Data
+Item 7A.Quantitative and Qualitative Disclosures About Market Risk 
+
+We are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our investments. 
+
+Our exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our long-term debt. However, the fair value of our debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining rates of interest and declining in periods of increasing rates of interest. Fixed income securities may have their fair market value adversely affected due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that have declined in market value due to changes in interest rates. 
+
+The following table provides information about our cash equivalents and marketable fixed income securities, including principal cash flows by expected maturity and the related weighted-average interest rates as of December 31, 2017 (in millions, except percentages): 
+
+As of December 31, 2017, we had $24.9 billion of debt, including the current portion, primarily consisting of the following fixed rate unsecured debt (in millions): 
+
+Based upon quoted market prices and Level 2 inputs, the fair value of our total debt was $26.4 billion as of December 31, 2017. 
+
+For example, as a result of fluctuations in foreign exchange rates throughout the period compared to rates in effect the prior year, International segment net sales increased by $137 million in comparison with the prior year. Upon consolidation, as foreign exchange rates vary, net sales and other operating results may differ materially from expectations, and we may record significant gains or losses on the remeasurement of intercompany balances. 
+
+All investments are classified as “available-for-sale.” Fluctuations in fair value are recorded in “Accumulated other comprehensive loss,” a separate component of stockholders’ equity. 
+
+We have foreign exchange risk related to our intercompany balances denominated in various foreign currencies. 
+
+See Item 7 of Part II, “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Results of Operations—Effect of Foreign Exchange Rates” for additional information on the effect on reported results of changes in foreign exchange rates. 
+
+We record our equity and equity warrant investments in publicly traded companies at fair value, which is subject to market price volatility, and represents $415 million of our investments as of December 31, 2017. Valuations of private companies are inherently more complex due to the lack of readily available market data. As such, we believe that market sensitivities are not practicable. 
+
+Item 8.Financial Statements and Supplementary Data 

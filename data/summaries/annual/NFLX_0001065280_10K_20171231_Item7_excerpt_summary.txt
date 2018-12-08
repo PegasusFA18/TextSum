@@ -1,0 +1,457 @@
+Item 7, "Management's Discussion and Analysis of Financial Condition and Results of Operations" and Note 5, Commitments and Contingencies in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. Payment terms for certain content commitments, such as content we directly produce, will typically require more up-front cash payments than other content licenses or arrangements whereby we do not cashflow the production of such content. Given the multiple-year duration and largely fixed cost nature of content commitments, if membership acquisition and retention do not meet our expectations, our margins may be adversely impacted. 
+
+We face risks, such as unforeseen costs and potential liability in connection with content we acquire, produce, license and/or distribute through our service. 
+
+We believe that original programming can help differentiate our service from other offerings, enhance our brand and otherwise attract and retain members. We also take on risks associated with production, such as completion and key talent risk. To the extent our original programming does not meet our expectations, in particular, in terms of costs, viewing and popularity, our business, including our brand and results of operations may be adversely impacted. Negotiations or renewals related to entertainment industry collective bargaining agreements could negatively impact timing and costs associated with our productions. We may decide to remove content from our service, not to place licensed or produced content on our service or discontinue or alter production of original content if we believe such content might not be well received by our members or could be damaging to our brand. 
+
+We may not be indemnified against claims or costs of these types and we may not have insurance coverage for these types of claims. 
+
+If studios, content providers or other rights holders refuse to license streaming content or other rights upon terms acceptable to us, our business could be adversely affected. 
+
+The license periods and the terms and conditions of such licenses vary. As we seek to differentiate our service, we are increasingly focused on securing certain exclusive rights when obtaining content, including original content. Certain licenses for content provide for the studios or other content providers to withdraw content from our service relatively quickly. As competition increases, we may see the cost of programming increase. If we do not maintain a compelling mix of content, our membership acquisition and retention may be adversely affected. 
+
+In this regard, we engage in negotiations with collection management organizations (“CMOs”) that hold certain rights to music and/or other interests in connection with streaming content into various territories. 
+
+mutually acceptable terms with these organizations, we could become involved in litigation and/or could be enjoined from distributing certain content, which could adversely impact our business. 
+
+If we are not able to manage change and growth, our business could be adversely affected. 
+
+As we scale our streaming service, we are developing technology and utilizing third-party “cloud” computing services. We are expanding our operations internationally, scaling our streaming service to effectively and reliably handle anticipated growth in both members and features related to our service, ramping up our ability to produce original content, as well as continuing to operate our DVD service within the U.S. As our international offering evolves, we are managing and adjusting our business to address varied content offerings, consumer customs and practices, in particular those dealing with e-commerce and internet video, as well as differing legal and regulatory environments. 
+
+We could be subject to economic, political, regulatory and other risks arising from our international operations. 
+
+In addition to the risks that we face in the U.S., our international operations involve risks that could adversely affect our business, including: 
+
+•the need to adapt our content and user interfaces for specific cultural and language differences, including licensing a certain portion of our content assets before we have developed a full appreciation for its performance within a given territory; 
+
+•difficulties and costs associated with staffing and managing foreign operations; 
+
+•political or social unrest and economic instability; 
+
+•compliance with U.S. laws such as the Foreign Corrupt Practices Act, export controls and economic sanctions, and local laws prohibiting corrupt payments to government officials; 
+
+•difficulties in understanding and complying with local laws, regulations and customs in foreign jurisdictions; 
+
+•regulatory requirements or government action against our service, whether in response to enforcement of actual or purported legal and regulatory requirements or otherwise, that results in disruption or non-availability of our service or particular content in the applicable jurisdiction; 
+
+•less favorable foreign intellectual property laws; 
+
+•adverse tax consequences such as those related to changes in tax laws or tax rates or their interpretations, and the related application of judgment in determining our global provision for income taxes, deferred tax assets or liabilities or other tax liabilities given the ultimate tax determination is uncertain; 
+
+•fluctuations in currency exchange rates, which we do not use foreign exchange contracts or derivatives to hedge against and which could impact revenues and expenses of our international operations and expose us to foreign currency exchange rate risk; 
+
+•profit repatriation and other restrictions on the transfer of funds; 
+
+•differing payment processing systems as well as consumer use and acceptance of electronic payment methods, such as payment cards; 
+
+•new and different sources of competition; 
+
+•censorship requirements that cause us to remove or edit popular content, leading to consumer disappointment or dissatisfaction with our service; 
+
+•low usage and/or penetration of internet-connected consumer electronic devices; 
+
+•different and more stringent user protection, data protection, privacy and other laws, including data localization requirements; 
+
+•availability of reliable broadband connectivity and wide area networks in targeted areas for expansion; 
+
+•integration and operational challenges as well as potential unknown liabilities in connection with companies we may acquire or control; and 
+
+•differing, and often more lenient, laws and consumer understanding/attitudes regarding the illegality of piracy. 
+
+Our failure to manage any of these risks successfully could harm our international operations and our overall business, and results of our operations. 
+
+We are subject to taxation related risks in multiple jurisdictions. 
+
+Significant judgment is required in determining our global provision for income taxes, deferred tax assets or liabilities and in evaluating our tax positions on a worldwide basis. 
+
+Tax laws are dynamic and subject to change as new laws are passed and new interpretations of the law are issued or applied. If U.S. or other foreign tax authorities change applicable tax laws, our overall taxes could increase, and our business, financial condition or results of operations may be adversely impacted. 
+
+If we fail to maintain or, in newer markets establish, a positive reputation with consumers concerning our service, including the content we offer, we may not be able to attract or retain members, and our operating results may be adversely affected. 
+
+We believe that a positive reputation with consumers concerning our service is important in attracting and retaining members who have a number of choices from which to obtain entertainment video. To the extent our content, in particular, our original programming, is perceived as low quality, offensive or otherwise not compelling to consumers, our ability to establish and maintain a positive reputation may be adversely impacted. 
+
+Changes in how we market our service could adversely affect our marketing expenses and membership levels may be adversely affected. 
+
+If the available marketing channels are curtailed, our ability to attract new members may be adversely affected. 
+
+Companies that promote our service may decide that we negatively impact their business or may make business decisions that in turn negatively impact us. For example, if they decide that they want to compete more directly with us, enter a similar business or exclusively support our competitors, we may no longer have access to their marketing channels. 
+
+To the extent we promote our content inefficiently or ineffectively, we may not obtain the expected acquisition and retention benefits and our business may be adversely affected. 
+
+We rely upon a number of partners to make our service available on their devices. 
+
+If we are not successful in maintaining existing and creating new relationships, or if we encounter technological, content licensing, regulatory, business or other impediments to delivering our streaming content to our members via these devices, our ability to retain members and grow our business could be adversely impacted. We have agreements with various cable, satellite and telecommunications operators to make our service available through the television set-top boxes of these service providers. 
+
+Our agreements with our partners are typically between one and three years in duration and our business could be adversely affected if, upon expiration, a number of our partners do not continue to provide access to our service or are unwilling to do so on terms acceptable to us, which terms may include the degree of accessibility and prominence of our service. In addition, technology changes to our streaming functionality may require that partners update their devices. 
+
+Any significant disruption in or unauthorized access to our computer systems or those of third parties that we utilize in our operations, including those relating to cybersecurity or arising from cyber-attacks, could result in a loss or degradation of service, unauthorized disclosure of data, including member and corporate information, or theft of intellectual property, including digital content assets, which could adversely impact our business. 
+
+These systems may be subject to damage or interruption from earthquakes, adverse weather conditions, other natural disasters, terrorist attacks, power loss, telecommunications failures, and cybersecurity risks. Service interruptions, errors in our software or the unavailability of computer systems used in our operations could diminish the overall attractiveness of our membership service to existing and potential members. 
+
+These systems periodically experience directed attacks intended to lead to interruptions and delays in our service and operations as well as loss, misuse or theft of data or intellectual property. Our computer systems and those of third parties we use in our operations are vulnerable to cybersecurity risks, including cyber-attacks, both from state-sponsored and individual activity, such as computer viruses, denial of service attacks, physical or electronic break-ins and similar disruptions. Efforts to prevent hackers from disrupting our service or otherwise accessing our systems are expensive to implement and may limit the functionality of or otherwise negatively impact our service offering and systems. Our insurance does not cover expenses related to such disruptions or unauthorized access. 
+
+We utilize our own communications and computer hardware systems located either in our facilities or in that of a third-party Web hosting provider. Problems faced by us or our third-party Web hosting, “cloud” computing, or other network providers, including technological or business-related disruptions, as well as cybersecurity threats, could adversely impact the experience of our members. 
+
+We rely upon Amazon Web Services to operate certain aspects of our service and any disruption of or interference with our use of the Amazon Web Services operation would impact our operations and our business would be adversely impacted. 
+
+Amazon Web Services (“AWS”) provides a distributed computing infrastructure platform for business operations, or what is commonly referred to as a "cloud" computing service. Given this, along with the fact that we cannot easily switch our AWS operations to another cloud provider, any disruption of or interference with our use of AWS would impact our operations and our business would be adversely impacted. 
+
+If the technology we use in operating our business fails, is unavailable, or does not operate to expectations, our business and results of operation could be adversely impacted. 
+
+We utilize a combination of proprietary and third party technology to operate our business. For example, we have built and deployed our own content-delivery network (“CDN”). If our technology or that of third parties we utilize in our operations fails or otherwise operates improperly, including as a result of “bugs” in our development and deployment of software, our ability to operate our service, retain existing members and add new members may be impaired. Any harm to our members' personal computers or other devices caused by software used in our operations could have an adverse effect on our business, results of operations and financial condition. 
+
+If government regulations relating to the internet or other areas of our business change, we may need to alter the manner in which we conduct our business, or incur greater operating expenses. 
+
+As our service and others like us gain traction in international markets, governments are increasingly looking to introduce new or extend legacy regulations to these services, in particular those related to broadcast media and tax. The adoption or modification of laws or regulations relating to the internet or other areas of our business could limit or otherwise adversely affect the manner in which we currently conduct our business. 
+
+In others, the laws may be nascent or non-existent. Changes in laws or regulations that adversely affect the growth, popularity or use of the internet, including laws impacting net neutrality, could decrease the demand for our service and increase our cost of doing business. 
+
+Changes in how network operators handle and charge for access to data that travel across their networks could adversely impact our business. 
+
+We rely upon the ability of consumers to access our service through the internet. Furthermore, to the extent network operators create tiers of internet access service and either charge us for or prohibit us from being available through these tiers, our business could be negatively impacted. 
+
+While we believe that consumer demand, regulatory oversight and competition will help check these incentives, to the extent that network operators are able to provide preferential treatment to their data as opposed to ours or otherwise implement discriminatory network management practices, our business could be negatively impacted. Most network operators that provide consumers with access to the internet also provide these consumers with multichannel video programming. 
+
+Privacy concerns could limit our ability to collect and leverage our membership data and disclosure of membership data could adversely impact our business and reputation. 
+
+We currently face certain legal obligations regarding the manner in which we treat such information. Other businesses have been criticized by privacy groups and governmental bodies for attempts to link personal identities and other information to data collected on the internet regarding users' browsing and other habits. Increased regulation of data utilization practices, including self-regulation or findings under existing laws that limit our ability to collect, transfer and use data, could have an adverse effect on our business. 
+
+Our reputation and relationships with members would be harmed if our membership data, particularly billing data, were to be accessed by unauthorized persons. 
+
+This data is maintained on our own systems as well as that of third parties we use in our operations. Despite these measures we, our payment processing services or other third party services we use such as AWS, could experience an unauthorized intrusion into our members' data. We maintain personal data regarding our members, including names and billing data. The costs relating to any data breach could be material, and we currently do not carry insurance against the risk of a data breach. Should an unauthorized intrusion into our members' or employees' data occur, our business could be adversely affected and our larger reputation with respect to data protection could be negatively impacted. 
+
+We are subject to payment processing risk. 
+
+We rely on internal systems as well as those of third parties to process payment. In addition, from time to time, we encounter fraudulent use of payment methods, which could impact our results of operation and if not adequately controlled and managed could create negative consumer perceptions of our service. In certain instances, we leverage third parties such as our cable and other partners to bill subscribers on our behalf. 
+
+If our trademarks and other proprietary rights are not adequately protected to prevent use or appropriation by our competitors, the value of our brand and other intangible assets may be diminished, and our business may be adversely affected. 
+
+We may also seek to enforce our proprietary rights through court proceedings or other legal actions. Nevertheless, these applications may not be approved, third parties may challenge any copyrights, patents or trademarks issued to or held by us, third parties may knowingly or unknowingly infringe our intellectual property rights, and we may not be able to prevent infringement or misappropriation without substantial expense to us. 
+
+We currently hold various domain names relating to our brand, including Netflix.com. 
+
+Intellectual property claims against us could be costly and result in the loss of significant rights related to, among other things, our Web site, streaming technology, our recommendation and merchandising technology, title selection processes and marketing activities. 
+
+Trademark, copyright, patent and other intellectual property rights are important to us and other companies. Our intellectual property rights extend to our technology, business processes and the content we produce and distribute through our our Web site. From time to time, third parties allege that we have violated their intellectual property rights. There are numerous patents that broadly claim means and methods of conducting business on the internet. As a result of a dispute, we may have to develop non-infringing technology, enter into royalty or licensing agreements, adjust our content, merchandising or marketing activities or take other actions to resolve the claims. We may also have to remove content from our service. 
+
+We are engaged in legal proceedings that could cause us to incur unforeseen expenses and could occupy a significant amount of our management's time and attention. 
+
+As we have grown, we have seen a rise in the number of litigation matters against us. Litigation disputes could cause us to incur unforeseen expenses, result in content unavailability, service disruptions and otherwise occupy a significant amount of our management's time and attention, any of which could negatively affect our business operations and financial position. 
+
+We may seek additional capital that may result in stockholder dilution or that may have rights senior to those of our common stockholders. 
+
+Our cash flows provided by our operating activities have been negative in each of the last three years, primarily as a result of our decision to increase the amount of original streaming content available on our service. 
+
+The decision to obtain additional capital will depend on, among other things, our business plans, operating performance and condition of the capital markets. Any large equity or equity-linked offering could also negatively impact our stock price. 
+
+We have a substantial amount of indebtedness and other obligations, including streaming content obligations, which could adversely affect our financial position. 
+
+Moreover, we expect to incur substantial additional indebtedness in the future and to incur other obligations, including additional streaming content obligations. As of December 31, 2017, we had $6.5 billion aggregate principal amount of senior notes outstanding (“Notes”). In addition, we have entered into a revolving credit agreement that provides for a $500.0 million unsecured revolving credit facility. For more information on our streaming content obligations, including those not on our consolidated balance sheet, see Note 5, Commitments and Contingencies in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K. Our substantial indebtedness and other obligations, including streaming content obligations, may: 
+
+•make it difficult for us to satisfy our financial obligations, including making scheduled principal and interest payments on our Notes and our other obligations; 
+
+•limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions or other general business purposes; 
+
+•limit our ability to use our cash flow or obtain additional financing for future working capital, capital expenditures, acquisitions or other general business purposes; 
+
+•require us to use a substantial portion of our cash flow from operations to make debt service payments and pay our other obligations when due; 
+
+•limit our flexibility to plan for, or react to, changes in our business and industry; 
+
+•place us at a competitive disadvantage compared to our less leveraged competitors; and 
+
+•increase our vulnerability to the impact of adverse economic and industry conditions. 
+
+As a result, we may be unable to react to any downturn in the economy or reduction in our cash flows from operations by reducing our streaming content obligations in the near-term. 
+
+We may not be able to generate sufficient cash to service our debt and other obligations. 
+
+Our ability to make payments on our debt, including our Notes, and our other obligations will depend on our financial and operating performance, which is subject to prevailing economic and competitive conditions and to certain financial, business and other factors beyond our control. 
+
+Our ability to refinance or restructure our debt and other obligations will depend upon the condition of the capital markets and our financial condition at such time. If our cash flows are insufficient to service our debt and other obligations, we may not be able to refinance or restructure any of these obligations on commercially reasonable terms or at all and any refinancing or restructuring could have a material adverse effect on our business, results of operations, or financial condition. 
+
+If our cash flows are insufficient to fund our debt and other obligations and we are unable to refinance or restructure these obligations, we could face substantial liquidity problems and may be forced to reduce or delay investments and capital expenditures, or to sell material assets or operations to meet our debt and other obligations. 
+
+alternatives would be adequate to meet any debt or other obligations then due. 
+
+We may lose key employees or may be unable to hire qualified employees. 
+
+In our industry, there is substantial and continuous competition for highly-skilled business, product development, technical and other personnel. 
+
+If our Domestic DVD segment declines faster than anticipated, our business could be adversely affected. 
+
+The number of memberships to our DVD-by-mail offering is declining, and we anticipate that this decline will continue. The contribution profit generated by our domestic DVD business will help provide capital resources to fund growth or our streaming service. To the extent that the rate of decline in our DVD-by-mail business is greater than we anticipate, our business could be adversely affected. 
+
+Postal Service were to increase postal delivery rates or implement other changes to improve its financial position, such as closing mail processing facilities or service reductions, such changes could lead to a decrease in customer satisfaction and our Domestic DVD segment's contribution profit could be adversely affected. 
+
+Risks Related to Our Stock Ownership 
+
+Provisions in our charter documents and under Delaware law could discourage a takeover that stockholders may consider favorable. 
+
+Our charter documents may discourage, delay or prevent a merger or acquisition that a stockholder may consider favorable because they: 
+
+•authorize our board of directors, without stockholder approval, to issue up to 10,000,000 shares of undesignated preferred stock; 
+
+•provide for a classified board of directors; 
+
+•prohibit our stockholders from acting by written consent; 
+
+•establish advance notice requirements for proposing matters to be approved by stockholders at stockholder meetings; and 
+
+•prohibit stockholders from calling a special meeting of stockholders. 
+
+As a Delaware corporation, we are also subject to certain Delaware anti-takeover provisions. 
+
+In addition, a merger or acquisition may trigger retention payments to certain executive employees under the terms of our Amended and Restated Executive Severance and Retention Incentive Plan, thereby increasing the cost of such a transaction. 
+
+The price at which our common stock has traded has fluctuated significantly. 
+
+•variations in our operating results, including our membership acquisition and retention, revenues, contribution profits, net income and free cash flow; 
+
+•variations between our actual operating results and the expectations of securities analysts, investors and the financial community; 
+
+•announcements of developments affecting our business, systems or expansion plans by us or others; 
+
+•competition, including the introduction of new competitors, their pricing strategies and services; 
+
+•the level of demand for our stock, including the amount of short interest in our stock; and 
+
+•the operating results of our competitors. 
+
+As a result of these and other factors, investors in our common stock may not be able to resell their shares at or above their original purchase price. 
+
+We may experience more such litigation following future periods of volatility. 
+
+Preparing and forecasting our financial results requires us to make judgments and estimates which may differ materially from actual results. 
+
+Such discrepancies could cause a decline in the trading price of our common stock. In addition, the preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America also requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reported periods. We base such estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, but actual results may differ from these estimates. 
+
+Our corporate headquarters are located in Los Gatos, California and consist of leased space aggregating approximately 600,000 square feet. 
+
+We also lease office space in other countries to support international streaming operations. 
+
+We believe that our existing facilities are adequate to meet current requirements, and that suitable additional or substitute space will be available as needed to accommodate any further physical expansion of operations and for any additional offices. 
+
+Information with respect to this item may be found in Note 5 Commitments and Contingencies in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K, under the caption "Legal Proceedings" which information is incorporated herein by reference. 
+
+Item 5.Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Our common stock is traded on the NASDAQ Global Select Market under the symbol “NFLX”. 
+
+As of January 25, 2018, there were approximately 327 stockholders of record of our common stock, although there is a significantly larger number of beneficial owners of our common stock. 
+
+We have not declared or paid any cash dividends, and we have no present intention of paying any cash dividends in the foreseeable future. 
+
+Notwithstanding any statement to the contrary in any of our previous or future filings with the Securities and Exchange Commission, the following information relating to the price performance of our common stock shall not be deemed “filed” with the Commission or “soliciting material” under the Securities Exchange Act of 1934 and shall not be incorporated by reference into any such filings. 
+
+The following graph compares, for the five year period ended December 31, 2017, the total cumulative stockholder return on the Company’s common stock, as adjusted for the seven-for-one stock split that occurred in July 2015, with the total cumulative return of the NASDAQ Composite Index, the S&P 500 Index and the RDG Internet Composite Index. Historical stock price performance should not be relied upon as an indication of future stock price performance. 
+
+See Note 7 Stockholder's Equity in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for further detail on the stock split. 
+
+See Liquidity and Capital Resources for a reconciliation of "free cash flow" to "net cash (used in) provided by operating activities." 
+
+(1)A membership (also referred to as a subscription) is defined as the right to receive Netflix service following sign-up and a method of payment being provided. Total members include those who are on a free-trial as long as a method of payment has been provided. Voluntary cancellations become effective at the end of the prepaid membership period, while involuntary cancellation of the service, as a result of a failed method of payment, becomes effective immediately. 
+
+Item 7.Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following represents our consolidated performance highlights: 
+
+Average paid international streaming memberships accounted for 49% of total average paid streaming memberships as of December 31, 2017, as compared to 43% of total average paid streaming memberships as of December 31, 2016. The impact from membership growth was coupled with an increase in global streaming average monthly revenue per paying membership resulting from price changes and plan mix. 
+
+This increase in content expenses includes a $39.1 million expense related to unreleased content that we have abandoned. The increase in operating income is due primarily to increased revenues partially offset by increased content expenses as we continue to acquire, license and produce content, including more Netflix originals. 
+
+Our "standard" plan is our most popular streaming plan and includes access to high definition quality streaming on two screens concurrently. We offer three types of streaming membership plans. As of December 31, 2017, pricing on our plans ranged in the U.S. from $7.99 to $13.99 per month and internationally from the U.S. dollar equivalent of approximately $4 to $20 per month. 
+
+The following represents the key elements to our segment results of operations: 
+
+As markets within our International streaming segment become profitable, we increasingly focus on our global operating margin as a measure of profitability. 
+
+•For the Domestic and International streaming segments, amortization of the streaming content assets makes up the vast majority of cost of revenues. Streaming delivery expenses, therefore, include equipment costs related to Open Connect and all third-party costs, such 
+
+as cloud computing costs, associated with delivering streaming content over the internet. 
+
+Marketing expenses are incurred by our Domestic and International streaming segments given our focus on building consumer awareness of the streaming offerings, and in particular our original content. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+The increase in average monthly revenue per paying membership resulted from our price changes and plan mix. In the Domestic streaming segment, we derive revenues from monthly membership fees for services consisting solely of streaming content to our members in the United States. 
+
+ The increase in domestic streaming cost of revenues was primarily due to a $419.0 million increase in content amortization relating to our existing and new streaming content, including more exclusive and original programming. 
+
+In 2018, we expect marketing spending growth to outpace revenue growth. 
+
+Our Domestic streaming segment had a contribution margin of 37% for the year ended December 31, 2017, which increased as compared to the contribution margin of 36% for the year ended December 31, 2016 due to growth in paid memberships and revenue, which continued to outpace content spending. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+The increase in average monthly revenue per paying membership resulted from our price changes and plan mix. 
+
+The increase in domestic streaming cost of revenues was primarily due to a $335.4 million increase in content expenses relating to our existing and new streaming content, including more exclusive and original programming. 
+
+$33.2 million increase in other costs, such as payment processing fees and customer service call centers, due to our growing member base. 
+
+Domestic marketing expenses increased primarily due to an increase in advertising and public relations spending as well as increased payments to our partners. 
+
+Our Domestic streaming segment had a contribution margin of 36% for the year ended December 31, 2016, which increased as compared to the contribution margin of 33% for the year ended December 31, 2015 due to growth in paid memberships and revenue, which continued to outpace content and marketing spending. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+In the International streaming segment, we derive revenues from monthly membership fees for services consisting solely of streaming content to our members outside the United States. 
+
+The increase in average monthly revenue per paying membership resulted from our price changes and plan mix, coupled with favorable fluctuations in foreign exchange rates. 
+
+foreign currency exchange rates fluctuate more than expected, revenues and average revenue per paying membership may differ from our expectations. 
+
+Other costs increased $236.2 million primarily due to increases in our streaming delivery expenses, costs associated with our customer service call centers and payment processing fees, all driven by our growing member base, partially offset by decreases resulting from exchange rate fluctuations. 
+
+International marketing expenses increased mainly due to increased advertising and public relations as well as increased payments to our partners. 
+
+International contribution profit increased $535.1 million year over year as profit growth in our more mature markets offset investments in newer markets. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+The increase in average monthly revenue per paying membership resulted from our price changes and plan mix, offset partially by unfavorable fluctuations in foreign exchange rates. We estimate that international revenues would have been approximately $174.0 million higher in the year ended December 31, 2016 if foreign exchange rates had remained consistent with those for the year ended December 31, 2015. 
+
+The increase in international cost of revenues was primarily due to a $998.5 million increase in content expenses relating to our existing and new streaming content, including more exclusive and original programming. 
+
+International marketing expenses increased mainly due to expenses for territories launched in the last eighteen months. 
+
+International contribution losses decreased $24.9 million year over year due to growth in paid memberships and revenue, which outpaced the growth in marketing spending. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+DVD-by-mail plans differ by the number of DVDs that a member may have out at any given point. In the Domestic DVD segment, we derive revenues from our DVD-by-mail membership services. The number of memberships to our DVD-by-mail offering is declining, and we anticipate that this decline will continue. 
+
+Our Domestic DVD segment had a contribution margin of 55% for the year ended December 31, 2017, up from 52% for the year ended December 31, 2016 due to the decrease in DVD usage by paying members and decreased DVD content expenses. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+Our Domestic DVD segment had a contribution margin of 52% for the year ended December 31, 2016, up from 50% for the year ended December 31, 2015 due to the decrease in DVD usage by paying members and decreased DVD content expenses. 
+
+Technology and development expenses consist of payroll and related expenses for all technology personnel, as well as other costs incurred in making improvements to our service offerings, including testing, maintaining and modifying our user interface, our recommendation, merchandising and streaming delivery technology and infrastructure. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+The increase in technology and development expenses was primarily due to a $131.1 million increase in personnel-related costs, including stock-based compensation expense, resulting from an increase in compensation for existing employees and a 3% growth in average headcount supporting continued improvements in our streaming service and our international expansion. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+In addition, third-party expenses, including costs associated with cloud computing, increased $27.3 million. 
+
+General and administrative expenses also includes professional fees and other general corporate expenses. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+In addition, facilities-related costs increased $49.9 million, primarily driven by costs for our expanded Los Gatos, California headquarters and new Los Angeles, California facility, both of which were placed into operation in the first quarter of 2017. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+In addition, facilities-related costs increased $16.2 million due to the growth in average headcount. 
+
+See Note 4 Long-term Debt in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for further detail of our long-term debt obligations. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+Interest expense for the year ended December 31, 2017 consists primarily of $229.2 million of interest on our notes. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+Interest expense for the year ended December 31, 2016 consists primarily of $143.3 million of interest on our notes. 
+
+Interest and other income (expense) consists primarily of foreign exchange gains and losses on foreign currency denominated balances and interest earned on cash, cash equivalents and short-term investments. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+In the year ended December 31, 2017, the foreign exchange loss of $127.9 million was primarily driven by the $140.8 million loss from remeasurement of our €1,300 million Senior Notes partially offset by the remeasurement of cash and content liability positions in currencies other than functional currencies of our European and U.S. entities. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+Interest and other income (expense) increased primarily due to foreign exchange. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+At the beginning of 2017, we underwent a corporate restructuring that better aligns our corporate structure with how our business operates. 
+
+In 2017, the difference between our (15)% effective tax rate and the Federal statutory rate of 35% was $(243.5) million primarily due to the recognition of excess tax benefits as a component of the provision for income taxes, an increase in foreign income taxed at rates lower than the U.S. statutory rate and Federal and California research and development credits (“R&D”), partially offset by state taxes and non-deductible expenses as well as the provisional impact of changes to tax law. 
+
+Changes include, but are not limited to, a corporate tax rate decrease from 35% to 21% effective for tax years beginning after December 31, 2017, the transition of U.S international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017. The provisional amount related to the remeasurement of certain deferred tax assets and liabilities, based on the rates at which they are expected to reverse in the future, was $46.9 million. We also recorded a $66.5 million benefit related to foreign taxes expensed in prior years that may now be claimed as a Foreign Tax Credit. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+In 2016, the difference between our 28% effective tax rate and the Federal statutory rate of 35% was $17.3 million primarily due to the 2016 Federal and California R&D credits partially offset by state income taxes, foreign taxes, and nondeductible expenses. 
+
+The Tax Cut and Jobs Act of 2017 included a one-time transition tax on unremitted foreign earnings, and accordingly, we recorded tax expense of $32.2 million related to the transition tax on the one-time mandatory deemed repatriation of all our foreign earnings as of December 31, 2017. See Note 9 Income Taxes in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information on income taxes. 
+
+In July 2017, we entered into a $500.0 million unsecured revolving credit facility (“Revolving Credit Agreement”), with an uncommitted incremental facility to increase the amount of the revolving credit facility by up to an additional $250.0 million subject to certain terms and conditions. We may not be able to obtain such financing on terms acceptable to us or at all. See Note 4 Long-term Debt in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K for additional information about long-term debt. If we raise additional funds through the issuance of equity or debt securities, those securities may have rights, preferences or privileges senior to the rights of our common stock, and our stockholders may experience dilution. 
+
+For licensed content, cash payment terms have historically been in line with the amortization period. For example, production costs are paid as the content is created, well in advance of when the content is available on the service and amortized. We currently anticipate that cash flows from operations, available funds and access to financing sources, including our revolving credit facility, will continue to be sufficient to meet our cash needs for at least the next twelve months. 
+
+We believe free cash flow is an important liquidity metric because it measures, during a given period, the amount of cash generated that is available to repay debt obligations, make investments and for certain other activities or the amount of cash used in operations, including investments in global streaming content. 
+
+Working capital differences include deferred revenue, taxes and semi-annual interest payments on our outstanding debt. 
+
+Year ended December 31, 2017 as compared to the year ended December 31, 2016 
+
+The payments for streaming content assets increased $2,025.1 million, from $6,880.6 million to $8,905.8 million, or 29%, as compared to an increase in the amortization of streaming content assets of $1,409.3 million, from $4,788.5 million to $6,197.8 million, or 29%. The increased use of cash was partially offset by a $2,862.0 million or 32% increase in revenues. 
+
+This increase in cash used was partially offset by an increase of $32.5 million in the proceeds from sales and maturities of short-term investments, net of purchases due to the sale of our short-term investments in July 2017 as well as a decline in DVD purchases of $23.5 million. 
+
+Cash provided by financing activities increased $1,985.4 million primarily due to the $2,988.4 million net proceeds from the issuance of the 3.625% Notes and 4.875% Notes in the year ended December 31, 2017 as compared to the $989.3 million net proceeds from the issuance of the 4.375% Notes in the year ended December 31, 2016. 
+
+Free cash flow was $2,578.6 million lower than net income for the year ended December 31, 2017 primarily due to $2,707.9 million of cash payments for streaming content assets over streaming amortization expense and $52.9 million of unfavorable other working capital differences partially offset by $182.2 million of non-cash stock-based compensation expense. 
+
+Year ended December 31, 2016 as compared to the year ended December 31, 2015 
+
+Cash used in operating activities increased $724.5 million resulting in net cash used in operating activities of $1,474.0 million for the year ended December 31, 2016. The increased use of cash was partially offset by a $2,051.2 million or 30% increase in revenues. 
+
+Cash provided by investing activities increased $229.0 million, primarily due to an increase of $243.6 million in the proceeds from sales and maturities of short-term investments, net of purchases, partially offset by a $16.4 million increase in the purchases of property and equipment, primarily driven by the expansion of our Los Gatos, California headquarters, as well as our new office space in Los Angeles, California. 
+
+Cash provided by financing activities decreased $548.6 million primarily due to the $1,482.4 million net proceeds from the issuance of the 5.50% Notes and the 5.875% Notes in the year ended December 31, 2015 as compared to the $989.3 million net proceeds from the issuance of the 4.375% Notes in the year ended December 31, 2016. 
+
+Free cash flow was $1,846.4 million lower than net income for the year ended December 31, 2016 primarily due to $2,092.1 million of cash payments for streaming content assets over streaming amortization expense partially offset by $173.7 million of non-cash stock-based compensation expense and $72.0 million of favorable other working capital differences. 
+
+For the purpose of this table, contractual obligations for purchases of goods or services are defined as agreements that are enforceable and legally binding and that specify all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. The following table summarizes our contractual obligations at December 31, 2017: 
+
+Streaming content obligations increased $3.2 billion from $14.5 billion as of December 31, 2016 to $17.7 billion as of December 31, 2017 primarily due to multi-year commitments associated with the continued expansion of our exclusive and original programming. 
+
+Streaming content obligations include amounts related to the acquisition, licensing and production of streaming content. An obligation for the acquisition and licensing of content is incurred at the time we enter into an agreement to obtain future titles. Certain agreements include the obligation to license rights for unknown future titles, the ultimate quantity and/or fees for which are not yet determinable as of the reporting date. Once a title becomes available, a content liability is recorded on the Consolidated Balance Sheets. However, these unknown obligations are expected to be significant and we believe could include approximately $3 billion to $5 billion over the next three years, with the payments for the vast majority of such amounts expected to occur after the next twelve months. 
+
+(2)Long-term debt obligations include our Notes consisting of principal and interest payments. 
+
+(4)Other purchase obligations include all other non-cancelable contractual obligations. 
+
+At this time, an estimate of the range of reasonably possible adjustments to the balance of unrecognized tax benefits cannot be made. 
+
+ We do not have transactions with unconsolidated entities, such as entities often referred to as structured finance or special purpose entities, whereby we have financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk, or credit risk support to us. 
+
+The information set forth under Note 6 Guarantees - Indemnification Obligations in the accompanying notes to our consolidated financial statements included in Part II, Item 8, "Financial Statements and Supplementary Data" of this Annual Report on Form 10-K is incorporated herein by reference. 
+
+  The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reported periods. Actual results may differ from these estimates. 
+
+The content licenses are for a fixed fee and specific windows of availability. Payments for content, including additions to streaming assets and the changes in related liabilities, are classified within "Net cash used in operating activities" on the Consolidated Statements of Cash Flows. 
+
+For licenses, we capitalize the fee per title and record a corresponding liability at the gross amount of the liability when the license period begins, the cost of the title is known and the title is accepted and available for streaming. 
+
+Participations and residuals are expensed in line with the amortization of production costs. 
+
+Based on factors including historical and estimated viewing patterns, we amortize the content assets (licensed and produced) in “Cost of revenues” on the Consolidated Statements of Operations, over the shorter of each title's contractual window of availability or estimated period of use or ten years, beginning with the month of first availability. We review factors that impact the amortization of the content assets on a regular basis. 
+
+Our business model is subscription based as opposed to a model generating revenues at a specific title level. If such changes are identified in the future, these aggregated content assets will be stated at the lower of unamortized cost, net realizable value or fair value. 
+
+The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. The measurement of deferred tax assets is reduced, if necessary, by a valuation allowance for any tax benefits for which future realization is uncertain. 
+
+Although we believe our assumptions, judgments and estimates are reasonable, changes in tax laws or our interpretation of tax laws and the resolution of any tax audits could significantly impact the amounts provided for income taxes in our consolidated financial statements. 
+
+Actual operating results in future years could differ from our current assumptions, judgments and estimates. The assumptions utilized in determining future taxable income require significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. However, we believe that it is more likely than not that most of the deferred tax assets recorded on our Consolidated Balance Sheets will ultimately be realized. 
+
+Due to uncertainties in any tax audit outcome, our estimates of the ultimate settlement of our unrecognized tax positions may change and the actual tax benefits may differ significantly from the estimates. At December 31, 2017, our estimated gross unrecognized tax benefits were $42.9 million of which $37.9 million, if recognized, would favorably impact our future earnings. 
+
+Changes include, but are not limited to, a federal corporate tax rate decrease from 35% to 21% for tax years beginning after December 31, 2017 , the transition of U.S international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of foreign earnings. The provisional amount related to the remeasurement of certain deferred tax assets and liabilities, based on the rates at which they are expected to reverse in the future, was $46.9 million. 
+
+In accordance with SAB 118, we have determined that the $46.9 million of the deferred tax expense recorded in connection with the remeasurement of certain deferred tax assets and liabilities and the $32.2 million of current tax expense recorded in connection with the transition tax on the mandatory deemed repatriation of foreign earnings was a provisional amount and a reasonable estimate at December 31, 2017. Any subsequent adjustment to these amounts will be recorded to current tax expense in the quarter of 2018 when the analysis is complete. 
+
+See Note 9 to the consolidated financial statements for further information regarding income taxes. 
+
+The information set forth under Note 1 to the consolidated financial statements under the caption “Basis of Presentation and Summary of Significant Accounting Policies” is incorporated herein by reference. 
+
+Item 7A.Quantitative and Qualitative Disclosures about Market Risk 

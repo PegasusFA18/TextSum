@@ -1,43 +1,129 @@
-JPMorgan Chase’s principal nonbank subsidiary is J.P. Morgan Securities LLC (“JPMorgan Securities”), a U.S. broker-dealer.
-The Firm’s consumer business is the Consumer & Community Banking (“CCB”) segment.
-The Firm’s ability to compete also depends on its ability to attract and retain professional and other personnel, and on its reputation.
-Certain non-bank subsidiaries, such as the Firm’s U.S. broker-dealers, are subject to supervision and regulation by the SEC, and subsidiaries of the Firm that engage in certain futures-related and swaps-related activities are subject to supervision and regulation by the Commodity Futures Trading Commission (“CFTC”).
-The Firm is required to file its 2018 annual CCAR submission on April 5,
-2018.
-For additional information on the Firm’s CCAR, see Capital Risk Management on pages 82–91.
-Capital and liquidity requirements.
-Banking supervisors globally continue to consider refinements and enhancements to the Basel III capital framework for financial institutions.
-See Securities and broker-dealer regulation, Investment management regulation and Derivatives regulation below.
-The Firm is also subject to the regulations and economic sanctions programs administered by the U.S. Treasury’s Office of Foreign Assets Control (“OFAC”).
-In the U.K., those activities are conducted by J.P. Morgan Securities plc, a subsidiary of JPMorgan Chase Bank, N.A., and are regulated by the PRA and the FCA.
-The Basel Committee expects national regulatory authorities to implement the Basel III Reforms in the laws of their respective jurisdictions and to require banking organizations subject to such laws to meet most of the revised requirements by January 1, 2022, with certain elements being phased in through January 1, 2027.
-In addition, U.K. regulators have introduced measures to enhance accountability of individuals, and promote forward-looking conduct risk identification and mitigation, including by introducing the Senior Managers and Certification Regimes.
-have submitted their recovery plans to the OCC.
-The Firm’s other non-U.S. subsidiaries are regulated by the banking and securities regulatory authorities in the countries in which they operate.
-The Financial Stability Oversight Council (“FSOC”), among other things, recommends prudential standards and reporting and disclosure requirements to the Federal Reserve for systemically important financial institutions (“SIFIs”), such as JPMorgan Chase.
-JPMorgan Chase and its national bank subsidiaries, including JPMorgan Chase Bank, N.A.
-and Chase Bank USA, N.A.
-On September 8, 2016, the Federal Reserve published the framework that will apply to the setting of the countercyclical capital buffer.
-For more information about the applicable requirements relating to risk-based capital and leverage, see Capital Risk Management on pages 82–91 and Note 26.
-For more information see Investment management regulation below.
-The Bank Secrecy Act and Economic Sanctions:
-The Bank Secrecy Act (“BSA”) requires all financial institutions, including banks and securities broker-dealers, to, among other things, establish a risk-based system of internal controls reasonably designed to prevent money laundering and the financing of terrorism.
-Significant international regulatory initiatives:
-In the EU, there is an extensive and complex program of final and proposed regulatory enhancement that reflects, in part, the EU’s commitments to policies of the Group of Twenty Finance Ministers and Central Bank Governors (“G20”) together with other plans specific to the EU.
-Cross-guarantee.
-The guidelines establish minimum standards for the design and implementation of a risk governance framework for banks.
-In the European Union (“EU”), substantial revisions to the Markets in Financial Instruments Directive (“MiFID II”) became effective across EU member states beginning January 3, 2018.
-The Federal Reserve may also impose corrective capital and/or managerial requirements on the financial holding company and may, for example, require divestiture of the holding company’s depository institutions if the deficiencies persist.
-The Firm conducts similar securities activities outside the U.S. subject to local regulatory requirements.
-The Federal Deposit Insurance Corporation Improvement Act of 1991 requires the relevant federal banking regulator to take “prompt corrective action” with respect to a depository institution if that institution does not meet certain capital adequacy standards.
-As a result, such persons could receive substantially less than the depositors in U.S. offices of the depository institution.
-Absent such actions, the Firm, as a BHC, would remain subject to resolution under the Bankruptcy Code.
-Consistent with the G20 and EU policy frameworks, U.K. regulators have adopted a range of policy measures that have significantly changed the markets and prudential regulatory environment in the U.K.
-As a result of their registration as swap dealers or security-based swap dealers, these entities will be subject to a comprehensive regulatory framework applicable to their swap or security-based swap activities, which includes capital requirements, rules regulating their swap activities, rules requiring the collateralization of uncleared swaps, rules regarding segregation of counterparty collateral, business conduct and documentation standards, record-keeping and reporting obligations, and anti-fraud and anti-manipulation requirements.
-In addition, the Volcker Rule imposes a prohibition on such transactions between any JPMorgan Chase entity and covered funds for which a JPMorgan Chase entity serves as the investment manager, investment advisor, commodity trading advisor or sponsor, as well as, subject to a limited exception, any covered fund controlled by such funds.
-In December 2017, the Federal Reserve released a set of proposals intended to provide more detailed disclosure and transparency concerning the Federal Reserve’s approach, design and governance of the supervisory stress testing process.
-Bribery Act.
-The Federal Reserve has adopted several rules to implement the heightened prudential standards, including final rules relating to risk management and corporate governance of subject BHCs.
-In addition, the Firm’s consumer activities are subject to supervision and regulation by the Consumer Financial Protection Bureau (“CFPB”) and to regulation under various state statutes which are enforced by the respective state’s Attorney General.
-JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC, J.P. Morgan Securities plc and J.P. Morgan Ventures Energy Corporation have registered with the CFTC as swap dealers, and JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan Securities plc may be required to register with the SEC as security-based swap dealers.
-In the EU, the implementation of the European Market Infrastructure Regulation (“EMIR”) and MiFID II will result in comparable, but not identical, changes to the European regulatory regime for derivatives.
+The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. 
+
+JPMorgan Chase’s principal nonbank subsidiary is J.P. Morgan Securities LLC (“JPMorgan Securities”), a U.S. broker-dealer. The bank and non-bank subsidiaries of JPMorgan Chase operate nationally as well as through overseas branches and subsidiaries, representative offices and subsidiary foreign banks. 
+
+JPMorgan Chase makes available free of charge, through its website, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K pursuant to Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as soon as reasonably practicable after it electronically files such material with, or furnishes such material to, the U.S. Securities and Exchange Commission (the “SEC”) at www.sec.gov. 
+
+The Firm’s wholesale business segments are Corporate & Investment Bank (“CIB”), Commercial Banking (“CB”), and Asset & Wealth Management (“AWM”). 
+
+A description of the Firm’s business segments and the products and services they provide to their respective client bases is provided in the “Business segment results” section 
+
+of Management’s discussion and analysis of financial condition and results of operations (“MD&A”), beginning on page 40 and in Note 31. 
+
+JPMorgan Chase and its subsidiaries and affiliates operate in a highly competitive environment. Competitors include other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other Internet-based companies, financial technology companies, and other companies engaged in providing similar products and services. The Firm’s businesses generally compete on the basis of the quality and variety of the Firm’s products and services, transaction execution, innovation, reputation and price. 
+
+It is likely that competition in the financial services industry will continue to be intense as the Firm’s businesses compete with other financial institutions that may have a stronger local presence in certain geographies or that operate under different rules and regulatory regimes than the Firm, or with companies that provide new or innovative products or services that the Firm does not provide. 
+
+The Firm is subject to extensive and comprehensive regulation under state and federal laws in the U.S., as well as the applicable laws of each of the various jurisdictions outside the U.S. in which the Firm does business. 
+
+The Firm has experienced an extended period of significant change in regulation which has had and could continue to have significant consequences for how the Firm conducts business in the U.S. and abroad. As a result of legislative and regulatory changes and expanded supervision, the Firm has implemented and refined policies, procedures and controls, and made adjustments to its business and operations, legal entity structure, and capital and liquidity management. 
+
+Because regulatory changes are ongoing, the Firm cannot currently quantify all of the possible effects on its business and operations of the significant changes that are underway. 
+
+Consolidated supervision by the Board of Governors of the Federal Reserve System (the “Federal Reserve”). and Chase Bank USA, N.A., are subject to supervision and regulation by the Office of the Comptroller of the Currency (“OCC”) and, with respect to certain matters, by the Federal Reserve and the Federal Deposit Insurance Corporation (the “FDIC”). The Firm’s other non-U.S. subsidiaries are regulated by the banking and securities regulatory authorities in the countries in which they operate. In addition, the Firm’s consumer activities are subject to supervision and regulation by the Consumer Financial Protection Bureau (“CFPB”) and to regulation under various state statutes which are enforced by the respective state’s Attorney General. For example, JPMorgan Chase’s national bank subsidiaries, JPMorgan Chase Bank, N.A. 
+
+The Bank Holding Company Act generally restricts BHCs from engaging in business activities other than the business of banking and certain closely-related activities. 
+
+requirements (including requirements that the financial holding company and each of its U.S. depository institution subsidiaries maintain their status as “well-capitalized” and “well-managed”). The Federal Reserve may also impose corrective capital and/or managerial requirements on the financial holding company and may, for example, require divestiture of the holding company’s depository institutions if the deficiencies persist. 
+
+The period during which banking entities were required to bring covered funds into conformance with the Volcker Rule ended on July 21, 2017. The Volcker Rule requires banking entities to establish comprehensive compliance programs reasonably designed to help ensure and monitor compliance with the restrictions under the Volcker Rule, including, in order to distinguish permissible from impermissible risk-taking activities, the measurement, monitoring and reporting of certain key metrics. 
+
+The Federal Reserve establishes capital and leverage requirements for the Firm and evaluates its compliance with such requirements. Under Basel III, bank holding companies and banks are required to measure their liquidity against two specific liquidity tests: the liquidity coverage ratio (“LCR”) and the net stable funding ratio (“NSFR”). LCR”) became effective on January 1, 2015. On December 19, 2016, the Federal Reserve published final U.S. LCR public disclosure requirements. Beginning in the second quarter of 2017, the Firm began disclosing its 
+
+consolidated LCR pursuant to the U.S. LCR rule. The Federal Reserve reviews the amount of this buffer at least annually, and on December 1, 2017, the Federal Reserve reaffirmed setting this buffer at 0%. The Basel III Reforms include revisions to both the standardized and internal ratings-based approach for credit risk, streamlining of the available approaches under the credit valuation adjustment (“CVA”) framework, a revised approach for operational risk, revisions to the measurement and calibration of the leverage ratio, and a capital floor based on 72.5% of the revised Standardized approaches. U.S. banking regulators will now propose requirements applicable to U.S. financial institutions. 
+
+Under the framework, the Firm must conduct semi-annual company-run stress tests and, in addition, must submit an annual capital plan to the Federal Reserve, taking into account the results of separate stress tests designed by the Firm and the Federal Reserve. In reviewing the Firm’s capital plan, the Federal Reserve considers both quantitative and qualitative factors. to perform separate, similar annual stress tests. The Firm is required to file its 2018 annual CCAR submission on April 5, 
+
+The mid-cycle capital stress test submissions are due on October 5, 2018 and BHCs, including the Firm, will publish results by November 4, 2018. For additional information on the Firm’s CCAR, see Capital Risk Management on pages 82–91. 
+
+BHCs with $50 billion or more in total consolidated assets are required to comply with enhanced liquidity and overall risk management standards, and their boards of directors are required to conduct appropriate oversight of their risk management activities. For information on liquidity measures, see Liquidity Risk Management on pages 92–97. 
+
+Orderly liquidation authority and resolution and recovery. The agencies determined that JPMorgan Chase’s 2017 resolution plan did not have any “deficiencies,” which are weaknesses severe enough to trigger a resubmission process that could result in more stringent requirements, or any “shortcomings,” which are less-severe weaknesses that would need to be addressed in the next resolution plan. 
+
+Certain financial companies, including JPMorgan Chase and certain of its subsidiaries, can also be subjected to resolution under an “orderly liquidation authority.” The U.S. Treasury Secretary, in consultation with the President of the United States, must first make certain extraordinary financial distress and systemic risk determinations, and action must be recommended by the FDIC and the Federal Reserve. 
+
+This strategy seeks to keep operating subsidiaries of the BHC open and impose losses on shareholders and creditors of the holding company in receivership according to their statutory order of priority. 
+
+and Chase Bank USA, N.A., to provide an IDI resolution plan. 
+
+In addition, certain of the Firm’s non-U.S. subsidiaries are subject to resolution and recovery planning requirements in the jurisdictions in which they operate. have submitted their recovery plans to the OCC. 
+
+Higher capital surcharges on global systemically important banks (“GSIBs”), requirements for certain large bank holding companies to maintain a minimum amount of long-term debt to facilitate orderly resolution of those firms (referred to as Total Loss Absorbing Capacity (“TLAC”)), and the International Swaps and Derivatives Association (“ISDA”) protocol relating to the “close-out” of derivatives transactions during the resolution of a large cross-border financial institution, are examples of initiatives to address “too big to fail.” For further information on the GSIB framework and TLAC, see Capital Risk Management on pages 82–91 and Risk Factors on pages 8–26, and on the ISDA close-out protocol, see Derivatives regulation below. 
+
+JPMorgan Chase & Co. is required to serve as a source of financial strength for its depository institution subsidiaries and to commit resources to support those subsidiaries. 
+
+Acquisitions by bank holding companies and their banks are subject to multiple requirements by the Federal Reserve and the OCC. 
+
+In addition, acquisitions by financial companies are prohibited if, as a result of the acquisition, the total liabilities of the financial company would exceed 10% of the total liabilities of all financial companies. 
+
+As national banks, the activities of JPMorgan Chase Bank, N.A. are limited to those specifically authorized under the National Bank Act and related interpretations by the OCC. 
+
+The FDIC deposit insurance fund provides insurance coverage for certain deposits and is funded through assessments on banks, such as JPMorgan Chase Bank, N.A. 
+
+The FDIC has broad powers to transfer any assets and liabilities without the approval of the institution’s creditors. 
+
+An FDIC-insured depository institution can be held liable for any loss incurred or expected to be incurred by the FDIC if another FDIC-insured institution that is under common control with such institution is in default or is deemed to be “in danger of default” (commonly referred to as “cross-guarantee” liability). 
+
+The Federal Deposit Insurance Corporation Improvement Act of 1991 requires the relevant federal banking regulator to take “prompt corrective action” with respect to a depository institution if that institution does not meet certain capital adequacy standards. and Chase Bank USA, N.A., the Federal Reserve is authorized to take appropriate action against the parent BHC, such as 
+
+In certain instances, the BHC would be required to guarantee the performance of the capital restoration plan for its undercapitalized subsidiary. 
+
+The guidelines establish minimum standards for the design and implementation of a risk governance framework for banks. The bank’s board or risk committee is responsible for approving the bank’s risk governance framework, providing active oversight of the bank’s risk-taking activities, and holding management accountable for adhering to the risk governance framework. 
+
+The bank subsidiaries of JPMorgan Chase (including subsidiaries of those banks) are subject to certain restrictions imposed by federal law on extensions of credit to, investments in stock or securities of, and derivatives, securities lending and certain other transactions with, JPMorgan Chase & Co. and certain other affiliates. For more information, see Note 25. 
+
+See Note 25 for the amount of dividends that the Firm’s principal bank subsidiaries could pay, at January 1, 2018, to their respective bank holding companies without the approval of their banking regulators. 
+
+In addition to the dividend restrictions described above, the OCC and the Federal Reserve have authority to prohibit or limit the payment of dividends of the bank subsidiaries they supervise, if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound practice in light of the financial condition of the bank. 
+
+As a result, such persons could receive substantially less than the depositors in U.S. offices of the depository institution. 
+
+CFPB regulation and supervision, and other consumer regulations. The CFPB’s rule-making efforts have addressed mortgage-related topics, including ability to repay and qualified mortgage standards, mortgage servicing standards, loan originator compensation standards, high-cost mortgage requirements, Home Mortgage Disclosure Act requirements, appraisal and escrow standards and requirements for higher-priced mortgages. The CFPB continues to issue informal guidance on a variety of topics (such as the collection of consumer debts and credit card marketing practices). As part of its regulatory oversight, the CFPB has authority to take enforcement actions against firms that offer certain products and services to consumers, including JPMorgan Chase. 
+
+The Firm conducts similar securities activities outside the U.S. subject to local regulatory requirements. The Firm conducts securities underwriting, dealing and brokerage activities in the U.S. through J.P. Morgan Securities LLC and other non-bank broker-dealer subsidiaries, all of which are subject to regulations of the SEC, the Financial Industry Regulatory Authority and the New York Stock Exchange, among others. In addition, rules adopted by the U.S. Department of Labor (“DOL”) have imposed (among other things) a new standard of care applicable to broker-dealers when dealing 
+
+For more information see Investment management regulation below. 
+
+As such, the Firm’s registered investment advisers are subject to the fiduciary and other obligations imposed under the Investment Advisers Act of 1940 and the rules and regulations promulgated thereunder, as well as various state securities laws. For information regarding investigations and litigation in connection with disclosures to clients related to proprietary products, see Note 29. 
+
+The Firm’s asset and wealth management businesses continue to be affected by ongoing rule-making and implementation of new regulations. The prohibited transaction exemptions issued in connection with the rule require adherence to “impartial conduct standards” (including a requirement to act in the “best interest” of retirement clients), although compliance with requirements relating to conditions requiring new client contracts, implementation of policies and procedures, websites and other disclosures to both investors and the DOL have been delayed until July 1, 2019. Subject to the outcome of the DOL’s review, it is expected that the rule and related prohibited transaction exemptions will have a significant impact on the fee and compensation practices at financial institutions that offer investment advice to retail retirement clients. 
+
+These revisions introduced expanded requirements for a broad range of investment management activities, including product governance, transparency on costs and charges, independent investment advice, inducements, record keeping and client reporting. 
+
+new requirements to enhance the liquidity and stability of money market funds in the EU. 
+
+The Firm is subject to comprehensive regulation of its derivatives businesses. JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC, J.P. Morgan Securities plc and J.P. Morgan Ventures Energy Corporation have registered with the CFTC as swap dealers, and JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan Securities plc may be required to register with the SEC as security-based swap dealers. The regulations impose capital and margin requirements (including the collecting and posting of variation margin and initial margin in respect of non-centrally cleared derivatives), require central clearing of standardized over-the-counter (“OTC”) derivatives, require that certain standardized over-the-counter swaps be traded on regulated trading venues, and provide for reporting of certain mandated information. The effect of these rules may require banking entities, such as the Firm, to modify the structure of their derivatives businesses and face increased operational and regulatory costs. 
+
+The Protocol provides for the contractual recognition of cross-border stays under 
+
+various statutory resolution regimes and a contractual stay on certain cross-default rights. 
+
+In the U.S., one subsidiary of the Firm, J.P. Morgan Securities LLC, is registered as a futures commission merchant, and other subsidiaries are either registered with the CFTC as commodity pool operators and commodity trading advisors or are exempt from such registration. 
+
+The Firm and its subsidiaries are subject to federal, state and international laws and regulations concerning the use and protection of certain customer, employee and other personal and confidential information, including those imposed by the Gramm-Leach-Bliley Act and the Fair Credit Reporting Act, as well as the EU Data Protection Directive. 
+
+In addition, numerous proposals regarding privacy and data protection are pending before U.S. and non-U.S. legislative and regulatory bodies. 
+
+The Bank Secrecy Act and Economic Sanctions: 
+
+The Bank Secrecy Act (“BSA”) requires all financial institutions, including banks and securities broker-dealers, to, among other things, establish a risk-based system of internal controls reasonably designed to prevent money laundering and the financing of terrorism. The Firm is also subject to the regulations and economic sanctions programs administered by the U.S. Treasury’s Office of Foreign Assets Control (“OFAC”). 
+
+The Firm is subject to laws and regulations relating to corrupt and illegal payments to government officials and others in the jurisdictions in which it operates, including the U.S. Foreign Corrupt Practices Act and the U.K. 
+
+to the hiring of referred candidates and to remediate the issues identified in the Consent Order. 
+
+The Federal Reserve has issued guidance jointly with the FDIC and the OCC that is designed to ensure that incentive compensation paid by banking organizations does not encourage imprudent risk-taking that threatens the organizations’ safety and soundness. The Firm’s compensation practices are subject to oversight by the Federal Reserve, as well as other agencies. In addition, under the Dodd-Frank Act, federal regulators, including the Federal Reserve, must issue regulations or guidelines requiring covered financial institutions, including the Firm, to report the structure of all incentive-based compensation arrangements and prohibit incentive-based payment arrangements that encourage inappropriate risks by providing compensation that is excessive or that could lead to material financial loss to the institution. In addition, the SEC has issued regulations that will require public companies to start disclosing, beginning with annual shareholder meetings in 2018, the pay ratio between the company’s median employee and the company’s chief executive officer or other principal executive officer in the proxy statement as of December 31, 2017. 
+
+The EU operates a European Systemic Risk Board that monitors financial stability, together with European Supervisory Authorities (“ESA”) that set detailed regulatory rules and encourage supervisory convergence across the EU’s Member States. At both the G20 and EU 
+
+levels, various proposals are under consideration to address risks associated with global financial institutions. 
+
+In the EU, this includes EMIR, which requires, among other things, the central clearing of certain standardized derivatives and risk mitigation for uncleared OTC derivatives, and MiFID II, which gives effect to the G20 commitment to move trading of standardized OTC derivatives to exchanges or electronic trading platforms. MiFID II significantly enhances requirements for pre- and post-trade transparency, transaction reporting and investor protection. 
+
+The EU is also currently considering or implementing significant revisions to laws covering securities settlement; mutual funds and pensions; payments; anti-money laundering controls; data security and privacy; transparency and disclosure of securities financing transactions; benchmarks; resolution of banks, investment firms and market infrastructures; and capital and liquidity requirements for banks and investment firms. The capital and liquidity legislation for banks and investment firms will implement in the EU many of the finalized Basel III capital and liquidity standards, including in relation to the leverage ratio, market risk capital, and a net stable funding ratio. 
+
+In addition, U.K. regulators have introduced measures to enhance accountability of individuals, and promote forward-looking conduct risk identification and mitigation, including by introducing the Senior Managers and Certification Regimes. 
+
+The U.K. government invoked Article 50 of the Lisbon Treaty on March 29, 2017, starting a two-year period for the formal exit negotiations. The U.K.’s priorities in negotiating the future relationship are to seek a bilateral free trade agreement 
+
+with the EU27 that facilitates the “greatest possible access” to the Single Market. The current EU27 position is that a free trade agreement should be balanced, ambitious and wide-ranging, that the U.K.’s participation in the Single Market or parts thereof must end, and that there will not be any sector-specific carve-outs, such as for financial services. 

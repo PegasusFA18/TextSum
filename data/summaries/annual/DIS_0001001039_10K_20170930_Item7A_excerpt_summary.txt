@@ -1,6 +1,23 @@
-Value at Risk (VAR)
-The Company utilizes a VAR model to estimate the maximum potential one-day loss in the fair value of its interest rate, foreign exchange, commodities and market sensitive equity financial instruments.
-Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes.
-ITEM 7A.
-These interrelationships were determined by observing interest rate, foreign currency, commodity and equity market changes over the preceding quarter for the calculation of VAR amounts at each fiscal quarter end.
-Financial Statements and Supplementary Data
+Quantitative and Qualitative Disclosures About Market Risk 
+
+The Company is exposed to the impact of interest rate changes, foreign currency fluctuations, commodity fluctuations and changes in the market values of its investments. 
+
+In the normal course of business, we employ established policies and procedures to manage the Company’s exposure to changes in interest rates, foreign currencies and commodities using a variety of financial instruments. 
+
+To achieve these objectives, we primarily use interest rate swaps to manage net exposure to interest rate changes related to the Company’s portfolio of borrowings. 
+
+The Company utilizes option strategies and forward contracts that provide for the purchase or sale of foreign currencies to hedge probable, but not firmly committed, transactions. The Company also uses forward and option contracts to hedge foreign currency assets and liabilities. The principal foreign currencies hedged are the euro, British pound, Japanese yen and Canadian dollar. The economic or political conditions in a country could reduce our ability to hedge exposure to currency fluctuations in the country or our ability to repatriate revenue from the country. 
+
+Our objectives in managing exposure to commodity fluctuations are to use commodity derivatives to reduce volatility of earnings and cash flows arising from commodity price changes. 
+
+It is the Company’s policy to enter into foreign currency and interest rate derivative transactions and other financial instruments only to the extent considered necessary to meet its objectives as stated above. 
+
+Various modeling techniques can be used in a VAR computation. The Company utilizes a VAR model to estimate the maximum potential one-day loss in the fair value of its interest rate, foreign exchange, commodities and market sensitive equity financial instruments. These interrelationships were determined by observing interest rate, foreign currency, commodity and equity market changes over the preceding quarter for the calculation of VAR amounts at each fiscal quarter end. 
+
+The VAR model is a risk analysis tool and does not purport to represent actual losses in fair value that will be incurred by the Company, nor does it consider the potential effect of favorable changes in market factors. 
+
+VAR on a combined basis decreased to $92 million at September 30, 2017 from $113 million at October 1, 2016. 
+
+The estimated maximum potential one-day loss in fair value, calculated using the VAR model, is as follows (unaudited, in millions): 
+
+The VAR for Hong Kong Disneyland Resort and Shanghai Disney Resort is immaterial as of September 30, 2017 and accordingly has been excluded from the above table. 

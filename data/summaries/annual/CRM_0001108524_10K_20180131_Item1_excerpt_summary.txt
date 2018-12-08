@@ -1,47 +1,163 @@
-Salesforce also believes in giving back.
-Quip.
-Commerce Cloud.
-In addition, these apps can be marketed and sold on the AppExchange or sold directly by software vendors.
-6
-Technology, Development and Operations
-We deliver our Salesforce solutions as highly scalable, cloud computing application and platform services on a multi-tenant technology architecture.
-Our cloud services have received an extensive set of third-party data protection compliance certifications and attestations across geographical regions and industries, demonstrating our unwavering commitment to customer trust.
-Rapid deployment and lower total cost of ownership.
-The Salesforce Platform includes tools customers can leverage to build intelligent and connected enterprise apps.
-The Service Cloud enables companies to deliver smarter, faster and more personalized customer service and support.
-The Salesforce Platform also offers a full continuum of AI, no-code, low-code and code development and integration services, including Trailhead, Einstein AI, Lightning, IoT, Heroku, Analytics and the AppExchange.
-•IoT is a platform service that allows businesses to use IoT data at scale with tools to create rules-based automation to deliver proactive sales, service and marketing.
-The Salesforce Platform enables customers, ISVs and third-party developers to create and deliver cloud-based apps.
-We provide a set of application programming interfaces (“APIs”) that enable customers and independent software developers to both integrate our solutions with existing third-party, custom and legacy apps and write their own application services that integrate with our solutions.
-Ease of integration and configuration.
-We built and maintain a multi-tenant application architecture that has been designed to enable our services to scale securely, reliably and cost effectively considering, among other things, the Framework for Improving Critical Infrastructure Cybersecurity issued by the National Institute of Standards and Technology, which assembles standards, guidelines and practices.
-Positive environmental impact.
-Our multi-tenant cloud computing model has a much smaller environmental footprint than traditional Information Technology ("IT") hardware and software.
-To meet the needs of our customers in certain industries, we also provide solutions for Financial Services, Healthcare and Government.
-Intellectual Property
-We rely on a combination of trademarks, copyrights, trade secrets and patents, as well as contractual provisions, to protect our proprietary technology and our brands.
-Extending go-to-market capabilities.
-Expanding and strengthening the partner ecosystem.
-For example, many of our customers use our Salesforce Platform API to move customer-related data from custom-developed and packaged applications into our services on a periodic basis to provide greater visibility into their activities.
-We derive our revenues primarily from subscription and support fees for our services.
-We sell to businesses of all sizes and in almost every industry worldwide on a subscription basis, primarily through our direct sales efforts and also indirectly through partners.
-This evaluation resulted in our acquisition of several companies in the past few years.
-Our minority investments in over 200 companies as of January 31, 2018 also help us stay connected with the rapid pace of innovation that is currently occurring within the technology industry.
-The majority of our revenue from the Americas is attributable to customers in the United States.
-By providing infrastructure and development environments on demand, we provide developers the opportunity to create new and innovative apps without having to invest in hardware.
-Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met.
-None of our customers accounted for more than five percent of our revenues in fiscal 2018, 2017 or 2016.
-Our primary marketing activities include:
-•Multi-channel marketing campaigns that span email, social, web and more, which align to a broader customer journey;
-•Customer events of all sizes to create customer and prospect awareness, including proprietary events such as Dreamforce and World Tours, as well as participation in trade shows and industry events;
-•Press and industry analyst relations to garner third-party validation and generate positive coverage for our company, offerings and value proposition;
-•Content marketing and engagement on all of the major social channels;
-•Search engine marketing and advertising to drive traffic to our web properties;
-•Partner co-marketing activities with global and regional implementation partners;
-•Web site development to engage and educate prospects and generate interest through product information and demonstrations, case studies, white papers and marketing collateral;
-•Customer testimonials;
-•Cultivating a community of Trailblazers who embrace our Company values and evangelize our offerings;
-•Tools that enable our sales organization to more effectively convert leads into customers;
-•Event sponsorships; and
-•Primary real estate signage.
-ITEM 1A.RISK FACTORS
+We deliver our cloud-based software through the internet as a service. Our core mission is to empower our customers to connect with their customers in entirely new ways through cloud, mobile, social, Internet of Things (“IoT”) and artificial intelligence (“AI”) technologies. 
+
+Our service offerings are designed to be intuitive and easy to use. We sell to businesses of all sizes and in almost every industry worldwide on a subscription basis, primarily through our direct sales efforts and also indirectly through partners. 
+
+We deliver a comprehensive portfolio of service offerings including sales force automation, customer service and support, marketing automation, digital commerce, community management, collaboration, industry-specific solutions and the Salesforce Platform, also referred to as the Customer Success Platform, which includes Trailhead, Einstein AI, Lightning, IoT, Heroku, Analytics and the AppExchange. 
+
+At Salesforce, we believe nothing is more important than the trust of our customers. Salesforce operates with a set of core values: trust, growth, innovation and equality. 
+
+Salesforce also believes in giving back. We pioneered, and have inspired other companies to adopt, an integrated philanthropy model called the 1-1-1 model, which leverages 1% of a company's equity, employee time and product to help improve communities around the world. 
+
+Our principal website address is www.salesforce.com and our office address is The Landmark @ One Market, Suite 300, San Francisco, California 94105. 
+
+Our cloud service offerings are as follows: 
+
+The Sales Cloud empowers sales teams to sell faster, smarter and the way they want. 
+
+In addition, Service Cloud also offers a field service solution that enables companies to connect agents, dispatchers and mobile employees through one centralized platform, on which they can schedule and dispatch work intelligently, and track and manage jobs in real-time. 
+
+With the Marketing Cloud, customer data can also be integrated with the Sales Cloud and Service Cloud in the form of leads, contacts and customer service cases to give companies a complete view of their customers. 
+
+With embedded AI that delivers a personalized shopping experience, and a robust partner ecosystem, Commerce Cloud helps companies drive increased engagement, conversion, revenue and loyalty from their customers. 
+
+The Community Cloud enables companies to quickly create and manage trusted, branded digital destinations for customers, partners and employees. 
+
+The Quip collaboration platform combines documents, spreadsheets, apps, and chat with live CRM data to deliver a central hub for teams to create, collaborate and get work done. 
+
+For example, Health Cloud is a patient and member relationship platform that harnesses our cloud, social and mobile technologies to deliver more personalized engagement by providing a complete view of the patient, intelligent care collaboration and a connected patient engagement experience. Government Cloud provides departments and agencies with a group of connected cloud services and solutions enabling any agency to build modern, connected app experiences that empower them to work faster, smarter and the way they want. 
+
+The Salesforce Platform includes tools customers can leverage to build intelligent and connected enterprise apps. 
+
+•Trailhead is our free, gamified, interactive online learning platform, where anyone can become a Trailblazer by learning in-demand skills, including administering our services and developing on the Salesforce Platform. 
+
+•Salesforce Lightning is a component-based experience, platform and ecosystem that allows customers to create apps fast with clicks, not code. 
+
+•IoT is a platform service that allows businesses to use IoT data at scale with tools to create rules-based automation to deliver proactive sales, service and marketing. 
+
+•Heroku is an app development Platform-as-a-Service for building mobile and web customer apps. 
+
+•Analytics delivers complete, intelligent analytics so customers can explore their business data, uncover new insights, make smarter decisions and take action from any device. 
+
+•AppExchange is an enterprise cloud marketplace that allows customers to extend the Salesforce Platform to every department and every industry with more than 5,000 solutions, 5,000,000 customer installs and 70,000 peer reviews. 
+
+We offer professional services to help customers achieve business results faster with Salesforce solutions. In addition, we provide more advanced education, including instructor-led and online courses to certify our customers and partners on architecting, administering, deploying and developing our service offerings. 
+
+Business Benefits of Using Our Solution 
+
+The key advantages of our solution include, but are not limited to the following: 
+
+We have built, and continue to invest in, a comprehensive security infrastructure, including firewalls, intrusion detection systems and encryption for transmission over the Internet, which we monitor, test and update on an ongoing basis. Our cloud services have received an extensive set of third-party data protection compliance certifications and attestations across geographical regions and industries, demonstrating our unwavering commitment to customer trust. 
+
+Customers benefit from the predictability of their future costs since they generally pay for the service on a per subscriber basis for the term of the subscription contract. Our services can be deployed rapidly since our customers do not have to spend time procuring, installing or maintaining the servers, storage, networking equipment, security products or other hardware and software. 
+
+Our customers and partners are able to integrate and configure our solutions with existing applications quickly and seamlessly. We provide a set of application programming interfaces (“APIs”) that enable customers and independent software developers to both integrate our solutions with existing third-party, custom and legacy apps and write their own application services that integrate with our solutions. 
+
+As a result, our users can often use and gain benefit from our solutions with minimal training. 
+
+We provide the capability for business users to configure our applications to suit their specific needs and also support a variety of programming languages so developers can code complex apps spanning 
+
+By providing infrastructure and development environments on demand, we provide developers the opportunity to create new and innovative apps without having to invest in hardware. 
+
+Our metadata-driven, multi-tenant cloud enables every customer to run their business on the latest release without disruption. We readily embrace the ideas and opinions of our Trailblazer community, comprised of customers, innovators, technology disruptors and global shapers, through our Ideas Exchange, which is a forum to provide feedback and suggest new features for future service releases. 
+
+Our multi-tenant cloud computing model has a much smaller environmental footprint than traditional Information Technology ("IT") hardware and software. 
+
+We invest for future growth by focusing on the following key priorities: 
+
+We see significant opportunity to deepen our relationships with our existing customers. 
+
+We intend to continue to extend all editions of our service offerings with new features, functions and increased security through our own development, acquisitions and partnerships. 
+
+Our goal is to have all of our customers renew their subscriptions prior to the end of their contractual terms. 
+
+Expanding and strengthening the partner ecosystem. 
+
+We continue to increase our investment in our international go-to-market resources, operations and infrastructure to deliver the highest quality service to our customers around the world. 
+
+To meet the needs of our customers in certain industries, we also provide solutions specifically built for certain vertical industries, such as financial services, healthcare and public sector. 
+
+As part of our growth strategy, which is driven both organically and through acquisitions, we are delivering innovative solutions in new categories, including analytics, commerce and IoT. 
+
+We will continue to pursue businesses of all sizes in top industries and major regions globally, primarily through our direct sales force. 
+
+We believe that we have the people, processes and proven innovation to help companies transform successfully. 
+
+We believe our ecosystem of developers and software vendors will address the business requirements of both current and future customers. The Salesforce Platform enables customers, ISVs and third-party developers to create and deliver cloud-based apps. 
+
+In addition to the key elements of our business strategy described above, from time to time, we evaluate opportunities to acquire or invest in complementary businesses, services, technologies and intellectual property rights. 
+
+We deliver our Salesforce solutions as highly scalable, cloud computing application and platform services on a multi-tenant technology architecture. 
+
+In combination with these third-party data center facilities, we also provide our services via cloud computing platform partners who offer Infrastructure as a Service, including servers, storage, databases and networking. The use of cloud computing platform partners provides us flexibility to service customers in new and emerging regions and those with in-country data privacy requirements, as well as to support acquired companies. 
+
+Our technology and product efforts are focused on improving and enhancing the features, functionality, performance, availability and security of our existing service offerings as well as developing new features, functionality and services. 
+
+For a more detailed discussion, see the “Revenue by Cloud Service Offering” discussion in Management’s Discussion and Analysis. 
+
+We also derive revenues from related professional services via the Success Cloud. 
+
+We recognize subscription and support revenue ratably over the contract term, beginning on the commencement date of each contract. 
+
+Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met. We generally invoice customers in annual installments. 
+
+Deferred revenue and unbilled deferred revenue are influenced by several factors, including new business seasonality within the year, the specific timing, size and duration of large customer subscription agreements, the timing and compounding effects of customer renewals, varying billing cycles of subscription agreements, invoice timing, foreign currency fluctuations and new business linearity. 
+
+The number of paying subscriptions at each of our customers ranges from one to hundreds of thousands. 
+
+We also offer premier customer support that is either included in a premium offering or sold for an additional fee, which can include services such as priority access to technical resources, developer support, and system administration. In addition, we offer a mission critical support add-on that is 
+
+designed to provide customers with responses for incidents from a dedicated team knowledgeable about the customer's specific enterprise architecture, and which offers instruction to optimize their usage of our products. 
+
+Both our telephone sales and field sales personnel are supported by sales representatives, who are primarily responsible for generating qualified sales leads. 
+
+This network includes global consulting firms, systems integrators and other partners. We have a network of partners who refer sales leads to us and who then assist in selling to these prospects. 
+
+We focus our marketing activities on the cities and countries with the largest market opportunity. 
+
+•Multi-channel marketing campaigns that span email, social, web and more, which align to a broader customer journey; 
+
+•Customer events of all sizes to create customer and prospect awareness, including proprietary events such as Dreamforce and World Tours, as well as participation in trade shows and industry events; 
+
+•Press and industry analyst relations to garner third-party validation and generate positive coverage for our company, offerings and value proposition; 
+
+•Content marketing and engagement on all of the major social channels; 
+
+•Search engine marketing and advertising to drive traffic to our web properties; 
+
+•Partner co-marketing activities with global and regional implementation partners; 
+
+•Web site development to engage and educate prospects and generate interest through product information and demonstrations, case studies, white papers and marketing collateral; 
+
+•Cultivating a community of Trailblazers who embrace our Company values and evangelize our offerings; 
+
+•Tools that enable our sales organization to more effectively convert leads into customers; 
+
+The majority of our revenue from the Americas is attributable to customers in the United States. 
+
+The market for our service offerings is highly competitive, rapidly evolving and fragmented, and subject to changing technology, shifting customer needs and frequent introductions of new products and services. 
+
+•Vendors of packaged business software, as well as companies offering enterprise apps delivered through on-premises offerings from enterprise software application vendors and cloud computing application service providers, either individually or with others; 
+
+•Software companies that provide their product or service free of charge, and only charge a premium for advanced features and functionality; 
+
+•Internally developed enterprise applications (by our potential customers’ IT departments); 
+
+•Marketing vendors, which may be specialized in advertising, targeting, messaging, or campaign automation; 
+
+•E-commerce solutions from emerging cloud-only vendors and established on-premises vendors; 
+
+•Traditional platform development environment companies and cloud computing development platform companies who may develop toolsets and products that allow customers to build new apps that run on the customers’ current infrastructure or as hosted services; 
+
+•IoT platforms from large companies that have existing relationships with hardware and software companies; and 
+
+•AI solutions from new startups and established companies. 
+
+We believe that as traditional enterprise software application and platform vendors shift more of their focus to cloud computing, they may become a greater competitive threat. 
+
+Since 2009, we have been investing in early- to late-stage technology and professional cloud service companies across the globe to support our key business initiatives, which include, among other things, extending the capabilities of our platform and service offerings, increasing the ecosystem of enterprise cloud companies and partners, accelerating the adoption of cloud technologies and creating the next-generation of mobile applications and connected products. Due to the inherent risk in investing, our individual investments are subject to a risk of partial or total loss of investment capital. 
+
+We rely on a combination of trademarks, copyrights, trade secrets and patents, as well as contractual provisions, to protect our proprietary technology and our brands. We also purchase or license technology that we incorporate into our products or services. We believe the duration of our patents is adequate relative to the expected lives of our service offerings. 
+
+As of January 31, 2018, we had more than 29,000 employees. 
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and other filings with the SEC, and all amendments to these filings, can be obtained free of charge from our website at http://investor.salesforce.com/about-us/investor/financials/ or by contacting our Investor Relations department at our office address listed above as soon as reasonably practicable following our filing of any of these reports with the SEC. The SEC maintains an Internet site that contains reports, proxy and information statements and other information regarding issuers that file electronically with the SEC at www.sec.gov. The contents of these websites are not incorporated into this filing. 

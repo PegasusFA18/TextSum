@@ -13,7 +13,7 @@ def filter_sentence(sentence):
     for phrase in undesired_phrases:
         if phrase in sentence:
             return False
-    if len(sentence.split(' ')) > 4:
+    if len(sentence.split(' ')) > 5:
         return True
     return False
 
@@ -23,18 +23,19 @@ def clean_sentence(sentence):
         ret = ret.replace(char, '')
     return ret
 
-def sentencify_report(report):
+def clean_report(report):
     paragraphs = report.split('\n')
-    sentences = []
+    clean_paragraphs = []
     for paragraph in paragraphs:
         paragraph_sentences = sent_tokenize(paragraph)
         filtered_sentences = [clean_sentence(sentence) for sentence in paragraph_sentences if filter_sentence(sentence)]
-        sentences.extend(filtered_sentences)
-    return sentences
+        if len(filtered_sentences) > 0:
+            clean_paragraphs.append(' '.join(filtered_sentences))
+    return clean_paragraphs
 
 def clean_data(reports):
-    sentencified_reports = [sentencify_report(report) for report in reports]
-    return ['\n'.join(sentences) for sentences in sentencified_reports]
+    paragraph_reports = [clean_report(report) for report in reports]
+    return ['\n\n'.join(paragraphs) for paragraphs in paragraph_reports]
 
 def load_raw_reports(raw_dir):
     reports = []

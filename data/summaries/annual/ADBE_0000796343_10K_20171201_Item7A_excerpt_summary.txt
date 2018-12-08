@@ -1,9 +1,47 @@
-When the forecasted transaction occurs, we reclassify the related gain or loss on the cash flow hedge to revenue.
-We also have long-term investment exposures consisting of the capitalization and retained earnings in our non-U.S. Dollar functional currency foreign subsidiaries.
-We hedge these exposures to reduce the risk that our earnings and cash flows will be adversely affected by changes in exchange rates.
-ITEM 7A.
-As of December 1, 2017 and December 2, 2016, this long-term investment exposure totaled an absolute notional equivalent of $190.5 million and $70.2 million, respectively.
-We do not use foreign exchange contracts for speculative trading purposes, nor do we hedge our foreign currency exposure in a manner that entirely offsets the effects of changes in foreign exchange rates.
-The following table separates these investments, based on stated maturities, to show the approximate exposure to interest rates (in millions):
-A sensitivity analysis was performed on our investment portfolio as of December 1, 2017.
-FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+All market risk sensitive instruments were entered into for non-trading purposes. 
+
+Foreign Currency Exposures and Hedging Instruments 
+
+Dollars and various other currencies, which subject us to exposure from movements in exchange rates. We may use foreign exchange purchased options or forward contracts to hedge our foreign currency revenue. 
+
+Our significant foreign currency revenue exposures for fiscal 2017, 2016 and 2015 were as follows (in millions, except Japanese Yen): 
+
+As of December 1, 2017, all contracts were set to expire at various dates through June 2018. The bank counterparties in these contracts could expose us to credit-related losses that would be largely mitigated with collateral security agreements that provide for collateral to be received or posted when the net fair value of these contracts fluctuates from contractually established thresholds. 
+
+A sensitivity analysis was performed on all of our foreign exchange derivatives as of December 1, 2017. A 10% increase in the value of the U.S. Dollar and a corresponding decrease in the value of the hedged foreign currency asset would lead to an increase in the fair value of our financial hedging instruments by $79.7 million. 
+
+For example, in many countries, revenue in the local currencies substantially offsets the local currency denominated operating expenses. 
+
+At this time, we do not hedge these long-term investment exposures. 
+
+We regularly review our hedging program and assess the need to utilize financial instruments to hedge currency exposures on an ongoing basis. 
+
+Cash Flow Hedging—Hedges of Forecasted Foreign Currency Revenue 
+
+We hedge these cash flow exposures to reduce the risk that our earnings and cash flows will be adversely affected by changes in exchange rates. We may use foreign exchange purchased options or forward contracts to hedge foreign currency revenue denominated in Euros, British Pounds and Japanese Yen. 
+
+We record changes in the intrinsic value of these cash flow hedges in accumulated other comprehensive income (loss) until the forecasted transaction occurs. In the event the underlying forecasted transaction does not occur, or it becomes probable that it will not occur, we reclassify the gain or loss on the related cash flow hedge from accumulated other comprehensive income (loss) to interest and other income, net on our Consolidated Statements of Income at that time. 
+
+Balance Sheet Hedging—Hedging of Foreign Currency Assets and Liabilities 
+
+We hedge exposures related to our net recognized foreign currency assets and liabilities with foreign exchange forward contracts to reduce the risk that our earnings and cash flows will be adversely affected by changes in foreign currency exchange rates. 
+
+gains and losses on these contracts are intended to offset gains and losses on the assets and liabilities being hedged. 
+
+See Note 5 of our Notes to Consolidated Financial Statements for information regarding our hedging activities. 
+
+Short-Term Investments and Fixed Income Securities 
+
+At December 1, 2017, we had debt securities classified as short-term investments of $3.51 billion. 
+
+The analysis is based on an estimate of the hypothetical changes in market value of the portfolio that would result from an immediate parallel shift in the yield curve of various magnitudes. 
+
+The analysis is shown as of December 1, 2017 and December 2, 2016 (dollars in millions): 
+
+As of December 1, 2017, the amount outstanding under our senior notes was $1.9 billion. An immediate hypothetical 50 basis points increase or decrease in market interest rates would not have a significant impact on our results of operations. 
+
+As of December 1, 2017, the total carrying amount of the Notes was $1.88 billion and the related fair value based on observable market prices in less active markets was $1.98 billion. 
+
+The privately held companies in which we invest can still be considered in the start-up or development stages which are inherently risky. The evaluation of privately held companies is based on information that we request from these companies, which is not subject to the same disclosure regulations as U.S. publicly traded companies, and as such, the basis for these evaluations is subject to the timing and accuracy of the data received from these companies. 

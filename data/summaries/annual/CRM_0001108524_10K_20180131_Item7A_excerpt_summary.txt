@@ -1,20 +1,53 @@
-Our European revenue, operating expenses and significant balance sheet accounts denominated in currencies other than the USD primarily flow through our United Kingdom subsidiary, which has a functional currency of the British Pound.
-ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
-Foreign Currency Exchange Risk
-We primarily conduct our business in the following locations: the United States, Europe, Canada, Asia Pacific and Japan.
-We pursue our objective by utilizing foreign currency forward contracts to offset foreign exchange risk.
-This estimate is based on a sensitivity model that measures market
-53
-value changes when changes in interest rates occur.
-The fixed-income portfolio was also subject to interest rate risk.
-Changes in interest rates of 100-basis points would have resulted in market value changes of $13.0 million.
-We entered into the Term Loan for purposes of partially funding the acquisition of Demandware.
-This results in a two-step currency exchange process wherein the currencies in Europe other than the British Pound are first converted into the British Pound and then British Pounds are translated into USD for our Consolidated Financial Statements.
-Concurrent with the issuance of the Notes, we entered into separate note hedging transactions and the sale of warrants.
-In July 2016, we entered into a $500.0 million term loan (“Term Loan”) which matures in July 2019 and bears interest at our option, at either a base rate plus a spread of 0.00% to 0.75% or an adjusted LIBOR rate plus a spread of 1.00% to 1.75%, in each case with such spread being determined based on the Company’s consolidated leverage ratio for the preceding four fiscal quarter period.
-When our ownership interests are less than 20 percent and we do not have the ability to exert significant influence, we account for investments in non-marketable debt at their estimated fair value and equity securities of the privately held companies using the cost method of accounting.
-The estimated fair value of our investments in privately held companies was $912.0 million and $758.3 million as of January 31, 2018 and January 31, 2017, respectively.
-All of our investments are subject to a risk of partial or total loss of investment capital.
-In addition, the fair value of our Notes is affected by our stock price.
-55
-ITEM 8.CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We primarily conduct our business in the following locations: the United States, Europe, Canada, Asia Pacific and Japan. Specifically, our results of operations and cash flows are subject to fluctuations in the following currencies: the Euro, British Pound Sterling, Canadian Dollar, Australian Dollar and Japanese Yen against the United States Dollar (“USD”). The expanding global scope of our business exposes us to risk of fluctuations in foreign currency markets. 
+
+Our European revenue, operating expenses and significant balance sheet accounts denominated in currencies other than the USD primarily flow through our United Kingdom subsidiary, which has a functional currency of the British Pound. As an example, costs incurred in France are translated from the Euro to the British Pound and then into the USD. 
+
+Our foreign currency management objective is to minimize the effect of fluctuations in foreign exchange rates on selected assets or liabilities without exposing us to additional risk associated with transactions that could be regarded as speculative. 
+
+Our foreign currency forward contracts are generally short-term in duration. We neither use these foreign currency forward contracts for trading purposes nor do we currently designate these forward contracts as hedging instruments pursuant to Accounting Standards Codification 815 (“ASC 815”), Derivatives and Hedging. Accordingly, we record the fair values of these contracts as of the end of our reporting period to our consolidated balance sheets with changes in fair values recorded to our consolidated statements of operations. 
+
+Fluctuations in foreign currencies impact the amount of total assets, liabilities, revenues, operating expenses and cash flows that we report for our foreign subsidiaries upon the translation of these amounts into USD. 
+
+The cash, cash equivalents and marketable securities are held for general corporate purposes including possible acquisitions of, or investments in, complementary businesses, services or technologies, working capital and capital expenditures. Our investments are made for capital preservation purposes. 
+
+Our fixed-income portfolio is subject to interest rate risk. Due in part to these factors, our future investment income may fall short of expectation due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. 
+
+This estimate is based on a sensitivity model that measures market 
+
+Fluctuations in the value of our investment securities caused by a change in interest rates (gains or losses on the carrying value) are recorded in other comprehensive income, and are realized only if we sell the underlying securities. 
+
+Changes in interest rates of 100-basis points would have resulted in market value changes of $13.0 million. 
+
+Market Risk and Market Interest Risk 
+
+We deposit our cash with multiple financial institutions. 
+
+In March 2013, we issued at par value $1.15 billion of 0.25% convertible senior notes (“Notes”) due in April 2018. These separate transactions were completed to reduce the potential economic dilution from the conversion of the Notes. Upon conversion, we would pay the holder an amount of cash equal to the principal amounts of the Notes. 
+
+The Notes have a fixed annual interest rate of 0.25% and therefore, we do not have economic interest rate exposure on the Notes. In addition, the fair value of our Notes is affected by our stock price. The total estimated fair value of our Notes at January 31, 2018 was $1.8 billion. 
+
+In July 2016, we amended our credit agreement (“Revolving Loan Credit Agreement”) to provide for a $1.0 billion unsecured revolving credit facility (“Credit Facility”) that matures in July 2021. 
+
+Regardless of what amounts, if any, are outstanding under the revolving credit facility, we are also obligated to pay an ongoing commitment fee on undrawn amounts at a rate of 0.125% to 0.25%, with such rate being based on our consolidated leverage ratio for the preceding four fiscal quarter period, payable in arrears quarterly. 
+
+In February 2015, we assumed a $200.0 million loan with the acquisition of 50 Fremont (“Loan”). The Loan can be prepaid at any time subject to a yield maintenance fee. For the remainder of fiscal 2018, the Loan requires interest only payments. 
+
+Interest is due and payable in arrears quarterly for loans bearing interest at a rate based on the base rate and at the end of an interest period in the case of loans bearing interest at the adjusted LIBOR rate. 
+
+By entering into the Term Loan, we have assumed risks associated with variable interest rates based upon a variable base rate or LIBOR. 
+
+The bank counterparties to our derivative contracts potentially expose us to credit-related losses in the event of their nonperformance. To mitigate that risk, we only contract with counterparties who meet the minimum requirements under our counterparty risk assessment process. However, we do not have any master netting arrangements in place with collateral features. 
+
+As of January 31, 2018, our portfolio consists of investments in over 200 privately held companies and two public companies, primarily comprised of independent software vendors and system integrators. 
+
+We invest in both domestic and international companies and currently hold investments in all of our regions: the Americas, Europe, and Asia Pacific. 
+
+The primary purpose of our investments is to create an ecosystem of enterprise cloud companies, accelerate the growth of technology startups and system integrators and create the next generation of mobile applications and connected products. Currently, one of our publicly held investments is subject to such a contractual obligation, which expires in the first quarter of fiscal 2019. 
+
+When our ownership interests are less than 20 percent and we do not have the ability to exert significant influence, we account for investments in non-marketable debt at their estimated fair value and equity securities of the privately held companies using the cost method of accounting. 
+
+As of January 31, 2018 and January 31, 2017, the carrying value of our investments in privately held companies was $652.8 million and $526.0 million, respectively. The financial success of our investment in any company is typically dependent on a liquidity event, such as a public offering, acquisition or other favorable market event reflecting appreciation to the cost of our initial investment. We have in the past recorded other than temporary impairments or written off the full value of specific investments. 
+
+ITEM 8.CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
